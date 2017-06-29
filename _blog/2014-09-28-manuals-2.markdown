@@ -1,0 +1,10 @@
+---
+title: Manuals 2
+date: 2014-09-28 14:13:00 Z
+assets:
+- path: "/uploads/M2_Cover_MOCKUP_BANNER_page header_optimised2.jpg"
+---
+
+Manuals 2, a new book by Unit Editions is available for pre-order now which includes an interview with Rationale's Sean Wolcott. See more [here](http://www.uniteditions.com/shop/manuals-2).
+
+![M2_Cover_MOCKUP_BANNER_page header_optimised2](/uploads/M2_Cover_MOCKUP_BANNER_page header_optimised2.jpg)

@@ -1,0 +1,35 @@
+---
+title: Rationale v2
+timezone: UTC
+collections:
+  blog:
+    title: Blog
+    output: true
+  our-work:
+    title: Our work
+    output: true
+  posts:
+    title: Posts
+    output: true
+  resources:
+    title: Resources
+    output: true
+  store:
+    title: Store
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
