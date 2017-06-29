@@ -1,9 +1,0 @@
----
-title: This land
-date: 2016-11-11 07:33:00 Z
-assets:
-- path: "/uploads/thisland.jpg"
-  name: thisland
----
-
-![thisland](/uploads/thisland.jpg) 
