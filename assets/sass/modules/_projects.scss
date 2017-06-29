@@ -1,0 +1,71 @@
+.project-detail {
+  margin-bottom: 31px;
+  
+  @include breakpoint($med) {
+    margin-bottom: 41px;
+  }
+
+  img {
+    margin-bottom: 1px;
+  }
+}
+
+.project-detail .project-info {
+  border-top: 1px solid $black;
+  padding-top: 4px;
+  @extend %clearfix;
+}
+
+// project detail
+
+.project-detail .content {
+  @include breakpoint($med) {
+    @include col-two-thirds(false);
+  }
+}
+
+.project-title {
+  margin-bottom: 13px;
+  @include breakpoint($med) {
+    margin-bottom: 0;
+    @include col-third(false);
+  }
+}
+
+.project-description {
+  margin-bottom: 49px;
+  
+  @include breakpoint($med) {
+    @include col-two-thirds(false);
+    margin-bottom: 55px;
+  }
+  
+}
+
+.project-images {
+  clear: both;
+  .lazy {min-height: 150px;}
+  .lazy:last-child img{
+    margin-bottom: 0;
+  }
+}
+
+.more {
+  svg {
+    width: 100%;
+    height: 43px;
+    display: block;
+    margin-bottom: 1px;
+
+    @include breakpoint($large) {
+      height: 51px;
+    }
+  }
+
+  .thumbnail:last-child {
+    display: none;
+    @include breakpoint($med) {display: block;}
+  }
+}
+
+

@@ -1,0 +1,66 @@
+// $fix should some of this be in about?
+
+.js-more { // button
+  @include breakpoint(0 $small) { display: block;} // only show in mobile
+  @include transition(1s);
+  @include opacity(1);
+
+  .about & {margin-bottom: 41px;}
+}
+
+.more-text { // text on about page
+  position: relative;
+  max-height: 0px;
+  overflow: hidden;
+  @include single-transition(max-height, 1s, ease-in-out);
+
+  &:after {
+    @include pseudo;
+    bottom: -20px;
+    height: 20px;
+    width: 100%;
+    @include background-image(linear-gradient(bottom, #FFF, rgba(#FFF, 0)));
+    z-index: 1;
+
+    @include breakpoint($med) {
+      display: none;
+    }
+  }
+
+  p:first-child { // removes excerpt paragraph // hacky
+    display: none; 
+  }
+
+  p:last-child { // removes margin on last paragraph
+    margin-bottom: 0;
+  }
+
+  .about &,
+  .project-detail & {
+    @include breakpoint($small) { // removes max height above mobile
+      margin-bottom: 0;
+      max-height: 1000px;
+    }
+  }
+
+  .about & {margin-bottom: 16px;}
+}
+
+.expanded .more-text {
+  .about &,
+  .project-detail & {
+    max-height: 500px; // matches height of content on about mobile
+  }
+}
+
+.fade {
+  @include opacity(0);
+  font-size: 0;
+  margin-bottom: 0 !important;
+}
+
+.animation {
+  // -webkit-transform: translate3d(0,0,0);
+  -webkit-perspective: 1000;
+  -webkit-backface-visibility: hidden;
+}

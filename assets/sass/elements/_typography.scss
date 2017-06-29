@@ -1,0 +1,32 @@
+%font-1-bold {
+  font-family: $font-1-bold;
+}
+
+.bold,
+%bold { // $fix turn into bold style
+  @extend %font-1-bold;
+  font-size: $h4;
+  line-height: 20px;
+
+
+  @include breakpoint($large) {
+    font-size: 24px;
+    line-height: 24px;
+  }
+}
+
+// .title--small {
+//   font-size: $h5;
+//   @extend %title;
+// }
+
+.sub-title {
+}
+
+.title-main { // aproach title
+  margin-bottom: 4px;
+
+  @include breakpoint($large) {
+    margin-bottom: 20px;
+  }
+}

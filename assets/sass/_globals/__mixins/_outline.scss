@@ -1,0 +1,5 @@
+@mixin o($color: black) {
+  .outline & {
+    outline: 1px solid $color;
+  } 
+}

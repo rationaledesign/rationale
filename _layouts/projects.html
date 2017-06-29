@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+our-work page
+<section class="layer blog">
+  {% if type == 'post' %}
+    {% assign post = current %}
+    {% include post.html %}
+  {% else %}
+    {% for post in posts %}
+      {% include post.html %}
+    {% endfor %}
+  {% endif %}
+</section>
+

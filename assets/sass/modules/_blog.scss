@@ -1,0 +1,112 @@
+.blog article {
+  @extend %row;
+  @extend %border-top;
+  padding-top: 3px;
+  padding-bottom: 60px;
+}
+
+.blog .section {
+  border-top: 1px solid $black;
+}
+
+.post-title {
+  margin-bottom: 30px;
+  margin-top: 1px;
+
+  @include breakpoint($med) {
+    margin-bottom: 0;
+    @include col-third(false);
+  }
+
+  .blog-archive & {
+    margin-bottom: 16px;
+  }
+}
+
+.post-body {
+  padding-right: 12px;
+
+  @include breakpoint($med) {
+    padding-right: 0;
+    @include col-two-thirds(false);
+  }
+  @include breakpoint($large) {
+    @include col-half(false);
+  }
+}
+
+.blog article ul {
+  list-style: disc inside;
+  margin-bottom: 12px;
+}
+
+.prev {
+  color: $black;
+}
+
+// archive
+
+.blog-archive {
+  .content {
+    padding-top: 4px;
+    border-top: 1px solid $black;
+  }
+  article {
+    padding-bottom: 0;
+    border: none;
+
+    @include breakpoint($small) {
+      margin-bottom: 12px;
+    }
+
+    &:before {
+      display: none;
+    }
+
+    // a {display: block;} // makes link full article size
+  }
+
+  .title-main { // main "previous" title
+    display: block;
+    margin-bottom: 18px;
+  }
+
+  .post-title {
+    color: $black;
+
+    @include breakpoint($small) {
+      margin-top: -3px; // aligns with thumbnail image
+    }
+
+    @include breakpoint($med) {
+      width: auto; // overwrites standard blog post-title
+    }
+  }
+
+  // large view layout
+
+  .col-left { // main title
+    @include breakpoint($large) {
+      @include col-third(false);
+    }
+  }
+
+  .col-right { // articles
+    @include breakpoint($large) {
+      @include col-two-thirds(false);
+    }
+  }
+}
+
+.blog-thumbnail {
+  width: 140px;
+  height: 130px;
+  margin-bottom: 6px;
+  @include background-size(cover);
+
+  @include breakpoint($small) {
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 0;
+  }
+}

@@ -1,0 +1,83 @@
+.logo {
+  @include o(red);
+  float: left;
+  margin-bottom:  $half-spacing-unit;
+
+  @include col-half;
+
+  @include breakpoint($med) {
+    @include col-third(false);
+  }
+
+  a {
+    display: block;
+    min-width: 150px;
+    width: 100%;
+    max-width: 193px;
+
+    @include breakpoint($small) {
+      width: 201px;
+      max-width: none;
+    }
+
+    @include breakpoint($large) {
+      width: 236px;
+      max-width: none;
+    }
+  }
+
+  svg { // logo svg
+    width: 100%;
+  }
+}
+
+.nav--header {
+  @include o(green);
+  @include col-half;
+  float:right;
+  padding: 0; // for nested elements
+  margin-top: -3px;
+  @include breakpoint($med) {
+    @include col-two-thirds(false);
+    float:right;
+    padding: 0; // for nested elements
+  }
+
+  @include breakpoint($med) {
+    padding: 0; // for nested elements
+  }
+
+  // main nav split in two ul
+
+  ul {
+    @include breakpoint($small) {
+      @include col-half(false);
+      padding: 0;
+    }
+  }
+  
+  li {
+    width: 100%;
+    float: left;
+
+    &:last-child {
+      // margin-bottom: 34px;
+    }
+
+    @include breakpoint($med) {
+      @include col-half(false);
+    }
+    
+    // @include breakpoint($med) {
+    //   @include col-fourth(false);
+    // }
+
+  }
+
+  a { // this is attached to product detail
+    display: block;
+    @extend %bold;
+    padding-bottom: 6px;
+    padding-top: 1px;
+  }
+}

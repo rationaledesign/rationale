@@ -1,0 +1,20 @@
+.social {
+  padding-top: 4px;
+  padding-bottom: 34px;
+  // @extend %border-top;
+  border-top: 1px solid $black;
+}
+
+i {
+  font-size: 0;
+  padding-right: 9px;
+
+  &.icon-rss:before {
+    font-size: 29px;
+  }
+  &.icon-feedly:before {
+    font-size: 25px;
+    position: relative;
+    top: -3px;
+  }
+}

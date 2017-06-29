@@ -1,0 +1,15 @@
+<div class="product-gallery">
+  <div class="product-img">
+    {% capture img %}/assets/img/_source{{ url }}/{{title | handleize}}-s1{% endcapture %}
+      {% include img.html %}
+    {% comment %}<img id="img-1" src="img/shop/Calendar_2014_01b.jpeg">{% endcomment %}
+  </div>
+  {% unless post.meta.imgCount == 1 %}
+  <ul class="product-thumbnails">
+    {% for i in (1..{{post.meta.imgCount}}) %}
+      {% capture img %}/assets/img/_source{{ url }}/{{title | handleize}}-s{{i}}{% endcapture %}
+      {% include gallery-img.html %}
+    {% endfor %}
+  </ul>
+  {% endunless %}
+</div>

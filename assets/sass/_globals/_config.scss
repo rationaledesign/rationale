@@ -1,0 +1,39 @@
+
+// Breakpoint
+
+$small:    560px;
+$med:      948px;
+$large:   1681px;
+
+$gutter1: 1px; // change for different gutter size
+$gutter2: 1px; 
+// $gutter2: 1.2%; 
+
+$basefont:  18;
+$h1:        46;
+$h2:        24px;
+$h3:        20px;
+$h4:        18px;
+$h5:        16px;
+$h6:        14px;
+
+
+// line height
+$line: $basefont * 1.5;
+
+// spacing
+
+$base-spacing-unit: 24px;
+$half-spacing-unit: $base-spacing-unit / 2;
+$qtr-spacing-unit:  $base-spacing-unit / 4;
+
+
+// Colors
+
+$black: rgb(0,0,0);
+$red:      #F04E23;
+
+// Font
+
+$font-1: 'NeueHaasGroteskText W01', "helvetica", sans-serif;
+$font-1-bold: 'NHaasGroteskDSW01-75Bd', "helvetica", sans-serif;

@@ -1,0 +1,15 @@
+{% include filter.html %}
+<div class="container">
+  <ul class="thumbnails">
+    {% for project in posts %}
+      <li class='thumbnail'>
+        <a href='{{ project.url }}'>
+          {% capture img %}/assets/img{{ project.url }}/thumb/{{project.title | handleize}}-s1{% endcapture %}
+          {% include img.html %}
+          <h4 class="bold">{{ project.title }}</h4>
+          <h5 class="sub-title">{{ project.parent.title }}</h5>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

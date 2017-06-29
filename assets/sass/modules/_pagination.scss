@@ -1,0 +1,24 @@
+.pagination {
+  font-family: $font-1-bold;
+  @extend %border-top;
+  padding-top: 4px;
+  padding-bottom: 34px;
+
+  &:before {
+    top: 0;
+  }
+
+  a {
+    @extend %bold;
+    @extend %col-half;
+
+    &.next {
+      text-align: right;
+    }
+  }
+}
+
+.next {
+  float: right !important;
+}
+

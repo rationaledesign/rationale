@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{site.title}} – {{title}}</title>
+  <meta name="description" content="{{site.meta['description']}}">
+  <meta name="keywords" content="{{site.meta['keywords']}}">
+  <link rel="canonical" href="http://www.rationale-design.com">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{site.title}} – {{title}}">
+  <meta property="og:description" content="{{site.meta['description']}}">
+  <meta property="og:url" content="http://www.rationale-design.com">
+  <meta property="og:site_name" content="{{site.title}}">
+
+  <script> // detects whether the browser has svg
+      !function () {
+          function supportsSVG() { return !!document.createElementNS && !! document.createElementNS('http://www.w3.org/2000/svg', 'svg').createSVGRect }
+          if (supportsSVG()) document.documentElement.className += ' svg'
+      }()
+  </script>
+
+
+
+  <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
+  <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+<!--   <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/ae8ca270-d923-4720-940b-951c7320b0b1.css"/> -->
+
+  <script type="text/javascript">
+    var projectsUrl   = [{% for project in site.pages.projects.pages %}{% for project in project.posts %}"{{ project.url }}",{% endfor %}{% endfor %}];
+    var projectsTitle  = [{% for project in site.pages.projects.pages %}{% for project in project.posts %}"{{ project.title }}",{% endfor %}{% endfor %}];
+    var projectsImg    = [{% for project in site.pages.projects.pages %}{% for project in project.posts %}"/assets/img{{ project.url }}/thumb/{{project.title | handleize}}",{% endfor %}{% endfor %}];
+    var projectsCat    = [{% for project in site.pages.projects.pages %}{% for project in project.posts %}"{{ project.parent.title }}",{% endfor %}{% endfor %}];
+  </script>
+
+</head>
+<body itemscope itemtype="http://schema.org/ProfessionalService">
+  <h1 itemprop="name" class="hide">Rationale Design</h1>
+  <p class="hide" itemprop="description">{{site.meta['description']}}</p>
+
+  <div class="{{parent.parent.title | handleize}} {{url | remove_first: '/' | replace: '/', '-'  }} {{title | handleize}}">
+
+    <div class="container">
+      {% include header.html %}
+    </div>
+
+    <section class="content">
+
+      {{ content }}
+
+    </section><!-- /content -->
+
+    <div class="container">
+      {% include footer.html %}
+    </div>
+    <!-- <div class="grid" data-development-grid="hide"></div> -->
+  </div><!-- /wrap -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="/js/script.js"></script>
+
+  <!-- more toggle -->
+
+  <script>
+    $(document).ready(function(){
+
+      $('.js-more').click(function(){
+        if($(".more-text").parent().hasClass('expanded')) {
+          $('.more-text').parent().removeClass("expanded");
+        } else {
+          $('.more-text').parent().addClass("expanded");
+          $('.js-more').addClass("fade");
+        }
+      });
+
+      $(function() {FastClick.attach(document.body);});
+
+      $(".filter-list h6").click(function(){
+        if ($('.filters').hasClass('open')) {
+          $(".filters").removeClass("open");
+          $(".filters").addClass("close");
+        } else {
+          $(".filters").addClass("open");
+          $(".filters").removeClass("close");
+        }
+      })
+    });
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-46123916-1', 'rationale-design.com');
+    ga('send', 'pageview');
+  </script>
+
+</body>
+</html>

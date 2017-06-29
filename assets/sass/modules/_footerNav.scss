@@ -1,0 +1,22 @@
+footer {
+  div {
+    @include breakpoint($small) {
+      @include col-half(false);
+    }
+    @include breakpoint($med) {
+      @include col-third(false);
+    }
+
+    &:first-child {
+      margin-bottom: 18px;
+    }
+  }
+
+  a {
+    display: block;
+
+    &.is-current-page {
+      color: $red;
+    }
+  }
+}

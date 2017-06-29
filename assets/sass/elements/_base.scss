@@ -1,0 +1,134 @@
+* {
+  @include box-sizing('border-box');
+}
+
+html {
+}
+
+body {
+  border-top: solid $black 18px; // black bar at top of page
+  font-family: 'NeueHaasGroteskText W01', 'helvetica', sans-serif;
+  -webkit-font-smoothing: antialiased !important;
+  // font-size: 62.5%; /* font-size 1em = 10px */
+  color: $black;
+  font-size:    $h4;
+  line-height:  22px;
+
+  @include breakpoint($large) {
+    font-size:    $h2;
+    line-height:  28px;
+  }
+}
+
+header,
+footer {
+  a {color: $black;}
+}
+
+header{
+  @include o(blue);
+  margin: $qtr-spacing-unit 0 $half-spacing-unit;
+  min-height: 112px;
+  font-family:'NHaasGroteskDSW01-75Bd', "helvetica", sans-serif;
+
+  @include breakpoint($med){
+    min-height: 126px;
+  }
+}
+
+footer {
+  font-family: 'NeueHaasGroteskText W01', 'helvetica', sans-serif;
+  @extend %border-top;
+  font-size: $h6;
+  line-height: 20px;
+  padding-top: 3px;
+  margin-bottom: 100px;
+
+  &:before { // fix for border being cutoff ??
+    top: 0;
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: $red;
+}
+
+button {
+  background: none;
+  outline: none;
+  border: none;
+  padding: 0;
+  font-family: $font-1;
+  font-size: $h4;
+  color: $red;
+
+  &:hover {
+    cursor: pointer;
+    cursor: hand;
+  }
+}
+
+img {width: 100%; display: block;}
+
+.container {
+  // min-height: 500px;
+  position: relative;
+  padding-left:  12px;
+  padding-right: 12px;
+  margin: 0 auto;
+
+  @include o(red);
+
+  @include breakpoint($small) {max-width: 768px;}
+  @include breakpoint($med)   {max-width: 1130px;}
+
+  @include breakpoint ($large) {
+    max-width: 2136px;
+    padding-left:  144px;
+    padding-right: 144px;
+  }
+}
+
+// test styles
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 24px;
+
+  a {color: $black;}
+}
+
+.post {
+  margin-bottom: 12px;
+}
+
+.heading {
+  margin-bottom: 24px;
+}
+
+p{
+  font-size: $h4;
+  line-height: 22px;
+  margin-bottom: 12px;
+
+  @include breakpoint($large) {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
+
+strong {
+  font-weight: bold;
+}
+
+
+

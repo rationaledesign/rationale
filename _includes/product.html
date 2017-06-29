@@ -1,0 +1,16 @@
+<article class="product border-top">
+  <div class="product-info">
+    <h2 class="bold">{{post.title}}</h2>
+    <h3>{{post.meta.author}}</h3>
+    <a href="{{post.url}}">Details</a>
+  </div>
+  <div class="cf"></div>
+  <div class="product-img">
+    <a href="{{post.url}}">
+    {% capture img %}/assets/img/_source{{ post.url }}/{{post.title | handleize}}-s1{% endcapture %}
+      {% include img.html %}
+    </a>
+  </div>
+
+  <div class="cf"></div>
+</article>

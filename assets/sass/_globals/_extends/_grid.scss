@@ -1,0 +1,128 @@
+@include grid-toggle;
+
+.grid {
+  min-height: 500px;
+  position: absolute;
+  left:  12px;
+  right: 12px;
+  margin: 0 auto;
+  pointer-events: none;
+
+  @include breakpoint($small) {max-width: 768px;}
+  @include breakpoint($med)   {max-width: 1130px;}
+
+  @include breakpoint ($large) {
+    max-width: 2184px;
+    left:  144px;
+    right: 144px;
+  }
+}
+
+// row
+
+%row, 
+.row { // required to start a grid
+  margin-right: -$gutter1;
+  overflow: hidden;
+  clear: both;
+
+  @include breakpoint($large) {
+    margin-right: -$gutter2;
+  }
+}
+
+// col setup
+
+@mixin col {
+  float: left;
+  padding-right: $gutter1; 
+  @include breakpoint($large) {
+    padding-right: $gutter2;
+  }
+}
+
+%col-sixth,
+%col-fourth,
+%col-third,
+%col-half,
+%col-two-thirds {
+  @include col;
+}
+
+// SIXTH
+
+@mixin col-sixth($extend: true) {
+  @if $extend {@extend %col-third;}
+  @else {
+    @include col;
+    width: 16.666667%;}
+}
+
+%col-sixth {@include col-sixth(false);}
+
+// FOURTH
+
+@mixin col-fourth($extend: true) {
+  @if $extend {@extend %col-fourth;}
+  @else {
+    @include col;
+    width: 25%;}
+}
+
+%col-fourth {@include col-fourth(false);}
+
+// THIRD
+
+@mixin col-third($extend: true) {
+  @if $extend {@extend %col-third;}
+  @else {
+    @include col;
+    width: 33.333333%;}
+}
+
+%col-third {@include col-third(false);}
+
+// HALF
+
+@mixin col-half($extend: true) {
+  @if $extend {@extend %col-half;}
+  @else {
+    @include col;
+    width: 50%;}
+}
+
+%col-half {@include col-half(false);}
+
+// TWO THIRDS
+
+@mixin col-two-thirds($extend: true) {
+  @if $extend {@extend %col-two-thirds;}
+  @else {
+    @include col;
+    width: 66.666666%;}
+}
+
+%col-two-thirds {@include col-two-thirds(false);}
+
+// THREE QUARTER
+
+@mixin col-three-qtr($extend: true) {
+  @if $extend {@extend %col-three-qtr;}
+  @else {
+    @include col;
+    width: 75%;}
+}
+
+%col-three-qtr {@include col-half(false);}
+
+// FIVE SIXTH
+
+@mixin col-five-sixth($extend: true) {
+  @if $extend {@extend %col-five-sixth;}
+  @else {
+    @include col;
+    width: 86.333335%;}
+}
+
+%col-five-sixth {@include col-two-thirds(false);}
+

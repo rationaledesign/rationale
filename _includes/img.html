@@ -1,0 +1,9 @@
+<span class="lazy {% if project.title %}thumb{% else %}detail{% endif %}" data-alt="{% if project.title %}{{project.title}} - {{project.parent.title}}{% else %}{{title}} - {{parent.title}}{% endif %} project image">
+  <span data-src="{{img}}-small.jpg"></span>
+  <span data-src="{{img}}-small@2x.jpg" data-media="(-webkit-min-device-pixel-ratio: 2.0)"></span>
+  <span data-src="{{img}}-@1x.jpg" data-media="(min-width: 1025px)"></span>
+  <span data-src="{{img}}-@2x.jpg" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
+  <noscript>
+      <img src="{{img}}-@1x.jpg" alt="{% if project.title %}{{project.title}} - {{project.parent.title}}{% else %}{{title}} - {{parent.title}}{% endif %} project image">
+  </noscript>
+</span>

@@ -1,0 +1,114 @@
+.product {
+  // padding-top: 12px;
+  margin-bottom: 41px;
+}
+
+.product-title {
+  padding-bottom: 19px;
+  margin-top: 3px;
+  margin-bottom: 12px;
+  border-bottom:  1px solid black;
+
+  h2 {
+    @include breakpoint($small) {
+      @include col-half(false);
+    }
+  }
+
+  .price {display: block;}
+
+  .product-action {
+    @include breakpoint($small) {
+      @include col-half(false);
+    }
+
+    a {
+      font-family: $font-1-bold;
+      margin-bottom: 40px;
+    }
+  }
+}
+
+.product-info {
+  margin-bottom: 16px;
+  margin-top: 3px;
+}
+
+.product-content {
+  margin-top: -4px; // to align to rule
+}
+
+// Gallery
+
+.product-gallery {
+  margin-bottom: 12px;
+  @include breakpoint($small) {
+    margin-bottom: 0px;
+    @include col-half(false);
+    padding-right: 12px;
+  }
+}
+
+.product-img {
+  margin-bottom: 12px;
+  @include breakpoint($small) {
+    @include col-half(false);
+  }
+  @include breakpoint($med) {
+    @include col-third(false);
+  }
+  @include breakpoint($large) {
+    @include col-sixth(false);
+    margin-bottom: 24px;
+  }
+
+  .product-gallery & { // override for the detail page
+    width: 100%;
+    padding: 0;
+
+    @include breakpoint($large) {
+      padding-right: 24px !important;
+    }
+  }
+}
+
+.product-thumbnails {
+
+  @include breakpoint($small) {
+    margin-right: -12px;
+  }
+  @extend %row;
+}
+
+.product-thumbnail {
+  @include col-third;
+  @include breakpoint($small) {
+    padding-right: 12px;
+  }
+
+  @include breakpoint($large) {
+    padding-right: 24px !important;
+  }
+
+  &:hover {
+    cursor: pointer;
+  }
+}
+
+.thumb-wrap {
+  position: relative;
+  overflow: hidden;
+  display: block;
+}
+
+.product-thumbnail .active:before { // sets border on active thumbnail
+  display: block;
+  position: absolute;
+  content: '';
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  border: 1px solid black;
+  z-index: 1;
+}

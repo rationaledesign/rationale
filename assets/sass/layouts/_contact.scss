@@ -1,0 +1,41 @@
+.contact {
+
+  .content {
+    height: 212px;
+
+    @include breakpoint($small) {
+      height: 388px;
+    }
+
+    section {
+      @extend %row;
+      @extend %border-top;
+      overflow: visible;
+    }
+  }
+  
+  .svg-wrap {
+    margin-left: -8px;
+    max-width: 362px;
+    
+    @include breakpoint($med) {
+      width: 561px;
+      max-width: 1000px;
+      margin-left: -13px;
+    }
+    @include breakpoint($large) {
+      width: 670px;
+    }
+
+    a {
+      display: block;
+    }
+  }
+
+  .contact-tel {
+    margin-top: -3px;
+    @include breakpoint($large) {
+      margin-top: -5px;
+    }
+  }
+}

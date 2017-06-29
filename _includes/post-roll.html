@@ -1,0 +1,26 @@
+<article>
+  <div class="post-title">
+    {% if type == 'post' %}
+      <h2 class="bold">{{post.title}}</h2>
+    {% else %}
+      <h2 class="bold"><a href="{{post.url}}" class="bold">{{post.title}}</a></h2>
+    {% endif %}
+    <span>
+    {% for tag in post.taxonomy.first.values %}
+      <h6 class="blog-tag"><a href="{{tag.url}}">{{tag.value}}</a></h6>
+    {% endfor %}
+      <time datetime="{{post.date | date: '%Y-%m-%d'}}">{{post.date | date: "%B %d, %Y" }}</time>  
+    </span>
+  </div>
+  <div class="post-body">
+    {{post.body}}
+  </div>
+<!--   <div class="post-body">
+    {{post.excerpt}}
+    <div class="more-text">
+      {{post.body}}
+    </div>
+    <button class="js-more">More</button>
+  </div> -->
+  <div class="cf"></div>
+</article>
