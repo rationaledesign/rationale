@@ -4,13 +4,8 @@ date: 2014-05-06 13:10:00 Z
 categories:
 - packaging
 position: 8
-<<<<<<< HEAD
 imgcount: 3
-layout: projects
-=======
-imgcount: '3'
 layout: project
->>>>>>> convert edits
 ---
 
 EP cover “0.5” designed for music group The Fascination Movement. Imagery serves as the basis for a design language that is applied to related singles, posters, and other promotional materials.
