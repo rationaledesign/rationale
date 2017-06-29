@@ -3,7 +3,7 @@ title: April Brimer Photography
 date: 2015-07-11 05:55:00 Z
 published: false
 position: 0
-imgcount:
+imgcount: 
 layout: project
 ---
 
