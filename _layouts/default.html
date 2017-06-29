@@ -25,15 +25,13 @@
 
   <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
   <link rel="stylesheet" type="text/css" href="/css/screen.css" />
-<!--   <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/ae8ca270-d923-4720-940b-951c7320b0b1.css"/> -->
+  <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/ae8ca270-d923-4720-940b-951c7320b0b1.css"/>
 
   <script type="text/javascript">
     var projectsUrl   = [{% for project in site.our-work %}"{{ project.url }}",{% endfor %}];
     var projectsTitle  = [{% for project in site.our-work %}"{{ project.title }}",{% endfor %}];
-    var projectsImg    = [{% for project in site.our-work %}"/assets/img{{ project.url }}thumb/{{project.title | slugify}}",{% endfor %}];
+    var projectsImg    = [{% for project in site.our-work %}{% assign pageTitle = project.url | split: '/' %}"/assets/img{{ project.url }}thumb/{{pageTitle[2]}}",{% endfor %}];
     var projectsCat    = [{% for project in site.our-work %}"{{ project.parent.title }}",{% endfor %}];
-
-    console.log(projectsUrl);
   </script>
 
 </head>

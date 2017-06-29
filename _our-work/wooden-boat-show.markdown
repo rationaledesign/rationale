@@ -5,6 +5,7 @@ tags:
 - featured
 position: 17
 imgcount: '1'
+layout: project
 ---
 
 Poster for Port of Toledo Wooden Boat Show which uses custom cut wood blocks to spell out "boat show" using naval signal flags.

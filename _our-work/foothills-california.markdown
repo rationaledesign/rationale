@@ -3,6 +3,7 @@ title: Foothills California
 date: 2014-05-07 13:53:00 Z
 position: 22
 imgcount: '7'
+layout: project
 ---
 
 Foothills California, a Claremont-based lifestyle brand, was in need of a refined and timeless identity system.

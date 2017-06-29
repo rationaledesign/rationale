@@ -3,6 +3,7 @@ title: Latitudex
 date: 2014-05-07 13:54:00 Z
 position: 26
 imgcount: '8'
+layout: project
 ---
 
 Latitudex, an identity system for an IT services company, provides a unique and vibrant visual language that clearly differentiates the company from competitors.
