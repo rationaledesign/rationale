@@ -2,14 +2,8 @@
 title: Rationale v2
 timezone: UTC
 collections:
-  blog:
-    title: Blog
-    output: true
   our-work:
     title: Our work
-    output: true
-  posts:
-    title: Posts
     output: true
   resources:
     title: Resources
@@ -23,13 +17,12 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
     type: pages
   values:
-    layout: page
+    layout: default
+- scope:
+    path: 'our-work'
+    type: 'our work'
+  values:
+    layout: projects
 permalink: pretty
