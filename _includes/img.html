@@ -4,6 +4,6 @@
   <span data-src="{{img}}-@1x.jpg" data-media="(min-width: 1025px)"></span>
   <span data-src="{{img}}-@2x.jpg" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
   <noscript>
-      <img src="{{img}}-@1x.jpg" alt="{% if project.title %}{{project.title}} - {{project.parent.title}}{% else %}{{title}} - {{parent.title}}{% endif %} project image">
+      <img src="{{img}}-@1x.jpg" alt="{% if page.title %}{{page.title}} - {{page.parent.title}}{% else %}{{title}} - {{parent.title}}{% endif %} project image">
   </noscript>
 </span>

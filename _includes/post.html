@@ -1,4 +1,3 @@
-{{page | jsonify}}
 <article>
   <div class="post-title">
     <h2 class="bold">
@@ -15,6 +14,7 @@
     {{page.content}}
   </div>
   <nav>
+
     {% if previous %}<a href="{{ previous.url }}">previous</a>{% endif %}
     {% if next %}<a href="{{ next.url }}">next</a>{% endif %}
   </nav>

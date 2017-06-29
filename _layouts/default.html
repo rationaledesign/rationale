@@ -28,10 +28,12 @@
 <!--   <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/ae8ca270-d923-4720-940b-951c7320b0b1.css"/> -->
 
   <script type="text/javascript">
-    var projectsUrl   = [{% for project in site.pages.projects.pages %}{% for project in project.posts %}"{{ project.url }}",{% endfor %}{% endfor %}];
-    var projectsTitle  = [{% for project in site.pages.projects.pages %}{% for project in project.posts %}"{{ project.title }}",{% endfor %}{% endfor %}];
-    var projectsImg    = [{% for project in site.pages.projects.pages %}{% for project in project.posts %}"/assets/img{{ project.url }}/thumb/{{project.title | handleize}}",{% endfor %}{% endfor %}];
-    var projectsCat    = [{% for project in site.pages.projects.pages %}{% for project in project.posts %}"{{ project.parent.title }}",{% endfor %}{% endfor %}];
+    var projectsUrl   = [{% for project in site.our-work %}"{{ project.url }}",{% endfor %}];
+    var projectsTitle  = [{% for project in site.our-work %}"{{ project.title }}",{% endfor %}];
+    var projectsImg    = [{% for project in site.our-work %}"/assets/img{{ project.url }}thumb/{{project.title | slugify}}",{% endfor %}];
+    var projectsCat    = [{% for project in site.our-work %}"{{ project.parent.title }}",{% endfor %}];
+
+    console.log(projectsUrl);
   </script>
 
 </head>
@@ -46,10 +48,8 @@
     </div>
 
     <section class="content">
-      default.html
       {{ content }}
-
-    </section><!-- /content -->
+    </section>
 
     <div class="container">
       {% include footer.html %}
@@ -62,29 +62,29 @@
   <!-- more toggle -->
 
   <script>
-    $(document).ready(function(){
+    // $(document).ready(function(){
 
-      $('.js-more').click(function(){
-        if($(".more-text").parent().hasClass('expanded')) {
-          $('.more-text').parent().removeClass("expanded");
-        } else {
-          $('.more-text').parent().addClass("expanded");
-          $('.js-more').addClass("fade");
-        }
-      });
+    //   $('.js-more').click(function(){
+    //     if($(".more-text").parent().hasClass('expanded')) {
+    //       $('.more-text').parent().removeClass("expanded");
+    //     } else {
+    //       $('.more-text').parent().addClass("expanded");
+    //       $('.js-more').addClass("fade");
+    //     }
+    //   });
 
-      $(function() {FastClick.attach(document.body);});
+    //   $(function() {FastClick.attach(document.body);});
 
-      $(".filter-list h6").click(function(){
-        if ($('.filters').hasClass('open')) {
-          $(".filters").removeClass("open");
-          $(".filters").addClass("close");
-        } else {
-          $(".filters").addClass("open");
-          $(".filters").removeClass("close");
-        }
-      })
-    });
+    //   $(".filter-list h6").click(function(){
+    //     if ($('.filters').hasClass('open')) {
+    //       $(".filters").removeClass("open");
+    //       $(".filters").addClass("close");
+    //     } else {
+    //       $(".filters").addClass("open");
+    //       $(".filters").removeClass("close");
+    //     }
+    //   })
+    // });
 
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

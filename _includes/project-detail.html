@@ -1,16 +1,14 @@
-{% include filter.html' %}
-
 <article class='project-detail'>
   <div class="container">
     <div class="project-info">
       <div class='project-title'>
-        <h4 class='bold'>{{ title }}</h4>
-        <h5 class='sub-title'>{{ parent.title }}</h5>
+        <h4 class='bold'>{{ page.title }}</h4>
+        <h5 class='sub-title'>{{ page.categories[0] }}</h5>
       </div>
       <div class="project-description">
         {% comment %}if project has excerpt{% endcomment %}
         {% if excerpt != body %}
-          {{excerpt}}
+            {{excerpt}}
           <div class="more-text">
             {{content}}
           </div>
@@ -22,16 +20,17 @@
     </div>
   </div>
   <div class="project-images">
+    {% assign pageTitle = page.url | split: '/' %}
     {% comment %}Pull number of images from imgCount set in CMS then include image{% endcomment %}
-    {% for i in (1..{{meta.imgCount}}) %}
-      {% capture img %}/assets/img{{ url }}/detail/{{title | handleize}}-b{{i}}{% endcapture %}
+    {% for i in (1..{{page.imgcount}}) %}
+      {% capture img %}/assets/img{{ page.url }}detail/{{pageTitle[2]}}-b{{i}}{% endcapture %}
       {% include img.html %}
     {% endfor %}
   </div>
 </article>
 <div class="container">
   <div class="more">
-    <svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMax meet" version="1.1" x="0px" y="0px" width="190px" height="31.5px" viewBox="-0.042 0 190 31.5" enable-background="new -0.042 0 190 31.5" xml:space="preserve"><path fill="#010101" d="M63.697 9.271c1.388 0 2.045 0.804 2.045 2.119 0 3.869-2.92 4.745-5.841 4.745 -0.292 0-0.949 0-1.387-0.146C58.878 14.457 60.411 9.271 63.697 9.271M66.838 19.495c-0.73 1.096-2.702 4.018-5.842 4.018 -2.118 0-3.067-1.463-3.067-3.727 0-1.314 0.22-2.482 0.366-3.064 0.51 0.072 1.095 0.145 1.605 0.145 2.482 0 8.544-0.73 8.544-4.819 0-2.191-1.971-3.578-4.309-3.578 -4.016 0-9.419 4.235-9.419 9.493 0 3.213 2.483 6.352 5.988 6.352 3.725 0 5.915-3.285 6.718-4.455L66.838 19.495zM43.105 23.729h2.994l1.606-6.717c0.584-2.41 2.921-6.718 4.455-6.718 0.804 0 0.658 1.387 1.753 1.387 1.096 0 1.68-0.512 1.68-1.534 0-1.094-0.585-1.679-1.68-1.679 -2.921 0-4.82 3.578-5.477 4.672l-0.074-0.073 1.095-4.308c-1.096 0.145-2.118 0.292-3.432 0.292h-2.483l-0.146 0.803h3.067L43.105 23.729zM30.107 20.663c0-1.021 0.292-4.747 1.606-8.252 0.949-2.264 1.972-3.142 3.724-3.142 1.753 0 2.701 1.097 2.701 2.85 0 1.021-0.292 4.745-1.606 8.251 -0.95 2.266-1.971 3.141-3.724 3.141C31.056 23.513 30.107 22.489 30.107 20.663M32.735 24.315c4.893 0 8.689-5.188 8.689-9.639 0-3.507-2.264-6.207-5.842-6.207 -4.892 0-8.689 5.184-8.689 9.637C26.894 21.54 29.158 24.315 32.735 24.315M0.167 23.729h6.718l0.146-0.803H4.037L8.418 2.334h0.073l1.753 21.395h0.949L22.001 2.407l0.073 0.072 -4.381 20.52h-2.702l-0.146 0.73h8.981l0.146-0.803h-2.774l4.528-20.958h2.701l0.147-0.803h-6.938l-8.471 16.65h-0.073L11.778 1.24H4.913L4.767 2.042h2.921L3.087 22.927H0.313L0.167 23.729z"/></svg>
+    More
     <ul class="thumbnails"></ul>
   </div>
 </div>
@@ -40,7 +39,7 @@
 
   // create the random projects at the bottom of each project detail page
 
-  var currentTitle = "{{title}}"; // grabs current page
+  var currentTitle = "{{page.title}}"; // grabs current page
 
   var randomUsed = [];
   var counter = 0;
