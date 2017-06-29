@@ -5,6 +5,9 @@ collections:
   our-work:
     title: Our work
     output: true
+  posts:
+    title: Posts
+    output: true
   resources:
     title: Resources
     output: true
@@ -21,8 +24,8 @@ defaults:
   values:
     layout: default
 - scope:
-    path: 'our-work'
-    type: 'our work'
+    path: our-work
+    type: our work
   values:
     layout: projects
 permalink: pretty
