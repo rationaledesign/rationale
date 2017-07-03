@@ -102,7 +102,7 @@
   width: 140px;
   height: 130px;
   margin-bottom: 6px;
-  @include background-size(cover);
+  background-size: cover;
 
   @include breakpoint($small) {
     float: left;

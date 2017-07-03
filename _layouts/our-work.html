@@ -4,19 +4,10 @@ layout: default
 
 <div class="content">
   <div class="container">
-    <ul class="thumbnails">
-      {% for project in site.our-work %}
-        <li class='thumbnail'>
-          <a href='{{ project.url }}'>
-            {% assign pageTitle = project.url | split: '/' %}
-            {% capture img %}/assets/img{{ project.url }}thumb/{{pageTitle[2]}}-s1{% endcapture %}
-            {% include img.html %}
-            <h2 class="bold">{{ project.title }}</h2>
-            <h3 class="sub-title">{{ project.category[0] }}</h3>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
+    <p class="lg-col-half lg-offset-half">
+      Providing world-class expertise in design, identity systems, and envisioning across multiple mediums.
+    </p>
+    {% include thumbnails.html collection=site.our-work %}
   </div>
 </div>
 

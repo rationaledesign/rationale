@@ -1,0 +1,12 @@
+<ul class="thumbnails">
+  {% for item in include.collection %}
+    <li class='thumbnail'>
+      <a href='{{ item.url }}'>
+        {% assign pageTitle = item.url | split: '/' %}
+        {% capture img %}/assets/img{{ item.url }}thumb/{{pageTitle[2]}}-s1{% endcapture %}
+        {% include img.html %}
+        <h2 class="bold">{{ item.title }}</h2>
+      </a>
+    </li>
+  {% endfor %}
+</ul>

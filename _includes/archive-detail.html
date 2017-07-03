@@ -1,14 +1,14 @@
 <article>
   <div class="product-title">
-    <h2 class="bold">{{post.title}}</h2>
+    <h2 class="bold">{{page.title}}</h2>
     <div class="product-action">
-      <a href="/assets/img/_source{{ url }}/{{title | handleize}}.pdf" target="_blank">Download PDF</a>
+      <a href="/assets/img{{ page.url }}{{page.title | slugify}}.pdf" target="_blank">Download PDF</a>
     </div>
     <div class="cf"></div>
   </div>
   {% include product-gallery.html %}
   <div class="product-content">
-    {{post.body}}
+    {{page.body}}
   </div>
   <div class="cf"></div>
 </article>

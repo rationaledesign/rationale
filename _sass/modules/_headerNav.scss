@@ -5,10 +5,6 @@
 
   @include col-half;
 
-  @include breakpoint($med) {
-    @include col-third(false);
-  }
-
   a {
     display: block;
     min-width: 150px;
@@ -38,39 +34,15 @@
   padding: 0; // for nested elements
   margin-top: -3px;
   @include breakpoint($med) {
-    @include col-two-thirds(false);
     float:right;
     padding: 0; // for nested elements
   }
 
-  @include breakpoint($med) {
-    padding: 0; // for nested elements
-  }
-
-  // main nav split in two ul
-
-  ul {
-    @include breakpoint($small) {
-      @include col-half(false);
-      padding: 0;
-    }
-  }
-  
   li {
-    width: 100%;
-    float: left;
-
-    &:last-child {
-      // margin-bottom: 34px;
-    }
 
     @include breakpoint($med) {
-      @include col-half(false);
+      @include col-third(false);
     }
-    
-    // @include breakpoint($med) {
-    //   @include col-fourth(false);
-    // }
 
   }
 

@@ -1,4 +1,4 @@
-@include grid-toggle;
+// @include grid-toggle;
 
 .grid {
   min-height: 500px;
@@ -20,7 +20,7 @@
 
 // row
 
-%row, 
+%row,
 .row { // required to start a grid
   margin-right: -$gutter1;
   overflow: hidden;
@@ -35,7 +35,7 @@
 
 @mixin col {
   float: left;
-  padding-right: $gutter1; 
+  padding-right: $gutter1;
   @include breakpoint($large) {
     padding-right: $gutter2;
   }
@@ -126,3 +126,30 @@
 
 %col-five-sixth {@include col-two-thirds(false);}
 
+// grid classes
+
+.md-col-half {
+  @include breakpoint($med) {
+    @include col-half(false);
+  }
+}
+
+.md-offset-half {
+  @include breakpoint($med) {
+    @include col;
+    margin-left: 50%;
+  }
+}
+
+.lg-col-half {
+  @include breakpoint($large) {
+    @include col-half(false);
+  }
+}
+
+.lg-offset-half {
+  @include breakpoint($large) {
+    @include col;
+    margin-left: 50%;
+  }
+}

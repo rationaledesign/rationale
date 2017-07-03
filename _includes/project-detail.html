@@ -31,62 +31,23 @@
 <div class="container">
   <div class="more">
     More
-    <ul class="thumbnails"></ul>
+    <ul class="thumbnails">
+      <li class='thumbnail'>
+        <a href='{{ page.previous.url }}'>
+          {% assign pageTitle = page.previous.url | split: '/' %}
+          {% capture img %}/assets/img{{ page.previous.url }}thumb/{{pageTitle[2]}}-s1{% endcapture %}
+          {% include img.html %}
+          <h2 class="bold">{{ page.previous.title }}</h2>
+        </a>
+      </li>
+      <li class='thumbnail'>
+        <a href='{{ page.next.url }}'>
+          {% assign pageTitle = page.next.url | split: '/' %}
+          {% capture img %}/assets/img{{ page.next.url }}thumb/{{pageTitle[2]}}-s1{% endcapture %}
+          {% include img.html %}
+          <h2 class="bold">{{ page.next.title }}</h2>
+        </a>
+      </li>
+    </ul>
   </div>
 </div>
-
-<script type="text/javascript">
-
-  // create the random projects at the bottom of each project detail page
-
-  var currentTitle = "{{page.title}}"; // grabs current page
-
-  var randomUsed = [];
-  var counter = 0;
-  var numberOfPosts = 3;
-
-  while (counter < numberOfPosts){
-
-    var random;
-    var projectUrl;
-    var projectTitle;
-    var projectImg;
-    var projectCat;
-
-    random = Math.floor(Math.random() * projectsUrl.length);
-
-    if (randomUsed.indexOf(random) == "-1"){
-
-      // makes sure project current project isn't displayed
-
-      while (projectsTitle[random] == currentTitle) {
-        random = Math.floor(Math.random() * projectsUrl.length);
-      }
-
-      // sets each value by the random index # these values
-
-      projectUrl = projectsUrl[random];
-      projectTitle = projectsTitle[random];
-      projectImg = projectsImg[random];
-      projectCat = projectsCat[random];
-
-      // html added to the page
-
-      document.querySelector( '.thumbnails' ).innerHTML += '<li class="thumbnail"><a href="'+projectUrl+'">' +
-                                '<span class="lazy thumb" data-alt="'+projectTitle+' project image">' +
-                                  '<span data-src="'+projectImg+'-s1-small.jpg"></span>' +
-                                  '<span data-src="'+projectImg+'-s1-small@2x.jpg" data-media="(-webkit-min-device-pixel-ratio: 2.0)"></span>' +
-                                  '<span data-src="'+projectImg+'-s1-@1x.jpg" data-media="(min-width: 1025px)"></span>' +
-                                  '<span data-src="'+projectImg+'-s1-@2x.jpg" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>' +
-                                  '<noscript>' +
-                                    '<img src="{{img}}.jpg" alt="'+projectTitle+' project image">' +
-                                  '</noscript>' +
-                                '</span>' +
-                                '<h2 class="bold">'+projectTitle+'</h2><h3 class="sub-title">'+projectCat+'</h3></a></li>';
-
-      randomUsed.push(random);
-      counter++;
-    }
-  }
-
-</script>

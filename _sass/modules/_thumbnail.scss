@@ -10,7 +10,6 @@
     @include col-half(false);
   }
   @include breakpoint($med) {
-    @include col-third(false);
     margin-bottom: 39px;
   }
 
@@ -36,7 +35,7 @@
       display: block !important;
       @include col-third(false);
     }
-    
+
     span {margin: 0;}
   }
 
@@ -63,14 +62,14 @@
 .lazy,
 .imgr {
   display: block;
-  position: relative; 
+  position: relative;
   width: 100%;
   overflow: hidden;
-  @include opacity(0);
-  @include single-transition(opacity,.7s);
+  opacity: 0;
+  transition: opacity .7s ease-in-out;
 
   &.thumb {
-    padding-bottom: 92%;
+    padding-bottom: 50%;
     height: 0;
   }
 
@@ -79,7 +78,7 @@
   }
 
   &.loaded {
-    @include opacity(1);
+    opacity: 1;
   }
 }
 

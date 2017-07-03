@@ -4,6 +4,7 @@ date: 2015-04-06 18:00:00 Z
 price: '35.40'
 buylink: http://www.magcloud.com/browse/issue/905499
 imgcount: '3'
+layout: product-detail
 ---
 
 The 172 page book "Sean Wolcott: Graphic Design 2008–2014" chronicles the ongoing design work of the Rationale founder. Includes projects ranging from identity, promotion, publication, user interface, packaging design, previously unpublished works, and more.

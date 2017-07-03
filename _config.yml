@@ -29,3 +29,9 @@ defaults:
   values:
     layout: project
 permalink: pretty
+
+plugins:
+- jekyll-autoprefixer
+
+sass:
+  style: compressed

@@ -4,18 +4,13 @@ layout: default
 
 <div class="container">
   <section class="archive border-top">
-    {% if type == 'post' %}
-      {% assign post = current %}
-      {% include archive-detail.html %}
-    {% else %}
       <div class="title">
         <h2 class="bold">{{title}}</h2>
-        {{body}}
+        {{content}}
       </div>
       <div class="cf"></div>
-      {% for post in posts limit:4 %}
+      {% for post in site.resources limit:4 %}
         {% include product.html %}
       {% endfor %}
-    {% endif %}
   </section>
 </div>

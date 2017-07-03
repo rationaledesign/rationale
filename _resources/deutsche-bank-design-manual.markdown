@@ -3,6 +3,7 @@ title: Deutsche Bank Design Manual
 date: 2015-04-16 13:50:00 Z
 author: Anton Stankowski
 imgcount: '3'
+layout: resource
 ---
 
 Presented here is a hi-resolution scan from the original "Erscheinungsbild Deutsche Bank. Typografie.” designed by legendary designer and artist Anton Stankowski in 1978, articulating his design systems for Deutsche Bank.

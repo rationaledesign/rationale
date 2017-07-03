@@ -29,7 +29,7 @@
   overflow: hidden;
   padding-top: 5px;
   max-height: 44px;
-  @include single-transition(max-height, .5s, ease-in-out);
+  transition: max-height .5s ease-in-out;
 
   .projects &,
   .identity &,
@@ -48,7 +48,7 @@
 
   &.open {
     max-height: 300px;
-  } 
+  }
 }
 
 h6 { // filter by text // and element that controls the dropdown
@@ -104,7 +104,7 @@ h6 { // filter by text // and element that controls the dropdown
   }
 
   &:after {
-    @include rotate(-45deg);
+    transform: rotate(-45deg);
     right: 15px;
     .open & {
       -webkit-animation-name: arrow-right;
@@ -116,8 +116,8 @@ h6 { // filter by text // and element that controls the dropdown
 
   &:before {
     right: 25px;
-    @include rotate(45deg);
-    
+    transform: rotate(45deg);
+
     .open & {
       -webkit-animation-name: arrow-left;
     }
@@ -175,12 +175,11 @@ h6 { // filter by text // and element that controls the dropdown
 }
 
 .filter {
-
-  @include opacity(0);
-  @include single-transition(opacity, .5s, ease-in-out);
+  opacity: 0;
+  transition: opacity .5s ease-in-out;
 
   .open & { // on filter open change opacity
-    @include opacity(1);
+    opacity: 1;
   }
 
   svg { // removes svg for mobile
@@ -188,7 +187,7 @@ h6 { // filter by text // and element that controls the dropdown
   }
 
   @include breakpoint($med) {
-    @include opacity(1);
+    opacity: 1;
     height: 43px;
     display: block;
     margin-bottom: 4px;
@@ -214,7 +213,7 @@ h6 { // filter by text // and element that controls the dropdown
 // displays correct filter on page load for mobile
 
 .all .filter-all,
-.projects .filter-all, // default project load filter 
+.projects .filter-all, // default project load filter
 .identity .filter-identity,
 .user-interface .filter-ui,
 .promotion .filter-promotion,
@@ -226,7 +225,7 @@ h6 { // filter by text // and element that controls the dropdown
     display: block;
     position: absolute;
     top: 23px; // pushes active svg to top
-    @include opacity(1);
+    opacity: 1;
     svg {display: block;}
     span {
       position: absolute;
@@ -278,7 +277,7 @@ a.is-current-page path{
     height: 15px;
     border-bottom:  2px solid $black;
     border-right:   2px solid $black;
-    @include rotate(45deg);
+    transform: rotate(45deg);
     z-index: -1;
 
     @include breakpoint($med) {display: none;}

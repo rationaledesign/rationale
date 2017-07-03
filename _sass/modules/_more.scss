@@ -1,9 +1,9 @@
 // $fix should some of this be in about?
 
 .js-more { // button
-  @include breakpoint(0 $small) { display: block;} // only show in mobile
-  @include transition(1s);
-  @include opacity(1);
+  @include breakpoint(0 $small) {display: block;} // only show in mobile
+  transition: all 1s;
+  opacity: 1;
 
   .about & {margin-bottom: 41px;}
 }
@@ -12,14 +12,14 @@
   position: relative;
   max-height: 0px;
   overflow: hidden;
-  @include single-transition(max-height, 1s, ease-in-out);
+  transition: max-height 1s ease-in-out;
 
   &:after {
     @include pseudo;
     bottom: -20px;
     height: 20px;
     width: 100%;
-    @include background-image(linear-gradient(bottom, #FFF, rgba(#FFF, 0)));
+    background-image: linear-gradient(bottom, #FFF, rgba(#FFF, 0));
     z-index: 1;
 
     @include breakpoint($med) {
@@ -28,7 +28,7 @@
   }
 
   p:first-child { // removes excerpt paragraph // hacky
-    display: none; 
+    display: none;
   }
 
   p:last-child { // removes margin on last paragraph
@@ -54,7 +54,7 @@
 }
 
 .fade {
-  @include opacity(0);
+  opacity: 0;
   font-size: 0;
   margin-bottom: 0 !important;
 }

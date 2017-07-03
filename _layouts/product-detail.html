@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="container">
+  <section class="store border-top">
+    <article>
+      <div class="product-title">
+        <h2 class="bold">{{page.title}}</h2>
+        <div class="product-action">
+          <span class="bold price">${{page.price}}</span>
+          <a href="{{post.meta.buyLink}}">Buy Now</a>
+        </div>
+        <div class="cf"></div>
+      </div>
+      {% include product-gallery.html %}
+      <div class="product-content">
+        {{page.content}}
+      </div>
+      <div class="cf"></div>
+    </article>
+  </section>
+</div>
+

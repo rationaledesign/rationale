@@ -7,7 +7,7 @@
   <div class="cf"></div>
   <div class="product-img">
     <a href="{{post.url}}">
-    {% capture img %}/assets/img/_source{{ post.url }}/{{post.title | handleize}}-s1{% endcapture %}
+    {% capture img %}/assets/img/{{ post.url }}{{post.title | slugify}}-s1{% endcapture %}
       {% include img.html %}
     </a>
   </div>
