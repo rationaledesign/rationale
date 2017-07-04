@@ -29,7 +29,7 @@ defaults:
   values:
     layout: project
 permalink: pretty
-plugins:
-- jekyll-autoprefixer
+plugins: [jekyll-autoprefixer, jekyll-bower]
 sass:
   style: compressed
+exclude: ["src/_bower_components"]
