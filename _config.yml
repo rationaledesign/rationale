@@ -32,4 +32,8 @@ permalink: pretty
 plugins: [jekyll-autoprefixer, jekyll-bower]
 sass:
   style: compressed
-exclude: ["src/_bower_components"]
+bower:
+  breakpoint-sass: breakpoint-sass
+  reset-css: reset-css
+  sassy-maps: sassy-maps
+  singularity: singularity

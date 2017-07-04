@@ -1,0 +1,26 @@
+{
+  "name": "rationale-dev",
+  "homepage": "dev.rationale-design.com",
+  "authors": [
+    "joshuarule <joshua@joshuarule.com>"
+  ],
+  "description": "development site for rationale-design.com",
+  "main": "default.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/_bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reset-css": "^2.2.0",
+    "singularity": "^1.8.0"
+  },
+  "devDependencies": {
+    "breakpoint-sass": "^2.7.1"
+  }
+}
