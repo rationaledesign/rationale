@@ -33,9 +33,9 @@ plugins_dir: [jekyll-autoprefixer, jekyll-bower]
 sass:
   style: compressed
 bower:
-  breakpoint-sass: breakpoint-sass
   reset-css: reset-css
   sassy-maps: sassy-maps
   singularity: singularity
+  breakpoint-sass: breakpoint-sass
 exclude:
   ["src/_bower_components", "bower.json"]
