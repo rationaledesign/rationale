@@ -29,7 +29,7 @@ defaults:
   values:
     layout: project
 permalink: pretty
-plugins: [jekyll-autoprefixer, jekyll-bower]
+plugins_dir: [jekyll-autoprefixer, jekyll-bower]
 sass:
   style: compressed
 bower:
@@ -37,3 +37,5 @@ bower:
   reset-css: reset-css
   sassy-maps: sassy-maps
   singularity: singularity
+exclude:
+  ["src/_bower_components", "bower.json"]
