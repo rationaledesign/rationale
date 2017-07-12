@@ -38,3 +38,4 @@ exclude:
 - gulpfile.js
 - bower.json
 - assets
+- _assets
