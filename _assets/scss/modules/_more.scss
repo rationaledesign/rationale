@@ -19,7 +19,7 @@
     bottom: -20px;
     height: 20px;
     width: 100%;
-    background-image: linear-gradient(bottom, #FFF, rgba(#FFF, 0));
+    background-image: linear-gradient(to bottom, #FFF, rgba(#FFF, 0));
     z-index: 1;
 
     @include breakpoint($med) {

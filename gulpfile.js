@@ -8,7 +8,6 @@ const autoprefixer = require( 'autoprefixer' );
 const mqpacker = require( 'css-mqpacker' );
 const cssnano = require( 'cssnano' );
 const browserSync = require( 'browser-sync' ).create();
-const print = require('gulp-print');
 
 /**
  * Handle errors and alert the user.
@@ -72,7 +71,6 @@ gulp.task( 'build:styles', () =>
     //   'errLogToConsole': true,
     //   'outputStyle': 'expanded' // Options: nested, expanded, compact, compressed
     // } ) )
-    .pipe(print())
     .pipe( $.postcss( [
       autoprefixer( ),
       mqpacker( { 'sort': true } ),

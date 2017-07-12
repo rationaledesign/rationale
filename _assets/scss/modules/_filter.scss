@@ -267,7 +267,7 @@ a.is-current-page path{
 
   &:hover {
     cursor: pointer;
-  }`
+  }
 
   &:after { // dropdown triangle
     @include pseudo;
