@@ -250,7 +250,7 @@ h6 { // filter by text // and element that controls the dropdown
 }
 
 a.is-current-page path{
-  fill: $red  !Important;
+  fill: $red !important;
 }
 
 
@@ -267,7 +267,7 @@ a.is-current-page path{
 
   &:hover {
     cursor: pointer;
-  }
+  }`
 
   &:after { // dropdown triangle
     @include pseudo;

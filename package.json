@@ -1,0 +1,47 @@
+{
+  "name": "rationale-design",
+  "version": "1.0.0",
+  "description": "Rationale is a creative design agency",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rationaledesign/rationale.git"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync",
+    "siteleaf"
+  ],
+  "author": "joshuarule",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rationaledesign/rationale/issues"
+  },
+  "homepage": "https://github.com/rationaledesign/rationale#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.18.8",
+    "css-mqpacker": "^5.0.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^3.2.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.4.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-run": "^1.7.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.5.0",
+    "gulp-uglify": "^2.1.2",
+    "merge-stream": "^1.0.1",
+    "run-sequence": "^1.2.2"
+  }
+}

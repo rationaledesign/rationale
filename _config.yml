@@ -29,13 +29,12 @@ defaults:
   values:
     layout: project
 permalink: pretty
-plugins_dir: [jekyll-autoprefixer, jekyll-bower]
-sass:
-  style: compressed
-bower:
-  reset-css: reset-css
-  sassy-maps: sassy-maps
-  singularity: singularity
-  breakpoint-sass: breakpoint-sass
 exclude:
-  ["src/_bower_components", "bower.json"]
+- Gemfile
+- Gemfile.lock
+- README.md
+- node_modules/
+- package.json
+- gulpfile.js
+- bower.json
+- assets

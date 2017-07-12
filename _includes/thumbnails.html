@@ -1,5 +1,6 @@
 <ul class="thumbnails">
-  {% for item in include.collection %}
+  {% assign items = include.collection | sort:"position" %}
+  {% for item in items %}
     <li class='thumbnail'>
       <a href='{{ item.url }}'>
         {% assign pageTitle = item.url | split: '/' %}

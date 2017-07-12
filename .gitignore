@@ -1,6 +1,6 @@
 .sass-cache
-src/*
-src/_bower-components
-_site/*
-assets/img/*
+_assets/bower_components
+_site
+assets
+node_modules
 
