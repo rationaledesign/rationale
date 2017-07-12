@@ -37,5 +37,4 @@ exclude:
 - package.json
 - gulpfile.js
 - bower.json
-- assets
 - _assets
