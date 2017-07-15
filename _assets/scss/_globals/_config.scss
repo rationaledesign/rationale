@@ -6,15 +6,15 @@ $med:      948px;
 $large:   1681px;
 
 $gutter1: 1px; // change for different gutter size
-$gutter2: 1px; 
-// $gutter2: 1.2%; 
+$gutter2: 1px;
+// $gutter2: 1.2%;
 
 $basefont:  18;
 $h1:        46;
-$h2:        24px;
+$h2:        32px;
 $h3:        20px;
-$h4:        18px;
-$h5:        16px;
+$h4:        17px;
+$h5:        14px;
 $h6:        14px;
 
 
@@ -30,10 +30,17 @@ $qtr-spacing-unit:  $base-spacing-unit / 4;
 
 // Colors
 
-$black: rgb(0,0,0);
-$red:      #F04E23;
+$black_absolute:    #000000;
+$black:             #222222;
+$red:               #ff3c00;
+$white_almost:      #fffdfa;
+$white_absolute:    #ffffff;
+$grey_dark:         #666666;
+$grey_medium:       #999999;
+
 
 // Font
 
-$font-1: 'NeueHaasGroteskText W01', "helvetica", sans-serif;
-$font-1-bold: 'NHaasGroteskDSW01-75Bd', "helvetica", sans-serif;
+$font-NHG--roman: 'NeueHaasGroteskText W01', "helvetica", sans-serif;
+$font-NHG--bold: 'NHaasGroteskDSW01-75Bd', "helvetica", sans-serif;
+$font-NHG--extraLight: 'NHaasGroteskDSW01-35XLt', "helvetica", sans-serif;

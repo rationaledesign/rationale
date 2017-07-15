@@ -1,5 +1,61 @@
+@mixin h1 {
+  font-size: 46px;
+  line-height: $base-spacing-unit * 2;
+  font-family: $font-NHG--extraLight;
+}
+
+@mixin h2 {
+  font-size: 32px;
+  line-height: $base-spacing-unit * 1.5;
+  font-family: $font-NHG--extraLight;
+}
+
+@mixin h3 {
+  font-size: 20px;
+  line-height: $base-spacing-unit;
+  font-family: $font-NHG--roman;
+}
+
+@mixin h3--bold {
+  @include h3;
+  font-family: $font-NHG--bold;
+}
+
+@mixin h4 {
+  font-size: 17px;
+  line-height: $base-spacing-unit;
+  font-family: $font-NHG--roman;
+}
+
+@mixin h4--bold {
+  @include h4;
+  font-family: $font-NHG--bold;
+}
+
+@mixin h5 {
+  font-size: 14px;
+  line-height: $base-spacing-unit * .75;
+  font-family: $font-NHG--roman;
+}
+
+@mixin h5--bold {
+  @include h3;
+  font-family: $font-NHG--bold;
+}
+
+.h1 { @include h1; }
+.h2 { @include h2; }
+.h3 { @include h3; }
+.h4 { @include h4; }
+.h5 { @include h5; }
+
+.h3--bold { @include h3--bold; }
+.h5--bold { @include h5--bold; }
+.h5--bold { @include h5--bold; }
+
+
 %font-1-bold {
-  font-family: $font-1-bold;
+  font-family: $font-NHG--bold;
 }
 
 .bold,
@@ -13,6 +69,11 @@
     font-size: 24px;
     line-height: 24px;
   }
+}
+
+.sub-title {
+  font-size: $h3;
+  font-weight: 300;
 }
 
 .title-main { // aproach title

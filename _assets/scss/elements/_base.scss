@@ -7,7 +7,7 @@ html {
 
 body {
   border-top: solid $black 18px; // black bar at top of page
-  font-family: 'NeueHaasGroteskText W01', 'helvetica', sans-serif;
+  font-family: $font-NHG--roman;
   -webkit-font-smoothing: antialiased !important;
   // font-size: 62.5%; /* font-size 1em = 10px */
   color: $black;
@@ -29,7 +29,7 @@ header{
   @include o(blue);
   margin: $qtr-spacing-unit 0 $half-spacing-unit;
   min-height: 112px;
-  font-family:'NHaasGroteskDSW01-75Bd', "helvetica", sans-serif;
+  font-family: $font-NHG--bold;
 
   @include breakpoint($med){
     min-height: 126px;
@@ -37,7 +37,6 @@ header{
 }
 
 footer {
-  font-family: 'NeueHaasGroteskText W01', 'helvetica', sans-serif;
   @extend %border-top;
   font-size: $h6;
   line-height: 20px;
@@ -64,7 +63,7 @@ button {
   outline: none;
   border: none;
   padding: 0;
-  font-family: $font-1;
+  font-family: $font-NHG--roman;
   font-size: $h4;
   color: $red;
 
