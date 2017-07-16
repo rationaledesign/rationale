@@ -11,8 +11,8 @@ We are happy to enjoy the praise of design industries legends and business leade
 <cite>Massimo Vignelli</cite>
 
 
-I have followed their development for some time now and I am impressed by their strong and consequent work.
-Wim Crouwel
+>I have followed their development for some time now and I am impressed by their >strong and consequent work.
+<cite>Wim Crouwel</cite>
 
 Impressed by your vital strengths.
 Rolf Muller
