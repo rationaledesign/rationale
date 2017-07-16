@@ -2,7 +2,7 @@
 title: Bringing Down The Walls
 date: 2017-07-20 00:00:00 Z
 categories:
-- Packaging
+- Promotion
 position: 19
 imgcount: 1
 layout: project
