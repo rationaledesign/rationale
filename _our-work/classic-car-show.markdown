@@ -1,8 +1,10 @@
 ---
 title: Classic Car Show
-date: 2014-05-06 13:56:00 Z
+date: 2017-07-20 00:00:00 Z
+categories:
+- Promotion
 position: 16
-imgcount: '8'
+imgcount: 8
 layout: project
 ---
 
