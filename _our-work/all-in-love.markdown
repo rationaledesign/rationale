@@ -1,8 +1,10 @@
 ---
 title: All In Love
-date: 2014-05-06 13:59:00 Z
+date: 2017-07-20 00:00:00 Z
+categories:
+- Promotion
 position: 15
-imgcount: '1'
+imgcount: 1
 layout: project
 ---
 
