@@ -1,6 +1,8 @@
 ---
 title: Concert Series
-date: 2014-09-04 15:12:00 Z
+date: 2017-07-20 00:00:00 Z
+categories:
+- Promotion
 position: 18
 imgcount: 8
 layout: project
