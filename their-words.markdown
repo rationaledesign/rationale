@@ -7,6 +7,8 @@ layout: default
 
 We are happy to enjoy the praise of design industries legends and business leaders alike.
 
+![original-down_dsk_red-7b7584.jpg](/uploads/original-down_dsk_red-7b7584.jpg)
+
 More than proud, I am honored to know such a talent.
 Massimo Vignelli
 
