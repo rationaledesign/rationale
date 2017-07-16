@@ -2,7 +2,7 @@
 title: Concert Series
 date: 2014-09-04 15:12:00 Z
 position: 18
-imgcount: '7'
+imgcount: 8
 layout: project
 ---
 
