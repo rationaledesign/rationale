@@ -2,7 +2,7 @@
 title: Our approach
 date: 2017-06-28 20:37:00 Z
 position: 1
-layout: default
+layout: our-approach
 ---
 
 Design is not a job, it is a mission.
