@@ -1,6 +1,6 @@
 ---
 title: If Not For The Dawn
-date: 2017-07-20 00:00:00 Z
+date: 2017-01-01 00:00:00 Z
 categories:
 - Publication
 position: 5
