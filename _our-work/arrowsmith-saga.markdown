@@ -1,6 +1,8 @@
 ---
 title: Arrowsmith Saga
 date: 2017-07-20 00:00:00 Z
+categories:
+- Publication
 position: 2
 imgcount: 2
 layout: project
