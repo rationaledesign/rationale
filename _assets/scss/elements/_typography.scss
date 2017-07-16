@@ -2,18 +2,21 @@
   font-size: 46px;
   line-height: $base-spacing-unit * 2;
   font-family: $font-NHG--extraLight;
+  letter-spacing: 1px;
 }
 
 @mixin h2 {
   font-size: 32px;
   line-height: $base-spacing-unit * 1.5;
   font-family: $font-NHG--extraLight;
+  letter-spacing: 1px;
 }
 
 @mixin h3 {
   font-size: 20px;
   line-height: $base-spacing-unit;
   font-family: $font-NHG--roman;
+  letter-spacing: -1px;
 }
 
 @mixin h3--bold {
@@ -25,6 +28,7 @@
   font-size: 17px;
   line-height: $base-spacing-unit;
   font-family: $font-NHG--roman;
+  letter-spacing: -1px;
 }
 
 @mixin h4--bold {
@@ -36,6 +40,7 @@
   font-size: 14px;
   line-height: $base-spacing-unit * .75;
   font-family: $font-NHG--roman;
+  letter-spacing: -1px;
 }
 
 @mixin h5--bold {
@@ -54,20 +59,16 @@
 .h5--bold { @include h5--bold; }
 
 
-%font-1-bold {
-  font-family: $font-NHG--bold;
-}
+// %font-1-bold {
+//   font-family: $font-NHG--bold;
+// }
 
 .bold,
 %bold { // $fix turn into bold style
-  @extend %font-1-bold;
-  font-size: $h4;
-  line-height: 20px;
-
+  @include h4--bold;
 
   @include breakpoint($large) {
-    font-size: 24px;
-    line-height: 24px;
+    @include h3--bold;
   }
 }
 

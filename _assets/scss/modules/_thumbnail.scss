@@ -6,6 +6,10 @@
   margin-bottom: 38px;
   padding-right: 12px;
 
+  &:hover a {
+    color: $red;
+  }
+
   @include breakpoint($small) {
     @include col-half(false);
   }
@@ -54,8 +58,8 @@
     display: block;
   }
 
-  span {
-    margin-bottom: 6px; // ??
+  .thumb { // image margin bottom
+    margin-bottom: 7px;
   }
 }
 

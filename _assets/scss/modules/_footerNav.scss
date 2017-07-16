@@ -13,6 +13,7 @@ footer {
   }
 
   a {
+    @include h5;
     display: block;
 
     &.is-current-page {

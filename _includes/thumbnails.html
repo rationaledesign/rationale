@@ -6,7 +6,7 @@
         {% assign pageTitle = item.url | split: '/' %}
         {% capture img %}/assets/img{{ item.url }}thumb/{{pageTitle[2]}}-s1{% endcapture %}
         {% include img.html %}
-        <h2 class="bold">{{ item.title }}</h2>
+        <h2 class="h4">{{ item.title }}</h2>
       </a>
     </li>
   {% endfor %}

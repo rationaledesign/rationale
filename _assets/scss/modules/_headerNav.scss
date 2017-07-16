@@ -48,8 +48,17 @@
 
   a { // this is attached to product detail
     display: block;
-    @extend %bold;
+    // @extend %bold;
+    @include h4--bold;
     padding-bottom: 6px;
     padding-top: 1px;
+
+    &:hover {
+      color: $red;
+    }
   }
+}
+
+.current {
+  color: $red;
 }

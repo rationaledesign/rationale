@@ -6,17 +6,13 @@ html {
 }
 
 body {
-  border-top: solid $black 18px; // black bar at top of page
-  font-family: $font-NHG--roman;
+  border-top: solid $black 18px;
+  @include h4;
   -webkit-font-smoothing: antialiased !important;
-  // font-size: 62.5%; /* font-size 1em = 10px */
   color: $black;
-  font-size:    $h4;
-  line-height:  22px;
 
   @include breakpoint($large) {
-    font-size:    $h2;
-    line-height:  28px;
+    @include h3;
   }
 }
 
@@ -32,7 +28,7 @@ header{
   font-family: $font-NHG--bold;
 
   @include breakpoint($med){
-    min-height: 126px;
+    min-height: $base-spacing-unit * 4;
   }
 }
 
@@ -40,7 +36,7 @@ footer {
   @extend %border-top;
   font-size: $h6;
   line-height: 20px;
-  padding-top: 3px;
+  padding-top: 4px;
   margin-bottom: 100px;
 
   &:before { // fix for border being cutoff ??

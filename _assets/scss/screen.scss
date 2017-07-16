@@ -9,13 +9,12 @@
 @import "_globals/_extends/_grid";
 @import "_globals/_extends/_helpers";
 @import "_globals/_functions/_functions";
+@import "_globals/_helpers";
 
-@import "elements/_base";
-@import "elements/_current";
 @import "elements/_typography";
+@import "elements/_base";
 
 @import "layouts/_general";
-@import "layouts/_home";
 
 @import "modules/_blog";
 @import "modules/_filter";
