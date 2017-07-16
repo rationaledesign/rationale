@@ -1,8 +1,10 @@
 ---
 title: If Not For The Dawn
-date: 2014-05-08 15:24:00 Z
+date: 2017-07-20 00:00:00 Z
+categories:
+- Publication
 position: 5
-imgcount: '1'
+imgcount: 1
 layout: project
 ---
 
