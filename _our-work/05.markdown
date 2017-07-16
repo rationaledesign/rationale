@@ -1,8 +1,8 @@
 ---
 title: '0.5'
-date: 2014-05-06 13:10:00 Z
+date: 2017-07-20 00:00:00 Z
 categories:
-- packaging
+- Packaging
 position: 8
 imgcount: 3
 layout: project
