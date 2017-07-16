@@ -5,5 +5,4 @@ position: 0
 layout: our-work
 ---
 
-
-![original-down_dsk_red.jpg](/uploads/original-down_dsk_red.jpg)
+Providing world-class expertise in design, identity systems, and envisioning across multiple mediums.
