@@ -7,8 +7,9 @@ layout: default
 
 We are happy to enjoy the praise of design industries legends and business leaders alike.
 
-More than proud, I am honored to know such a talent.
-Massimo Vignelli
+> More than proud, I am honored to know such a talent.
+<cite>Massimo Vignelli</cite>
+
 
 I have followed their development for some time now and I am impressed by their strong and consequent work.
 Wim Crouwel
