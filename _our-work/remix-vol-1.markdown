@@ -1,8 +1,10 @@
 ---
 title: Remix Vol. 1
-date: 2014-05-06 13:11:00 Z
+date: 2017-07-20 00:00:00 Z
+categories:
+- Packaging
 position: 9
-imgcount: '2'
+imgcount: 2
 layout: project
 ---
 
