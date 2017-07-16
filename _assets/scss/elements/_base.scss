@@ -92,38 +92,30 @@ img {width: 100%; display: block;}
 
 // test styles
 
-h1 {
-  font-size: 30px;
-}
+// h1 {
+//   font-size: 30px;
+// }
 
-h2 {
-  font-size: 24px;
+// h2 {
+//   font-size: 24px;
 
-  a {color: $black;}
-}
+//   a {color: $black;}
+// }
 
-.post {
-  margin-bottom: 12px;
-}
-
-.heading {
-  margin-bottom: 24px;
-}
+.post     { margin-bottom: 12px; }
+.heading  { margin-bottom: 24px; }
 
 p{
-  font-size: $h4;
-  line-height: 22px;
-  margin-bottom: 12px;
+  // font-size: $h4;
+  // line-height: 22px;
+  margin-bottom: $base-spacing-unit / 2;
 
   @include breakpoint($large) {
-    font-size: 24px;
-    line-height: 28px;
+    margin-bottom: $base-spacing-unit;
   }
 }
 
-strong {
-  font-weight: bold;
-}
+strong { font-weight: bold; }
 
 
 
