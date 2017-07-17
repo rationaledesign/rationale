@@ -1,10 +1,12 @@
 ---
 title: 'Sean Wolcott: Graphic Design 2008–2014'
-date: 2015-04-06 13:25:00 Z
+date: 2015-01-01 00:00:00 Z
+categories:
+- Publication
 tags:
 - featured
 position: 6
-imgcount: '2'
+imgcount: 2
 layout: project
 ---
 
