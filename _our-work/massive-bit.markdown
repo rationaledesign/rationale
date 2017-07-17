@@ -1,10 +1,12 @@
 ---
 title: Massive Bit
-date: 2014-05-07 13:54:00 Z
+date: 2013-01-01 00:00:00 Z
+categories:
+- Identity
 tags:
 - featured
 position: 24
-imgcount: '7'
+imgcount: 7
 layout: project
 ---
 
