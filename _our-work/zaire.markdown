@@ -1,8 +1,10 @@
 ---
 title: Zaire
-date: 2014-02-14 06:32:00 Z
+date: 2013-01-01 00:00:00 Z
+categories:
+- Packaging
 position: 7
-imgcount: '2'
+imgcount: 2
 layout: project
 ---
 
