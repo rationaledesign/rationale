@@ -1,8 +1,10 @@
 ---
 title: Snowball
-date: 2014-05-06 13:13:00 Z
+date: 2015-01-01 00:00:00 Z
+categories:
+- Packaging
 position: 12
-imgcount: '1'
+imgcount: 1
 layout: project
 ---
 
