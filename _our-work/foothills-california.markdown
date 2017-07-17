@@ -1,8 +1,10 @@
 ---
 title: Foothills California
-date: 2014-05-07 13:53:00 Z
+date: 2017-01-01 00:00:00 Z
+categories:
+- Identity
 position: 22
-imgcount: '7'
+imgcount: 7
 layout: project
 ---
 
