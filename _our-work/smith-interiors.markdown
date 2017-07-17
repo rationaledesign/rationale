@@ -1,8 +1,10 @@
 ---
 title: Smith Interiors
-date: 2014-10-08 04:44:00 Z
+date: 2014-01-01 00:00:00 Z
+categories:
+- Identity
 position: 27
-imgcount: '1'
+imgcount: 1
 layout: project
 ---
 
