@@ -1,8 +1,10 @@
 ---
 title: Latitudex
-date: 2014-05-07 13:54:00 Z
+date: 2013-01-01 00:00:00 Z
+categories:
+- Identity
 position: 26
-imgcount: '8'
+imgcount: 8
 layout: project
 ---
 
