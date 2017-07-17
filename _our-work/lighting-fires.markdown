@@ -1,8 +1,10 @@
 ---
 title: Lighting Fires
-date: 2014-05-07 13:50:00 Z
+date: 2012-01-01 00:00:00 Z
+categories:
+- Identity
 position: 23
-imgcount: '5'
+imgcount: 5
 layout: project
 ---
 
