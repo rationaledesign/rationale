@@ -1,8 +1,8 @@
 ---
 title: Minimal Calendar
-date: 2014-05-06 22:27:00 Z
+date: 2013-01-01 00:00:00 Z
 position: 21
-imgcount: '3'
+imgcount: 3
 layout: project
 ---
 
