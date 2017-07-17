@@ -1,10 +1,12 @@
 ---
 title: Steven Brooks Photographs
-date: 2014-03-08 16:25:00 Z
+date: 2012-01-01 00:00:00 Z
+categories:
+- Publication
 tags:
 - featured
 position: 3
-imgcount: '1'
+imgcount: 1
 layout: project
 ---
 
