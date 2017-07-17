@@ -1,8 +1,10 @@
 ---
 title: Carry On
-date: 2014-03-08 16:32:00 Z
+date: 2013-01-01 00:00:00 Z
+categories:
+- Publication
 position: 4
-imgcount: '2'
+imgcount: 2
 layout: project
 ---
 
