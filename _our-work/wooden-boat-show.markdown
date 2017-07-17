@@ -1,10 +1,12 @@
 ---
 title: Wooden Boat Show
-date: 2014-05-06 13:59:00 Z
+date: 2013-01-01 00:00:00 Z
+categories:
+- Promotion
 tags:
 - featured
 position: 17
-imgcount: '1'
+imgcount: 1
 layout: project
 ---
 
