@@ -1,6 +1,6 @@
 ---
 title: Freya's Bazaar
-date: 2017-07-20 00:00:00 Z
+date: 2012-01-01 00:00:00 Z
 categories:
 - Promotion
 position: 13
