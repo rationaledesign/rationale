@@ -28,9 +28,9 @@ defaults:
     type: our-work
   values:
     layout: project
-    imgcount:
+    imgcount: 
     images:
-      -
+    - 
 permalink: pretty
 exclude:
 - Gemfile
