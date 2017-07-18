@@ -10,11 +10,11 @@ We are happy to enjoy the praise of design industries legends and business leade
 > More than proud, I am honored to know such a talent.
 <cite>Massimo Vignelli</cite>
 
->I have followed their development for some time now and I am impressed by their >strong and consequent work.
+>I have followed their development for some time now and I am impressed by their strong and consequent work.
 <cite>Wim Crouwel</cite>
 
 >Impressed by your vital strengths.
 <cite>Rolf Muller</cite>
 
->In a world of design that is too often going to extremes, it is a relief to find that >there is still enough space for a plain style.
+>In a world of design that is too often going to extremes, it is a relief to find that there is still enough space for a plain style.
 <cite>Ben Bos</cite>
