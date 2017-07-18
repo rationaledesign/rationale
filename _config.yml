@@ -24,8 +24,7 @@ defaults:
   values:
     layout: default
 - scope:
-    path: our-work
-    type: our work
+    type: our-work
   values:
     layout: project
 permalink: pretty
