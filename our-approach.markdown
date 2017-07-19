@@ -9,6 +9,9 @@ Design is not a job, it is a mission.
 
 Rationale was founded on this conviction – our work is our passion and we bring over 20 years expertise across all aspects of design to each projects wether it be brand identity systems, digital design, publications, or more. 
 
+![r_ourapproach1-6636a9.jpg](/uploads/r_ourapproach1-6636a9.jpg)
+![r_ourapproach2.jpg](/uploads/r_ourapproach2.jpg)
+
 Our team of highly curated top talent from around the global brings a world class and international perspective. Sean Wolcott the founder of Rationale brings over 20 years experience lorem ipsum dolor ist amet lorem dolor amet.
 
 We would love to discuss the possibility in how we might help on your next project.
