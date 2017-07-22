@@ -4,6 +4,7 @@ date: 2017-07-20 00:00:00 Z
 categories:
 - Publication
 position: 2
+year: 2012
 imgcount: 2
 layout: project
 ---
