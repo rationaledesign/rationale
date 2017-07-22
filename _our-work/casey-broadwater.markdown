@@ -4,6 +4,7 @@ date: 2014-01-01 00:00:00 Z
 categories:
 - Identity
 position: 25
+year: 2014
 imgcount: 7
 layout: project
 ---
