@@ -4,6 +4,7 @@ date: 2008-01-01 00:00:00 Z
 categories:
 - Packaging
 position: 8
+year: 2008
 imgcount: 3
 layout: project
 ---
