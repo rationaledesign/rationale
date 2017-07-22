@@ -2,7 +2,8 @@
 title: Gropiusstadt
 date: 2014-05-06 13:55:00 Z
 position: 14
-imgcount: '1'
+year: 2014
+imgcount: 1
 layout: project
 ---
 
