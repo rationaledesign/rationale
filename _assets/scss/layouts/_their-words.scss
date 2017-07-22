@@ -5,4 +5,10 @@
       @include col-half(false);
     }
   }
+
+  > p {
+    @include breakpoint($med) {
+      padding-right: $unit-5 !important;
+    }
+  }
 }
