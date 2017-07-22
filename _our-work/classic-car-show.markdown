@@ -4,6 +4,7 @@ date: 2017-07-20 00:00:00 Z
 categories:
 - Promotion
 position: 16
+year: 2012
 imgcount: 8
 layout: project
 ---
