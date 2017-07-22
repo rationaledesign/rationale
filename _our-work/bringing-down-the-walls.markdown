@@ -4,6 +4,7 @@ date: 2009-01-01 00:00:00 Z
 categories:
 - Promotion
 position: 19
+year: 2009
 imgcount: 1
 layout: project
 ---
