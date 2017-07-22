@@ -4,6 +4,7 @@ date: 2013-01-01 00:00:00 Z
 categories:
 - Publication
 position: 4
+year: 2013
 imgcount: 2
 layout: project
 ---
