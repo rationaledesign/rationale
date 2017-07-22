@@ -19,14 +19,12 @@ body {
 
 header,
 footer {
-  a {color: $black;}
+  a { color: $black; }
 }
 
 header{
   @include o(blue);
-  margin: $qtr-spacing-unit 0 $half-spacing-unit;
   min-height: 112px;
-  font-family: $font-NHG--med;
 
   @include breakpoint($med){
     min-height: $base-spacing-unit * 4;

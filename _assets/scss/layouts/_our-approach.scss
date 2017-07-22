@@ -1,13 +1,7 @@
 .our-approach .content {
   @include h2;
+
+  a {
+    @include link--secondary;
+  }
 }
-
-// .images-2up {
-//   @extend %row;
-
-//   img {
-//     @include breakpoint($med) {
-//       @include col-half;
-//     }
-//   }
-// }

@@ -7,13 +7,13 @@ layout: default
     <div class="h2 md-col-half md-offset-half">
       {{content}}
     </div>
-    <div class="row mb-2">
+    <div class="mb-2 images-2up">
       {% for image in page.images %}
-          <img src="{{image}}" class="md-col-half">
+          <img src="{{image}}">
       {% endfor %}
     </div>
     <div class="h2 mb-2-5 md-col-half md-offset-half">
-      {{page.bottom_body}}
+      {{ page.bottom_body | markdownify }}
     </div>
   </div>
 </div>

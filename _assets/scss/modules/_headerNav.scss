@@ -1,3 +1,7 @@
+.primary-header {
+  margin-top: $unit-qtr;
+}
+
 .logo {
   float: left;
   margin-bottom:  $half-spacing-unit;
@@ -32,6 +36,7 @@
   float:right;
   padding: 0; // for nested elements
   margin-top: -3px;
+
   @include breakpoint($med) {
     float:right;
     padding: 0; // for nested elements
@@ -50,13 +55,7 @@
     @include h4--med;
     padding-bottom: 6px;
     padding-top: 1px;
+    @include link;
 
-    &:hover {
-      color: $red;
-    }
   }
-}
-
-.current {
-  color: $red;
 }
