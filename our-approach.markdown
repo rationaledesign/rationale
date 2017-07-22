@@ -12,7 +12,6 @@ bottom_body: |-
 
   - [hello@rationale-design.com](mailto:hello@rationale-design.com)
   - [+1 415/742 9116](tel:+14157429116)
-
 layout: our-approach
 ---
 
