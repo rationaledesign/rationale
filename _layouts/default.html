@@ -42,19 +42,19 @@
   <h1 itemprop="name" class="hide">Rationale Design</h1>
   <p class="hide" itemprop="description">{{site.description}}</p>
 
-  <div class="{{parent.parent.title | handleize}} {{url | remove_first: '/' | replace: '/', '-'  }} {{title | handleize}}">
+  <div class="content {{ page.title | slugify }}">
 
-    <div class="container">
+    <header class="container">
       {% include header.html %}
-    </div>
+    </header>
 
-    <section class="content">
+    <section>
       {{ content }}
     </section>
 
-    <div class="container test">
+    <footer class="container">
       {% include footer.html %}
-    </div>
+    </footer>
     <!-- <div class="grid" data-development-grid="hide"></div> -->
   </div><!-- /wrap -->
 <!--   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->

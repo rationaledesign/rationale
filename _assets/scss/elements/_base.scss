@@ -8,6 +8,7 @@ html {
 body {
   border-top: solid $black 18px;
   @include h4;
+  background-color: $white;
   -webkit-font-smoothing: antialiased !important;
   color: $black;
 
@@ -33,7 +34,6 @@ header{
 }
 
 footer {
-  @extend %border-top;
   font-size: $h6;
   line-height: 20px;
   padding-top: 4px;
@@ -50,8 +50,7 @@ footer {
 }
 
 a {
-  text-decoration: none;
-  color: $red;
+  @include link--tertiary;
 }
 
 button {
@@ -72,13 +71,10 @@ button {
 img {width: 100%; display: block;}
 
 .container {
-  // min-height: 500px;
   position: relative;
   padding-left:  12px;
   padding-right: 12px;
   margin: 0 auto;
-
-  @include o(red);
 
   @include breakpoint($small) {max-width: 768px;}
   @include breakpoint($med)   {max-width: 1130px;}
@@ -90,32 +86,31 @@ img {width: 100%; display: block;}
   }
 }
 
-// test styles
-
-// h1 {
-//   font-size: 30px;
-// }
-
-// h2 {
-//   font-size: 24px;
-
-//   a {color: $black;}
-// }
-
 .post     { margin-bottom: 12px; }
 .heading  { margin-bottom: 24px; }
 
-p{
-  // font-size: $h4;
-  // line-height: 22px;
-  margin-bottom: $base-spacing-unit / 2;
+p {
+  margin-bottom: $unit;
 
-  @include breakpoint($large) {
-    margin-bottom: $base-spacing-unit;
+  @include breakpoint($med) {
+    margin-bottom: $unit * 2;
   }
 }
 
-strong { font-weight: bold; }
+blockquote {
+  margin-bottom: $unit;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  cite {
+    display: block;
+    @include h4--med;
+  }
+}
+
+// strong { font-weight: bold; }
 
 
 

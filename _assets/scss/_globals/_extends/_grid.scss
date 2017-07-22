@@ -128,6 +128,19 @@
 
 // grid classes
 
+.sm-col-half {
+  @include breakpoint($small) {
+    @include col-half(false);
+  }
+}
+
+.sm-offset-half {
+  @include breakpoint($small) {
+    @include col;
+    margin-left: 50%;
+  }
+}
+
 .md-col-half {
   @include breakpoint($med) {
     @include col-half(false);
@@ -153,3 +166,49 @@
     margin-left: 50%;
   }
 }
+
+// space classes
+
+.mb       { margin-bottom: $unit }
+.mb-2     { margin-bottom: $unit-2 }
+.mb-3     { margin-bottom: $unit-3 }
+.mb-4     { margin-bottom: $unit-4 }
+.mb-half  { margin-bottom: $unit-half }
+
+.pb       { padding-bottom: $unit }
+.pb-2     { padding-bottom: $unit-2 }
+.pb-3     { padding-bottom: $unit-3 }
+.pb-4     { padding-bottom: $unit-4 }
+.pb-half  { padding-bottom: $unit-half }
+
+// FIXME create space classes
+
+.sm-below-mb {
+  @include breakpoint(0px $small) {
+    margin-bottom: $unit-15;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

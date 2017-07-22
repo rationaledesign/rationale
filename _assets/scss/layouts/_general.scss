@@ -12,41 +12,41 @@
   }
 }
 
-.title {
-  margin-top: 4px;
-  @include breakpoint($med) {
-    @include col-two-thirds(false);
-  }
-  @include breakpoint($large) {
-    @include col-third(false);
-  }
-  margin-bottom: 30px;
-}
+// .title {
+//   margin-top: 4px;
+//   @include breakpoint($med) {
+//     @include col-two-thirds(false);
+//   }
+//   @include breakpoint($large) {
+//     @include col-third(false);
+//   }
+//   margin-bottom: 30px;
+// }
 
 .content {
-  margin-bottom: 78px;
+  // margin-bottom: 78px;
 
-  div[class*="blog"] & { // removes margin for all blog pages & posts
-    margin-bottom: 0;
-  }
+  // div[class*="blog"] & { // removes margin for all blog pages & posts
+  //   margin-bottom: 0;
+  // }
 
-  div[class*="projects"] & { // removes margin for project rool
-    margin-bottom: 78px - 44px; // subtract thumbnail margin-bottom & line-height
-  }
+  // div[class*="projects"] & { // removes margin for project rool
+  //   margin-bottom: 78px - 44px; // subtract thumbnail margin-bottom & line-height
+  // }
 
-  .home & {
-    margin-bottom: 78px - 12px;
+  // .home & {
+  //   margin-bottom: 78px - 12px;
 
-    @include breakpoint($large) {
-      margin-bottom: 78px - 24px;
-    }
-  }
+  //   @include breakpoint($large) {
+  //     margin-bottom: 78px - 24px;
+  //   }
+  // }
 }
 
-.section--middle {
-  padding-top: 3px;
-  padding-bottom: 41px;
-  margin-bottom: 4px;
-  border-bottom: 1px solid $black;
-  border-top: 1px solid $black;
-}
+// .section--middle {
+//   padding-top: 3px;
+//   padding-bottom: 41px;
+//   margin-bottom: 4px;
+//   border-bottom: 1px solid $black;
+//   border-top: 1px solid $black;
+// }

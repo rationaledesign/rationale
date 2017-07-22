@@ -3,8 +3,8 @@
 }
 
 .thumbnail {
-  margin-bottom: 38px;
-  padding-right: 12px;
+  margin-bottom: $unit-2;
+  padding-right: $unit-half;
 
   &:hover a {
     color: $red;
@@ -13,12 +13,13 @@
   @include breakpoint($small) {
     @include col-half(false);
   }
-  @include breakpoint($med) {
-    margin-bottom: 39px;
+
+  @include breakpoint($med){
+    margin-bottom: $unit-25
   }
 
   @include breakpoint($large){
-    margin-bottom: 94px
+    margin-bottom: $unit-3
   }
 
   .home & { // two col thumbnails only on home
@@ -43,11 +44,11 @@
     span {margin: 0;}
   }
 
-  .more & { // thumbnails underneath "more" in project detail
-    margin-bottom: 40px;
+  // .more & { // thumbnails underneath "more" in project detail
+  //   margin-bottom: 40px;
 
-    &:last-child {margin-bottom: 12px;}
-  }
+  //   &:last-child {margin-bottom: 12px;}
+  // }
 
   a { // overwrite default link color
     display: block;

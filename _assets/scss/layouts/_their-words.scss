@@ -1,0 +1,8 @@
+.their-words > section > .container {
+  > p,
+  > ul {
+    @include breakpoint($med) {
+      @include col-half(false);
+    }
+  }
+}

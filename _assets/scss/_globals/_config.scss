@@ -1,29 +1,42 @@
 
-// Breakpoint
+// Breakpoints
 
-$small:    560px;
-$med:      948px;
-$large:   1681px;
+$small:         560px;
+$med:           948px;
+$large:         1681px;
 
 $gutter1: 1px; // change for different gutter size
 $gutter2: 1px;
-// $gutter2: 1.2%;
 
-$basefont:  18;
-$h1:        46;
+$basefont:  17px;
+
+$h1:        46px;
 $h2:        32px;
 $h3:        20px;
 $h4:        17px;
 $h5:        14px;
 $h6:        14px;
 
-
 // line height
 $line: $basefont * 1.5;
 
 // spacing
-
 $base-spacing-unit: 24px;
+
+$unit:        24px;
+
+$unit-qtr:    $unit / 4;
+$unit-half:   $unit / 2;
+
+$unit-15:     $unit * 1.5;
+$unit-2:      $unit * 2;
+$unit-25:     $unit * 2.5;
+$unit-3:      $unit * 3;
+$unit-35:     $unit * 3.5;
+$unit-4:      $unit * 4;
+$unit-45:     $unit * 4.5;
+$unit-5:      $unit * 5;
+
 $half-spacing-unit: $base-spacing-unit / 2;
 $qtr-spacing-unit:  $base-spacing-unit / 4;
 
@@ -33,7 +46,7 @@ $qtr-spacing-unit:  $base-spacing-unit / 4;
 $black_absolute:    #000000;
 $black:             #222222;
 $red:               #ff3c00;
-$white_almost:      #fffdfa;
+$white:             #fffdfa;
 $white_absolute:    #ffffff;
 $grey_dark:         #666666;
 $grey_medium:       #999999;

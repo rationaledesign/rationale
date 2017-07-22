@@ -1,5 +1,4 @@
 .logo {
-  @include o(red);
   float: left;
   margin-bottom:  $half-spacing-unit;
 
@@ -48,8 +47,7 @@
 
   a { // this is attached to product detail
     display: block;
-    // @extend %bold;
-    @include h4--bold;
+    @include h4--med;
     padding-bottom: 6px;
     padding-top: 1px;
 

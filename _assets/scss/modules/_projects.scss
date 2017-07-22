@@ -1,9 +1,4 @@
 .project-detail {
-  margin-bottom: 31px;
-  
-  @include breakpoint($med) {
-    margin-bottom: 41px;
-  }
 
   img {
     margin-bottom: 1px;
@@ -28,18 +23,18 @@
   margin-bottom: 13px;
   @include breakpoint($med) {
     margin-bottom: 0;
-    @include col-third(false);
+    // @include col-third(false);
   }
 }
 
 .project-description {
-  margin-bottom: 49px;
-  
+  margin-bottom: $unit;
+
   @include breakpoint($med) {
-    @include col-two-thirds(false);
-    margin-bottom: 55px;
+    // @include col-two-thirds(false);
+    // margin-bottom: 55px;
   }
-  
+
 }
 
 .project-images {

@@ -1,12 +1,7 @@
-footer {
-  div {
-    @include breakpoint($small) {
-      @include col-half(false);
-    }
-    @include breakpoint($med) {
-      @include col-third(false);
-    }
+footer > .row {
+  @extend %border-top;
 
+  div {
     &:first-child {
       margin-bottom: 18px;
     }
@@ -14,7 +9,7 @@ footer {
 
   a {
     @include h5;
-    display: block;
+    display: inline-block;
 
     &.is-current-page {
       color: $red;

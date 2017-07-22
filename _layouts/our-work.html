@@ -4,10 +4,12 @@ layout: default
 
 <div class="content">
   <div class="container">
-    <div class="h2 mb-2-5 lg-col-half lg-offset-half">
+    <div class="h2 mb-2-5 md-col-half md-offset-half">
       {{content}}
     </div>
-    {% include thumbnails.html collection=site.our-work %}
+    <div class="sm-below-mb">
+      {% include thumbnails.html collection=site.our-work %}
+    </div>
   </div>
 </div>
 
