@@ -32,7 +32,7 @@
 
 @mixin h3--med {
   @include h3;
-  font-family: $font-NHG--bold;
+  font-family: $font-NHG--med;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -52,7 +52,7 @@
 
 @mixin h4--med {
   @include h4;
-  font-family: $font-NHG--bold;
+  font-family: $font-NHG--med;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -71,7 +71,7 @@
 
 @mixin h5--med {
   @include h5;
-  font-family: $font-NHG--bold;
+  font-family: $font-NHG--med;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}

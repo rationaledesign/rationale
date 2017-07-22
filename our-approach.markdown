@@ -12,11 +12,10 @@ bottom_body: |-
 
   - [hello@rationale-design.com](mailto:hello@rationale-design.com)
   - [+1 415/742 9116](tel:+14157429116)
+
 layout: our-approach
 ---
 
 Design is not a job, it is a mission.
 
 Rationale was founded on this conviction – our work is our passion and we bring over 20 years expertise across all aspects of design to each projects wether it be brand identity systems, digital design, publications, or more.
-
-

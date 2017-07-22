@@ -1,0 +1,13 @@
+.our-approach .content {
+  @include h2;
+}
+
+// .images-2up {
+//   @extend %row;
+
+//   img {
+//     @include breakpoint($med) {
+//       @include col-half;
+//     }
+//   }
+// }

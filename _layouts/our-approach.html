@@ -4,8 +4,16 @@ layout: default
 
 <div class="content row">
   <div class="container">
-    <div class="h2 mb-2-5 md-col-half md-offset-half">
+    <div class="h2 md-col-half md-offset-half">
       {{content}}
+    </div>
+    <div class="row mb-2">
+      {% for image in page.images %}
+          <img src="{{image}}" class="md-col-half">
+      {% endfor %}
+    </div>
+    <div class="h2 mb-2-5 md-col-half md-offset-half">
+      {{page.bottom_body}}
     </div>
   </div>
 </div>
