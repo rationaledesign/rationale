@@ -4,6 +4,7 @@ date: 2012-01-01 00:00:00 Z
 categories:
 - Identity
 position: 23
+year: 2012
 imgcount: 5
 layout: project
 ---
