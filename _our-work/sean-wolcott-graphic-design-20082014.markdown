@@ -6,6 +6,7 @@ categories:
 tags:
 - featured
 position: 6
+year: 2015
 imgcount: 2
 layout: project
 ---
