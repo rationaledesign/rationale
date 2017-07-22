@@ -1,11 +1,10 @@
 ---
 title: April Brimer Photography
 date: 2017-07-20 00:00:00 Z
-published: false
 categories:
 - Identity
 position: 0
-imgcount: 
+year: 2014
 layout: project
 ---
 
