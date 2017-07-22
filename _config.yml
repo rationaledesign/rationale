@@ -28,10 +28,10 @@ defaults:
     type: our-work
   values:
     layout: project
-    year:
-    imgcount:
+    year: 
+    imgcount: 
     images:
-    -
+    - 
 permalink: pretty
 exclude:
 - Gemfile
