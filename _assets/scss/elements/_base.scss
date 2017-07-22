@@ -10,7 +10,7 @@ body {
   @include h4;
   background-color: $white;
   -webkit-font-smoothing: antialiased !important;
-  color: $black;
+  color: $grey_dark;
 
   @include breakpoint($large) {
     @include h3;
@@ -99,12 +99,15 @@ blockquote {
   margin-bottom: $unit;
 
   p {
+    @include h2;
     margin-bottom: 0;
   }
 
   cite {
+    // margin-top: $unit-half;
     display: block;
     @include h4--med;
+    color: $black;
   }
 }
 
