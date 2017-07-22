@@ -8,7 +8,14 @@ layout: default
       <div class="project-info">
         <div class='project-title md-col-half'>
           <h4 class=''>{{ page.title }}</h4>
-          <h5 class=''>{{ page.date | date: "%Y" }}</h5>
+          <h5 class=''>
+            {% if page.year %}
+              {{ page.year }}
+            {% else %}
+              {{ page.date | date: "%Y" }}
+            {% endif %}
+            }
+          </h5>
         </div>
         <div class="project-description md-col-half">
           {% comment %}if project has excerpt{% endcomment %}
