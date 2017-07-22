@@ -1,9 +1,9 @@
 ---
 title: Bryan Kenndey
 date: 2016-01-01 00:00:00 Z
-published: false
 categories:
 - Identity
+year: 2016
 ---
 
 ...
