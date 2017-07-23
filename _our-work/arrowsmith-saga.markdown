@@ -9,8 +9,8 @@ imgcount: 2
 images:
 - "/uploads/arrowsmith-saga-b1.jpg"
 - "/uploads/arrowsmith-saga-b2.jpg"
-og_image: "/uploads/arrowsmith-saga-s1.jpg"
-thumb_image: 
+og_image: "/uploads/arrowsmith-saga-og.jpg"
+thumb_image: "/uploads/arrowsmith-saga-s1.jpg"
 layout: project
 ---
 
