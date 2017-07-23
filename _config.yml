@@ -28,12 +28,36 @@ defaults:
     type: our-work
   values:
     layout: project
-    year: 
-    imgcount: 
+    year:
+    imgcount:
     images:
-    - 
-    thumb_image: 
-    og_image: 
+    -
+    thumb_image:
+    og_image:
+- scope:
+    path: ''
+    type: resources
+  values:
+    layout: resource
+    author:
+    imgcount:
+    images:
+    -
+    thumb_image:
+    download_file:
+    og_image:
+- scope:
+    path: ''
+    type: store
+  values:
+    layout: product-detail
+    price:
+    buylink:
+    imgcount:
+    images:
+    -
+    thumb_image:
+    og_image:
 permalink: pretty
 exclude:
 - Gemfile
@@ -44,4 +68,4 @@ exclude:
 - gulpfile.js
 description: Rationale provides world-class expertise in design, identity systems,
   and envisioning across multiple mediums.
-og_image: 
+og_image:
