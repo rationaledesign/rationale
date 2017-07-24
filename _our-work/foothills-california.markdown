@@ -5,6 +5,15 @@ categories:
 - Identity
 position: 22
 year: 2013
+images:
+- "/uploads/foothillsid-1.jpg"
+- "/uploads/foothillsid-2.jpg"
+- "/uploads/foothillsid-3.jpg"
+- "/uploads/foothillsid-4.jpg"
+- "/uploads/foothillsid-5.jpg"
+- "/uploads/foothillsid-6.jpg"
+thumb_image: "/uploads/foothillsid-0.jpg"
+og_image: "/uploads/foothillsid-og.jpg"
 layout: project
 ---
 
