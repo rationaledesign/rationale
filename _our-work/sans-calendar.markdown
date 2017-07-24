@@ -7,7 +7,11 @@ tags:
 - featured
 position: 1
 year: 2013
-thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
+images:
+- "/uploads/sanscalendar-1.jpg"
+- "/uploads/sanscalendar-2.jpg"
+thumb_image: "/uploads/sanscalendar-0.jpg"
+og_image: "/uploads/sanscalendar-og.jpg"
 layout: project
 ---
 
