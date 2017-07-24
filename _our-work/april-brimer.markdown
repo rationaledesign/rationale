@@ -5,7 +5,7 @@ categories:
 - Identity
 position: 0
 year: 2014
-thumb_image: "/uploads/rationale_og.jpg"
+thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
 layout: project
 ---
 
