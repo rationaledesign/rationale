@@ -8,7 +8,6 @@ tags:
 position: 1
 year: 2013
 thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
-imgcount: 2
 layout: project
 ---
 

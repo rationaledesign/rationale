@@ -13,7 +13,6 @@ images:
 - "/uploads/casey-broadwater-5.jpg"
 thumb_image: "/uploads/casey-broadwater-0.jpg"
 og_image: "/uploads/casey-broadwater-og.jpg"
-imgcount: 7
 layout: project
 ---
 

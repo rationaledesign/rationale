@@ -5,7 +5,6 @@ categories:
 - Promotion
 position: 13
 year: 2012
-imgcount: 1
 layout: project
 ---
 

@@ -5,7 +5,6 @@ categories:
 - Publication
 position: 5
 year: 2012
-imgcount: 1
 layout: project
 ---
 

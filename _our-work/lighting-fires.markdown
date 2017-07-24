@@ -5,7 +5,6 @@ categories:
 - Identity
 position: 23
 year: 2012
-imgcount: 5
 layout: project
 ---
 

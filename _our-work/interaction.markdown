@@ -5,7 +5,6 @@ categories:
 - Packaging
 position: 11
 year: 2012
-imgcount: 2
 layout: project
 ---
 

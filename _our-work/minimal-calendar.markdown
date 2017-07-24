@@ -5,7 +5,6 @@ categories:
 - User Interface
 position: 21
 year: 2013
-imgcount: 3
 layout: project
 ---
 

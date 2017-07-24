@@ -5,7 +5,6 @@ categories:
 - Packaging
 position: 8
 year: 2008
-imgcount: 3
 layout: project
 ---
 
