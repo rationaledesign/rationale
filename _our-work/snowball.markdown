@@ -5,6 +5,7 @@ categories:
 - Packaging
 position: 12
 year: 2015
+thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
 imgcount: 1
 layout: project
 ---
