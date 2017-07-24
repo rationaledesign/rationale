@@ -92,7 +92,7 @@
   display: inline-block;
   position: relative;
 
-  &:focus {
+  &:focus:not(:hover) {
     outline: none;
 
     &:after {
