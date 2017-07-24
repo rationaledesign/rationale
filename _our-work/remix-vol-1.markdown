@@ -8,7 +8,6 @@ year: 2009
 images:
 - "/uploads/remixvol1-1.jpg"
 - "/uploads/remixvol1-2.jpg"
-- 
 thumb_image: "/uploads/remixvol1-0.jpg"
 og_image: "/uploads/remixvol1-og.jpg"
 layout: project
