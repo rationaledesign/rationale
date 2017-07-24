@@ -5,7 +5,10 @@ categories:
 - Packaging
 position: 12
 year: 2015
-thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
+images:
+- "/uploads/snowball-1.jpg"
+thumb_image: "/uploads/snowball-0.jpg"
+og_image: "/uploads/snowball-og.jpg"
 layout: project
 ---
 
