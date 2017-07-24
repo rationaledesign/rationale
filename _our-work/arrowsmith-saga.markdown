@@ -5,9 +5,6 @@ categories:
 - Publication
 position: 2
 year: 2012
-images:
-- 
-- 
 thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
 layout: project
 ---
