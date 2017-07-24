@@ -3,8 +3,8 @@
   {% for item in items %}
     <li class='thumbnail'>
       <a href='{{ item.url }}'>
-        {% assign pageTitle = item.url | split: '/' %}
-        {% capture img %}/assets/img{{ item.url }}thumb/{{pageTitle[2]}}-s1{% endcapture %}
+        {% capture image %}{{item.thumb_image}}{% endcapture %}
+        {% capture title %}{{item.title}}{% endcapture %}
         {% include img.html %}
         <h2 class="h4">{{ item.title }}</h2>
       </a>

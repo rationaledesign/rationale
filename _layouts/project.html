@@ -31,31 +31,28 @@ layout: default
       </div>
     </div>
     <div class="project-images">
-      {% assign pageTitle = page.url | split: '/' %}
-      {% comment %}Pull number of images from imgCount set in CMS then include image{% endcomment %}
-      {% for i in (1..page.imgcount) %}
-        {% capture img %}/assets/img{{ page.url }}detail/{{pageTitle[2]}}-b{{i}}{% endcapture %}
-        {% include img.html %}
+      {% for image in page.images %}
+          {% include img.html %}
       {% endfor %}
     </div>
   </article>
   <div class="container">
     <div class="">
       More
+
       <ul class="thumbnails">
         <!-- Fixme add paramater for image thumb or detail default to detail -->
         <li class='thumbnail'>
           <a href='{{ page.previous.url }}'>
-            {% assign pageTitle = page.previous.url | split: '/' %}
-            {% capture img %}/assets/img{{ page.previous.url }}thumb/{{pageTitle[2]}}-s1{% endcapture %}
+            {% capture image %}{{page.previous.thumb_image}}{% endcapture %}
+            {% capture title %}{{page.previous.title}}{% endcapture %}
             {% include img.html %}
             <h2>{{ page.previous.title }}</h2>
           </a>
         </li>
         <li class='thumbnail'>
           <a href='{{ page.next.url }}'>
-            {% assign pageTitle = page.next.url | split: '/' %}
-            {% capture img %}/assets/img{{ page.next.url }}thumb/{{pageTitle[2]}}-s1{% endcapture %}
+            {% capture image %}{{page.next.thumb_image}}{% endcapture %}
             {% include img.html %}
             <h2>{{ page.next.title }}</h2>
           </a>
@@ -64,4 +61,3 @@ layout: default
     </div>
   </div>
 </section>
-
