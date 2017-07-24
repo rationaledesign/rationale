@@ -5,7 +5,7 @@ categories:
 - Identity
 position: 0
 year: 2014
-thumb_image: "/uploads/Fried_Avo_Taco_w_Prick_Pear_Salsa-plate-0836d8.png"
+thumb_image: "/uploads/rationale_og.jpg"
 layout: project
 ---
 
