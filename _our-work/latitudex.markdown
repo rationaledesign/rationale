@@ -5,6 +5,15 @@ categories:
 - Identity
 position: 26
 year: 2013
+images:
+- "/uploads/latitudex-1.jpg"
+- "/uploads/latitudex-2.jpg"
+- "/uploads/latitudex-3.jpg"
+- "/uploads/latitudex-4.jpg"
+- "/uploads/latitudex-5.jpg"
+- "/uploads/latitudex-6.jpg"
+thumb_image: "/uploads/latitudex-0.jpg"
+og_image: "/uploads/latitudex-og.jpg"
 layout: project
 ---
 
