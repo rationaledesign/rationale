@@ -5,6 +5,10 @@ categories:
 - Promotion
 position: 15
 year: 2011
+images:
+- "/uploads/allinlove-1.jpg"
+thumb_image: "/uploads/allinlove-0.jpg"
+og_image: "/uploads/allinlove-og.jpg"
 layout: project
 ---
 
