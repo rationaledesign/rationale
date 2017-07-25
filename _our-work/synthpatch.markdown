@@ -7,6 +7,10 @@ tags:
 - featured
 position: 20
 year: 2014
+images:
+- "/uploads/synthpatch-1.jpg"
+thumb_image: "/uploads/synthpatch-0.jpg"
+og_image: "/uploads/synthpatch-og.jpg"
 layout: project
 ---
 
