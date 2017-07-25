@@ -8,7 +8,7 @@ year: 2012
 images:
 - "/uploads/freyasbazaar-1.jpg"
 thumb_image: "/uploads/freyasbazaar-0.jpg"
-og_image: "/uploads/freyasbazaar-og.jpg"
+og_image: "/uploads/freyasbazaar-og-c95b51.jpg"
 layout: project
 ---
 
