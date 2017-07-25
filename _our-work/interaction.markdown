@@ -8,7 +8,7 @@ year: 2012
 images:
 - "/uploads/interaction-1.jpg"
 - "/uploads/interaction-2.jpg"
-thumb_image: "/uploads/interaction-0.jpg"
+thumb_image: "/uploads/interaction-0b.jpg"
 og_image: "/uploads/interaction-og.jpg"
 layout: project
 ---
