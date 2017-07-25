@@ -5,6 +5,11 @@ categories:
 - Publication
 position: 5
 year: 2012
+images:
+- "/uploads/ifnotfordawn-1.jpg"
+- "/uploads/ifnotfordawn-2.jpg"
+thumb_image: "/uploads/ifnotfordawn-0.jpg"
+og_image: "/uploads/ifnotfordawn-og.jpg"
 layout: project
 ---
 
