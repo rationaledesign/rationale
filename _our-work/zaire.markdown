@@ -8,7 +8,7 @@ year: 2013
 images:
 - "/uploads/zaire-1.jpg"
 - "/uploads/zaire-2.jpg"
-- "/uploads/zaire-3.jpg"
+- "/uploads/zaire-3b.jpg"
 thumb_image: "/uploads/zaire-0.jpg"
 og_image: "/uploads/zaire-og.jpg"
 layout: project
