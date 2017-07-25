@@ -5,6 +5,11 @@ categories:
 - Promotion
 position: 19
 year: 2009
+images:
+- "/uploads/bringingdownwalls-1.jpg"
+- "/uploads/bringingdownwalls-2.jpg"
+thumb_image: "/uploads/bringingdownwalls-0.jpg"
+og_image: "/uploads/bringingdownwalls-og.jpg"
 layout: project
 ---
 
