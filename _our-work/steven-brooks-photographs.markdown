@@ -10,7 +10,7 @@ year: 2012
 images:
 - "/uploads/stevenbrooks-1.jpg"
 thumb_image: "/uploads/stevenbrooks-0.jpg"
-og_image: "/uploads/stevenbrooks-og.jpg"
+og_image: "/uploads/stevenbrooks-og1.jpg"
 layout: project
 ---
 
