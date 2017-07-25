@@ -5,7 +5,11 @@ categories:
 - Publication
 position: 2
 year: 2012
-thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
+images:
+- "/uploads/arrowsmith-1.jpg"
+- "/uploads/arrowsmith-2.jpg"
+thumb_image: "/uploads/arrowsmith-0.jpg"
+og_image: "/uploads/arrowsmith-og.jpg"
 layout: project
 ---
 
