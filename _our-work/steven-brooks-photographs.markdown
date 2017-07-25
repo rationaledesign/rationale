@@ -7,6 +7,10 @@ tags:
 - featured
 position: 3
 year: 2012
+images:
+- "/uploads/stevenbrooks-1.jpg"
+thumb_image: "/uploads/stevenbrooks-0.jpg"
+og_image: "/uploads/stevenbrooks-og.jpg"
 layout: project
 ---
 
