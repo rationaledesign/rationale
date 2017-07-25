@@ -5,6 +5,11 @@ categories:
 - Publication
 position: 4
 year: 2013
+images:
+- "/uploads/carryon-1.jpg"
+- "/uploads/carryon-2.jpg"
+thumb_image: "/uploads/carryon-0.jpg"
+og_image: "/uploads/carryon-og.jpg"
 layout: project
 ---
 
