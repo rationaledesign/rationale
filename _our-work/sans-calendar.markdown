@@ -8,7 +8,7 @@ tags:
 position: 1
 year: 2013
 images:
-- "/uploads/sanscalendar-11.jpg"
+- "/uploads/sanscalendar-1b.jpg"
 - "/uploads/sanscalendar-2.jpg"
 thumb_image: "/uploads/sanscalendar-0.jpg"
 og_image: "/uploads/sanscalendar-og.jpg"
