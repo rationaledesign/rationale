@@ -9,12 +9,12 @@ position: 24
 year: 2013
 images:
 - "/uploads/massivebit-1.jpg"
-- "/uploads/massivebit-2.jpg"
+- "/uploads/massivebit-2b.jpg"
 - "/uploads/massivebit-3.jpg"
 - "/uploads/massivebit-4.jpg"
 - "/uploads/massivebit-5.jpg"
-- "/uploads/massivebit-6.jpg"
-- "/uploads/massivebit-7.jpg"
+- "/uploads/massivebit-6b.jpg"
+- "/uploads/massivebit-7b.jpg"
 thumb_image: "/uploads/massivebit-0.jpg"
 og_image: "/uploads/massivebit-og1.jpg"
 layout: project
