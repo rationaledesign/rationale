@@ -8,7 +8,7 @@ year: 2012
 images:
 - "/uploads/arrowsmith-1.jpg"
 - "/uploads/arrowsmith-2.jpg"
-thumb_image: "/uploads/arrowsmith-0.jpg"
+thumb_image: "/uploads/arrowsmith-0b.jpg"
 og_image: "/uploads/arrowsmith-og.jpg"
 layout: project
 ---
