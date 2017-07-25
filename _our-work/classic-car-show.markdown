@@ -8,7 +8,7 @@ year: 2012
 images:
 - "/uploads/classiccar-1.jpg"
 - "/uploads/classiccar-2.jpg"
-- "/uploads/classiccar-3.jpg"
+- "/uploads/classiccar-3b.jpg"
 - "/uploads/classiccar-4.jpg"
 - "/uploads/classiccar-5.jpg"
 - "/uploads/classiccar-6.jpg"
