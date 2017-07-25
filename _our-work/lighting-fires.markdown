@@ -12,7 +12,7 @@ images:
 - "/uploads/lightingfires-4.jpg"
 - "/uploads/lightingfires-5.jpg"
 thumb_image: "/uploads/lightingfires-0.jpg"
-og_image: "/uploads/lightingfires-og.jpg"
+og_image: "/uploads/lightingfires-og1.jpg"
 layout: project
 ---
 
