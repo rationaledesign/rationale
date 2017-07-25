@@ -6,7 +6,7 @@ categories:
 position: 12
 year: 2015
 images:
-- "/uploads/snowball-1.jpg"
+- "/uploads/snowball-1b.jpg"
 thumb_image: "/uploads/snowball-0.jpg"
 og_image: "/uploads/snowball-og.jpg"
 layout: project
