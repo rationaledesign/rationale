@@ -15,7 +15,6 @@ images:
 - "/uploads/massivebit-5.jpg"
 - "/uploads/massivebit-6.jpg"
 - "/uploads/massivebit-7.jpg"
-thumb_image: "/uploads/massivebit-0.jpg"
 og_image: "/uploads/massivebit-og.jpg"
 layout: project
 ---
