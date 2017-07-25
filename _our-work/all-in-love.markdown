@@ -8,7 +8,7 @@ year: 2011
 images:
 - "/uploads/allinlove-1.jpg"
 thumb_image: "/uploads/allinlove-0.jpg"
-og_image: "/uploads/allinlove-og.jpg"
+og_image: "/uploads/allinlove-og1.jpg"
 layout: project
 ---
 
