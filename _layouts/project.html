@@ -44,17 +44,18 @@ layout: default
         <!-- Fixme add paramater for image thumb or detail default to detail -->
         <li class='thumbnail'>
           <a href='{{ page.previous.url }}'>
-            {% capture image %}{{page.previous.thumb_image}}{% endcapture %}
-            {% capture title %}{{page.previous.title}}{% endcapture %}
+            {% capture image %}{{page.next.thumb_image}}{% endcapture %}
+            {% capture title %}{{page.next.title}}{% endcapture %}
             {% include img.html %}
-            <h2>{{ page.previous.title }}</h2>
+            <h2>{{ page.next.title }}</h2>
           </a>
         </li>
         <li class='thumbnail'>
           <a href='{{ page.next.url }}'>
-            {% capture image %}{{page.next.thumb_image}}{% endcapture %}
+            {% capture image %}{{page.next.next.thumb_image}}{% endcapture %}
+            {% capture title %}{{page.next.next.title}}{% endcapture %}
             {% include img.html %}
-            <h2>{{ page.next.title }}</h2>
+            <h2>{{ page.next.next.title }}</h2>
           </a>
         </li>
       </ul>
