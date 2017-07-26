@@ -32,7 +32,7 @@ layout: default
     </div>
     <div class="project-images">
       {% for image in page.images %}
-          {% include img.html %}
+          {% include img.html image=image %}
       {% endfor %}
     </div>
   </article>
@@ -43,18 +43,14 @@ layout: default
         <!-- Fixme add paramater for image thumb or detail default to detail -->
         <li class='thumbnail'>
           <a href='{{ page.next.url }}'>
-            {% capture image %}{{page.next.thumb_image}}{% endcapture %}
-            {% capture title %}{{page.next.title}}{% endcapture %}
-            {% include img.html %}
-            <h2>{{ page.next.title }}</h2>
+            {% include img.html image=page.previous.thumb_image %}
+            <h2>{{ page.previous.title }}</h2>
           </a>
         </li>
         <li class='thumbnail'>
-          <a href='{{ page.next.next.url }}'>
-            {% capture image %}{{page.next.next.thumb_image}}{% endcapture %}
-            {% capture title %}{{page.next.next.title}}{% endcapture %}
-            {% include img.html %}
-            <h2>{{ page.next.next.title }}</h2>
+          <a href='{{ page.previous.previous.url }}'>
+            {% include img.html image=page.previous.previous.thumb_image %}
+            <h2>{{ page.previous.previous.title }}</h2>
           </a>
         </li>
       </ul>
