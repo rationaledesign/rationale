@@ -3,8 +3,7 @@
   {% for item in items %}
     <li class='thumbnail'>
       <a href='{{ item.url }}'>
-        {% capture image %}{{item.thumb_image}}{% endcapture %}
-        {% include img.html %}
+        {% include img.html image=item.thumb_image %}
         <h2 class="h4">{{ item.title }}</h2>
       </a>
     </li>
