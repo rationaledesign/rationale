@@ -3,8 +3,8 @@ title: Our approach
 date: 2017-06-28 20:37:00 Z
 position: 1
 images:
-- "/uploads/r_ourapproach1-6636a9.jpg"
-- "/uploads/r_ourapproach2.jpg"
+- "/uploads/rationale-ourapproach1.jpg"
+- "/uploads/rationale-ourapproach2.jpg"
 bottom_body: |-
   Our team of highly curated top talent from around the global brings a world class and international perspective. Sean Wolcott the founder of Rationale brings over 20 years experience lorem ipsum dolor ist amet lorem dolor amet.
 
@@ -12,7 +12,7 @@ bottom_body: |-
 
   * [hello@rationale-design.com](mailto:hello@rationale-design.com)
   * [+1 415/742 9116](tel:+1415749116)
-og_image: 
+og_image: "/uploads/rationale_og.jpg"
 layout: our-approach
 ---
 
