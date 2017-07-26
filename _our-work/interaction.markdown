@@ -11,8 +11,7 @@ images:
 - image: "/uploads/rationale-interaction-2.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/rationale-interaction-0.jpg"
-  alt: 
+  image: "/uploads/rationale-interaction-0b.jpg"
 og_image: "/uploads/rationale-interaction-og.jpg"
 layout: project
 ---
