@@ -26,17 +26,24 @@
           if (supportsSVG()) document.documentElement.className += ' svg'
       }()
   </script>
-
   <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
   <link rel="stylesheet" type="text/css" href="/assets/css/screen.min.css" />
-  <script type="text/javascript" src="//fast.fonts.net/jsapi/88bd1d24-97d7-4798-90e4-b0be8d1d8b1f.js"></script>
 
-  <!-- <script type="text/javascript">
-    var projectsUrl   = [{% for project in site.our-work %}"{{ project.url }}",{% endfor %}];
-    var projectsTitle  = [{% for project in site.our-work %}"{{ project.title }}",{% endfor %}];
-    var projectsImg    = [{% for project in site.our-work %}{% assign pageTitle = project.url | split: '/' %}"/assets/img{{ project.url }}thumb/{{pageTitle[2]}}",{% endfor %}];
-    var projectsCat    = [{% for project in site.our-work %}"{{ project.parent.title }}",{% endfor %}];
-  </script> -->
+  <script>
+    WebFontConfig = {
+      monotype: {
+        projectId: '88bd1d24-97d7-4798-90e4-b0be8d1d8b1f',
+        loadAllFonts: true
+      }
+    };
+
+    (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0];
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+      wf.async = true;
+      s.parentNode.insertBefore(wf, s);
+    })(document);
+  </script>
 
 </head>
 <body itemscope itemtype="http://schema.org/ProfessionalService">
