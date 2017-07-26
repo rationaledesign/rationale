@@ -12,11 +12,11 @@ images:
   alt: 
 - image: "/uploads/rationale-massivebit-2.jpg"
   alt: 
-- image: "/uploads/rationale-massivebit-3.jpg"
+- image: "/uploads/rationale-massivebit-3b.jpg"
   alt: 
 - image: "/uploads/rationale-massivebit-4.jpg"
   alt: 
-- image: "/uploads/rationale-massivebit-5.jpg"
+- image: "/uploads/rationale-massivebit-5b.jpg"
   alt: 
 - image: "/uploads/rationale-massivebit-6.jpg"
   alt: 
@@ -24,7 +24,6 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-massivebit-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-massivebit-og.jpg"
 layout: project
 ---
