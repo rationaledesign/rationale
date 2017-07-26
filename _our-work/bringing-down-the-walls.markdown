@@ -6,10 +6,10 @@ categories:
 position: 19
 year: 2009
 images:
-- "/uploads/bringingdownwalls-1.jpg"
-- "/uploads/bringingdownwalls-2.jpg"
-thumb_image: "/uploads/bringingdownwalls-0b.jpg"
-og_image: "/uploads/bringingdownwalls-og.jpg"
+- "/uploads/rationale-bringingdownwalls-1.jpg"
+- "/uploads/rationale-bringingdownwalls-2.jpg"
+thumb_image: "/uploads/rationale-bringingdownwalls-0.jpg"
+og_image: "/uploads/rationale-bringingdownwalls-og.jpg"
 layout: project
 ---
 
