@@ -9,10 +9,10 @@ position: 3
 year: 2012
 images:
 - image: "/uploads/rationale-stevenbrooks-1.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-stevenbrooks-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-stevenbrooks-og.jpg"
 layout: project
 ---

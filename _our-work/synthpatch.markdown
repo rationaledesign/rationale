@@ -9,10 +9,10 @@ position: 20
 year: 2014
 images:
 - image: "/uploads/rationale-synthpatch-1.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-synthpatch-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-synthpatch-og.jpg"
 layout: project
 ---

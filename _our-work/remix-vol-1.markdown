@@ -7,12 +7,12 @@ position: 9
 year: 2009
 images:
 - image: "/uploads/rationale-remixvol1-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-remixvol1-2.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-remixvol1-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-remixvol1-og.jpg"
 layout: project
 ---

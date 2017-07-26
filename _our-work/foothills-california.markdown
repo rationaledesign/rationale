@@ -7,20 +7,20 @@ position: 22
 year: 2013
 images:
 - image: "/uploads/rationale-foothillsid-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-foothillsid-2.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-foothillsid-3.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-foothillsid-4.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-foothillsid-5.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-foothillsid-6.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-foothillsid-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-foothillsid-og.jpg"
 layout: project
 ---

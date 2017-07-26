@@ -7,12 +7,12 @@ position: 2
 year: 2012
 images:
 - image: "/uploads/rationale-arrowsmith-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-arrowsmith-2.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-arrowsmith-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-arrowsmith-og.jpg"
 layout: project
 ---

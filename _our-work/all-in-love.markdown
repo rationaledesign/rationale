@@ -7,10 +7,10 @@ position: 15
 year: 2011
 images:
 - image: "/uploads/rationale-allinlove-1.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-allinlove-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-allinlove-og.jpg"
 layout: project
 ---

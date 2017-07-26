@@ -7,10 +7,10 @@ position: 13
 year: 2012
 images:
 - image: "/uploads/rationale-freyasbazaar-1.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-freyasbazaar-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-freyasbazaar-og.jpg"
 layout: project
 ---

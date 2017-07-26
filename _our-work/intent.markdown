@@ -7,10 +7,10 @@ position: 10
 year: 2011
 images:
 - image: "/uploads/rationale-intent-1.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-intent-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-intent-og.jpg"
 layout: project
 ---

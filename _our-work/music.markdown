@@ -7,24 +7,24 @@ position: 18
 year: 2010
 images:
 - image: "/uploads/rationale-concertseries-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-concertseries-2.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-concertseries-3.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-concertseries-4.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-concertseries-5.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-concertseries-6.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-concertseries-7.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-concertseries-8.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-concertseries-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-concertseries-og.jpg"
 layout: project
 ---

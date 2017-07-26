@@ -9,12 +9,12 @@ position: 1
 year: 2013
 images:
 - image: "/uploads/rationale-sanscalendar-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-sanscalendar-2.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-sanscalendar-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-sanscalendar-og.jpg"
 layout: project
 ---

@@ -8,7 +8,7 @@ images:
 - test
 thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"
-  alt:
+  alt: 
 layout: project
 ---
 

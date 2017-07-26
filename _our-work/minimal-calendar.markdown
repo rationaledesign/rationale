@@ -7,14 +7,14 @@ position: 21
 year: 2013
 images:
 - image: "/uploads/rationale-mincalendar-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-mincalendar-2.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-mincalendar-3.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-mincalendar-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-mincalendar-og.jpg"
 layout: project
 ---

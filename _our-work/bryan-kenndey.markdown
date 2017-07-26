@@ -6,7 +6,7 @@ categories:
 year: 2016
 thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"
-  alt:
+  alt: 
 ---
 
 ...

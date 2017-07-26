@@ -9,10 +9,10 @@ position: 17
 year: 2013
 images:
 - image: "/uploads/rationale-woodboatshow-1.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-woodboatshow-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-woodboatshow-og.jpg"
 layout: project
 ---

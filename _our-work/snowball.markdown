@@ -7,10 +7,10 @@ position: 12
 year: 2015
 images:
 - image: "/uploads/rationale-snowball-1.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-snowball-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-snowball-og.jpg"
 layout: project
 ---

@@ -7,18 +7,18 @@ position: 23
 year: 2012
 images:
 - image: "/uploads/rationale-lightingfires-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-lightingfires-2.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-lightingfires-3.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-lightingfires-4.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-lightingfires-5.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-lightingfires-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-lightingfires-og.jpg"
 layout: project
 ---

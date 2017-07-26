@@ -7,12 +7,12 @@ position: 4
 year: 2013
 images:
 - image: "/uploads/rationale-carryon-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-carryon-2.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-carryon-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-carryon-og.jpg"
 layout: project
 ---

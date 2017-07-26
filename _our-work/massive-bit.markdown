@@ -9,22 +9,22 @@ position: 24
 year: 2013
 images:
 - image: "/uploads/rationale-massivebit-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-massivebit-2.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-massivebit-3.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-massivebit-4.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-massivebit-5.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-massivebit-6.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-massivebit-7.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-massivebit-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-massivebit-og.jpg"
 layout: project
 ---

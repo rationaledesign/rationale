@@ -7,7 +7,7 @@ position: 0
 year: 2014
 thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"
-  alt:
+  alt: 
 layout: project
 ---
 

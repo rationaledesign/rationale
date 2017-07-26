@@ -7,14 +7,14 @@ position: 7
 year: 2013
 images:
 - image: "/uploads/rationale-zaire-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-zaire-2.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-zaire-3.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-zaire-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-zaire-og.jpg"
 layout: project
 ---

@@ -7,12 +7,12 @@ position: 5
 year: 2012
 images:
 - image: "/uploads/rationale-ifnotfordawn-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-ifnotfordawn-2.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-ifnotfordawn-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-ifnotfordawn-og.jpg"
 layout: project
 ---

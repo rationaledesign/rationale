@@ -7,18 +7,18 @@ position: 25
 year: 2014
 images:
 - image: "/uploads/rationale-casey-broadwater-1.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-casey-broadwater-2.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-casey-broadwater-3.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-casey-broadwater-4.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-casey-broadwater-5.jpg"
-  alt:
+  alt: 
 thumb_image:
   image: "/uploads/rationale-casey-broadwater-0.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale-casey-broadwater-og.jpg"
 layout: project
 ---
