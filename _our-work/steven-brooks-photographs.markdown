@@ -8,9 +8,9 @@ tags:
 position: 3
 year: 2012
 images:
-- "/uploads/stevenbrooks-1.jpg"
-thumb_image: "/uploads/stevenbrooks-0.jpg"
-og_image: "/uploads/stevenbrooks-og2.jpg"
+- "/uploads/rationale-stevenbrooks-1.jpg"
+thumb_image: "/uploads/rationale-stevenbrooks-0.jpg"
+og_image: "/uploads/rationale-stevenbrooks-og.jpg"
 layout: project
 ---
 
