@@ -6,14 +6,14 @@ categories:
 position: 26
 year: 2013
 images:
-- "/uploads/latitudex-1.jpg"
-- "/uploads/latitudex-2b.jpg"
-- "/uploads/latitudex-3b.jpg"
-- "/uploads/latitudex-4.jpg"
-- "/uploads/latitudex-5b.jpg"
-- "/uploads/latitudex-6.jpg"
-thumb_image: "/uploads/latitudex-0.jpg"
-og_image: "/uploads/latitudex-og.jpg"
+- "/uploads/rationale-latitudex-1.jpg"
+- "/uploads/rationale-latitudex-2.jpg"
+- "/uploads/rationale-latitudex-3.jpg"
+- "/uploads/rationale-latitudex-4.jpg"
+- "/uploads/rationale-latitudex-5.jpg"
+- "/uploads/rationale-latitudex-6.jpg"
+thumb_image: "/uploads/rationale-latitudex-0.jpg"
+og_image: "/uploads/rationale-latitudex-og.jpg"
 layout: project
 ---
 
