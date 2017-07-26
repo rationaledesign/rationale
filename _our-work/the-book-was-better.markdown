@@ -5,8 +5,8 @@ categories:
 - Identity
 year: 2016
 images:
-- image: 
-  alt: 
+- image: "/uploads/zaire-3b.jpg"
+  alt: this is the alt text
 thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
 ---
 
