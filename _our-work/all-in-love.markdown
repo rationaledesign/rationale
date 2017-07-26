@@ -6,9 +6,9 @@ categories:
 position: 15
 year: 2011
 images:
-- "/uploads/allinlove-1.jpg"
-thumb_image: "/uploads/allinlove-0.jpg"
-og_image: "/uploads/allinlove-og1.jpg"
+- "/uploads/rationale-allinlove-1.jpg"
+thumb_image: "/uploads/rationale-allinlove-0.jpg"
+og_image: "/uploads/rationale-allinlove-og.jpg"
 layout: project
 ---
 
