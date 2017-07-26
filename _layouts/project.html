@@ -42,7 +42,7 @@ layout: default
       <ul class="thumbnails">
         <!-- Fixme add paramater for image thumb or detail default to detail -->
         <li class='thumbnail'>
-          <a href='{{ page.next.url }}'>
+          <a href='{{ page.previous.url }}'>
             {% include img.html image=page.previous.thumb_image %}
             <h2>{{ page.previous.title }}</h2>
           </a>
