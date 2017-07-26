@@ -6,7 +6,6 @@ categories:
 year: 2014
 images:
 - image: "/uploads/rationale-aiga100-1.jpg"
-thumb_image: "/uploads/rationale-aiga100-0.jpg"
 og_image: "/uploads/rationale-aiga100-og.jpg\n"
 ---
 
