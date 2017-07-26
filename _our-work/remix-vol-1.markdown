@@ -6,10 +6,10 @@ categories:
 position: 9
 year: 2009
 images:
-- "/uploads/remixvol1-1b.jpg"
-- "/uploads/remixvol1-2b.jpg"
-thumb_image: "/uploads/remixvol1-0.jpg"
-og_image: "/uploads/remixvol1-og.jpg"
+- "/uploads/rationale-remixvol1-1.jpg"
+- "/uploads/rationale-remixvol1-2.jpg"
+thumb_image: "/uploads/rationale-remixvol1-0.jpg"
+og_image: "/uploads/rationale-remixvol1-og.jpg"
 layout: project
 ---
 
