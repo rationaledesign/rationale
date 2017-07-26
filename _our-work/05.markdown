@@ -6,10 +6,16 @@ categories:
 position: 8
 year: 2008
 images:
-- "/uploads/rationale-0dot5-1.jpg"
-- "/uploads/rationale-0dot5-2.jpg"
-- "/uploads/rationale-0dot5-3.jpg"
-thumb_image: "/uploads/rationale-0dot5-0.jpg"
+  - image: "/uploads/rationale-0dot5-1.jpg"
+  alt:
+  - image: "/uploads/rationale-0dot5-2.jpg"
+  alt:
+  - image: "/uploads/rationale-0dot5-3.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-0dot5-0.jpg"
+  alt:
+
 og_image: "/uploads/rationale-0dot5-og.jpg"
 layout: project
 ---
