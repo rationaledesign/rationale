@@ -6,11 +6,11 @@ categories:
 position: 21
 year: 2013
 images:
-- "/uploads/mincalendar-1.jpg"
-- "/uploads/mincalendar-2.jpg"
-- "/uploads/mincalendar-3.jpg"
-thumb_image: "/uploads/mincalendar-0.jpg"
-og_image: "/uploads/mincalendar-og.jpg"
+- "/uploads/rationale-mincalendar-1.jpg"
+- "/uploads/rationale-mincalendar-2.jpg"
+- "/uploads/rationale-mincalendar-3.jpg"
+thumb_image: "/uploads/rationale-mincalendar-0.jpg"
+og_image: "/uploads/rationale-mincalendar-og.jpg"
 layout: project
 ---
 
