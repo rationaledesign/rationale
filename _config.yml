@@ -28,35 +28,38 @@ defaults:
     type: our-work
   values:
     layout: project
-    year: 
+    year:
     images:
-    - 
-    thumb_image: 
-    og_image: 
+    - image:
+      alt:
+    thumb_image:
+      image:
+      alt:
+    og_image:
 - scope:
     path: ''
     type: resources
   values:
     layout: resource
-    author: 
-    imgcount: 
+    author:
+    imgcount:
     images:
-    - 
-    thumb_image: 
-    download_file: 
-    og_image: 
+    -
+    thumb_image:
+    download_file:
+    og_image:
 - scope:
     path: ''
     type: store
   values:
     layout: product-detail
-    price: 
-    buylink: 
-    imgcount: 
+    price:
+    buylink:
+    imgcount:
     images:
-    - 
-    thumb_image: 
-    og_image: 
+    -
+    thumb_image:
+    og_image:
 permalink: pretty
 exclude:
 - Gemfile
