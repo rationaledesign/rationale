@@ -6,10 +6,10 @@ categories:
 position: 2
 year: 2012
 images:
-- "/uploads/arrowsmith-1b.jpg"
-- "/uploads/arrowsmith-2.jpg"
-thumb_image: "/uploads/arrowsmith-0b.jpg"
-og_image: "/uploads/arrowsmith-og.jpg"
+- "/uploads/rationale-arrowsmith-1.jpg"
+- "/uploads/rationale-arrowsmith-2.jpg"
+thumb_image: "/uploads/rationale-arrowsmith-0.jpg"
+og_image: "/uploads/rationale-arrowsmith-og.jpg"
 layout: project
 ---
 
