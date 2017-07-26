@@ -10,15 +10,14 @@ images:
   alt: 
 - image: "/uploads/rationale-lightingfires-2.jpg"
   alt: 
-- image: "/uploads/rationale-lightingfires-3.jpg"
+- image: "/uploads/rationale-lightingfires-3b.jpg"
   alt: 
-- image: "/uploads/rationale-lightingfires-4.jpg"
+- image: "/uploads/rationale-lightingfires-4b.jpg"
   alt: 
 - image: "/uploads/rationale-lightingfires-5.jpg"
   alt: 
 thumb_image:
   image: "/uploads/rationale-lightingfires-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-lightingfires-og.jpg"
 layout: project
 ---
