@@ -6,9 +6,9 @@ categories:
 position: 12
 year: 2015
 images:
-- "/uploads/snowball-1b.jpg"
-thumb_image: "/uploads/snowball-0.jpg"
-og_image: "/uploads/snowball-og.jpg"
+- "/uploads/rationale-snowball-1.jpg"
+thumb_image: "/uploads/rationale-snowball-0.jpg"
+og_image: "/uploads/rationale-snowball-og.jpg"
 layout: project
 ---
 
