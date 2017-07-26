@@ -8,10 +8,10 @@ tags:
 position: 1
 year: 2013
 images:
-- "/uploads/sanscalendar-1c.jpg"
-- "/uploads/sanscalendar-2.jpg"
-thumb_image: "/uploads/sanscalendar-0.jpg"
-og_image: "/uploads/sanscalendar-og1.jpg"
+- "/uploads/rationale-sanscalendar-1.jpg"
+- "/uploads/rationale-sanscalendar-2.jpg"
+thumb_image: "/uploads/rationale-sanscalendar-0.jpg"
+og_image: "/uploads/rationale-sanscalendar-og.jpg"
 layout: project
 ---
 
