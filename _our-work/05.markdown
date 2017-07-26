@@ -1,23 +1,5 @@
 ---
-title: '0.5'
-date: 2008-01-01 00:00:00 Z
-categories:
-- Packaging
-position: 8
-year: 2008
-images:
-  - image: "/uploads/rationale-0dot5-1.jpg"
-  alt:
-  - image: "/uploads/rationale-0dot5-2.jpg"
-  alt:
-  - image: "/uploads/rationale-0dot5-3.jpg"
-  alt:
-thumb_image:
-  image: "/uploads/rationale-0dot5-0.jpg"
-  alt:
-
-og_image: "/uploads/rationale-0dot5-og.jpg"
-layout: project
+title: '05'
 ---
 
 EP cover “0.5” designed for music group The Fascination Movement. Imagery serves as the basis for a design language that is applied to related singles, posters, and other promotional materials.
