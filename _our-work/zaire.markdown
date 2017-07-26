@@ -6,11 +6,11 @@ categories:
 position: 7
 year: 2013
 images:
-- "/uploads/zaire-1.jpg"
-- "/uploads/zaire-2.jpg"
-- "/uploads/zaire-3b.jpg"
-thumb_image: "/uploads/zaire-0.jpg"
-og_image: "/uploads/zaire-og.jpg"
+- "/uploads/rationale-zaire-1.jpg"
+- "/uploads/rationale-zaire-2.jpg"
+- "/uploads/rationale-zaire-3.jpg"
+thumb_image: "/uploads/rationale-zaire-0.jpg"
+og_image: "/uploads/rationale-zaire-og.jpg"
 layout: project
 ---
 
