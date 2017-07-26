@@ -1,5 +1,16 @@
 ---
 title: '05'
+images:
+- image: "/uploads/rationale-0dot5-og.jpg"
+  alt: test 1
+- image: "/uploads/rationale-0dot5-3.jpg"
+  alt: test 2
+- image: "/uploads/rationale-0dot5-2.jpg"
+  alt: test 3
+thumb_image:
+  image: "/uploads/rationale-0dot5-0.jpg"
+  alt: thumb test
+og_image: "/uploads/rationale-0dot5-og.jpg"
 ---
 
 EP cover “0.5” designed for music group The Fascination Movement. Imagery serves as the basis for a design language that is applied to related singles, posters, and other promotional materials.
