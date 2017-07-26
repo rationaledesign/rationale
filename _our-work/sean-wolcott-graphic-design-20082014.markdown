@@ -7,7 +7,9 @@ tags:
 - featured
 position: 6
 year: 2015
-thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
+thumb_image:
+  image: "/uploads/FPO_Thumbnail_01.jpg"
+  alt:
 layout: project
 ---
 

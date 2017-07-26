@@ -8,8 +8,11 @@ tags:
 position: 17
 year: 2013
 images:
-- "/uploads/rationale-woodboatshow-1.jpg"
-thumb_image: "/uploads/rationale-woodboatshow-0.jpg"
+- image: "/uploads/rationale-woodboatshow-1.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-woodboatshow-0.jpg"
+  alt:
 og_image: "/uploads/rationale-woodboatshow-og.jpg"
 layout: project
 ---

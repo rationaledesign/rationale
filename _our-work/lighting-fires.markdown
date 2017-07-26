@@ -6,12 +6,19 @@ categories:
 position: 23
 year: 2012
 images:
-- "/uploads/rationale-lightingfires-1.jpg"
-- "/uploads/rationale-lightingfires-2.jpg"
-- "/uploads/rationale-lightingfires-3.jpg"
-- "/uploads/rationale-lightingfires-4.jpg"
-- "/uploads/rationale-lightingfires-5.jpg"
-thumb_image: "/uploads/rationale-lightingfires-0.jpg"
+- image: "/uploads/rationale-lightingfires-1.jpg"
+  alt:
+- image: "/uploads/rationale-lightingfires-2.jpg"
+  alt:
+- image: "/uploads/rationale-lightingfires-3.jpg"
+  alt:
+- image: "/uploads/rationale-lightingfires-4.jpg"
+  alt:
+- image: "/uploads/rationale-lightingfires-5.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-lightingfires-0.jpg"
+  alt:
 og_image: "/uploads/rationale-lightingfires-og.jpg"
 layout: project
 ---

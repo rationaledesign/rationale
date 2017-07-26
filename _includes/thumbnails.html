@@ -4,7 +4,6 @@
     <li class='thumbnail'>
       <a href='{{ item.url }}'>
         {% capture image %}{{item.thumb_image}}{% endcapture %}
-        {% capture title %}{{item.title}}{% endcapture %}
         {% include img.html %}
         <h2 class="h4">{{ item.title }}</h2>
       </a>

@@ -6,8 +6,11 @@ categories:
 position: 13
 year: 2012
 images:
-- "/uploads/rationale-freyasbazaar-1.jpg"
-thumb_image: "/uploads/rationale-freyasbazaar-0.jpg"
+- image: "/uploads/rationale-freyasbazaar-1.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-freyasbazaar-0.jpg"
+  alt:
 og_image: "/uploads/rationale-freyasbazaar-og.jpg"
 layout: project
 ---

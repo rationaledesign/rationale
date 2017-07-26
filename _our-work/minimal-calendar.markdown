@@ -6,10 +6,15 @@ categories:
 position: 21
 year: 2013
 images:
-- "/uploads/rationale-mincalendar-1.jpg"
-- "/uploads/rationale-mincalendar-2.jpg"
-- "/uploads/rationale-mincalendar-3.jpg"
-thumb_image: "/uploads/rationale-mincalendar-0.jpg"
+- image: "/uploads/rationale-mincalendar-1.jpg"
+  alt:
+- image: "/uploads/rationale-mincalendar-2.jpg"
+  alt:
+- image: "/uploads/rationale-mincalendar-3.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-mincalendar-0.jpg"
+  alt:
 og_image: "/uploads/rationale-mincalendar-og.jpg"
 layout: project
 ---

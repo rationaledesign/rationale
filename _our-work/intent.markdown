@@ -6,8 +6,11 @@ categories:
 position: 10
 year: 2011
 images:
-- "/uploads/rationale-intent-1.jpg"
-thumb_image: "/uploads/rationale-intent-0.jpg"
+- image: "/uploads/rationale-intent-1.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-intent-0.jpg"
+  alt:
 og_image: "/uploads/rationale-intent-og.jpg"
 layout: project
 ---

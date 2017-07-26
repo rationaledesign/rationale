@@ -6,13 +6,21 @@ categories:
 position: 22
 year: 2013
 images:
-- "/uploads/rationale-foothillsid-1.jpg"
-- "/uploads/rationale-foothillsid-2.jpg"
-- "/uploads/rationale-foothillsid-3.jpg"
-- "/uploads/rationale-foothillsid-4.jpg"
-- "/uploads/rationale-foothillsid-5.jpg"
-- "/uploads/rationale-foothillsid-6.jpg"
-thumb_image: "/uploads/rationale-foothillsid-0.jpg"
+- image: "/uploads/rationale-foothillsid-1.jpg"
+  alt:
+- image: "/uploads/rationale-foothillsid-2.jpg"
+  alt:
+- image: "/uploads/rationale-foothillsid-3.jpg"
+  alt:
+- image: "/uploads/rationale-foothillsid-4.jpg"
+  alt:
+- image: "/uploads/rationale-foothillsid-5.jpg"
+  alt:
+- image: "/uploads/rationale-foothillsid-6.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-foothillsid-0.jpg"
+  alt:
 og_image: "/uploads/rationale-foothillsid-og.jpg"
 layout: project
 ---

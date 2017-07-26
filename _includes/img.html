@@ -1,10 +1,10 @@
-<span class="lazy {% if page.collection %}detail{% else %}thumb{% endif %}" data-alt="{% if title %}{{title}} - {{page.collection}}{% else %}{{page.title}} - {{page.title}}{% endif %} project image">
-  <span data-src="https://rationale-design.imgix.net{{image}}?w=500&auto=format&fit=max&dpr=1&q=50"></span>
-  <span data-src="https://rationale-design.imgix.net{{image}}?w=500&auto=format&fit=max&dpr=2&q=40" data-media="(-webkit-min-device-pixel-ratio: 2.0)"></span>
-  <span data-src="https://rationale-design.imgix.net{{image}}?w=1000&auto=format&fit=max&dpr=2&q=40" data-media="(min-width: 600px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
-  <span data-src="https://rationale-design.imgix.net{{image}}?w=1500&auto=format&fit=max&dpr=1&q=40" data-media="(min-width: 1025px)"></span>
-  <span data-src="https://rationale-design.imgix.net{{image}}?auto=format&fit=max&dpr=3&q=30" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
+<span class="lazy {% if page.collection %}detail{% else %}thumb{% endif %}" data-alt="{{image.alt}}">
+  <span data-src="https://rationale-design.imgix.net{{image.image}}?w=500&auto=format&fit=max&dpr=1&q=50"></span>
+  <span data-src="https://rationale-design.imgix.net{{image.image}}?w=500&auto=format&fit=max&dpr=2&q=40" data-media="(-webkit-min-device-pixel-ratio: 2.0)"></span>
+  <span data-src="https://rationale-design.imgix.net{{image.image}}?w=1000&auto=format&fit=max&dpr=2&q=40" data-media="(min-width: 600px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
+  <span data-src="https://rationale-design.imgix.net{{image.image}}?w=1500&auto=format&fit=max&dpr=1&q=40" data-media="(min-width: 1025px)"></span>
+  <span data-src="https://rationale-design.imgix.net{{image.image}}?auto=format&fit=max&dpr=3&q=30" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
   <noscript>
-      <img src="https://rationale-design.imgix.net{{image}}?auto=format&fit=max&q=65" alt="{% if page.title %}{{page.title}} - {{page.parent.title}}{% else %}{{title}} - {{parent.title}}{% endif %} project image">
+      <img src="https://rationale-design.imgix.net{{image.image}}?auto=format&fit=max&q=65" alt="{{image.alt}}">
   </noscript>
 </span>

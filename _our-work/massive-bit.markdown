@@ -8,14 +8,23 @@ tags:
 position: 24
 year: 2013
 images:
-- "/uploads/rationale-massivebit-1.jpg"
-- "/uploads/rationale-massivebit-2.jpg"
-- "/uploads/rationale-massivebit-3.jpg"
-- "/uploads/rationale-massivebit-4.jpg"
-- "/uploads/rationale-massivebit-5.jpg"
-- "/uploads/rationale-massivebit-6.jpg"
-- "/uploads/rationale-massivebit-7.jpg"
-thumb_image: "/uploads/rationale-massivebit-0.jpg"
+- image: "/uploads/rationale-massivebit-1.jpg"
+  alt:
+- image: "/uploads/rationale-massivebit-2.jpg"
+  alt:
+- image: "/uploads/rationale-massivebit-3.jpg"
+  alt:
+- image: "/uploads/rationale-massivebit-4.jpg"
+  alt:
+- image: "/uploads/rationale-massivebit-5.jpg"
+  alt:
+- image: "/uploads/rationale-massivebit-6.jpg"
+  alt:
+- image: "/uploads/rationale-massivebit-7.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-massivebit-0.jpg"
+  alt:
 og_image: "/uploads/rationale-massivebit-og.jpg"
 layout: project
 ---

@@ -6,9 +6,13 @@ categories:
 position: 5
 year: 2012
 images:
-- "/uploads/rationale-ifnotfordawn-1.jpg"
-- "/uploads/rationale-ifnotfordawn-2.jpg"
-thumb_image: "/uploads/rationale-ifnotfordawn-0.jpg"
+- image: "/uploads/rationale-ifnotfordawn-1.jpg"
+  alt:
+- image: "/uploads/rationale-ifnotfordawn-2.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-ifnotfordawn-0.jpg"
+  alt:
 og_image: "/uploads/rationale-ifnotfordawn-og.jpg"
 layout: project
 ---

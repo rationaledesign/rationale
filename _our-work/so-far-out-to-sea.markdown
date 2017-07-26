@@ -6,8 +6,9 @@ categories:
 year: 2015
 images:
 - test
-thumb_image: "/uploads/FPO_Thumbnail_01.jpg"
-imgcount: 0
+thumb_image:
+  image: "/uploads/FPO_Thumbnail_01.jpg"
+  alt:
 layout: project
 ---
 

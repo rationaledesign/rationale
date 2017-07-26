@@ -6,12 +6,19 @@ categories:
 position: 25
 year: 2014
 images:
-- "/uploads/rationale-casey-broadwater-1.jpg"
-- "/uploads/rationale-casey-broadwater-2.jpg"
-- "/uploads/rationale-casey-broadwater-3.jpg"
-- "/uploads/rationale-casey-broadwater-4.jpg"
-- "/uploads/rationale-casey-broadwater-5.jpg"
-thumb_image: "/uploads/rationale-casey-broadwater-0.jpg"
+- image: "/uploads/rationale-casey-broadwater-1.jpg"
+  alt:
+- image: "/uploads/rationale-casey-broadwater-2.jpg"
+  alt:
+- image: "/uploads/rationale-casey-broadwater-3.jpg"
+  alt:
+- image: "/uploads/rationale-casey-broadwater-4.jpg"
+  alt:
+- image: "/uploads/rationale-casey-broadwater-5.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-casey-broadwater-0.jpg"
+  alt:
 og_image: "/uploads/rationale-casey-broadwater-og.jpg"
 layout: project
 ---

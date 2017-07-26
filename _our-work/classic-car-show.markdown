@@ -6,15 +6,25 @@ categories:
 position: 16
 year: 2012
 images:
-- "/uploads/rationale-classiccar-1.jpg"
-- "/uploads/rationale-classiccar-2.jpg"
-- "/uploads/rationale-classiccar-3.jpg"
-- "/uploads/rationale-classiccar-4.jpg"
-- "/uploads/rationale-classiccar-5.jpg"
-- "/uploads/rationale-classiccar-6.jpg"
-- "/uploads/rationale-classiccar-7.jpg"
-- "/uploads/rationale-classiccar-8.jpg"
-thumb_image: "/uploads/rationale-classiccar-0.jpg"
+- image: "/uploads/rationale-classiccar-1.jpg"
+  alt:
+- image: "/uploads/rationale-classiccar-2.jpg"
+  alt:
+- image: "/uploads/rationale-classiccar-3.jpg"
+  alt:
+- image: "/uploads/rationale-classiccar-4.jpg"
+  alt:
+- image: "/uploads/rationale-classiccar-5.jpg"
+  alt:
+- image: "/uploads/rationale-classiccar-6.jpg"
+  alt:
+- image: "/uploads/rationale-classiccar-7.jpg"
+  alt:
+- image: "/uploads/rationale-classiccar-8.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-classiccar-0.jpg"
+  alt:
 og_image: "/uploads/rationale-classiccar-og.jpg"
 layout: project
 ---

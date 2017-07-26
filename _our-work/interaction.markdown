@@ -6,9 +6,13 @@ categories:
 position: 11
 year: 2012
 images:
-- "/uploads/rationale-interaction-1.jpg"
-- "/uploads/rationale-interaction-2.jpg"
-thumb_image: "/uploads/rationale-interaction-0.jpg"
+- image: "/uploads/rationale-interaction-1.jpg"
+  alt:
+- image: "/uploads/rationale-interaction-2.jpg"
+  alt:
+thumb_image:
+  image: "/uploads/rationale-interaction-0.jpg"
+  alt:
 og_image: "/uploads/rationale-interaction-og.jpg"
 layout: project
 ---
