@@ -6,7 +6,7 @@ categories:
 position: 26
 year: 2013
 images:
-- image: "/uploads/rationale-latitudex-1.jpg"
+- image: "/uploads/rationale-latitudex-1b.jpg"
   alt: 
 - image: "/uploads/rationale-latitudex-2.jpg"
   alt: 
@@ -20,7 +20,6 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-latitudex-og.jpg"
 layout: project
 ---
