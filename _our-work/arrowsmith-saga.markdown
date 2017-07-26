@@ -8,11 +8,10 @@ year: 2012
 images:
 - image: "/uploads/rationale-arrowsmith-1.jpg"
   alt: 
-- image: "/uploads/rationale-arrowsmith-2.jpg"
+- image: "/uploads/rationale-arrowsmith-2b.jpg"
   alt: 
 thumb_image:
   image: "/uploads/rationale-arrowsmith-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-arrowsmith-og.jpg"
 layout: project
 ---
