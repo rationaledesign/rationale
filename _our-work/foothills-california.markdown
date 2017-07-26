@@ -10,17 +10,16 @@ images:
   alt: 
 - image: "/uploads/rationale-foothillsid-2.jpg"
   alt: 
-- image: "/uploads/rationale-foothillsid-3.jpg"
+- image: "/uploads/rationale-foothillsid-3b.jpg"
   alt: 
 - image: "/uploads/rationale-foothillsid-4.jpg"
   alt: 
-- image: "/uploads/rationale-foothillsid-5.jpg"
+- image: "/uploads/rationale-foothillsid-5b.jpg"
   alt: 
-- image: "/uploads/rationale-foothillsid-6.jpg"
+- image: "/uploads/rationale-foothillsid-6b.jpg"
   alt: 
 thumb_image:
   image: "/uploads/rationale-foothillsid-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-foothillsid-og.jpg"
 layout: project
 ---
