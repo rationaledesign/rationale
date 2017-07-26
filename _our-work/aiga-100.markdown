@@ -6,10 +6,8 @@ categories:
 year: 2014
 images:
 - image: "/uploads/rationale-aiga100-1.jpg"
-  alt: 
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
-  alt: 
+  image: "/uploads/rationale-aiga100-0.jpg"
 og_image: "/uploads/rationale-aiga100-og.jpg"
 ---
 
