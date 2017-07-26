@@ -3,8 +3,8 @@ title: Our approach
 date: 2017-06-28 20:37:00 Z
 position: 1
 images:
-- "/uploads/rationale-ourapproach1.jpg"
-- "/uploads/rationale-ourapproach2.jpg"
+- "/uploads/rationale-aiga-ourapproach.jpg"
+- "/uploads/rationale-sean-wolcott.jpg"
 bottom_body: |-
   Our team of highly curated top talent from around the global brings a world class and international perspective. Sean Wolcott the founder of Rationale brings over 20 years experience lorem ipsum dolor ist amet lorem dolor amet.
 
