@@ -12,7 +12,7 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-bringingdownwalls-0.jpg"
-og_image: "/uploads/rationale-bringingdownwalls-og.jpg"
+og_image: "/uploads/rationale-bringingdownwalls-og1.jpg"
 layout: project
 ---
 
