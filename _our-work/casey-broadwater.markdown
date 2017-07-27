@@ -17,8 +17,8 @@ images:
 - image: "/uploads/rationale-casey-broadwater-5.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/rationale-casey-broadwater-0.jpg"
-og_image: "/uploads/rationale-casey-broadwater-og1.jpg"
+  image: "/uploads/rationale-casey-broadwater-0b.jpg"
+og_image: "/uploads/rationale-casey-broadwater-og.jpg"
 layout: project
 ---
 
