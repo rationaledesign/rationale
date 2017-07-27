@@ -11,7 +11,7 @@ images:
 - image: "/uploads/rationale-stevenbrooks-1b.jpg"
 thumb_image:
   image: "/uploads/rationale-stevenbrooks-0.jpg"
-og_image: "/uploads/rationale-stevenbrooks-og.jpg"
+og_image: "/uploads/rationale-stevenbrooks-og1.jpg"
 layout: project
 ---
 
