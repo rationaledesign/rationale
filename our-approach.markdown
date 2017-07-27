@@ -4,9 +4,9 @@ date: 2017-06-28 20:37:00 Z
 position: 1
 images:
 - image: "/uploads/rationale-aiga-ourapproach.jpg"
-  alt:
+  alt: 
 - image: "/uploads/rationale-sean-wolcott.jpg"
-  alt:
+  alt: 
 og_image: "/uploads/rationale_og.jpg"
 layout: our-approach
 bottom_body: |-
