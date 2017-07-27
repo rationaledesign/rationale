@@ -3,7 +3,7 @@ title: Casey Broadwater Photography
 date: 2014-01-01 00:00:00 Z
 categories:
 - Identity
-position: 25
+position: 36
 year: 2014
 images:
 - image: "/uploads/rationale-casey-broadwater-1.jpg"

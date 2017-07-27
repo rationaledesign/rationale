@@ -1,7 +1,7 @@
 ---
 title: Gropiusstadt
 date: 2014-05-06 13:55:00 Z
-position: 14
+position: 25
 year: 2014
 layout: project
 ---

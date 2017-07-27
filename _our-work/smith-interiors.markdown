@@ -3,7 +3,7 @@ title: Smith Interiors
 date: 2014-01-01 00:00:00 Z
 categories:
 - Identity
-position: 27
+position: 37
 year: 2014
 layout: project
 ---

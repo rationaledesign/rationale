@@ -1,5 +1,6 @@
 ---
 title: '05'
+position: 0
 images:
 - image: "/uploads/rationale-0dot5-1.jpg"
   alt: test 1

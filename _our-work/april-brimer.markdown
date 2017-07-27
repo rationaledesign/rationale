@@ -3,7 +3,7 @@ title: April Brimer Photography
 date: 2017-07-20 00:00:00 Z
 categories:
 - Identity
-position: 0
+position: 12
 year: 2014
 thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"
