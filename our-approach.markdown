@@ -4,9 +4,11 @@ date: 2017-06-28 20:37:00 Z
 position: 1
 images:
 - image: "/uploads/rationale-aiga-ourapproach.jpg"
-  alt: 
+  alt:
 - image: "/uploads/rationale-sean-wolcott.jpg"
-  alt: 
+  alt:
+og_image: "/uploads/rationale_og.jpg"
+layout: our-approach
 bottom_body: |-
   Our team of highly curated top talent from around the global brings a world class and international perspective. Sean Wolcott the founder of Rationale brings over 20 years experience lorem ipsum dolor ist amet lorem dolor amet.
 
@@ -14,8 +16,6 @@ bottom_body: |-
 
   * [hello@rationale-design.com](mailto:hello@rationale-design.com)
   * [+1 415/742 9116](tel:+1415749116)
-og_image: "/uploads/rationale_og.jpg"
-layout: our-approach
 ---
 
 Design is not a job, it is a mission.

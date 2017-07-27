@@ -9,7 +9,7 @@ layout: default
     </div>
     <div class="mb-2 images-2up">
       {% for image in page.images %}
-          <img src="https://rationale-design.imgix.net{{image}}?auto=format">
+          {% include img.html image=image %}
       {% endfor %}
     </div>
     <div class="h2 mb-2-5 md-col-half md-offset-half">

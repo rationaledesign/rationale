@@ -23,7 +23,9 @@
 .images-2up {
   @extend %row;
 
-  img {
+  > span {
+    padding-bottom: 0 !important;
+    height: auto !important;
     &:not(:last-child) {
       @include breakpoint($small-only) {
         margin-bottom: 1px;

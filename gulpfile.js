@@ -134,7 +134,7 @@ gulp.task( 'build:scripts', () =>
     .pipe( $.sourcemaps.init() )
     .pipe( $.concat( 'script.js' ) )
     .pipe( $.rename( { 'suffix': '.min' } ) )
-    .pipe( $.uglify( { 'mangle': false } ) )
+    .pipe( $.uglify() )
     .pipe( $.sourcemaps.write( ) )
     .pipe( gulp.dest( 'assets/js' ) )
     .pipe( gulp.dest( '_site/assets/js' ) )
