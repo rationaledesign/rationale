@@ -7,6 +7,8 @@ position: 37
 year: 2014
 images:
 - image: "/uploads/FPO_Thumbnail_01.jpg"
+thumb_image:
+  image: "/uploads/FPO_Thumbnail_01.jpg"
 layout: project
 ---
 
