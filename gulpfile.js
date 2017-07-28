@@ -60,17 +60,7 @@ gulp.task( 'build:styles', () =>
     .pipe( $.plumber( { 'errorHandler': handleErrors } ) )
     .pipe( $.sourcemaps.init() )
     .pipe($.sass().on('error', $.sass.logError))
-    // .pipe( $.sass( {
-    //   includePaths: [
-    //     // Include paths here to use @import without paths
-    //     'scss'
-    //     // '_assets/_bower_components/reset-css/_reset.scss',
-    //     // '_assets/_bower_components/breakpoint-sass/stylesheets/_breakpoint',
-    //     // '_assets/_bower_components/singularity/stylesheets/_singularitygs'
-    //   ],
-    //   'errLogToConsole': true,
-    //   'outputStyle': 'expanded' // Options: nested, expanded, compact, compressed
-    // } ) )
+
     .pipe( $.postcss( [
       autoprefixer( ),
       mqpacker( { 'sort': true } ),

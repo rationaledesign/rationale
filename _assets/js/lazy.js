@@ -1,6 +1,6 @@
 function checkvisible( elm ) {
   // console.log($(elm).offset());
-    var vpH = $(window).height() + 300, // Viewport Height
+    var vpH = $(window).height() + 600, // Viewport Height
         st = $(window).scrollTop(), // Scroll Top
         y = $(elm).offset().top;
     // console.log(vpH, st, y);

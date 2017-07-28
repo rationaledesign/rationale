@@ -69,12 +69,12 @@
   display: block;
   position: relative;
   width: 100%;
-  overflow: hidden;
+  // overflow: hidden;
   opacity: 0;
   transition: opacity .7s ease-in-out;
 
   &.thumb {
-    padding-bottom: 56%;
+    padding-bottom: 56.25%;
     height: 0;
   }
 
