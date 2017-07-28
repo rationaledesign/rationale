@@ -15,7 +15,7 @@
     max-width: 193px;
 
     @include breakpoint($small) {
-      width: 201px;
+      width: 175px;
       max-width: none;
     }
 
@@ -35,7 +35,7 @@
   @include col-half;
   float:right;
   padding: 0; // for nested elements
-  margin-top: -3px;
+  margin-top: -6px;
 
   @include breakpoint($med) {
     float:right;

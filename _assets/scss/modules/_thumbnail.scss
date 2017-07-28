@@ -4,7 +4,6 @@
 
 .thumbnail {
   margin-bottom: $unit-2;
-  padding-right: $unit-half;
 
   &:hover a {
     color: $red;
@@ -12,6 +11,7 @@
 
   @include breakpoint($small) {
     @include col-half(false);
+    padding-right: $unit-half;
   }
 
   @include breakpoint($med){
