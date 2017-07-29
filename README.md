@@ -6,12 +6,13 @@ Fork the repo. Clone down to your local computer.
 
 Node and Bower should be installed.
 
+### Node
 (Node Download)[https://nodejs.org/en/download/]
 
-Bower
+### Bower
 `npm install -g bower`
 
-Dependencies
+### Dependencies
 `npm install`
 
 `bower install`
