@@ -1,3 +1,7 @@
 # rationale
 
-This is the codebase for dev.rationale-design.com
+## Development Environment
+
+`npm install`
+
+`bower install`
