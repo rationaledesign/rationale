@@ -37,20 +37,38 @@ layout: default
     </div>
   </article>
   <div class="container">
+    {% assign projects = site.our-work | sort:"position" %}
+    {% for project in projects %}
+      {% if project.url == page.url %}
+        {% assign secondToLastIndex = projects.size | minus: 2 %}
+        {% if forloop.index0 < secondToLastIndex %}
+          {% assign next_index = forloop.index0 | plus: 1 %}
+          {% assign nextNext_index = forloop.index0 | plus: 2 %}
+        {% elsif forloop.index < projects.size %}
+          {% assign next_index = forloop.index0 | plus: 1 %}
+          {% assign nextNext_index = 0 %}
+        {% else forloop.index < projects.size %}
+          {% assign next_index = 0 %}
+          {% assign nextNext_index = 1 %}
+        {% endif %}
+        {% assign next_project = projects[next_index] %}
+        {% assign nextNext_project = projects[nextNext_index] %}
+      {% endif %}
+    {% endfor %}
     <div class="">
       More
       <ul class="thumbnails">
         <!-- Fixme add paramater for image thumb or detail default to detail -->
         <li class='thumbnail'>
-          <a href='{{ page.previous.url }}'>
-            {% include img.html image=page.previous.thumb_image %}
-            <h2>{{ page.previous.title }}</h2>
+          <a href='{{ next_project.url }}'>
+            {% include img.html image=next_project.thumb_image %}
+            <h2>{{ next_project.title }}</h2>
           </a>
         </li>
         <li class='thumbnail'>
-          <a href='{{ page.previous.previous.url }}'>
-            {% include img.html image=page.previous.previous.thumb_image %}
-            <h2>{{ page.previous.previous.title }}</h2>
+          <a href='{{ nextNext_project.url }}'>
+            {% include img.html image=nextNext_project.thumb_image %}
+            <h2>{{ nextNext_project.title }}</h2>
           </a>
         </li>
       </ul>
