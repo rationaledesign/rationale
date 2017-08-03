@@ -22,4 +22,4 @@ og_image: "/uploads/rationale-lightingfires-og.jpg"
 layout: project
 ---
 
-The Lighting Fires identity book cover format, interior pages, data visualizations, promotional materials, and website visuals address the notion of a growth of ideas and movements over time via sequential geometry, showing fire as digital abstraction.
+Lighting Fires is a book concept about digital and social media strategy and growth. Its identity design is applied to the book cover format, interior pages, promotional materials, and website visuals. The design, a sequential geometry-inspired interpretation of fire as a digital abstraction, conveys the notion of this growth of ideas and the scale of a digital presence over time.
