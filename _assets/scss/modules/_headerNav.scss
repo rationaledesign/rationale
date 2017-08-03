@@ -24,7 +24,7 @@
   @include col-half;
   float:right;
   padding: 0; // for nested elements
-  margin-top: -6px;
+  margin-top: -5px;
 
   @include breakpoint($med) {
     float:right;
@@ -42,9 +42,6 @@
   a { // this is attached to product detail
     display: block;
     @include h4--med;
-    padding-bottom: 6px;
-    padding-top: 1px;
     @include link;
-
   }
 }
