@@ -1,0 +1,7 @@
+<li class='thumbnail'>
+    {% assign item = include.item %}
+    <a href='{{ item.url }}'>
+        {% include img.html image=item.thumb_image %}
+        <h2 class="thumbnail-title">{{ item.title }}</h2>
+    </a>
+</li>
