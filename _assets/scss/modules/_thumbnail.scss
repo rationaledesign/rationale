@@ -10,8 +10,8 @@
   }
 
   @include breakpoint($small) {
-    @include col-half(false);
     padding-right: $unit-half;
+    @include col-half(false);
   }
 
   @include breakpoint($med){
