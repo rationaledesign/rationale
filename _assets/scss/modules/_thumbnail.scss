@@ -3,7 +3,7 @@
 }
 
 .thumbnail {
-  margin-bottom: $unit-2;
+  margin-bottom: $unit-25;
 
   &:hover a {
     color: $red;
@@ -15,11 +15,12 @@
   }
 
   @include breakpoint($med){
-    margin-bottom: $unit-25
+    //margin-bottom: $unit-25
+    margin-bottom: $unit-3
   }
 
   @include breakpoint($large){
-    margin-bottom: $unit-3
+    margin-bottom: $unit-4;
   }
 
   .home & { // two col thumbnails only on home
@@ -59,8 +60,14 @@
     display: block;
   }
 
-  .thumb { // image margin bottom
+  /*.thumb { // image margin bottom — replaced by .h4 margin-top
     margin-bottom: 7px;
+  }*/
+
+  .h4 {
+    position: absolute; 
+    line-height: 1em;
+    margin-top: 6px;
   }
 }
 
