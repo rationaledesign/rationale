@@ -12,4 +12,4 @@ thumb_image:
 og_image: "/uploads/rationale-aiga100-og.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This chair-themed poster represents the core of the founders of AIGA on the eve of its centennial celebration. The Windsor chairs, which were decorated at their inaugural meeting are shown here with an expanding radius of color reflecting the talent and influence throughout America by AIGA over the past 100 years.
