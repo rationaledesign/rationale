@@ -10,6 +10,7 @@ footer > .row {
 
   a {
     @include h5;
+    @include link;
     display: inline-block;
 
     &.is-current-page {

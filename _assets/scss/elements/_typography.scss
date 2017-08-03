@@ -80,6 +80,17 @@
   @include breakpoint($large) {}
 }
 
+@mixin paragraph {
+  font-size: 17px;
+  line-height: $unit * .875;
+  font-family: $font-NHG--roman;
+  letter-spacing: -.3px;
+
+  @include breakpoint($small) {}
+  @include breakpoint($med) {}
+  @include breakpoint($large) {}
+}
+
 .h1 { @include h1; }
 .h2 { @include h2; }
 .h3 { @include h3; }
@@ -90,6 +101,7 @@
 .h5--med { @include h5--med; }
 .h5--med { @include h5--med; }
 
+// $fix – box works on Chrome but not on safari
 @mixin focusBox {
   display: inline-block;
   position: relative;
@@ -111,6 +123,7 @@
 
 @mixin link {
   text-decoration: none;
+  @include focusBox;
 
   &:hover,
   &:active {
@@ -119,7 +132,9 @@
 }
 
 @mixin link--secondary {
+  text-decoration: underline;
   color: $grey_dark;
+  @include focusBox;
 
   &:hover,
   &:active {

@@ -25,6 +25,18 @@
     margin-bottom: 0;
     // @include col-third(false);
   }
+
+  h4 {
+    @include h4--med;
+    line-height: $unit * .875;
+    color: $black;
+  }
+  
+  h5 {
+    @include h4;
+    line-height: $unit * .875;
+    color: $black;
+  }
 }
 
 .project-description {
@@ -35,6 +47,14 @@
     // margin-bottom: 55px;
   }
 
+  p {
+    @include paragraph;
+    color: $black;
+
+    @include breakpoint($med) {
+      margin-bottom: $unit * 2;
+    }
+  }
 }
 
 .project-images {
@@ -42,6 +62,13 @@
   .lazy {min-height: 150px;}
   .lazy:last-child img{
     margin-bottom: 0;
+  }
+}
+
+.more-projects {
+  .h2 {
+    line-height: 1em;
+    margin-bottom: $unit;
   }
 }
 
