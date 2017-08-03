@@ -28,7 +28,6 @@ og_image: "/uploads/rationale-massivebit-og.jpg"
 layout: project
 ---
 
-Massive Bit offers a unique service to technology companies by distilling big data down to the most relevant information to help make multi-million dollar decisions.
+Massive Bit offers a unique service to technology companies by distilling big data down to the most relevant information, with the aim of helping their clients make more informed multimillion dollar decisions.			
 
-
-All pieces carry a clear, structured, varied, and vibrant visual language that is reflective of the diverse data analysis and insights the company provides.
+All pieces of their identity system carry clear, structured, varied, and vibrant visual language that is reflective of the diverse data analysis and insights the company provides.

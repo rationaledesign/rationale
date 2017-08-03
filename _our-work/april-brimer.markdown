@@ -7,11 +7,11 @@ position: 12
 year: 2014
 thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"
-  alt: 
 layout: project
 ---
 
-April Brimer is an editorial fashion and product photographer in Seattle, USA.
+April Brimer is an editorial fashion and product photographer.
 
+Photography and fashion are integral to one another, and demand rigor of each other; design brings the forms together while emphasizing their high standards.
 
-Photography and fashion are both inseparable forms with elevated precedent. Design brings these together with equally high requirements. As such, the positioning of the identity preserves a timeless focus on the images themselves.
+As such, the positioning of the identity preserves a focus on the images themselves while subtly conveying brand information.

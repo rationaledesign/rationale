@@ -35,6 +35,7 @@ footer {
   font-size: $h6;
   line-height: 20px;
   padding-top: 4px;
+  padding-bottom: 43px; // fixme - should change with baseline.
 
   &:before { // fix for border being cutoff ??
     top: 0;

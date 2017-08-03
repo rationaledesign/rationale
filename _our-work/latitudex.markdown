@@ -24,7 +24,4 @@ og_image: "/uploads/rationale-latitudex-og.jpg"
 layout: project
 ---
 
-Latitudex, an identity system for an IT services company, provides a unique and vibrant visual language that clearly differentiates the company from competitors.
-
-
-Just as latitudinal lines wrap the globe, a continuous line wraps all Latitudex communications. This unbroken element, represents a direct line to the solution, as well as a promise to the customer. The primary system of yellow-orange color provides a bright and optimistic accent to all pieces.
+Just as latitudinal lines wrap the globe, a continuous line wraps all Latitudex communications. This unbroken element evokes a direct line to a solution, as well as a promise of execution to the customer. The primary system of yellow color provides a bright and optimistic accent to all pieces.

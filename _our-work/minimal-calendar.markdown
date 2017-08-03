@@ -14,9 +14,8 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-mincalendar-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-mincalendar-og.jpg"
 layout: project
 ---
 
-Minimal Calendar is an upcoming iOS application which provides a calendar with simple and straightforward features and a typographic elegance not commonly found on the screen. Our mantra is "Less but better".
+Minimal Calendar is an upcoming iOS application which provides a calendar with bold and simple design, straightforward features, gestural interactions, and a typographic elegance not commonly found on the screen. To be released.
