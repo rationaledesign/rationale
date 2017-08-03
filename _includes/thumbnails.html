@@ -1,11 +1,6 @@
 <ul class="thumbnails">
   {% assign items = include.collection | sort:"position" %}
   {% for item in items %}
-    <li class='thumbnail'>
-      <a href='{{ item.url }}'>
-        {% include img.html image=item.thumb_image %}
-        <h2 class="h4">{{ item.title }}</h2>
-      </a>
-    </li>
+    {% include thumbnail.html item=item %}
   {% endfor %}
 </ul>

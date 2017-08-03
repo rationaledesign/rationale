@@ -59,18 +59,8 @@ layout: default
       More
       <ul class="thumbnails">
         <!-- Fixme add paramater for image thumb or detail default to detail -->
-        <li class='thumbnail'>
-          <a href='{{ next_project.url }}'>
-            {% include img.html image=next_project.thumb_image %}
-            <h2>{{ next_project.title }}</h2>
-          </a>
-        </li>
-        <li class='thumbnail'>
-          <a href='{{ nextNext_project.url }}'>
-            {% include img.html image=nextNext_project.thumb_image %}
-            <h2>{{ nextNext_project.title }}</h2>
-          </a>
-        </li>
+        {% include thumbnail.html item=next_project %}
+        {% include thumbnail.html item=nextNext_project %}
       </ul>
     </div>
   </div>
