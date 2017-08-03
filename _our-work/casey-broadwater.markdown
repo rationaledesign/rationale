@@ -22,4 +22,4 @@ og_image: "/uploads/rationale-casey-broadwater-og.jpg"
 layout: project
 ---
 
-The Casey Broadwater Photography identity system gives a simple and bold typographic treatment so that the featured photography itself may shine. The end result is a straightforward design language that gives maximum impact through a minimum of means.
+The Casey Broadwater Photography identity system gives a simple and bold typographic treatment that allows the featured photography itself to shine. The end result is an efficient design language that creates maximum impact through minimal means.
