@@ -22,9 +22,12 @@
 
 %row,
 .row { // required to start a grid
-  margin-right: -$gutter1;
   overflow: hidden;
   clear: both;
+
+  @include breakpoint($small) {
+    margin-right: -$gutter1;
+  }
 
   @include breakpoint($large) {
     margin-right: -$gutter2;
