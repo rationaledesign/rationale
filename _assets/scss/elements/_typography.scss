@@ -13,6 +13,7 @@
   font-size: 32px;
   line-height: $unit * 1.5;
   font-family: $font-NHG--extraLight;
+  letter-spacing: -.2px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -53,6 +54,7 @@
 @mixin h4--med {
   @include h4;
   font-family: $font-NHG--med;
+  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}

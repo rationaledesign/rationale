@@ -65,6 +65,7 @@
   }*/
 
   .h4 {
+    @include h4--med;
     position: absolute; 
     line-height: 1em;
     margin-top: 6px;
