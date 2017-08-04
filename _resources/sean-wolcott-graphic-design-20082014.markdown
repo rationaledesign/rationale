@@ -2,7 +2,6 @@
 title: 'Sean Wolcott: Graphic Design 2008–2014'
 date: 2015-04-06 18:17:00 Z
 author: Sean Wolcott
-imgcount: '2'
 layout: resource
 ---
 
