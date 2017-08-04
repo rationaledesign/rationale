@@ -1,9 +1,8 @@
 ---
 title: 'Sean Wolcott: Graphic Design 2008–2014'
 date: 2015-04-06 18:00:00 Z
-price: '35.40'
+price: 35.4
 buylink: http://www.magcloud.com/browse/issue/905499
-imgcount: '3'
 layout: product-detail
 ---
 
