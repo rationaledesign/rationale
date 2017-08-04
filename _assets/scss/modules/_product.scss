@@ -23,7 +23,7 @@
     }
 
     a {
-      font-family: $font-NHG--med;
+      @include link--tertiary;
       margin-bottom: 40px;
     }
   }
