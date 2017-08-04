@@ -2,7 +2,6 @@
 title: Graphic Design For Non-Profit Organizations
 date: 2014-02-26 14:55:00 Z
 author: Massimo Vignelli
-imgcount: '3'
 layout: resource
 ---
 
