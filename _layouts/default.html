@@ -3,7 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{site.title}} – {{page.title}}</title>
+  <title>
+    {% if page.layout == 'project' or page.layout == 'resource' or page.layout == 'product-detail' %}
+      {{page.title}} - {{site.title}}
+    {% else %}
+      {{site.title}} – {{page.title}}
+    {% endif %}
+  </title>
   <meta name="description" content="{{site.description}}">
   <link rel="canonical" href="http://www.rationale-design.com">
   <meta property="og:locale" content="en_US">
@@ -50,7 +56,6 @@
 <body itemscope itemtype="http://schema.org/ProfessionalService">
   <h1 itemprop="name" class="hide">Rationale Design</h1>
   <p class="hide" itemprop="description">{{site.description}}</p>
-
   <div class="content {{ page.title | slugify }}">
 
     <header class="container">
