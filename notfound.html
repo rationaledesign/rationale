@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="content">
+    <div class="container">
+        {% if page.url contains "/our-work/" %}
+        <div class="generic-not-found">
+            <div class="h1">
+                Sorry, page not found. Go back to our works <a href="/">here</a>.
+            </div>
+        </div>
+        {% elsif page.url contains "/resources/" %}
+        <div class="generic-not-found">
+            <div class="h1">
+                Sorry, project not found. Go back to the Resources <a href="/resources">here</a>.
+            </div>
+        </div>
+        {% elsif page.url contains "/store/" %}
+        <div class="generic-not-found">
+            <div class="h1">
+                Sorry, project not found. Go back to the Store <a href="/store">here</a>.
+            </div>
+        </div>
+        {% else %}
+        <div class="project-not-found">
+            <div class="h1">
+                Sorry, project not found. View others or see all work <a href="/">here</a>.
+            </div>
+            <div class="not-found-suggestions">
+                <ul class="thumbnails">
+                    {% assign projects = site.our-work | sort:"position" %}
+                    {% assign firstSuggestion = projects[0] %}
+                    {% assign secondSuggestion = projects[1] %}
+                    {% include thumbnail.html item=firstSuggestion %}
+                    {% include thumbnail.html item=secondSuggestion %}
+                </ul>
+            </div>
+        </div>
+        {% endif %}
+    </div>
+</div>

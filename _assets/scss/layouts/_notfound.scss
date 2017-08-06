@@ -1,0 +1,32 @@
+.project-not-found {
+    padding-bottom: $unit;
+
+    .h1 {
+        margin-top: $unit * 3;
+        margin-bottom: $unit * 3;
+
+        @include breakpoint($small) {
+            margin-top: $unit * 4;
+        }
+        
+        a {
+            @include link--secondary;
+        }
+    }
+}
+
+.generic-not-found {
+    .h1 {
+        margin-top: $unit * 8;
+        margin-bottom: $unit * 11;
+
+        @include breakpoint($small) {
+            margin-top: $unit * 7;
+            margin-bottom: $unit * 10;
+        }
+        
+        a {
+            @include link--secondary;
+        }
+    }
+}
