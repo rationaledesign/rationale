@@ -7,6 +7,7 @@ images:
 - image: "/uploads/rationale-sanscalendar-og.jpg"
 thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"
+og_image: "/uploads/FPO_Thumbnail_01.jpg"
 layout: product-detail
 ---
 
