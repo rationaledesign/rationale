@@ -6,9 +6,9 @@ layout: default
   <article class='project-detail mb-2'>
     <div class="container">
       <div class="project-info">
-        <div class='project-title med-col-half'>
-          <h4 class=''>{{ page.title }}</h4>
-          <h5 class=''>
+        <div class='project-title md-col-half'>
+          <h4 class='h4--med'>{{ page.title }}</h4>
+          <h5 class='h4'>
             {% if page.year %}
               {{ page.year }}
             {% else %}
@@ -16,7 +16,7 @@ layout: default
             {% endif %}
           </h5>
         </div>
-        <div class="project-description med-col-half">
+        <div class="project-description md-col-half h4">
           {% comment %}if project has excerpt{% endcomment %}
           {% if excerpt != body %}
               {{excerpt}}

@@ -25,14 +25,6 @@
     margin-bottom: 0;
     // @include col-third(false);
   }
-
-  h4 {
-    @include h4--med;
-  }
-  
-  h5 {
-    @include h4;
-  }
 }
 
 .project-description {
@@ -44,8 +36,6 @@
   }
 
   p {
-    @include h4;
-
     @include breakpoint($med) {
       margin-bottom: $unit * 2;
     }
