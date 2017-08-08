@@ -10,7 +10,7 @@ body {
   @include h4;
   background-color: $white;
   -webkit-font-smoothing: antialiased !important;
-  color: $grey_dark;
+  color: $black;
 
   @include breakpoint($large) {
     @include h3;
@@ -48,7 +48,7 @@ footer {
 }
 
 a {
-  @include link--tertiary;
+  @include link;
 }
 
 button {

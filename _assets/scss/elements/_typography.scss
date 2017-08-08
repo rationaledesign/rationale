@@ -2,7 +2,7 @@
   font-size: 46px;
   line-height: $unit * 2;
   font-family: $font-NHG--extraLight;
-  letter-spacing: -.1px;
+  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -14,6 +14,7 @@
   line-height: $unit * 1.5;
   font-family: $font-NHG--extraLight;
   letter-spacing: -.2px;
+  color: $grey_dark;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -24,7 +25,7 @@
   font-size: 20px;
   line-height: $unit;
   font-family: $font-NHG--roman;
-  letter-spacing: -.1px;
+  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -42,9 +43,9 @@
 
 @mixin h4 {
   font-size: 17px;
-  line-height: $unit;
+  line-height: $unit * .83;
   font-family: $font-NHG--roman;
-  letter-spacing: -.1px;
+  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -87,30 +88,30 @@
 .h5 { @include h5; }
 
 .h3--med { @include h3--med; }
-.h5--med { @include h5--med; }
+.h4--med { @include h4--med; }
 .h5--med { @include h5--med; }
 
 @mixin focusBox {
   display: inline-block;
   position: relative;
+  outline: 0;
 
-  &:focus:not(:hover) {
-    outline: none;
-
+  &:focus {
     &:after {
       content: '';
       position: absolute;
-      top:      -.1em;
+      top:      -.05em;
       bottom:   -.1em;
-      left:     -.1em;
-      right:    -.1em;
-      outline: 1px solid $grey_medium;
+      left:     -.3em;
+      right:    -.3em;
+      border: 1px solid $grey_medium;
     }
   }
 }
 
 @mixin link {
   text-decoration: none;
+  @include focusBox;
 
   &:hover,
   &:active {
@@ -119,22 +120,32 @@
 }
 
 @mixin link--secondary {
+  text-decoration: none;
+  background-image: linear-gradient(#fff 50%, $grey_dark 50%);
+  background-repeat: repeat-x;
+  background-position: 0 1em;
+  background-size: 2px 2px;
   color: $grey_dark;
+  @include focusBox;
 
   &:hover,
   &:active {
+    background-image: linear-gradient(#fff 50%, $black 50%);
     color: $black;
   }
 }
 
 @mixin link--tertiary {
-  color: $red;
   text-decoration: none;
+  background-repeat: repeat-x;
+  background-position: 0 1em;
+  background-size: 2px 2px;
+  color: $red;
   @include focusBox;
 
   &:hover,
   &:active {
-    text-decoration: underline;
+    background-image: linear-gradient(#fff 50%, $red 50%);
   }
 }
 
