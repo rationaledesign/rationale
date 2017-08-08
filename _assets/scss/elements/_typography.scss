@@ -2,7 +2,7 @@
   font-size: 46px;
   line-height: $unit * 2;
   font-family: $font-NHG--extraLight;
-  letter-spacing: -.1px;
+  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -25,7 +25,7 @@
   font-size: 20px;
   line-height: $unit;
   font-family: $font-NHG--roman;
-  letter-spacing: -.1px;
+  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -43,9 +43,9 @@
 
 @mixin h4 {
   font-size: 17px;
-  line-height: $unit;
+  line-height: $unit * .83;
   font-family: $font-NHG--roman;
-  letter-spacing: -.1px;
+  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -75,17 +75,6 @@
 @mixin h5--med {
   @include h5;
   font-family: $font-NHG--med;
-
-  @include breakpoint($small) {}
-  @include breakpoint($med) {}
-  @include breakpoint($large) {}
-}
-
-@mixin paragraph {
-  font-size: 17px;
-  line-height: $unit * .875;
-  font-family: $font-NHG--roman;
-  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
