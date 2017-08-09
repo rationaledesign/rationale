@@ -22,8 +22,12 @@
 
 %row,
 .row { // required to start a grid
-  overflow: hidden;
-  clear: both;
+  // overflow: hidden;
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 
   @include breakpoint($small) {
     margin-right: -$gutter1;
