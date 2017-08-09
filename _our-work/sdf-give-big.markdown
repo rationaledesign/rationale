@@ -9,4 +9,4 @@ thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The poster for the 2016 GiveBig campaign for the Seattle Design Foundation was created to promote philanthropic donations in support of the SDF and its mission: to foster innovation in emerging talent by selecting individuals to receive small, project-focused grants matched with mentorship. The design conveys the concept of growth, upward motion, light, and transformation, while building on the existing SDF identity.
