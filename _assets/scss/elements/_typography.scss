@@ -1,8 +1,10 @@
 @mixin h1 {
   font-size: 46px;
-  line-height: $unit * 2;
+  line-height: $h1-lh;
   font-family: $font-NHG--extraLight;
   letter-spacing: -.3px;
+  position: relative;
+  top: -7px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -11,10 +13,12 @@
 
 @mixin h2 {
   font-size: 32px;
-  line-height: $unit * 1.5;
+  line-height: $h2-lh;
   font-family: $font-NHG--extraLight;
   letter-spacing: -.2px;
   color: $grey_dark;
+  position: relative;
+  top: -6px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -23,9 +27,11 @@
 
 @mixin h3 {
   font-size: 20px;
-  line-height: $unit;
+  line-height: $h3-lh;
   font-family: $font-NHG--roman;
   letter-spacing: -.3px;
+  position: relative;
+  top: -4px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -43,9 +49,11 @@
 
 @mixin h4 {
   font-size: 17px;
-  line-height: $unit * .83;
+  line-height: $h4-lh;
   font-family: $font-NHG--roman;
   letter-spacing: -.3px;
+  position: relative;
+  top: -3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -55,7 +63,6 @@
 @mixin h4--med {
   @include h4;
   font-family: $font-NHG--med;
-  letter-spacing: -.3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -64,8 +71,10 @@
 
 @mixin h5 {
   font-size: 14px;
-  line-height: $unit * .75;
+  line-height: $h5-lh;
   font-family: $font-NHG--roman;
+  position: relative;
+  top: -3px;
 
   @include breakpoint($small) {}
   @include breakpoint($med) {}
@@ -81,15 +90,21 @@
   @include breakpoint($large) {}
 }
 
-.h1 { @include h1; }
-.h2 { @include h2; }
-.h3 { @include h3; }
-.h4 { @include h4; }
-.h5 { @include h5; }
+.h1, .h1-wrap p, .h1-wrap a { @include h1; }
+.h2, .h2-wrap p, .h2-wrap a { @include h2; }
+.h3, .h3-wrap p, .h3-wrap a { @include h3; }
+.h4, .h4-wrap p, .h4-wrap a { @include h4; }
+.h5, .h5-wrap p, .h5-wrap a { @include h5; }
 
-.h3--med { @include h3--med; }
-.h4--med { @include h4--med; }
-.h5--med { @include h5--med; }
+.h3--med, .h3--med-wrap p, .h3-wrap a { @include h3--med; }
+.h4--med, .h4--med-wrap p, .h4-wrap a { @include h4--med; }
+.h5--med, .h5--med-wrap p, .h5-wrap a { @include h5--med; }
+
+// [class*="-wrap"] {
+//   p {
+//     top: 0;
+//   }
+// }
 
 @mixin focusBox {
   display: inline-block;
@@ -123,7 +138,7 @@
   text-decoration: none;
   background-image: linear-gradient(#fff 50%, $grey_dark 50%);
   background-repeat: repeat-x;
-  background-position: 0 1em;
+  background-position: bottom;
   background-size: 2px 2px;
   color: $grey_dark;
   @include focusBox;
