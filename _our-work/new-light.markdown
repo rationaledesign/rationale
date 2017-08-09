@@ -10,4 +10,4 @@ thumb_image:
 og_image: "/uploads/rationale-newlight-og.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Cover for the single *New Light,* designed for music group The Fascination Movement. Cover graphics build off of the design language from the album release *Intent,* on which the song also appears.
