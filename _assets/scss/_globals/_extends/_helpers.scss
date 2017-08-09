@@ -55,10 +55,6 @@
     top: 0;
     height: 1px;
     background: $black;
-
-    @include breakpoint($large) {
-      right: 24px;
-    }
   }
 }
 
