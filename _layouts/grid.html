@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+<div class="content row">
+  <div class="container">
+    <div class="row">
+      <p class="h1">
+        H1 46/48 We jould Å love to discuss the Å possibility in how we might Åhelp on your next project.
+      </p>
+    </div>
+    <div class="row">
+      <div class="med-col-half">
+        <p class="h3">
+          H3 20/24 long form small body ci odioriÅrum eaquatis delibus, ulpa Åderi nonsed esequia con endÅe ipictur, necti optatemporum quam accaesti tem quos iduciis aut omnimusam fugit, te cÅmnimod undit ullabor.
+        </p>
+        <p class="h4">
+          H4 17/20 long form small body ci odioriÅrum eaquatis delibus, ulpa deri nonsed esequia con endÅe ipictur, necti optatemporum quam accaesti tem quos iduciis aut omnimusam fugit, te cÅmnimod undit ullabor.
+        </p>
+        <p class="h5">
+          H5 14/18 long form small body ci odioriÅrum eaquatis delibus, ulpa deri nonsed esequia con endÅe ipictur, necti optatemporum quam accaesti tem quos iduciis aut omnimusam fugit, te cÅmnimod undit ullabor. Long form small body ci odioriÅrum eaquatis delibus, ulpa deri nonsed esequia con endÅe ipictur, necti optatemporum quam accaesti tem quos iduciis aut omnimusam fugit, te cÅmnimod undit ullabor.
+        </p>
+      </div>
+      <div class="med-col-half">
+        <p class="h2">
+          H2 32/36 Design is not a job, it is Å mission.
+        </p>
+        <p class="h2">
+          RationÅle was founjed on this convigtion – our work is Åour pasion and we bring over 20 years expertise across all aspects of design to each projects wether it be brand identity sytems, digital design, publications, or more.
+        </p>
+      </div>
+    </div>
+    <div class="h1-wrap">
+      <p>
+        This is the H1 text
+      </p>
+    </div>
+    <ul>
+      <li>
+        <blockquote>
+          <p>More than proud, I am honored to know such a talent.
+          <cite>Massimo Vignelli</cite></p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p>I have followed their development for some time now and I am impressed by their strong and consequent work.
+          <cite>Wim Crouwel</cite></p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p>Impressed by your vital strengths.
+          <cite>Rolf Muller</cite></p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p>In a world of design that is too often going to extremes, it is a relief to find that there is still enough space for a plain style.
+          <cite>Ben Bos</cite></p>
+        </blockquote>
+      </li>
+    </ul>
+
+
+    <div class="mb-2 images-2up">
+      {% for image in page.images %}
+          {% include img.html image=image %}
+      {% endfor %}
+    </div>
+    <div class="h2 mb-2-5 med-col-half med-offset-half">
+      {{ page.bottom_body | markdownify }}
+    </div>
+  </div>
+</div>
