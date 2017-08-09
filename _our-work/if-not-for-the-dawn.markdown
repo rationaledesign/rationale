@@ -16,4 +16,4 @@ og_image: "/uploads/rationale-ifnotfordawn-og.jpg"
 layout: project
 ---
 
-Book cover designed for novel *If Not For The Dawn.* Cover imagery alludes to a future Los Angeles with geometric typography and an artificially-lit night sky. The choice of photography evokes the undertones of hard-boiled detective noir that run through the novel.
+Book cover designed for novel “If Not For The Dawn”. Cover imagery alludes to a future Los Angeles with geometric typography and an artificially-lit night sky. The choice of photography evokes the undertones of hard-boiled detective noir that run through the novel.
