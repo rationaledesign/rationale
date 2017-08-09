@@ -30,4 +30,4 @@ layout: project
 
 Instead of the usual graphics, we reenvisioned the Hot Rod & Classic Car Show in historic Snohomish, Washington, USA to direct focus to the beauty of cars’ details themselves.
 
-The close-up photography is paired with a bold, simple, and impactful typographic treatment that entices one to come and *See More* at the annual event.
+The close-up photography is paired with a bold, simple, and impactful typographic treatment that entices one to come and “See More” at the annual event.
