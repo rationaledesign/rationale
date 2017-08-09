@@ -10,4 +10,4 @@ thumb_image:
 og_image: "/uploads/rationale-newlight-og.jpg"
 ---
 
-Cover for the single *New Light,* designed for music group The Fascination Movement. Cover graphics build off of the design language from the album release *Intent,* on which the song also appears.
+Cover for the single “New Light”, designed for music group The Fascination Movement. Cover graphics build off of the design language from the album release Intent, on which the song also appears.
