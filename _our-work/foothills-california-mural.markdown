@@ -12,4 +12,4 @@ thumb_image:
 og_image: "/uploads/rationale-foothillsmural-og.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Mural created for Foothills California to be used in retail environments. Constructed from large wood panels, with each color layered on top of another, the murals give a dramatic and dimensional aspect to the motif, which is a core aspect of the visual identity also developed by Rationale.
