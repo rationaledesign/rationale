@@ -24,12 +24,10 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-classiccar-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-classiccar-og.jpg"
 layout: project
 ---
 
-Instead of the usual graphics, the Hot Rod & Classic Car Show in historic Snohomish, Washington, USA has been re-envisioned to bring focus on the beauty the details of the cars themselves.
+Instead of the usual graphics, we reenvisioned the Hot Rod & Classic Car Show in historic Snohomish, Washington, USA to direct focus to the beauty of cars’ details themselves.
 
-
-The close-up photography is paired with a bold and simple typographic treatment which gives greater impact and entices one to come and "See More" at the annual event.
+The close-up photography is paired with a bold, simple, and impactful typographic treatment that entices one to come and *See More* at the annual event.
