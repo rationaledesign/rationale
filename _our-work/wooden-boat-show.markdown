@@ -15,4 +15,4 @@ og_image: "/uploads/rationale-woodboatshow-og.jpg"
 layout: project
 ---
 
-On the poster for Port of Toledo Wooden Boat Show, custom cut wood blocks to spell out “boat show” using naval signal flags.
+On the poster for Port of Toledo Wooden Boat Show, custom cut wood blocks to spell out *boat show* using naval signal flags.
