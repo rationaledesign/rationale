@@ -4,16 +4,22 @@ layout: default
 
 <div class="content row">
   <div class="container">
-    <div class="h2 med-col-half med-offset-half">
-      {{content}}
+    <div class="row">
+      <div class="med-col-half med-offset-half">
+        <div class="h2-wrap">
+          {{content}}
+        </div>
+      </div>
     </div>
     <div class="mb-2 images-2up">
       {% for image in page.images %}
           {% include img.html image=image %}
       {% endfor %}
     </div>
-    <div class="h2 mb-2-5 med-col-half med-offset-half">
-      {{ page.bottom_body | markdownify }}
+    <div class="row">
+      <div class="h2-wrap mb-2-5 med-col-half med-offset-half">
+        {{ page.bottom_body | markdownify }}
+      </div>
     </div>
   </div>
 </div>
