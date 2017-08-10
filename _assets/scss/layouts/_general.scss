@@ -28,10 +28,10 @@ body > .content:first-of-type {
   position: absolute;
   top: 0;
   padding-top: $unit-2 - 6;
-  padding-bottom: $unit-9;
+  padding-bottom: $unit * 16;
   width: 100vw;
 
-  @include breakpoint($small){ padding-bottom: $unit * 16; }
+  @include breakpoint($small){ padding-bottom: $unit-9; }
 }
 
 .content {

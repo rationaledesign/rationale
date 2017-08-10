@@ -1,4 +1,8 @@
 .our-approach .content {
+  .bottom_body {
+    margin-bottom: $unit-5;
+    @include breakpoint($med){ margin-bottom: $unit-7; }
+  }
 
   a {
     @include link--secondary;

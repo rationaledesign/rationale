@@ -45,9 +45,10 @@
 
   .thumbnail-title {
     padding-top: $unit-half;
+    height: $unit-6;
 
-    @include breakpoint($small) { height: $unit-5; }
-    @include breakpoint($med) { height: $unit-6; }
+    @include breakpoint($small) { height: $unit-6; }
+    @include breakpoint($med) { height: $unit-8; }
     @include breakpoint($large) { height: $unit-8; }
   }
 }
