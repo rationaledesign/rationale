@@ -30,6 +30,8 @@ body > .content:first-of-type {
   padding-top: $unit-2 - 6;
   padding-bottom: $unit-9;
   width: 100vw;
+
+  @include breakpoint($small){ padding-bottom: $unit * 16; }
 }
 
 .content {
