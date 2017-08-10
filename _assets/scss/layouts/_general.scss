@@ -23,6 +23,15 @@
 //   margin-bottom: 30px;
 // }
 
+body > .content:first-of-type {
+  min-height: 100vh;
+  position: absolute;
+  top: 0;
+  padding-top: $unit-2 - 6;
+  padding-bottom: $unit-9;
+  width: 100vw;
+}
+
 .content {
   // margin-bottom: 78px;
 

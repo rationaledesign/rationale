@@ -16,6 +16,7 @@ body {
   border-top: solid $black 18px;
   -webkit-font-smoothing: antialiased !important;
   color: $black;
+  overflow-x: hidden;
 }
 
 header,
@@ -35,7 +36,13 @@ header{
 footer {
   font-size: $h6;
   line-height: 20px;
-  padding-bottom: 43px; // fixme - should change with baseline.
+  // padding-bottom: 43px; // fixme - should change with baseline.
+
+
+  position: absolute !important;
+  min-height: $unit-9;
+  width: 100vw;
+  bottom: 0;
 
   &:before { // fix for border being cutoff ??
     top: 0;
