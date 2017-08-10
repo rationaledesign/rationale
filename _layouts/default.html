@@ -35,21 +35,32 @@
   <link rel="alternate" type="application/rss+xml" href="{{site.feed_url}}" />
   <link rel="stylesheet" type="text/css" href="/assets/css/screen.min.css" />
 
-  <script>
-
-    WebFontConfig = {
-      monotype: {
-        projectId: '88bd1d24-97d7-4798-90e4-b0be8d1d8b1f',
-        loadAllFonts: true
-      }
-    };
-
-    (function(d) {
-      var wf = d.createElement('script'), s = d.scripts[0];
-      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
-      wf.async = true;
-      s.parentNode.insertBefore(wf, s);
-    })(document);
+  <style type="text/css">
+    @font-face{
+        font-family:"NeueHaasGroteskText W01";
+        src:url("/assets/fonts/d24ae558-ac0f-4a43-96da-dd49b68947f5.eot?#iefix");
+        src:url("/assets/fonts/d24ae558-ac0f-4a43-96da-dd49b68947f5.eot?#iefix") format("eot"),url("/assets/fonts/a14594bf-73de-4b5f-9792-9566994a021d.woff2") format("woff2"),url("/assets/fonts/bb4a10bb-155d-4c1a-a813-c65e10fac36c.woff") format("woff"),url("/assets/fonts/53812a68-b352-4951-b19c-fe964db7ffe2.ttf") format("truetype"),url("/assets/fonts/389e288e-637b-44b2-9b5a-4ecec3ae8e2c.svg#389e288e-637b-44b2-9b5a-4ecec3ae8e2c") format("svg");
+    }
+    @font-face{
+        font-family:"NHaasGroteskTXW01-65Md";
+        src:url("/assets/fonts/fca16206-1413-42b5-b3dd-ce6499d2bd3f.eot?#iefix");
+        src:url("/assets/fonts/fca16206-1413-42b5-b3dd-ce6499d2bd3f.eot?#iefix") format("eot"),url("/assets/fonts/34ae0cd2-c49c-4df4-8270-fcda21c1b715.woff2") format("woff2"),url("/assets/fonts/9e666926-4bc9-4013-849e-dffa25a41dbd.woff") format("woff"),url("/assets/fonts/37e13425-7daf-407c-ba41-43ebd7d30855.ttf") format("truetype"),url("/assets/fonts/9cd38052-e8fa-4a89-bfee-01d1675c9aa1.svg#9cd38052-e8fa-4a89-bfee-01d1675c9aa1") format("svg");
+    }
+    @font-face{
+        font-family:"NHaasGroteskDSW01-35XLt";
+        src:url("/assets/fonts/2459b772-216e-4520-97f4-ce5cb27cd66d.eot?#iefix");
+        src:url("/assets/fonts/2459b772-216e-4520-97f4-ce5cb27cd66d.eot?#iefix") format("eot"),url("/assets/fonts/2d3ed639-f5d6-489d-9792-c18f0b3a58d6.woff2") format("woff2"),url("/assets/fonts/2cb388a7-9311-4869-8f13-a267ec0df0cb.woff") format("woff"),url("/assets/fonts/373e53df-6f63-436a-a189-25fb3a3e0718.ttf") format("truetype"),url("/assets/fonts/4ea4edba-9d1d-4b94-9ddd-ca9bc5cf9ebe.svg#4ea4edba-9d1d-4b94-9ddd-ca9bc5cf9ebe") format("svg");
+    }
+  </style>
+  <script type="text/javascript">
+    var MTIProjectId='88bd1d24-97d7-4798-90e4-b0be8d1d8b1f';
+      (function() {
+          var mtiTracking = document.createElement('script');
+          mtiTracking.type='text/javascript';
+          mtiTracking.async='true';
+          mtiTracking.src='/assets/fonts/mtiFontTrackingCode.js';
+          (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild( mtiTracking );
+     })();
   </script>
 
 </head>
@@ -69,37 +80,12 @@
     <footer class="container">
       {% include footer.html %}
     </footer>
-    <!-- <div class="grid" data-development-grid="hide"></div> -->
+
   </div><!-- /wrap -->
-<!--   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+
   <script src="/assets/js/script.min.js" async></script>
 
-  <!-- more toggle -->
-
   <script>
-    // $(document).ready(function(){
-
-    //   $('.js-more').click(function(){
-    //     if($(".more-text").parent().hasClass('expanded')) {
-    //       $('.more-text').parent().removeClass("expanded");
-    //     } else {
-    //       $('.more-text').parent().addClass("expanded");
-    //       $('.js-more').addClass("fade");
-    //     }
-    //   });
-
-    //   $(function() {FastClick.attach(document.body);});
-
-    //   $(".filter-list h6").click(function(){
-    //     if ($('.filters').hasClass('open')) {
-    //       $(".filters").removeClass("open");
-    //       $(".filters").addClass("close");
-    //     } else {
-    //       $(".filters").addClass("open");
-    //       $(".filters").removeClass("close");
-    //     }
-    //   })
-    // });
 
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
