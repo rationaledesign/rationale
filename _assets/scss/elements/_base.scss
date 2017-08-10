@@ -40,9 +40,7 @@ footer {
   //line-height: 20px;
   // padding-bottom: 43px; // fixme - should change with baseline.
 
-
   position: absolute;
-  
   width: 100vw;
   bottom: 0;
   min-height: $unit * 16; 
@@ -53,9 +51,6 @@ footer {
 
   @include breakpoint($small){
     min-height: $unit-9; 
-  }
-  @include breakpoint($large) {
-
   }
 }
 
