@@ -100,12 +100,6 @@
 .h4--med, .h4--med-wrap p, .h4-wrap a { @include h4--med; }
 .h5--med, .h5--med-wrap p, .h5-wrap a { @include h5--med; }
 
-// [class*="-wrap"] {
-//   p {
-//     top: 0;
-//   }
-// }
-
 @mixin focusBox {
   display: inline-block;
   position: relative;
@@ -171,19 +165,5 @@
 
   @include breakpoint($large) {
     @include h3--med;
-  }
-}
-
-
-.sub-title {
-  font-size: $h3;
-  font-weight: 300;
-}
-
-.title-main { // aproach title
-  margin-bottom: 4px;
-
-  @include breakpoint($large) {
-    margin-bottom: 20px;
   }
 }
