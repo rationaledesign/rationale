@@ -7,12 +7,10 @@ position: 24
 year: 2012
 images:
 - image: "/uploads/rationale-freyasbazaar-1.jpg"
-  alt: 
 thumb_image:
   image: "/uploads/rationale-freyasbazaar-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-freyasbazaar-og.jpg"
 layout: project
 ---
 
-This invitation for a local artisan craft fair is printed on a heavy kraft paper and changes from year to year, each time featuring a new phrase. Using one color and two typefaces, a great variety of future possibilities are opened by varying these in inventive ways.
+This invitation for a local artisan craft fair is printed on a heavy kraft paper. While the kraft paper is consistent from year to year, the use of a solid or light background changes, as does the typography and the phrase the invitation features. Varying the use of one color and two typefaces in inventive ways creates a great variety of possibilities for future invitations while maintaining a recognizable identity.

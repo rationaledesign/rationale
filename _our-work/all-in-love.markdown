@@ -7,12 +7,10 @@ position: 26
 year: 2011
 images:
 - image: "/uploads/rationale-allinlove-1.jpg"
-  alt: 
 thumb_image:
   image: "/uploads/rationale-allinlove-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-allinlove-og.jpg"
 layout: project
 ---
 
-Poster design for promotion of The Fascination Movement music release “All In Love”. Graphical approach leverages the design language from the related album release "Intent".
+Poster design for the promotion of the release of the single “All In Love” by music group The Fascination Movement. Poster graphics build off of the design language from the album release Intent, which the song also appears on.

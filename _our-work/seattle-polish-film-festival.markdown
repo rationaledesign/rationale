@@ -15,4 +15,7 @@ thumb_image:
 og_image: "/uploads/spff-og.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Polish cinema has a historic vibrancy and relevancy—not to mention a history of vibrant and relevant film posters. Indeed, the medium of the poster has seen some of its best and most iconic works in Polish cinema.
+The goal of creating a design for the SPFF was to seek a solution that communicates both the rich heritage of Polish film  and the high quality of the world’s top festivals.
+
+The solution borrows the bold white and red of the Polish flag via typographic means. It also captures the sense of a rapidly moving motion picture itself. Festival details remain prominently at the top of the design, while the bird, a symbol of Poland’s coat of arms, signifies a stamp of prestige and quality.

@@ -16,4 +16,4 @@ og_image: "/uploads/rationale-bringingdownwalls-og1.jpg"
 layout: project
 ---
 
-Poster design for promotion of The Fascination Movement music release "Bringing Down The Walls". Graphical approach leverages the design elements from the related EP release.
+Promotional poster design for release of music group The Fascination Movement’s  single, “Bringing Down The Walls”. Color bands form the abstract image of a wall, real or imagined, which are utilized as core design elements across the single, poster artwork, and related EP release.

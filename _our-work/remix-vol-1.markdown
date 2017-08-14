@@ -12,9 +12,8 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-remixvol1-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-remixvol1-og.jpg"
 layout: project
 ---
 
-EP cover “Remix Vol.1” designed for music group The Fascination Movement. The design approach serves as the basis for future releases in this series, where color is shifted from each release to the next to provide a series of unique identifying colors.
+EP cover “Remix Vol.1” designed for music group The Fascination Movement. The design approach serves as the basis for future releases in this series of remixes, where color is changed from each release to the next to provide a series of vibrant and unique identifying colors.

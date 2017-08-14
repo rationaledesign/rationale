@@ -5,10 +5,8 @@ layout: default
 
 <div class="content">
     <div class="container">
-        {{page.url}}
-        {{page.path}}
-        {% if page.url contains "/our-work/" %}
-        <div class="project-not-found">
+
+        <div class="project-not-found" style="display:none" id="prj404">
             <div class="h1">
                 Sorry, project not found. View others or see all work <a href="/">here</a>.
             </div>
@@ -22,24 +20,27 @@ layout: default
                 </ul>
             </div>
         </div>
-        {% elsif page.url contains "/resources/" %}
-        <div class="generic-not-found">
+        <div class="generic-not-found" style="display:none" id="res404">
             <div class="h1">
                 Sorry, project not found. Go back to the Resources <a href="/resources">here</a>.
             </div>
         </div>
-        {% elsif page.url contains "/store/" %}
-        <div class="generic-not-found">
+        <div class="generic-not-found" style="display:none" id="str404">
             <div class="h1">
                 Sorry, project not found. Go back to the Store <a href="/store">here</a>.
             </div>
         </div>
-        {% else %}
-        <div class="generic-not-found">
+        <div class="generic-not-found" style="display:none" id="gen404">
             <div class="h1">
                 Sorry, page not found. Go back to Our works <a href="/">here</a>.
             </div>
         </div>
-        {% endif %}
     </div>
 </div>
+<script>
+    var url = window.location.href;
+    if (url.indexOf("/our-work") !== -1) document.getElementById('prj404').style.display = 'block';
+    else if (url.indexOf("/resources") !== -1) document.getElementById('res404').style.display = 'block';
+    else if (url.indexOf("/store") !== -1) document.getElementById('str404').style.display = 'block';
+    else document.getElementById('gen404').style.display = 'block';
+</script>

@@ -15,4 +15,4 @@ thumb_image:
 og_image: "/uploads/rationale-fmsingles-og.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Shown here is an excerpt of a five-part series of music single packaging, which represents the songs’ subjects in a conceptual and unified graphical manner. The use of color, grid, movement, and concept within the system lends both consistency and diversity to the collection of songs by music group The Fascination Movement songs: “The Ones You Love”, “From Above”, “New Promise”, “Never Walk Away”, and “In Code”.

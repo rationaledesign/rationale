@@ -16,4 +16,4 @@ og_image: "/uploads/rationale-carryon-og.jpg"
 layout: project
 ---
 
-Book cover designed for novel “Carry On”. Color bands represent the key theme of the books’ characters along with the antagonist and protagonist of the story. Typography runs vertically to compliment the sense of vertical motion.
+Book cover designed for the novel “Carry On”. Color bands reflect this fictional book’s narrative of DNA and genome mapping in the race to find serial killers. Typography runs vertically to complement the sense of vertical motion.

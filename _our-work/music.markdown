@@ -24,9 +24,8 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-concertseries-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-concertseries-og.jpg"
 layout: project
 ---
 
-Series of posters for music concerts uses a variety of visual devices including strong, simple typography, geometric shapes, and primary colors to call attention to itself in a visually cluttered landscape.
+Series of posters for music concerts using a variety of focused, clear, and calm visual devices: strong, simple typography; geometric shapes; primary colors. The result is a poster that, in its simplicity, calls attention to itself in the visually cluttered landscape of music posters.

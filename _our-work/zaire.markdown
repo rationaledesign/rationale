@@ -14,9 +14,8 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-zaire-0.jpg"
-  alt: 
 og_image: "/uploads/rationale-zaire-og.jpg"
 layout: project
 ---
 
-EP cover "Zaire", designed for music group Young Monday. A geometric, photo composition Z for Zaire sits in a spacious horizon, representing the sonic and emotional scope of the music for both packaging and other promotional materials.
+Cover for EP “Zaire”, designed for music group Young Monday. A geometric “Z”, for Zaire, composed of photographs sits on a spacious horizon, representing the sonic and emotional scope of the music. The design is used for packaging and other promotional materials.

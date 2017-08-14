@@ -14,4 +14,4 @@ thumb_image:
 og_image: "/uploads/rationale-0dot5-og.jpg"
 ---
 
-EP cover “0.5” designed for music group The Fascination Movement. Imagery serves as the basis for a design language that is applied to related singles, posters, and other promotional materials.
+EP cover “0.5” designed for music group The Fascination Movement. The imagery’s circular mark and transitioning colors serve as the basis for a design language that is applied to related singles, posters, and other promotional materials.

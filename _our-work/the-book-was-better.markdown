@@ -9,4 +9,6 @@ thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For the second annual The Book Was Better Film Festival, in which people submit a short film based on one chapter from a book, Rationale created an identity program that can be taken in new directions for years to come while maintaining a clear image.
+
+Many visual metaphors can signify film, but most of these are too referential to the previous, analog era. The solution here achieves something more universal and transcendent: Transitioning groups of lines suggest the transitioning frames of a movie as well as the turning pages of a book. Through this abstraction also comes the ability to convey many other concepts at once—the light and lack of light that composes a film, as well as a book’s inverse (the white of a page of paper and the black of ink).

@@ -16,4 +16,4 @@ og_image: "/uploads/rationale-interaction-og.jpg"
 layout: project
 ---
 
-Single cover design for music group, The Fascination Movement. The swirling movement of the ambiguous forms on the cover reference the motion and mixtures of the sound of the music itself.
+Cover design for the single “Interaction” by music group The Fascination Movement. The swirling movement of the ambiguous forms on the cover reflect the motion and mixtures of the sound of the music itself.
