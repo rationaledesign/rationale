@@ -5,6 +5,7 @@
 html {
   $grid-color: rgba(red, 0.15);
   background-color: $white;
+  height: 100%;
 
   &.gridShown {
     background: linear-gradient($grid-color, $grid-color 1px, transparent 1px);
@@ -16,9 +17,12 @@ body {
   border-top: solid $black 18px;
   -webkit-font-smoothing: antialiased !important;
   color: $black;
+  display: flex;
+  flex-direction: column;
   overflow-x: hidden;
   width: 100vw;
   font-size: 0;
+  height: 100%;
 }
 
 header,
@@ -27,30 +31,18 @@ footer {
 }
 
 header{
-  @include o(blue);
-  min-height: $unit-9;
+  width: 100%;
+  min-height: $unit-9 + $unit-half;
 
-  @include breakpoint($small){ min-height: $unit-8; }
-  @include breakpoint($med){ min-height: $unit-6; }
-  @include breakpoint($large){ min-height: $unit-6; }
+  @include breakpoint($small){ min-height: $unit-8 + $unit-half; }
+  @include breakpoint($med){ min-height: $unit-6 + $unit-half; }
 }
 
 footer {
-  //font-size: $h6;
-  //line-height: 20px;
-  // padding-bottom: 43px; // fixme - should change with baseline.
+  margin-bottom: $unit-2;
 
-  position: absolute;
-  width: 100vw;
-  bottom: 0;
-  min-height: $unit * 16; 
-
-  /*&:before { // fix for border being cutoff ??
-    top: 0;
-  }*/
-
-  @include breakpoint($small){
-    min-height: $unit-9; 
+  @include breakpoint($small) {
+    margin-bottom: $unit-4;
   }
 }
 
@@ -134,6 +126,10 @@ blockquote {
     @include h4--med;
     color: $black;
   }
+}
+
+section {
+  flex: 1;
 }
 
 // strong { font-weight: bold; }
