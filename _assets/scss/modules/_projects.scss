@@ -1,4 +1,6 @@
 .project-detail {
+  margin-bottom: $unit-2;
+  @include breakpoint($med) { margin-bottom: $unit-4; }
 
   img {
     margin-bottom: 1px;
@@ -7,8 +9,8 @@
 
 .project-detail .project-info {
   border-top: 1px solid $black;
-  padding-top: 4px;
-  @extend %clearfix;
+  padding-top: $unit-half;
+  // @extend %clearfix;
 }
 
 // project detail
@@ -28,17 +30,16 @@
 }
 
 .project-description {
-  margin-bottom: $unit;
+  margin-bottom: $unit-4;
 
   @include breakpoint($med) {
     // @include col-two-thirds(false);
     // margin-bottom: 55px;
+    margin-bottom: $unit-3;
   }
 
   p {
-    @include breakpoint($med) {
-      margin-bottom: $unit * 2;
-    }
+    margin-bottom: $unit;
   }
 }
 

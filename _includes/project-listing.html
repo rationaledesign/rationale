@@ -6,7 +6,7 @@
         {% capture img %}/assets/img{{ project.url }}/thumb/{{project.title | handleize}}-s1{% endcapture %}
         {% include img.html %}
         <h2 class="bold">{{ project.title }}</h2>
-        <h3 class="sub-title">{{ project.parent.title }}</h3>
+        <h3>{{ project.parent.title }}</h3>
       </a>
     </li>
     {% endfor %}
