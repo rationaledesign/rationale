@@ -3,7 +3,6 @@
 }
 
 .thumbnail {
-  margin-bottom: $unit-25;
 
   &:hover a {
     color: $red;
@@ -11,15 +10,6 @@
 
   @include breakpoint($small) {
     @include col-half(false);
-  }
-
-  @include breakpoint($med){
-    //margin-bottom: $unit-25
-    margin-bottom: $unit-3
-  }
-
-  @include breakpoint($large){
-    margin-bottom: $unit-4;
   }
 
   .home & { // two col thumbnails only on home
@@ -44,12 +34,6 @@
     span {margin: 0;}
   }
 
-  // .more & { // thumbnails underneath "more" in project detail
-  //   margin-bottom: 40px;
-
-  //   &:last-child {margin-bottom: 12px;}
-  // }
-
   a { // overwrite default link color
     display: block;
     color: $black;
@@ -59,15 +43,9 @@
     display: block;
   }
 
-  /*.thumb { // image margin bottom — replaced by .h4 margin-top
-    margin-bottom: 7px;
-  }*/
-
   .thumbnail-title {
-    @include h4--med;
-    position: absolute; 
-    line-height: 1em;
-    margin-top: 6px;
+    padding-top: $unit-half;
+    height: $unit-8;
   }
 }
 
@@ -81,7 +59,7 @@
   transition: opacity .7s ease-in-out;
 
   &.thumb {
-    padding-bottom: 56.49%;
+    padding-bottom: 56.47%;
     height: 0;
   }
 

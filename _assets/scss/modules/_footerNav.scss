@@ -1,6 +1,6 @@
 footer > .row {
+  padding-top: $unit-half;
   @extend %border-top;
-  padding-top: 3px;
 
   div {
     &:first-child {

@@ -1,5 +1,5 @@
 .primary-header {
-  margin-top: $unit-qtr;
+  margin-top: $unit-half;
 }
 
 .logo {
@@ -24,7 +24,6 @@
   @include col-half;
   float:right;
   padding: 0; // for nested elements
-  margin-top: -5px;
 
   @include breakpoint($med) {
     float:right;

@@ -19,13 +19,19 @@ $h4:        17px;
 $h5:        14px;
 $h6:        14px;
 
+$h1-lh:        48px;
+$h2-lh:        36px;
+$h3-lh:        24px;
+$h4-lh:        20px;
+$h5-lh:        18px;
+
 // line height
 $line: $basefont * 1.5;
 
 // spacing
 $base-spacing-unit: 24px;
 
-$unit:        24px;
+$unit:        12px;
 
 $unit-qtr:    $unit / 4;
 $unit-half:   $unit / 2;
@@ -38,6 +44,9 @@ $unit-35:     $unit * 3.5;
 $unit-4:      $unit * 4;
 $unit-45:     $unit * 4.5;
 $unit-5:      $unit * 5;
+$unit-6:      $unit * 6;
+$unit-7:      $unit * 7;
+$unit-8:      $unit * 8;
 
 $half-spacing-unit: $base-spacing-unit / 2;
 $qtr-spacing-unit:  $base-spacing-unit / 4;
