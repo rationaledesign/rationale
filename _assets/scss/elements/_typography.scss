@@ -129,13 +129,15 @@
 }
 
 @mixin link--secondary {
+  @include focusBox;
   text-decoration: none;
   background-image: linear-gradient(#fff 50%, $grey_dark 50%);
   background-repeat: repeat-x;
   background-position: bottom;
   background-size: 2px 2px;
   color: $grey_dark;
-  @include focusBox;
+  display: inline;
+  
 
   &:hover,
   &:active {
