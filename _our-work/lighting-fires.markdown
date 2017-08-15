@@ -3,7 +3,7 @@ title: Lighting Fires
 date: 2012-01-01 00:00:00 Z
 categories:
 - Identity
-position: 34
+position: 3
 year: 2012
 images:
 - image: "/uploads/rationale-lightingfires-1.jpg"

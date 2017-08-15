@@ -1,7 +1,7 @@
 ---
 title: New Light
 date: 2017-07-24 20:09:00 Z
-position: 12
+position: 13
 year: 2011
 images:
 - image: "/uploads/rationale-newlight-1.jpg"
