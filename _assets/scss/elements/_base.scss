@@ -40,10 +40,9 @@ header{
 
 footer {
   margin-bottom: $unit-2;
+  min-height: $unit * 16;
 
-  @include breakpoint($small) {
-    margin-bottom: $unit-4;
-  }
+  @include breakpoint($small) { min-height: $unit-9; }
 }
 
 a {
@@ -129,5 +128,6 @@ blockquote {
 }
 
 section {
-  flex: 1;
+  // creating issues on window resize
+  //flex: 1;
 }

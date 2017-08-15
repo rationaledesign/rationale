@@ -9,12 +9,13 @@
 
   a {
     display: block;
-    width: 175px;
-    max-width: 100%;
+    //width: 175px;
+    //max-width: 100%;
   }
 
   svg { // logo svg
     height: 32px;
+    max-width: 100%;
   }
 }
 
@@ -29,12 +30,19 @@
     padding: 0; // for nested elements
   }
 
-  li {
+  ul {
+    position: relative;
+  }
 
+  li {
     @include breakpoint($med) {
       @include col-third(false);
     }
+  }
 
+  li:nth-of-type(3) {
+    @include breakpoint($small) { position: absolute; top: 0; left: 50%; }
+    @include breakpoint($med) { position: relative; top: auto; left: auto; }
   }
 
   a { // this is attached to product detail
