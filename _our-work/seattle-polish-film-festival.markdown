@@ -3,7 +3,7 @@ title: Seattle Polish Film Festival
 date: 2014-01-01 00:00:00 Z
 categories:
 - Promotion
-position: 4
+position: 5
 year: 2014
 images:
 - image: "/uploads/spff-1.jpg"
