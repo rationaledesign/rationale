@@ -3,7 +3,7 @@ title: AIGA 100
 date: 2014-01-01 00:00:00 Z
 categories:
 - Promotion
-position: 2
+position: 0
 year: 2014
 images:
 - image: "/uploads/rationale-aiga100-1.jpg"

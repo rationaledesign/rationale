@@ -120,7 +120,6 @@
 
 @mixin link {
   text-decoration: none;
-  @include focusBox;
 
   &:hover,
   &:active {
@@ -136,8 +135,6 @@
   background-position: bottom;
   background-size: 2px 2px;
   color: $grey_dark;
-  display: inline;
-  
 
   &:hover,
   &:active {
@@ -152,7 +149,6 @@
   background-position: 0 1em;
   background-size: 2px 2px;
   color: $red;
-  @include focusBox;
 
   &:hover,
   &:active {

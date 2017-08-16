@@ -1,7 +1,7 @@
 ---
 title: The Fascination Movement Singles
 date: 2017-07-22 16:51:00 Z
-position: 10
+position: 12
 year: 2016
 images:
 - image: "/uploads/rationale-fmsingles-1.jpg"

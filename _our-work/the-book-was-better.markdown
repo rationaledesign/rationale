@@ -3,7 +3,7 @@ title: The Book Was Better
 date: 2017-07-20 00:00:00 Z
 categories:
 - Identity
-position: 1
+position: 2
 year: 2016
 thumb_image:
   image: "/uploads/FPO_Thumbnail_01.jpg"

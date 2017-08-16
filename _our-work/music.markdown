@@ -3,7 +3,7 @@ title: Concert Series
 date: 2010-01-01 00:00:00 Z
 categories:
 - Promotion
-position: 29
+position: 30
 year: 2010
 images:
 - image: "/uploads/rationale-concertseries-1.jpg"

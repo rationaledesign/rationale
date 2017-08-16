@@ -3,7 +3,7 @@ title: Intent
 date: 2011-01-01 00:00:00 Z
 categories:
 - Packaging
-position: 21
+position: 22
 year: 2011
 images:
 - image: "/uploads/rationale-intent-1.jpg"
