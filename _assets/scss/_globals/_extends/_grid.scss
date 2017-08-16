@@ -169,8 +169,9 @@
 }
 
 .med-offset-half {
+  @include col;
+
   @include breakpoint($med) {
-    @include col;
     margin-left: 50%;
   }
 }
@@ -197,6 +198,7 @@
 // space classes
 
 .mb, .mb-1  { margin-bottom: $unit-2 }
+.mb-1-5     { margin-bottom: $unit-3 }
 .mb-2       { margin-bottom: $unit-4 }
 .mb-2-5     { margin-bottom: $unit-5; }
 .mb-3       { margin-bottom: $unit-6 }
@@ -216,7 +218,7 @@
 
 .sm-below-mb {
   @include breakpoint(0px $small) {
-    margin-bottom: $unit-15;
+    //margin-bottom: $unit-15;
   }
 }
 

@@ -1,6 +1,6 @@
 .their-words section 
   .content {
-    margin-bottom: $unit-5;
+    margin-bottom: $unit-2;
 
     @include breakpoint($med) { margin-bottom: $unit-4; }
   }
@@ -14,7 +14,7 @@
     }
 
     > p {
-      margin-bottom: $unit-3;
+      margin-bottom: $unit-5;
 
       @include breakpoint($small) { margin-bottom: $unit-5; }
       @include breakpoint($med) { padding-right: $unit-5 !important; }
