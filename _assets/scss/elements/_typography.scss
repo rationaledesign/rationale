@@ -135,7 +135,6 @@
   background-position: bottom;
   background-size: 2px 2px;
   color: $grey_dark;
-  @include focusBox;
 
   &:hover,
   &:active {
@@ -150,7 +149,6 @@
   background-position: 0 1em;
   background-size: 2px 2px;
   color: $red;
-  @include focusBox;
 
   &:hover,
   &:active {
