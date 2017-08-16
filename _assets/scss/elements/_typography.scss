@@ -120,7 +120,6 @@
 
 @mixin link {
   text-decoration: none;
-  @include focusBox;
 
   &:hover,
   &:active {
