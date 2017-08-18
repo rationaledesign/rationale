@@ -40,9 +40,8 @@ header{
 
 footer {
   margin-bottom: $unit-2;
-  min-height: $unit * 16;
 
-  @include breakpoint($small) { min-height: $unit-9; }
+  @include breakpoint($small) { margin-bottom: $unit-3; }
 }
 
 a {

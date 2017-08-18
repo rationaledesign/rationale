@@ -2,7 +2,7 @@
   font-size: 46px;
   line-height: $h1-lh;
   font-family: $font-NHG--extraLight;
-  letter-spacing: -.3px;
+  letter-spacing: -.5px;
   position: relative;
   top: -7px;
 
@@ -101,11 +101,11 @@
 .h5--med, .h5--med-wrap p, .h5-wrap a { @include h5--med; }
 
 @mixin focusBox {
-  display: inline-block;
-  position: relative;
+  //display: inline-block;
+  //position: relative;
   outline: 0;
 
-  &:focus {
+  /*&:focus {
     &:after {
       content: '';
       position: absolute;
@@ -115,7 +115,7 @@
       right:    -.3em;
       border: 1px solid $grey_medium;
     }
-  }
+  }*/
 }
 
 @mixin link {
@@ -129,6 +129,7 @@
 
 @mixin link--secondary {
   @include focusBox;
+  display: inline;
   text-decoration: none;
   background-image: linear-gradient(#fff 50%, $grey_dark 50%);
   background-repeat: repeat-x;
