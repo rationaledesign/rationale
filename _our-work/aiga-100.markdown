@@ -14,5 +14,4 @@ og_image: "/uploads/rationale-aiga100-og.jpg"
 
 This chair-themed poster represents the core of the founders of AIGA on the eve of its centennial celebration. The Windsor chairs, which were decorated at their inaugural meeting are shown here with an expanding radius of color reflecting the talent and influence throughout America by AIGA over the past 100 years.
 
-
 This chair-themed poster represents the core of the founders of AIGA on the eve of its centennial celebration. The Windsor chairs, which were decorated at their inaugural meeting are shown here with an expanding radius of color reflecting the talent and influence throughout America by AIGA over the past 100 years.
