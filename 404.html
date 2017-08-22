@@ -1,6 +1,7 @@
 ---
 permalink: "/404.html"
 layout: default
+title: "Page not found – Rationale"
 ---
 
 <div class="content">
@@ -31,25 +32,11 @@ layout: default
                 Sorry, project not found. Go back to the Store <a href="/store">here</a>.
             </div></div>
         </div>
-        <div class="project-not-found" style="display:none" id="gen404">
-            <div>
-                <div class="h1 mb-1-5">
-                    Sorry, page not found. Go back to Our works <a href="/">here</a>.
-                </div>
-                <div class="not-found-suggestions">
-                    <ul class="thumbnails">
-                        {% include thumbnail.html item=firstSuggestion %}
-                        {% include thumbnail.html item=secondSuggestion %}
-                    </ul>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 <script>
     var url = window.location.href;
-    if (url.indexOf("/our-work") !== -1) document.getElementById('prj404').style.display = 'block';
-    else if (url.indexOf("/resources") !== -1) document.getElementById('res404').style.display = 'block';
+    if (url.indexOf("/resources") !== -1) document.getElementById('res404').style.display = 'block';
     else if (url.indexOf("/store") !== -1) document.getElementById('str404').style.display = 'block';
-    else document.getElementById('gen404').style.display = 'block';
+    else document.getElementById('prj404').style.display = 'block';
 </script>

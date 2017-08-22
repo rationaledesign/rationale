@@ -13,17 +13,17 @@
     <ul>
       <div class="sm-col-half med-col-third mb-tight">
         <li>
-          <a href="/news/" class="news-link {% if parent.url == "/news" %}is-current-page{% endif %}">
+          <a href="/news/" class="news-link {% if parent.url == "/news" and page.url != "/404.html" %}is-current-page{% endif %}">
             News
           </a>
         </li>
         <li>
-          <a href="/resources/" class="archive-link {% if parent.url == "/resources" %}is-current-page{% endif %}">
+          <a href="/resources/" class="archive-link {% if parent.url == "/resources" and page.url != "/404.html" %}is-current-page{% endif %}">
             Resources
           </a>
         </li>
         <li>
-          <a href="/store/" class="store-link {% if parent.url == "/store" %}is-current-page{% endif %}">
+          <a href="/store/" class="store-link {% if parent.url == "/store" and page.url != "/404.html" %}is-current-page{% endif %}">
             Store
           </a>
         </li>
