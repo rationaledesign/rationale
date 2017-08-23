@@ -19,7 +19,7 @@
     @include breakpoint($med){ margin-bottom: $unit-8 }
 }
 
-.project-not-found > div, .generic-not-found > div {
+.project-not-found, .generic-not-found {
     // vertical-align:middle;
     // display: table-cell;
     // to center between bar and footer: height = page - header+ - footer - header+
@@ -29,7 +29,6 @@
     // @include breakpoint($med){ height: calc(100vh - #{$unit-8} - #{$unit-9} - #{$unit-8}); }
 
     .h1 {
-        top: -4px;
         color: $grey_dark;
 
         a {

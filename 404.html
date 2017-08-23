@@ -6,9 +6,9 @@ layout: default
 
 <div class="container project-not-found-wrap">
     <div class="project-not-found" style="display:none" id="prj404">
-      <div class="h1 mb-1-5">
+      <h1 class="h1 mb-1-5">
           Sorry, project not found. View others or see all work <a href="/">here</a>.
-      </div>
+      </h1>
       <div class="not-found-suggestions">
           <ul class="thumbnails">
               {% assign projects = site.our-work | sort:"position" %}
@@ -20,14 +20,14 @@ layout: default
       </div>
     </div>
     <div class="generic-not-found" style="display:none" id="res404">
-        <div><div class="h1">
-            Sorry, project not found. Go back to the Resources <a href="/resources">here</a>.
-        </div></div>
+        <h1 class="h1">
+            Sorry, project not found. Go back to the Resources <a href="/resources" class>here</a>.
+        </h1>
     </div>
     <div class="generic-not-found" style="display:none" id="str404">
-        <div><div class="h1">
+        <h1 class="h1">
             Sorry, project not found. Go back to the Store <a href="/store">here</a>.
-        </div></div>
+        </h1>
     </div>
 </div>
 <script>
