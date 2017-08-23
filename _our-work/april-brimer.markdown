@@ -6,7 +6,7 @@ categories:
 position: 1
 year: 2014
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/rationale-aprilbrimer-0.jpg"
 layout: project
 ---
 
