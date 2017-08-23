@@ -5,7 +5,7 @@ categories:
 - Identity
 tags:
 - featured
-position: 35
+position: 36
 year: 2013
 images:
 - image: "/uploads/rationale-massivebit-1.jpg"

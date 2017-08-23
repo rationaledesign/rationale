@@ -3,7 +3,7 @@ title: If Not For The Dawn
 date: 2012-01-01 00:00:00 Z
 categories:
 - Publication
-position: 18
+position: 19
 year: 2012
 images:
 - image: "/uploads/rationale-ifnotfordawn-1b.jpg"

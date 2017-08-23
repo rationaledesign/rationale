@@ -3,7 +3,7 @@ title: Latitudex
 date: 2013-01-01 00:00:00 Z
 categories:
 - Identity
-position: 38
+position: 4
 year: 2013
 images:
 - image: "/uploads/rationale-latitudex-1b.jpg"

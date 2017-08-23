@@ -3,7 +3,7 @@ title: Remix Vol. 1
 date: 2009-01-01 00:00:00 Z
 categories:
 - Packaging
-position: 21
+position: 22
 year: 2009
 images:
 - image: "/uploads/rationale-remixvol1-1.jpg"
