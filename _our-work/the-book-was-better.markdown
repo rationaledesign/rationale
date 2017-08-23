@@ -6,7 +6,7 @@ categories:
 position: 2
 year: 2016
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/rationale-tbwb-0.jpg"
 ---
 
 For the second annual The Book Was Better Film Festival, in which people submit a short film based on one chapter from a book, Rationale created an identity program that can be taken in new directions for years to come while maintaining a clear image.
