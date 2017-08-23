@@ -1,20 +1,32 @@
+.page-not-found-rationale section {
+  display: flex;
+}
+
+.project-not-found-wrap {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
 .generic-not-found {
+    flex:1;
     margin-bottom: $unit * 9;
     @include breakpoint($med){ margin-bottom: $unit-8 }
 }
 .project-not-found {
+    flex:1;
     @include breakpoint($small){ margin-bottom: $unit * 9 }
     @include breakpoint($med){ margin-bottom: $unit-8 }
 }
 
 .project-not-found > div, .generic-not-found > div {
-    vertical-align:middle;
-    display: table-cell;
+    // vertical-align:middle;
+    // display: table-cell;
     // to center between bar and footer: height = page - header+ - footer - header+
-    height: calc(100vh - #{$unit * 10} - #{$unit * 16} - #{$unit * 10});
+    // height: calc(100vh - #{$unit * 10} - #{$unit * 16} - #{$unit * 10});
 
-    @include breakpoint($small){ height: calc(100vh - #{$unit * 10} - #{$unit-9} - #{$unit * 10}); }
-    @include breakpoint($med){ height: calc(100vh - #{$unit-8} - #{$unit-9} - #{$unit-8}); }
+    // @include breakpoint($small){ height: calc(100vh - #{$unit * 10} - #{$unit-9} - #{$unit * 10}); }
+    // @include breakpoint($med){ height: calc(100vh - #{$unit-8} - #{$unit-9} - #{$unit-8}); }
 
     .h1 {
         top: -4px;
