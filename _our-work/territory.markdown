@@ -1,7 +1,7 @@
 ---
 title: Territory
 date: 2017-08-23 19:28:00 Z
-position: 12
+position: 13
 year: 2017
 thumb_image:
   image: "/uploads/rationale-territory-0.jpg"

@@ -3,7 +3,7 @@ title: Zaire
 date: 2013-01-01 00:00:00 Z
 categories:
 - Packaging
-position: 24
+position: 25
 year: 2013
 images:
 - image: "/uploads/rationale-zaire-1.jpg"
