@@ -5,7 +5,7 @@ categories:
 - Publication
 tags:
 - featured
-position: 19
+position: 20
 year: 2012
 images:
 - image: "/uploads/rationale-stevenbrooks-1b.jpg"

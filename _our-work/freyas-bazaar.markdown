@@ -3,7 +3,7 @@ title: Freya's Bazaar
 date: 2012-01-01 00:00:00 Z
 categories:
 - Promotion
-position: 28
+position: 29
 year: 2012
 images:
 - image: "/uploads/rationale-freyasbazaar-1.jpg"

@@ -3,7 +3,7 @@ title: Arrowsmith Saga
 date: 2017-07-20 00:00:00 Z
 categories:
 - Publication
-position: 18
+position: 19
 year: 2012
 images:
 - image: "/uploads/rationale-arrowsmith-1.jpg"
