@@ -8,7 +8,11 @@
 
     {% unless imgcount == 1 %}
     {% for thumb in thumbs %}
-      {% include image-gallery-thumbnail.html thumb=thumb %}
+      <li class="gallery-thumbnail img-{{ forloop.index }}">
+        <div class="thumb-wrap {% if forloop.first == true %}active{% endif %}">
+          {% include img.html image=thumb %}
+        </div>
+      </li>
     {% endfor %}
     {% endunless %}
   </ul>
