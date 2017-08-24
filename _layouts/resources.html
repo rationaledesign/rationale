@@ -9,9 +9,7 @@ layout: default
           {{content}}
         </div>
         <div class="sm-below-mb">
-          {% for post in site.resources limit:4 %}
-            {% include product.html %}
-          {% endfor %}
+          {% include products.html collection=site.resources %}
         </div>
       </div>
     </article>

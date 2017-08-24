@@ -1,9 +1,46 @@
-.product {
-  // padding-top: 12px;
-  margin-bottom: 41px;
+.products {
+  @extend %row;
+  width: 100%;
 }
 
-.product-title {
+.product {
+  
+    &:hover a {
+      color: $red;
+    }
+  
+    @include breakpoint($small) {
+      @include col-half(false);
+    }
+  
+    a { // overwrite default link color
+      display: block;
+      color: $black;
+    }
+  
+    img {
+      display: block;
+    }
+
+    .lazy.thumb {
+      padding-bottom: 66.66%;
+    }
+  
+    .product-title {
+      padding-top: $unit;
+      height: $unit-4;
+
+      h3 { display: none }
+  
+      @include breakpoint($small) { 
+        height: $unit-6; 
+        h3 { display: block }
+      }
+      @include breakpoint($med) { height: $unit-8; }
+    }
+  }
+
+/*.product-title {
   padding-bottom: 19px;
   margin-top: 3px;
   margin-bottom: 12px;
@@ -112,3 +149,4 @@
   border: 1px solid black;
   z-index: 1;
 }
+*/
