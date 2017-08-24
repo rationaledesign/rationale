@@ -3,6 +3,15 @@ title: 'Sean Wolcott: Graphic Design 2008–2014'
 date: 2015-04-06 18:00:00 Z
 price: 35.4
 buylink: http://www.magcloud.com/browse/issue/905499
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
+  alt: 
+- image: "/uploads/FPO%2032ratio.jpg"
+  alt: 
+- image: "/uploads/FPO%2032ratio.jpg"
+  alt: 
+thumb_image:
+  image: "/uploads/FPO_Thumbnail_01.jpg"
 layout: product-detail
 ---
 

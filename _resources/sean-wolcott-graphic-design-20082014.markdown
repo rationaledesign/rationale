@@ -2,6 +2,17 @@
 title: 'Sean Wolcott: Graphic Design 2008–2014'
 date: 2015-04-06 18:17:00 Z
 author: Sean Wolcott
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
+  alt: 
+- image: "/uploads/FPO%2032ratio.jpg"
+  alt: 
+- image: "/uploads/FPO%2032ratio.jpg"
+  alt: 
+- image: "/uploads/FPO%2032ratio.jpg"
+  alt: 
+thumb_image:
+  image: "/uploads/FPO_Thumbnail_01.jpg"
 layout: resource
 ---
 
