@@ -6,7 +6,7 @@ categories:
 position: 17
 year: 2016
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/rationale-schaeferid-0.jpg"
 ---
 
 In the space of transport, particularly for the maritime industry, there is an overwhelming richness of history and metaphors to embrace. As such, a maritime company’s visual identity has great opportunity to distinguish itself from competitors as superior and state-of-the-art. This was our goal with the identity we developed for Schaefer Stevedoring.
