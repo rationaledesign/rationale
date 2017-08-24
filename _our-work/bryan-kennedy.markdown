@@ -6,7 +6,7 @@ categories:
 position: 16
 year: 2016
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/rationale-bkennedy-0.jpg"
 ---
 
 How does one convey the nuance, history, and diversity of wine culture in a simple visual means? Corks, bottles on a rack, a cluster of grapes—such concepts provide a compelling way to represent the range of its culture and craft for wine liaison Bryan Kennedy.
