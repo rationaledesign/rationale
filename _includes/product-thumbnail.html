@@ -1,8 +1,8 @@
-<li class='product'>
+<li class='product-thumbnail'>
     {% assign item = include.item %}
     <a href='{{ item.url }}'>
         {% include img.html image=item.thumb_image %}
-        <div class="product-title">
+        <div class="product-thumbnail-title">
           <h3 class="h4--med">{{ item.title }}</h3>
         </div>
     </a>

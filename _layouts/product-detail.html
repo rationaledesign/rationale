@@ -2,23 +2,25 @@
 layout: default
 ---
 
-<div class="container">
-  <section class="store border-top">
-    <article>
-      <div class="product-title">
-        <h2 class="bold">{{page.title}}</h2>
-        <div class="product-action">
-          <span class="bold price">${{page.price}}</span>
-          <a href="{{post.meta.buyLink}}">Buy Now</a>
+<section>
+    <article class=''>
+        <div class="container">
+          <div class="resource-info">
+              <div class='resource-title med-col-half'>
+                <h2 class='h2'>{{ page.title }}</h2>
+              </div>
+              <div class="resource-download med-col-half h4">
+                  <a href="" target="_blank">Download PDF</a>
+              </div>
+          </div>
+          <div class="med-col-half">
+            {% include product-gallery.html %}
+          </div>
+          <div class="med-col-half resource-detail h4-wrap">
+            {{content}}
+          </div>
         </div>
-        <div class="cf"></div>
-      </div>
-      {% include product-gallery.html %}
-      <div class="product-content">
-        {{page.content}}
-      </div>
-      <div class="cf"></div>
     </article>
   </section>
-</div>
+  
 

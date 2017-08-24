@@ -1,9 +1,9 @@
-.products {
+.product-thumbnails {
   @extend %row;
   width: 100%;
 }
 
-.product {
+.product-thumbnail {
   
     &:hover a {
       color: $red;
@@ -26,7 +26,7 @@
       padding-bottom: 66.66%;
     }
   
-    .product-title {
+    .product-thumbnail-title {
       padding-top: $unit;
       height: $unit-4;
 

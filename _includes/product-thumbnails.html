@@ -1,7 +1,7 @@
-<ul class="products">
+<ul class="product-thumbnails">
     {% assign items = include.collection | sort:"position" %}
     {% for item in items %}
-        {% include product.html item=item %}
+        {% include product-thumbnail.html item=item %}
     {% endfor %}
 </ul>
       
