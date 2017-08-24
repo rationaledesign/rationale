@@ -8,7 +8,7 @@ year: 2014
 images:
 - image: "/uploads/FPO_Thumbnail_01.jpg"
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/smithinteriors-0.jpg"
 layout: project
 ---
 
