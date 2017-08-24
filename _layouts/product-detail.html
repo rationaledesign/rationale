@@ -3,20 +3,25 @@ layout: default
 ---
 
 <section>
-    <article class=''>
+    <article class='product'>
         <div class="container">
-          <div class="resource-info">
-              <div class='resource-title med-col-half'>
+          <div class="product-info">
+              <div class='product-title med-col-half'>
                 <h2 class='h2'>{{ page.title }}</h2>
               </div>
-              <div class="resource-download med-col-half h4">
-                  <a href="" target="_blank">Download PDF</a>
+              <div class="product-buy med-col-half h4">
+                {% assign price_split = page.price | round: 2 | split: "." %}
+                {% assign integral = price_split[0] %}
+                {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+
+                ${{ integral }}.{{ fractional }}<br>
+                <a href="{{ page.buylink }}" target="_blank">Where to buy</a>
               </div>
           </div>
           <div class="med-col-half">
-            {% include product-gallery.html %}
+            {% include image-gallery.html %}
           </div>
-          <div class="med-col-half resource-detail h4-wrap">
+          <div class="med-col-half product-detail h4-wrap">
             {{content}}
           </div>
         </div>
