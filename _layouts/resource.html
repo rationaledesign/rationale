@@ -2,8 +2,23 @@
 layout: default
 ---
 
-<div class="container">
-  <section class="archive border-top">
-    {% include archive-detail.html %}
-  </section>
-</div>
+<section>
+  <article class='resource'>
+      <div class="container">
+        <div class="resource-info">
+            <div class='resource-title med-col-half'>
+              <h2 class='h2'>{{ page.title }}</h2>
+            </div>
+            <div class="resource-download med-col-half h4">
+                <a href="" target="_blank">Download PDF</a>
+            </div>
+        </div>
+        <div class="med-col-half">
+          {% include product-gallery.html %}
+        </div>
+        <div class="med-col-half resource-detail h4-wrap">
+          {{content}}
+        </div>
+      </div>
+  </article>
+</section>

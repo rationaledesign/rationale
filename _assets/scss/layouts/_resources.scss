@@ -15,3 +15,27 @@
         @include h2;
     }
 }
+
+
+.resource .resource-info {
+    border-top: 1px solid $black;
+    padding-top: $unit-half;
+    
+    margin-bottom: $unit-4;
+    
+      @include breakpoint($med) {
+        // @include col-two-thirds(false);
+        // margin-bottom: 55px;
+        margin-bottom: $unit-3;
+      }
+  }
+  
+  .resource-title {
+    margin-bottom: $unit-half;
+  }
+  
+  .resource-download {
+    a {
+      @include link--tertiary;
+    }
+  }

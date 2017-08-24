@@ -1,7 +1,6 @@
 <div class="product-gallery">
   <div class="product-img">
-    {% capture img %}/assets/img/{{ page.url }}{{page.title | slugify}}-s1{% endcapture %}
-    {% include img.html %}
+    {% include img.html image=item.thumb_image %}
   </div>
   {% unless post.meta.imgcount == 1 %}
   <ul class="product-thumbnails">
