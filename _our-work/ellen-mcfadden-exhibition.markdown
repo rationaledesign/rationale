@@ -6,7 +6,7 @@ categories:
 position: 14
 year: 2015
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/rationale-ellenmcfadden1-0.jpg"
 ---
 
 This poster was created as part of a larger exhibition program celebrating the energetic concrete art paintings of Ellen McFadden. A book documenting these works is currently underway.
