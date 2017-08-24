@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<div class="container">
-  <section class="store border-top">
-      <div class="title">
-        <h2 class="bold">{{page.title}}</h2>
-        {{content}}
+<section>
+    <article class='store'>
+      <div class="container">
+        <div class="store-description h4-wrap mb-2">
+          {{content}}
+        </div>
+        <div class="sm-below-mb">
+          {% include products.html collection=site.store %}
+        </div>
       </div>
-      <div class="cf"></div>
-      {% for post in site.store limit:4 %}
-        {% include product.html %}
-      {% endfor %}
-  </section>
-</div>
+    </article>
+</section>
