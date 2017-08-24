@@ -11,7 +11,7 @@ images:
 - image: "/uploads/FPO%2032ratio.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/FPO%2032ratio.jpg"
 layout: product-detail
 ---
 
