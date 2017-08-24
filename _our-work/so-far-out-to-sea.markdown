@@ -6,7 +6,7 @@ categories:
 position: 15
 year: 2015
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/rationale-sofarsea-0.jpg"
 layout: project
 ---
 
