@@ -1,13 +1,15 @@
-<div class="product-gallery">
-  <div class="product-img">
+<div class="image-gallery">
+  <div class="gallery-img">
     {% include img.html image=page.thumb_image %}
   </div>
-  {% unless post.meta.imgcount == 1 %}
-  <ul class="product-thumbnails">
-    {% for i in (1..{{page.imgcount}}) %}
-      {% capture img %}/assets/img/{{ page.url }}{{page.title | slugify}}-s{{i}}{% endcapture %}
-      {% include gallery-img.html %}
+  <ul class="gallery-thumbnails">
+    {% assign thumbs = page.images %}
+    {% assign imgcount = thumbs | size %}
+
+    {% unless imgcount == 1 %}
+    {% for thumb in thumbs %}
+      {% include image-gallery-thumbnail.html thumb=thumb %}
     {% endfor %}
+    {% endunless %}
   </ul>
-  {% endunless %}
 </div>
