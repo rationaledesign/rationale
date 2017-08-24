@@ -1,0 +1,17 @@
+.resources-description {
+    border-top: 1px solid $black;
+    padding-top: $unit-half;
+
+    p {
+        @include h4;
+        color: $black;
+
+        @include breakpoint($small) {
+            @include col-half(false);
+        }
+    }
+
+    p:first-of-type {
+        @include h2;
+    }
+}
