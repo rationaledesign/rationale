@@ -6,4 +6,7 @@ og_image: "/uploads/rationale_og.jpg"
 layout: store
 ---
 
-This is the store page
+Store
+
+
+Items by Rationale
