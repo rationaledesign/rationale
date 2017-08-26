@@ -1,6 +1,8 @@
 .project-detail {
   margin-bottom: $unit-2;
-  @include breakpoint($med) { margin-bottom: $unit-4; }
+  @include breakpoint($large) {
+    margin-bottom: $unit-4;
+  }
 
   img {
     margin-bottom: 1px;
@@ -10,7 +12,6 @@
 .project-detail .project-info {
   border-top: 1px solid $black;
   padding-top: $unit-half;
-  // @extend %clearfix;
 }
 
 // project detail
@@ -22,22 +23,28 @@
 }
 
 .project-title {
-  margin-bottom: 13px;
-  @include breakpoint($med) {
-    margin-bottom: 0;
-    // @include col-third(false);
-  }
+
 }
 
 .project-description {
   margin-bottom: $unit-4;
 
   @include breakpoint($med) {
-    // @include col-two-thirds(false);
-    // margin-bottom: 55px;
-    margin-bottom: $unit-3;
+    & > p:first-child {
+      display: none;
+    }
   }
 
+  // targets the truncated description
+  & > p:first-child {
+    margin-bottom: 0;
+  }
+}
+
+.project-content {
+  @include breakpoint($small-only) {
+    display: none;
+  }
 }
 
 .project-images {
@@ -50,7 +57,6 @@
 
 .more-projects {
   .h2 {
-    //line-height: 1em;
     margin-bottom: $unit;
   }
 }
