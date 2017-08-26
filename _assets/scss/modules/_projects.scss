@@ -34,15 +34,16 @@
       display: none;
     }
   }
-
-  // targets the truncated description
-  & > p:first-child {
-    margin-bottom: 0;
-  }
 }
 
 .project-content {
   @include breakpoint($small-only) {
+    display: none;
+  }
+}
+
+.project-content--truncated {
+  @include breakpoint($med) {
     display: none;
   }
 }

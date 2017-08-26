@@ -9,7 +9,9 @@ layout: default
           <div class="project-info">
             <h1 class='h2 mb-half'>{{ page.title }}</h1>
             <div class="project-description h4-wrap">
-                {{content | truncatewords: 30 }}<button class="js-more">more</button>
+                <div class="project-content--truncated">
+                  {{content | truncatewords: 30 }}<button class="js-more">more</button>
+                </div>
                 <div class="project-content">
                   {{content}}
                 </div>
