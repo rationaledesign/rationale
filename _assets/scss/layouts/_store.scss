@@ -1,0 +1,55 @@
+.store-description {
+    border-top: 1px solid $black;
+    padding-top: $unit-half;
+
+    p {
+        @include h4;
+        color: $black;
+
+        @include breakpoint($small) {
+            @include col-half(false);
+        }
+    }
+
+    p:first-of-type {
+        @include h2;
+    }
+}
+
+.product {
+    margin-bottom: $unit * 5;
+    @include breakpoint($small) { margin-bottom: $unit * 11; }
+    @include breakpoint($med) { margin-bottom: $unit * 10; }
+  
+    .container {
+      display: flex; flex-direction: column;
+      @include breakpoint($small) { display: block; }
+    }
+  
+    .product-info {
+        @include breakpoint($small) {
+            border-top: 1px solid $black;
+            padding-top: $unit-half;
+        }
+        
+        margin-bottom: $unit-4;
+        order: 2;
+        
+          @include breakpoint($med) {
+            margin-bottom: $unit-3;
+          }
+      }
+      
+    .product-title {
+        @include breakpoint($small) { margin-bottom: $unit-half; }
+    }
+  
+    .product-download {
+      a {
+        @include link--tertiary;
+      }
+    }
+  
+    .product-gallery { order: 1; }
+    .product-detail { order: 3; }
+  }

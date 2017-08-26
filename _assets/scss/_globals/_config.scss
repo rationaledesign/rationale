@@ -5,6 +5,7 @@ $small:         560px;
 $med:           948px;
 $large:         1681px;
 
+$mobile:        0px ($small - 1);
 $small-only:    0px $med;
 
 $gutter1: 1px; // change for different gutter size

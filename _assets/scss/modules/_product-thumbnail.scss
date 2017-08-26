@@ -1,0 +1,41 @@
+.product-thumbnails {
+  @extend %row;
+  width: 100%;
+}
+
+.product-thumbnail {
+  
+    &:hover a {
+      color: $red;
+    }
+  
+    @include breakpoint($small) {
+      @include col-half(false);
+    }
+  
+    a { // overwrite default link color
+      display: block;
+      color: $black;
+    }
+  
+    img {
+      display: block;
+    }
+
+    .lazy.thumb {
+      padding-bottom: 66.66%;
+    }
+  
+    .product-thumbnail-title {
+      padding-top: $unit;
+      height: $unit-4;
+
+      h3 { display: none }
+  
+      @include breakpoint($small) { 
+        height: $unit-6; 
+        h3 { display: block }
+      }
+      @include breakpoint($med) { height: $unit-8; }
+    }
+  }

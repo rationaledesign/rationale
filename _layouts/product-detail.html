@@ -2,23 +2,30 @@
 layout: default
 ---
 
-<div class="container">
-  <section class="store border-top">
-    <article>
-      <div class="product-title">
-        <h2 class="bold">{{page.title}}</h2>
-        <div class="product-action">
-          <span class="bold price">${{page.price}}</span>
-          <a href="{{post.meta.buyLink}}">Buy Now</a>
+<section>
+    <article class='product'>
+        <div class="container">
+          <div class="product-info">
+              <div class='sm-col-half product-title'>
+                <h2 class='h2'>{{ page.title }}</h2>
+              </div>
+              <div class="product-buy sm-col-half h4">
+                {% assign price_split = page.price | round: 2 | split: "." %}
+                {% assign integral = price_split[0] %}
+                {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
+
+                ${{ integral }}.{{ fractional }}<br>
+                <a href="{{ page.buylink }}" target="_blank">Where to buy</a>
+              </div>
+          </div>
+          <div class="sm-col-half product-gallery">
+            {% include image-gallery.html %}
+          </div>
+          <div class="sm-col-half product-detail h4-wrap">
+            {{content}}
+          </div>
         </div>
-        <div class="cf"></div>
-      </div>
-      {% include product-gallery.html %}
-      <div class="product-content">
-        {{page.content}}
-      </div>
-      <div class="cf"></div>
     </article>
   </section>
-</div>
+  
 

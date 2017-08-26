@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<div class="container">
-  <section class="archive border-top">
-      <div class="title">
-        <h2 class="bold">{{title}}</h2>
-        {{content}}
+<section>
+    <article class='resources'>
+      <div class="container">
+        <div class="resources-description h4-wrap mb-2">
+          {{content}}
+        </div>
+        <div class="sm-below-mb">
+          {% include product-thumbnails.html collection=site.resources %}
+        </div>
       </div>
-      <div class="cf"></div>
-      {% for post in site.resources limit:4 %}
-        {% include product.html %}
-      {% endfor %}
-  </section>
-</div>
+    </article>
+</section>

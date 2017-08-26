@@ -1,0 +1,7 @@
+<ul class="product-thumbnails">
+    {% assign items = include.collection | sort:"position" %}
+    {% for item in items %}
+        {% include product-thumbnail.html item=item %}
+    {% endfor %}
+</ul>
+      

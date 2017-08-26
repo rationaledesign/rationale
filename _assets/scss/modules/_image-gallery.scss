@@ -1,0 +1,68 @@
+.image-gallery {
+    @include breakpoint($small) { padding-right: $unit-2; }
+}
+  
+.gallery-thumbnails {
+  padding-right: $unit-half;
+  margin-bottom: $unit-2;
+
+  @include breakpoint($small) {
+    //margin-right: -12px;
+    margin-bottom: 0;
+  }
+  @extend %row;
+}
+
+.gallery-thumbnail {
+  margin-top: $unit;
+
+  @include breakpoint($mobile) {
+    @include col;
+    height: $unit;
+    width: $unit;
+    background-color: #ccc;
+    border-radius: $unit-half;
+
+    margin-right: $unit-half;
+  }
+  @include breakpoint($small) {
+      @include col-fourth(false);
+      padding-right: $unit-half;
+  }
+  @include breakpoint($med) {
+      @include col-sixth(false);
+      padding-right: $unit-half;
+  }
+
+  .thumb-wrap {
+    position: relative;
+    overflow: hidden;
+    display: none;
+
+    @include breakpoint($small) { display: block; }
+  }
+
+  &:hover {
+    cursor: pointer;
+  }
+
+  &.active {
+      @include breakpoint($mobile) {
+        background-color: $grey_dark;
+      }
+      .thumb-wrap:before {
+        @include breakpoint($small) {
+          display: block;
+          position: absolute;
+          content: '';
+          top: 0;
+          bottom: 0;
+          right: 0;
+          left: 0;
+          border: 1px solid $grey_dark;
+          z-index: 1;
+        }
+      }
+    }
+}
+
