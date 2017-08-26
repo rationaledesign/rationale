@@ -38,11 +38,3 @@
   .product-title {
     margin-bottom: $unit-half;
   }
-  
-  .product-buy, .product-detail {
-    a {
-        @include h4;
-        @include link--tertiary;
-        top: auto;
-    }
-  }

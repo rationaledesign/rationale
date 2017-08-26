@@ -91,14 +91,14 @@
 }
 
 .h1, .h1-wrap p, .h1-wrap a { @include h1; }
-.h2, .h2-wrap p, .h2-wrap a { @include h2; }
+.h2, .h2-wrap p { @include h2; }
 .h3, .h3-wrap p, .h3-wrap a { @include h3; }
-.h4, .h4-wrap p, .h4-wrap a { @include h4; }
-.h5, .h5-wrap p, .h5-wrap a { @include h5; }
+.h4, .h4-wrap p { @include h4; }
+.h5, .h5-wrap p { @include h5; }
 
 .h3--med, .h3--med-wrap p, .h3-wrap a { @include h3--med; }
-.h4--med, .h4--med-wrap p, .h4-wrap a { @include h4--med; }
-.h5--med, .h5--med-wrap p, .h5-wrap a { @include h5--med; }
+.h4--med, .h4--med-wrap p { @include h4--med; }
+.h5--med, .h5--med-wrap p { @include h5--med; }
 
 @mixin focusBox {
   //display: inline-block;
@@ -156,6 +156,14 @@
     background-image: linear-gradient(#fff 50%, $red 50%);
   }
 }
+
+.h2 a, .h2-wrap a { top: auto; @include link--secondary; }
+.h4 a, .h4-wrap a { top: auto; @include link--tertiary; }
+.h5 a, .h5-wrap a { top: auto; @include link--tertiary; }
+
+.h4--med a, .h4--med-wrap a { top: auto; @include link--tertiary; }
+.h5--med a, .h5--med-wrap a { top: auto; @include link--tertiary; }
+
 
 // $FIXME - remove everything below
 .bold,
