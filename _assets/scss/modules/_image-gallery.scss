@@ -1,77 +1,68 @@
 .image-gallery {
     @include breakpoint($small) { padding-right: $unit-2; }
 }
+  
+.gallery-thumbnails {
+  padding-right: $unit-half;
+  margin-bottom: $unit-2;
 
-.gallery-img {
+  @include breakpoint($small) {
+    //margin-right: -12px;
     margin-bottom: 0;
-
-    @include breakpoint($small) { 
-        margin-bottom: $unit;
-    }
+  }
+  @extend %row;
 }
 
-/*.product-img {
-    margin-bottom: 12px;
-    @include breakpoint($small) {
-      @include col-half(false);
-    }
-    @include breakpoint($med) {
-      @include col-third(false);
-    }
-    @include breakpoint($large) {
-      @include col-sixth(false);
-      margin-bottom: 24px;
-    }
-  
-    .product-gallery & { // override for the detail page
-      width: 100%;
-      padding: 0;
-  
-      @include breakpoint($large) {
-        padding-right: 24px !important;
-      }
-    }
-  }*/
-  
-  .gallery-thumbnails {
-  
-    @include breakpoint($small) {
-      margin-right: -12px;
-    }
-    @extend %row;
-  }
-  
-  .gallery-thumbnail {
-    padding-right: $unit-half;
+.gallery-thumbnail {
+  margin-top: $unit;
 
-    @include breakpoint($small) {
-        @include col-fourth(false);
-        padding-right: $unit-half;
-    }
-    @include breakpoint($med) {
-        @include col-sixth(false);
-        padding-right: $unit-half;
-    }
-  
-    &:hover {
-      cursor: pointer;
-    }
+  @include breakpoint($mobile) {
+    @include col;
+    height: $unit;
+    width: $unit;
+    background-color: #ccc;
+    border-radius: $unit-half;
+
+    margin-right: $unit-half;
   }
-  
+  @include breakpoint($small) {
+      @include col-fourth(false);
+      padding-right: $unit-half;
+  }
+  @include breakpoint($med) {
+      @include col-sixth(false);
+      padding-right: $unit-half;
+  }
+
   .thumb-wrap {
     position: relative;
     overflow: hidden;
-    display: block;
+    display: none;
+
+    @include breakpoint($small) { display: block; }
   }
-  
-  .gallery-thumbnail .active:before { // sets border on active thumbnail
-    display: block;
-    position: absolute;
-    content: '';
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
-    border: 1px solid black;
-    z-index: 1;
+
+  &:hover {
+    cursor: pointer;
   }
+
+  &.active {
+      @include breakpoint($mobile) {
+        background-color: $grey_dark;
+      }
+      .thumb-wrap:before {
+        @include breakpoint($small) {
+          display: block;
+          position: absolute;
+          content: '';
+          top: 0;
+          bottom: 0;
+          right: 0;
+          left: 0;
+          border: 1px solid $grey_dark;
+          z-index: 1;
+        }
+      }
+    }
+}
+

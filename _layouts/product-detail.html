@@ -6,10 +6,10 @@ layout: default
     <article class='product'>
         <div class="container">
           <div class="product-info">
-              <div class='product-title med-col-half'>
+              <div class='sm-col-half product-title'>
                 <h2 class='h2'>{{ page.title }}</h2>
               </div>
-              <div class="product-buy med-col-half h4">
+              <div class="product-buy sm-col-half h4">
                 {% assign price_split = page.price | round: 2 | split: "." %}
                 {% assign integral = price_split[0] %}
                 {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
@@ -18,10 +18,10 @@ layout: default
                 <a href="{{ page.buylink }}" target="_blank">Where to buy</a>
               </div>
           </div>
-          <div class="med-col-half">
+          <div class="sm-col-half product-gallery">
             {% include image-gallery.html %}
           </div>
-          <div class="med-col-half product-detail h4-wrap">
+          <div class="sm-col-half product-detail h4-wrap">
             {{content}}
           </div>
         </div>

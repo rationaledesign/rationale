@@ -20,21 +20,36 @@
     margin-bottom: $unit * 5;
     @include breakpoint($small) { margin-bottom: $unit * 11; }
     @include breakpoint($med) { margin-bottom: $unit * 10; }
-}
-
-.product-info {
-    border-top: 1px solid $black;
-    padding-top: $unit-half;
-    
-    margin-bottom: $unit-4;
-    
-      @include breakpoint($med) {
-        // @include col-two-thirds(false);
-        // margin-bottom: 55px;
-        margin-bottom: $unit-3;
-      }
-  }
   
-  .product-title {
-    margin-bottom: $unit-half;
+    .container {
+      display: flex; flex-direction: column;
+      @include breakpoint($small) { display: block; }
+    }
+  
+    .product-info {
+        border-top: 1px solid $black;
+        padding-top: $unit-half;
+        
+        margin-bottom: $unit-4;
+        order: 2;
+        
+          @include breakpoint($med) {
+            // @include col-two-thirds(false);
+            // margin-bottom: 55px;
+            margin-bottom: $unit-3;
+          }
+      }
+      
+    .product-title {
+      margin-bottom: $unit-half;
+    }
+  
+    .product-download {
+      a {
+        @include link--tertiary;
+      }
+    }
+  
+    .product-gallery { order: 1; }
+    .product-detail { order: 3; }
   }
