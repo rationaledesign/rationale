@@ -27,8 +27,10 @@
   }
 
   .resource-info {
-      border-top: 1px solid $black;
-      padding-top: $unit-half;
+      @include breakpoint($small) {
+        border-top: 1px solid $black;
+        padding-top: $unit-half;
+      }
       
       margin-bottom: $unit-4;
       order: 2;
@@ -41,7 +43,7 @@
     }
     
   .resource-title {
-    margin-bottom: $unit-half;
+    @include breakpoint($small) { margin-bottom: $unit-half; }
   }
 
   .resource-download {
