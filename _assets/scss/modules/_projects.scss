@@ -28,6 +28,7 @@
 
 .project-description {
   margin-bottom: $unit-4;
+  margin-top: -4px;
 
   @include breakpoint($med) {
     & > p:first-child {
