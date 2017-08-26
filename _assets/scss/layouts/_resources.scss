@@ -36,8 +36,6 @@
       order: 2;
       
         @include breakpoint($med) {
-          // @include col-two-thirds(false);
-          // margin-bottom: 55px;
           margin-bottom: $unit-3;
         }
     }
