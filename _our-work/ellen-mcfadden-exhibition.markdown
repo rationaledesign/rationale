@@ -5,6 +5,8 @@ categories:
 - Promotion
 position: 14
 year: 2015
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
 thumb_image:
   image: "/uploads/rationale-ellenmcfadden1-0.jpg"
 ---
