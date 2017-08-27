@@ -5,6 +5,8 @@ categories:
 - Identity
 position: 1
 year: 2014
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
 thumb_image:
   image: "/uploads/rationale-aprilbrimer-0.jpg"
 layout: project
