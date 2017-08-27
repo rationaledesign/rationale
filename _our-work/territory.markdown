@@ -3,6 +3,8 @@ title: Territory
 date: 2017-08-23 19:28:00 Z
 position: 10
 year: 2017
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
 thumb_image:
   image: "/uploads/rationale-territory-0.jpg"
 ---
