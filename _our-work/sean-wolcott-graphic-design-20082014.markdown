@@ -7,6 +7,8 @@ tags:
 - featured
 position: 24
 year: 2015
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
 thumb_image:
   image: "/uploads/rationale-swbook0714-0.jpg"
 layout: project
