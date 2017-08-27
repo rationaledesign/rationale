@@ -5,6 +5,8 @@ categories:
 - Promotion
 position: 18
 year: 2016
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
 thumb_image:
   image: "/uploads/rationale-sdfgivebig-0.jpg"
 ---
