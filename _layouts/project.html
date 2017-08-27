@@ -2,55 +2,51 @@
 layout: default
 ---
 
-<section>
-  <article class='project-detail'>
-    <div class="container">
-        <div class='med-col-half med-offset-half'>
-          <div class="project-info">
-            <h1 class='h2 mb-half'>{{ page.title }}</h1>
-            <div class="project-description h4-wrap">
-                <div class="project-content--truncated">
-                  {{content | truncatewords: 30 }}<button class="js-more">more</button>
-                </div>
-                <div class="project-content">
-                  {{content}}
-                </div>
-            </div>
-        </div>
+<article class='project-detail'>
+  <div class="container row">
+    <div class="project-info med-col-half med-offset-half">
+      <h1 class='h2 mb-half'>{{ page.title }}</h1>
+      <div class="project-description h4-wrap">
+          <div class="project-content--truncated">
+            {{content | truncatewords: 30 }}<button class="js-more">more</button>
+          </div>
+          <div class="project-content">
+            {{content}}
+          </div>
       </div>
     </div>
-    <div class="project-images">
-      {% for image in page.images %}
-          {% include img.html image=image %}
-      {% endfor %}
-    </div>
-  </article>
-  <div class="container">
-    {% assign projects = site.our-work | sort:"position" %}
-    {% for project in projects %}
-      {% if project.url == page.url %}
-        {% assign secondToLastIndex = projects.size | minus: 2 %}
-        {% if forloop.index0 < secondToLastIndex %}
-          {% assign next_index = forloop.index0 | plus: 1 %}
-          {% assign nextNext_index = forloop.index0 | plus: 2 %}
-        {% elsif forloop.index < projects.size %}
-          {% assign next_index = forloop.index0 | plus: 1 %}
-          {% assign nextNext_index = 0 %}
-        {% else forloop.index < projects.size %}
-          {% assign next_index = 0 %}
-          {% assign nextNext_index = 1 %}
-        {% endif %}
-        {% assign next_project = projects[next_index] %}
-        {% assign nextNext_project = projects[nextNext_index] %}
-      {% endif %}
-    {% endfor %}
-    <div class="more-projects">
-      <div class="h2">More projects</div>
-      <ul class="thumbnails">
-        <!-- Fixme add paramater for image thumb or detail default to detail -->
-        {% include thumbnail.html item=next_project %}
-        {% include thumbnail.html item=nextNext_project %}
-      </ul>
-    </div>
   </div>
-</section>
+  <div class="project-images row">
+    {% for image in page.images %}
+        {% include img.html image=image %}
+    {% endfor %}
+  </div>
+</article>
+<div class="container">
+  {% assign projects = site.our-work | sort:"position" %}
+  {% for project in projects %}
+    {% if project.url == page.url %}
+      {% assign secondToLastIndex = projects.size | minus: 2 %}
+      {% if forloop.index0 < secondToLastIndex %}
+        {% assign next_index = forloop.index0 | plus: 1 %}
+        {% assign nextNext_index = forloop.index0 | plus: 2 %}
+      {% elsif forloop.index < projects.size %}
+        {% assign next_index = forloop.index0 | plus: 1 %}
+        {% assign nextNext_index = 0 %}
+      {% else forloop.index < projects.size %}
+        {% assign next_index = 0 %}
+        {% assign nextNext_index = 1 %}
+      {% endif %}
+      {% assign next_project = projects[next_index] %}
+      {% assign nextNext_project = projects[nextNext_index] %}
+    {% endif %}
+  {% endfor %}
+  <div class="more-projects">
+    <div class="h2">More projects</div>
+    <ul class="thumbnails">
+      <!-- Fixme add paramater for image thumb or detail default to detail -->
+      {% include thumbnail.html item=next_project %}
+      {% include thumbnail.html item=nextNext_project %}
+    </ul>
+  </div>
+</div>

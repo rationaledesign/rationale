@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<section>
-    <article class='store'>
-      <div class="container">
-        <div class="store-description h4-wrap mb-2">
-          {{content}}
-        </div>
-        <div class="sm-below-mb">
-          {% include product-thumbnails.html collection=site.store %}
-        </div>
+<article class='store'>
+  <div class="container">
+    <div class="row">
+      <div class="store-description h4-wrap mb-2">
+        {{content}}
       </div>
-    </article>
-</section>
+    </div>
+    <div class="sm-below-mb row">
+      {% include product-thumbnails.html collection=site.store %}
+    </div>
+  </div>
+</article>

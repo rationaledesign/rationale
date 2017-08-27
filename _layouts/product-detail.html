@@ -5,7 +5,7 @@ layout: default
 <section>
     <article class='product'>
         <div class="container">
-          <div class="product-info">
+          <div class="product-info row">
               <div class='sm-col-half product-title'>
                 <h2 class='h2'>{{ page.title }}</h2>
               </div>
@@ -18,14 +18,16 @@ layout: default
                 <a href="{{ page.buylink }}" target="_blank">Where to buy</a>
               </div>
           </div>
-          <div class="sm-col-half product-gallery">
-            {% include image-gallery.html %}
-          </div>
-          <div class="sm-col-half product-detail h4-wrap">
-            {{content}}
+          <div class="row">
+            <div class="sm-col-half product-gallery">
+              {% include image-gallery.html %}
+            </div>
+            <div class="sm-col-half product-detail h4-wrap">
+              {{content}}
+            </div>
           </div>
         </div>
     </article>
   </section>
-  
+
 
