@@ -5,6 +5,8 @@ categories:
 - Identity
 position: 2
 year: 2016
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
 thumb_image:
   image: "/uploads/rationale-tbwb-0.jpg"
 ---
