@@ -6,7 +6,7 @@ categories:
 position: 39
 year: 2014
 images:
-- image: "/uploads/FPO_Thumbnail_01.jpg"
+- image: "/uploads/FPO%2032ratio.jpg"
 thumb_image:
   image: "/uploads/smithinteriors-0.jpg"
 layout: project
