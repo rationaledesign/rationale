@@ -5,6 +5,8 @@ categories:
 - Identity
 position: 17
 year: 2016
+images:
+- image: "/uploads/FPO%2032ratio.jpg"
 thumb_image:
   image: "/uploads/rationale-schaeferid-0.jpg"
 ---
