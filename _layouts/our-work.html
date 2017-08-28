@@ -4,11 +4,15 @@ layout: default
 
 <div class="content">
   <div class="container">
-    <div class="h2 mb-2 med-col-half med-offset-half">
-      {{content}}
+    <div class="row">
+      <div class="h2 mb-2 med-col-half med-offset-half">
+        {{content}}
+      </div>
     </div>
-    <div class="sm-below-mb">
-      {% include thumbnails.html collection=site.our-work %}
+    <div class="row">
+      <div class="sm-below-mb">
+        {% include thumbnails.html collection=site.our-work %}
+      </div>
     </div>
   </div>
 </div>
