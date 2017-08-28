@@ -1,5 +1,11 @@
 <div class="image-gallery">
-  <div class="gallery-img">
+  <div class="owl-carousel">
+    {% assign thumbs = page.images %}
+    {% for thumb in thumbs %}
+      <div class="owl-thumb">{% include img.html image=thumb %}</div>
+    {% endfor %}
+  </div>
+  <!--<div class="gallery-img">
     {% include img.html image=page.thumb_image %}
   </div>
   <ul class="gallery-thumbnails">
@@ -15,5 +21,5 @@
       </li>
     {% endfor %}
     {% endunless %}
-  </ul>
+  </ul>-->
 </div>
