@@ -7,7 +7,7 @@
   margin-bottom: $unit-2;
 
   @include breakpoint($small) {
-    //margin-right: -12px;
+    margin-right: -12px;
     margin-bottom: 0;
   }
   @extend %row;
@@ -31,7 +31,7 @@
   }
   @include breakpoint($med) {
       @include col-sixth(false);
-      padding-right: $unit-half;
+      padding-right: $unit-half !important;
   }
 
   .thumb-wrap {
