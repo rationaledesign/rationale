@@ -1,10 +1,22 @@
-// archive and store gallery
+// Image gallery js
 
 $(document).ready(function() {
-  /*$(".gallery-thumbnail").click(function(){
+  var owl = $(".owl-carousel");
+  var thumbs = $(".gallery-thumbnail");
+
+  owl.owlCarousel({
+    items: 1,
+    dots: false
+  });
+
+  $(".gallery-thumbnail").click(function(){
+    var target = $(this).data("target") - 1;
+    owl.trigger('to.owl.carousel', [target, 300]);
+  });
+
+  // updates active item after movement
+  owl.on('changed.owl.carousel', function(event) {
     $(".active").removeClass("active");
-    $(this).addClass("active");
-    $(".gallery-img .lazy" ).replaceWith($(".lazy", this).clone());
-  });*/
-  $(".owl-carousel").owlCarousel();
+    thumbs.eq(event.item.index).addClass("active");
+  });
 });
