@@ -11,7 +11,7 @@ collections:
   resources:
     title: Resources
     output: true
-  store:
+  shop:
     title: Store
     output: true
   uploads:
