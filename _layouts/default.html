@@ -4,10 +4,10 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>
-    {% if page.layout == 'project' or page.layout == 'resource' or page.layout == 'product-detail' %}
-      {{page.title}} — {{site.title}}
+    {% if page.layout == 'project' or page.layout == 'resource' or page.layout == 'product-detail' or page.permalink == '/404.html' %}
+      {{page.title}} – {{site.title}}
     {% else %}
-      {{site.title}} — {{page.title}}
+      {{site.title}} – {{page.title}}
     {% endif %}
   </title>
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

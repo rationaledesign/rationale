@@ -1,14 +1,16 @@
+{% assign thumbs = page.images %}
+{% assign imgcount = thumbs | size %}
+
 <div class="image-gallery">
-  <div class="gallery-img">
-    {% include img.html image=page.thumb_image %}
+  <div class="owl-carousel">
+    {% for thumb in thumbs %}
+      <div class="owl-thumb">{% include img.html image=thumb %}</div>
+    {% endfor %}
   </div>
   <ul class="gallery-thumbnails">
-    {% assign thumbs = page.images %}
-    {% assign imgcount = thumbs | size %}
-
     {% unless imgcount == 1 %}
     {% for thumb in thumbs %}
-      <li class="gallery-thumbnail img-{{ forloop.index }} {% if forloop.first == true %}active{% endif %}">
+      <li class="gallery-thumbnail {% if forloop.first == true %}active{% endif %}" data-target="{{ forloop.index }} ">
         <div class="thumb-wrap">
           {% include img.html image=thumb %}
         </div>
