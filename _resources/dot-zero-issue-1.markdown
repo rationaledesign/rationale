@@ -3,7 +3,7 @@ title: Dot Zero – Issue 1
 date: 2014-06-07 06:01:00 Z
 author: Unimark / Massimo Vignelli
 thumb_image:
-  image: "/uploads/rationale-nonprofits-0.jpg"
+  image: "/uploads/rationale-nonprofits-0b.jpg"
 layout: resource
 ---
 
