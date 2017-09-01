@@ -5,7 +5,7 @@ author: Massimo Vignelli
 images:
 - image: "/uploads/dot-zero-issue-1-s1-@2x.jpg"
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/rationale-nonprofits-0.jpg"
 og_image: "/uploads/FPO_Thumbnail_01.jpg"
 layout: resource
 ---
