@@ -1,6 +1,7 @@
 ---
 title: Dot Zero – Issue 1
 date: 2014-06-07 06:01:00 Z
+position: 1
 author: Unimark / Massimo Vignelli
 thumb_image:
   image: "/uploads/rationale-dotzero1-0.jpg"

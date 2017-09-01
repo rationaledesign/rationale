@@ -1,6 +1,7 @@
 ---
 title: Graphic Design For Non-Profit Organizations
 date: 2014-02-26 14:55:00 Z
+position: 2
 author: Massimo Vignelli
 thumb_image:
   image: "/uploads/rationale-nonprofits-0d.jpg"
