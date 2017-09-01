@@ -3,7 +3,7 @@ title: Deutsche Bank design manual
 date: 2015-04-16 13:50:00 Z
 author: Anton Stankowski
 thumb_image:
-  image: "/uploads/rationale-nonprofits-0b.jpg"
+  image: "/uploads/rationale-deutschebank-0.jpg"
 layout: resource
 ---
 
