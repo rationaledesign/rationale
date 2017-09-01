@@ -12,7 +12,7 @@ images:
 - image: "/uploads/FPO%2032ratio.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/rationale-nonprofits-0c.jpg"
+  image: "/uploads/rationale-seanwolcottdesign-0.jpg"
 layout: resource
 ---
 
