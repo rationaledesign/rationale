@@ -3,7 +3,7 @@ title: 'Sean Wolcott: Graphic Design 2008–2014'
 date: 2015-04-06 18:17:00 Z
 author: Sean Wolcott
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: "/uploads/rationale-nonprofits-0b.jpg"
   alt: 
 - image: "/uploads/FPO%2032ratio.jpg"
   alt: 
