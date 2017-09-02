@@ -44,7 +44,9 @@
 
 .project-images {
   clear: both;
-  .lazy {min-height: 150px;}
+  .lazy {
+    min-height: 50vw;
+  }
   .lazy:last-child img{
     margin-bottom: 0;
   }

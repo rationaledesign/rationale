@@ -23,12 +23,13 @@ class GetColorTag < Liquid::Tag
 
             if File.file?(filename)
                 CSV.foreach(filename) do |row|
-                    if row[0] == var
+                    if row[0] == var && flag == 0
                         flag = 1
-                        row [1]
+                        return row[1]
                     end
                 end
-            else CSV.open(filename, "wb")
+            else 
+                CSV.open(filename, "wb")
             end
 
             if flag == 0
@@ -51,7 +52,7 @@ class GetColorTag < Liquid::Tag
                             csv << [var, color.to_s]
                         end
                 
-                        color.to_s
+                        return color.to_s
                     end
 
                     rescue Timeout::Error => error
@@ -59,13 +60,6 @@ class GetColorTag < Liquid::Tag
                 end
             end
         end
-
-        
-        #response = Net::HTTP.get(uri)
-        #json = JSON.parse(res.body)
-        #color = res["colors"][0]["hex"]
-
-        #color.to_s
     end
 end
 end
