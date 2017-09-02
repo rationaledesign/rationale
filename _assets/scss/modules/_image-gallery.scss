@@ -14,7 +14,8 @@
 }
 
 .gallery-thumbnail {
-  margin-top: $unit;
+  margin-top: $unit/2;
+  margin-bottom: $unit/2;
 
   @include breakpoint($mobile) {
     @include col;
@@ -28,6 +29,8 @@
   @include breakpoint($small) {
       @include col-fourth(false);
       padding-right: $unit-half;
+      margin-top: $unit;
+      margin-bottom: 0;
   }
   @include breakpoint($med) {
       @include col-sixth(false);

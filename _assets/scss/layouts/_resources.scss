@@ -1,5 +1,5 @@
 .resources-description {
-    border-top: 1px solid $black;
+    border-top: 1px solid $grey_medium;
     padding-top: $unit-half;
 
     p {
@@ -13,6 +13,8 @@
 
     p:first-of-type {
         @include h2;
+
+        margin-bottom: $unit/2;
     }
 }
 
@@ -27,18 +29,20 @@
   }
 
   .resource-info {
-      @include breakpoint($small) {
-        border-top: 1px solid $black;
-        padding-top: $unit-half;
-      }
-      
+    margin-bottom: $unit-3;
+    order: 2;
+
+    @include breakpoint($small) {
+      border-top: 1px solid $black;
+      padding-top: $unit-half;
+
       margin-bottom: $unit-4;
-      order: 2;
-      
-        @include breakpoint($med) {
-          margin-bottom: $unit-3;
-        }
     }
+    
+      @include breakpoint($med) {
+        margin-bottom: $unit-3;
+      }
+  }
     
   .resource-title {
     @include breakpoint($small) { margin-bottom: $unit-half; }

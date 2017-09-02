@@ -1,8 +1,5 @@
 .project-detail {
-  margin-bottom: $unit-2;
-  @include breakpoint($large) {
-    margin-bottom: $unit-4;
-  }
+
 
   img {
     margin-bottom: 1px;
@@ -10,7 +7,7 @@
 }
 
 .project-detail .project-info {
-  border-top: 1px solid $black;
+  border-top: 1px solid $grey_medium;
   padding-top: $unit-half;
 }
 
@@ -20,10 +17,6 @@
   @include breakpoint($med) {
     @include col-two-thirds(false);
   }
-}
-
-.project-title {
-
 }
 
 .project-description {
@@ -51,7 +44,9 @@
 
 .project-images {
   clear: both;
-  .lazy {min-height: 150px;}
+  .lazy {
+    min-height: 50vw;
+  }
   .lazy:last-child img{
     margin-bottom: 0;
   }

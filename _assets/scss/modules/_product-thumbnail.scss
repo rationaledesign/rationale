@@ -23,11 +23,12 @@
     }
 
     .lazy.thumb {
-      padding-bottom: 66.66%;
+      padding-bottom: 66.6%;
     }
   
     .product-thumbnail-title {
       padding-top: $unit;
+      padding-right: 60px;
       height: $unit-4;
 
       h3 { display: none }

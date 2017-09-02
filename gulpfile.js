@@ -21,7 +21,7 @@ function handleErrors () {
     'sound': 'Sosumi' // See: https://github.com/mikaelbr/node-notifier#all-notification-options-with-their-defaults
   } ).apply( this, args );
 
-  $.util.beep(); // Beep 'sosumi' again.
+  //$.util.beep(); // Beep 'sosumi' again.
 
   // Prevent the 'watch' task from stopping.
   this.emit( 'end' );
