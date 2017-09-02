@@ -1,6 +1,7 @@
 require 'net/http'
 require 'uri'
 require 'json'
+require 'csv'
 
 module Jekyll
 class GetColorTag < Liquid::Tag
@@ -13,29 +14,49 @@ class GetColorTag < Liquid::Tag
 
     def render(context)
         var = context[@markup.strip]
+        filename = "cached_colors.csv"
+
         if var.nil? || var.empty?
             "transparent"
         else
-            uri = URI.parse('https://rationale-design.imgix.net' + var + '?palette=json&colors=2')
-            
-            # get json
-            begin
-                http = Net::HTTP.new(uri.host, uri.port)
-                http.use_ssl = true if uri.scheme == 'https'
-                http.read_timeout = 5
-                
-                http.start do
-                    request = Net::HTTP::Get.new(uri.request_uri)
-                    resp = http.request(request)
+            flag = 0
 
-                    json = JSON.parse(resp.body)
-                    color = json["colors"][1]["hex"]
-            
-                    color.to_s
+            if File.file?(filename)
+                CSV.foreach(filename) do |row|
+                    if row[0] == var
+                        flag = 1
+                        row [1]
+                    end
                 end
+            else CSV.open(filename, "wb")
+            end
 
-                rescue Timeout::Error => error
-                    "transparent"
+            if flag == 0
+                uri = URI.parse('https://rationale-design.imgix.net' + var + '?palette=json&colors=2')
+                
+                # get json
+                begin
+                    http = Net::HTTP.new(uri.host, uri.port)
+                    http.use_ssl = true if uri.scheme == 'https'
+                    http.read_timeout = 5
+                    
+                    http.start do
+                        request = Net::HTTP::Get.new(uri.request_uri)
+                        resp = http.request(request)
+
+                        json = JSON.parse(resp.body)
+                        color = json["colors"][1]["hex"]
+
+                        CSV.open(filename, "a+b") do |csv|
+                            csv << [var, color.to_s]
+                        end
+                
+                        color.to_s
+                    end
+
+                    rescue Timeout::Error => error
+                        "transparent"
+                end
             end
         end
 
