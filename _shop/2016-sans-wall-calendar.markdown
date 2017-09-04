@@ -6,7 +6,7 @@ buylink: https://www.etsy.com/listing/192878959/2016-sans-wall-calendar?ref=list
 images:
 - image: "/uploads/rationale-sanscalendar-og.jpg"
 thumb_image:
-  image: "/uploads/FPO_Thumbnail_01.jpg"
+  image: "/uploads/rationale-seanwolcottdesign-0.jpg"
 og_image: "/uploads/FPO_Thumbnail_01.jpg"
 layout: product-detail
 ---
