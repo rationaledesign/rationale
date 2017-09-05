@@ -4,7 +4,9 @@ date: 2015-04-06 18:17:00 Z
 position: 0
 author: Sean Wolcott
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: |2-
+
+    /uploads/FPO%2032ratio.jpg
   alt: 
 - image: "/uploads/FPO%2032ratio.jpg"
   alt: 

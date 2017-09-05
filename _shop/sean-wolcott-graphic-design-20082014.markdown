@@ -11,7 +11,7 @@ images:
 - image: "/uploads/FPO%2032ratio.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/FPO%2032ratio.jpg"
+  image: "/uploads/rationale-seanwolcottdesign-0.jpg"
 layout: product-detail
 ---
 
