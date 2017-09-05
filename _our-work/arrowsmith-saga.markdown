@@ -6,7 +6,7 @@ categories:
 position: 20
 year: 2012
 images:
-- image: "/uploads/rationale-arrowsmith-1.jpg"
+- image: "/uploads/rationale-arrowsmith-0b.jpg"
   alt: 
 - image: "/uploads/rationale-arrowsmith-2b.jpg"
   alt: 
