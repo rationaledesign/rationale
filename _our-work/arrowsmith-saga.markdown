@@ -11,7 +11,7 @@ images:
 - image: "/uploads/rationale-arrowsmith-2b.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/rationale-arrowsmith-0b.jpg"
+  image: "/uploads/rationale-arrowsmith-0c.jpg"
 og_image: "/uploads/rationale-arrowsmith-og.jpg"
 layout: project
 ---
