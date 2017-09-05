@@ -23,7 +23,7 @@ images:
 - image: "/uploads/rationale-massivebit-7.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/rationale-massivebit-0.jpg"
+  image: "/uploads/rationale-massivebit-0b.jpg"
 og_image: "/uploads/rationale-massivebit-og.jpg"
 layout: project
 ---
