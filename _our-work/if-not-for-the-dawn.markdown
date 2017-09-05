@@ -11,7 +11,7 @@ images:
 - image: "/uploads/rationale-ifnotfordawn-2.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/rationale-ifnotfordawn-0.jpg"
+  image: "/uploads/rationale-ifnotfordawn-0b.jpg"
 og_image: "/uploads/rationale-ifnotfordawn-og.jpg"
 layout: project
 ---
