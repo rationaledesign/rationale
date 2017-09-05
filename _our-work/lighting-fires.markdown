@@ -17,7 +17,7 @@ images:
 - image: "/uploads/rationale-lightingfires-5.jpg"
   alt: 
 thumb_image:
-  image: "/uploads/rationale-lightingfires-0.jpg"
+  image: "/uploads/rationale-lightingfires-0b.jpg"
 og_image: "/uploads/rationale-lightingfires-og.jpg"
 layout: project
 ---
