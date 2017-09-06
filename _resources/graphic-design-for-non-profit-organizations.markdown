@@ -19,6 +19,8 @@ images:
   alt: 
 - image: "/uploads/rationale-nonprofits-8.jpg"
   alt: 
+- image: "/uploads/rationale-nonprofits-7.jpg"
+  alt: 
 thumb_image:
   image: "/uploads/rationale-nonprofits-0d.jpg"
 og_image: "/uploads/rationale-nonprofits-og.jpg"
