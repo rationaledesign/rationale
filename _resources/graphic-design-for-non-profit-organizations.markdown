@@ -7,8 +7,6 @@ imgcount: 8
 images:
 - image: "/uploads/rationale-nonprofits-0d.jpg"
   alt: 
-- image: "/uploads/rationale-nonprofits-1b.jpg"
-  alt: 
 - image: "/uploads/rationale-nonprofits-2.jpg"
   alt: 
 - image: "/uploads/rationale-nonprofits-3.jpg"
@@ -19,7 +17,7 @@ images:
   alt: 
 - image: "/uploads/rationale-nonprofits-6.jpg"
   alt: 
-- image: "/uploads/rationale-nonprofits-7.jpg"
+- image: "/uploads/rationale-nonprofits-8.jpg"
   alt: 
 thumb_image:
   image: "/uploads/rationale-nonprofits-0d.jpg"
