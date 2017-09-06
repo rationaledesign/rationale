@@ -21,7 +21,7 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-nonprofits-0d.jpg"
-og_image: "/uploads/FPO_Thumbnail_01.jpg"
+og_image: "/uploads/rationale-nonprofits-og.jpg"
 layout: resource
 ---
 
