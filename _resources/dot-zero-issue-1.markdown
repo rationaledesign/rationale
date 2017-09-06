@@ -5,6 +5,7 @@ position: 3
 author: Unimark / Massimo Vignelli
 thumb_image:
   image: "/uploads/rationale-dotzero1-0.jpg"
+og_image: "/uploads/rationale-dotzero1-og.jpg"
 layout: resource
 ---
 
