@@ -16,6 +16,7 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-seanwolcottdesign-0.jpg"
+og_image: "/uploads/rationale-seanwolcottdesign-og.jpg"
 layout: resource
 ---
 
