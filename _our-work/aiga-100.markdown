@@ -8,7 +8,7 @@ year: 2014
 images:
 - image: "/uploads/rationale-aiga100-1c.jpg"
 thumb_image:
-  image: "/uploads/rationale-aiga100-0c.jpg"
+  image: "/uploads/rationale-aiga100-0d.jpg"
 og_image: "/uploads/rationale-aiga100-og1.jpg"
 ---
 
