@@ -14,12 +14,7 @@ $(document).ready(function() {
     owl.trigger('to.owl.carousel', [target, 300]);
   });
   $(".owl-carousel").click(function(e){
-    var pWidth = $(this).innerWidth();
-    var pOffset = $(this).offset(); 
-    var x = e.pageX - pOffset.left;
-
-    if(pWidth/2 > x) owl.trigger('prev.owl.carousel', [300]);
-    else owl.trigger('next.owl.carousel', [300]);
+    owl.trigger('next.owl.carousel', [300]);
   });
 
   // updates active item after movement
