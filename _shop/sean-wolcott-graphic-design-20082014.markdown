@@ -19,14 +19,12 @@ The 172 page book "Sean Wolcott: Graphic Design 2008–2014" chronicles the ongo
 
 This book is printed through high-quality digitally indigo printing book and available at printing cost via Magcloud.
 
-<br>
-Specs:<br>
-172 pages <br>
-8x8 inches (20x20 cm)<br>
-High quality digital indigo printing<br>
-Perfect bound<br>
-Coated 80# cover stock and 80# text paper stock<br>
-Published 4/6/2015<br>
-
-<br>
+Specs: 
+172 pages 
+8x8 inches (20x20 cm) 
+High quality digital indigo printing 
+Perfect bound 
+Coated 80# cover stock and 80# text paper stock 
+Published 4/6/2015 
+ 
 The book is also available as a free PDF [here](http://rationale-design.com/assets/img/_source/resources/sean-wolcott-graphic-design-20082014/sean-wolcott-graphic-design-2008-2014.pdf).
