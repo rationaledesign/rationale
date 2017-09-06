@@ -21,18 +21,18 @@ layout: default
     </div>
     <div class="generic-not-found" style="display:none" id="res404">
         <h1 class="h1">
-            Sorry, project not found. Go back to the Resources <a href="/resources" class>here</a>.
+            Sorry, page not found. Go back to the Resources <a href="/resources" class>here</a>.
         </h1>
     </div>
     <div class="generic-not-found" style="display:none" id="str404">
         <h1 class="h1">
-            Sorry, project not found. Go back to the Store <a href="/store">here</a>.
+            Sorry, page not found. Go back to the Shop <a href="/shop">here</a>.
         </h1>
     </div>
 </div>
 <script>
     var url = window.location.href;
     if (url.indexOf("/resources") !== -1) document.getElementById('res404').style.display = 'block';
-    else if (url.indexOf("/store") !== -1) document.getElementById('str404').style.display = 'block';
+    else if (url.indexOf("/shop") !== -1) document.getElementById('str404').style.display = 'block';
     else document.getElementById('prj404').style.display = 'block';
 </script>

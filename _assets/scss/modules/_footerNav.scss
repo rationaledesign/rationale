@@ -4,7 +4,12 @@ footer .row {
 
   div {
     &:first-child {
-      margin-bottom: 18px;
+      margin-bottom: $unit/2;
+    }
+  }
+  ul {
+    div:first-of-type {
+      margin-bottom: $unit/2 !important;
     }
   }
 

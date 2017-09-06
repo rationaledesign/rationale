@@ -1,4 +1,4 @@
-.page-not-found-rationale section {
+.page-not-found section {
   display: flex;
 }
 
@@ -20,8 +20,8 @@
 }
 
 .project-not-found, .generic-not-found {
-    // vertical-align:middle;
-    // display: table-cell;
+    vertical-align:middle;
+    display: table-cell;
     // to center between bar and footer: height = page - header+ - footer - header+
     // height: calc(100vh - #{$unit * 10} - #{$unit * 16} - #{$unit * 10});
 

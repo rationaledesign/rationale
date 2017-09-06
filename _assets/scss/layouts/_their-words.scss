@@ -17,6 +17,6 @@
       margin-bottom: $unit-5;
 
       @include breakpoint($small) { margin-bottom: $unit-5; }
-      @include breakpoint($med) { padding-right: $unit-5 !important; }
+      @include breakpoint($med) { padding-right: 8.33%; } // 16.66 of column, 8.33% of container
     }
 }
