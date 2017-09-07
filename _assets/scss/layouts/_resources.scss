@@ -19,7 +19,7 @@
 }
 
 .resource {
-    margin-bottom: $unit * 5;
+    margin-bottom: $unit * 3;
     @include breakpoint($small) { margin-bottom: $unit * 11; }
     @include breakpoint($med) { margin-bottom: $unit * 10; }
 
