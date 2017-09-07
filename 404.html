@@ -29,10 +29,16 @@ layout: default
             Sorry, page not found. Go back to the Shop <a href="/shop">here</a>.
         </h1>
     </div>
+    <div class="generic-not-found" style="display:none" id="nws404">
+        <h1 class="h1">
+            Sorry, page not found. Go back to the Articles <a href="/articles">here</a>.
+        </h1>
+    </div>
 </div>
 <script>
     var url = window.location.href;
     if (url.indexOf("/resources") !== -1) document.getElementById('res404').style.display = 'block';
     else if (url.indexOf("/shop") !== -1) document.getElementById('str404').style.display = 'block';
+    else if (url.indexOf("/articles") !== -1) document.getElementById('nws404').style.display = 'block';
     else document.getElementById('prj404').style.display = 'block';
 </script>

@@ -35,8 +35,10 @@
   }
 
   li {
+    max-width: 0; white-space: nowrap;
     @include breakpoint($med) {
       @include col-third(false);
+      max-width: 100%;
     }
   }
 
