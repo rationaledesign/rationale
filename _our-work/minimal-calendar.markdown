@@ -13,7 +13,7 @@ images:
 - image: "/uploads/rationale-mincalendar-3.jpg"
   alt: rationale design minimal calendar application
 thumb_image:
-  image: "/uploads/rationale-mincalendar-0.jpg"
+  image: "/uploads/rationale_mincalendar_0.jpg"
   alt: rationale design minimal calendar application
 og_image: "/uploads/rationale-mincalendar-og.jpg"
 layout: project
