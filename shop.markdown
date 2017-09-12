@@ -9,4 +9,4 @@ layout: store
 Shop
 
 
-Items by Rationale (test)
+The following items in the shop are a collection of artifacts designed and made by Rationale and our collaborators with the utmost care and quality. 
