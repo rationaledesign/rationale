@@ -3,6 +3,7 @@ title: 'Sean Wolcott: Graphic Design 2008–2014'
 date: 2015-04-06 18:17:00 Z
 position: 0
 author: Sean Wolcott
+imgcount: 8
 images:
 - image: "/uploads/rationale_seanwolcottdesign_1.jpg"
   alt: rationale resources sean wolcott graphic design book cover
