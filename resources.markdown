@@ -9,4 +9,4 @@ layout: resources
 Resources
 
 
-The resources on this site are a collection of both new and rare design works provided free for non-commercial purposes such as education and research.
+The resources on this site are a collection of both new and rare design works provided free for non-commercial education and research purposes.
