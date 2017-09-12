@@ -38,7 +38,7 @@ class GetColorTag < Liquid::Tag
 
             # if nothing was found, get the color from imgix 
             if flag == 0
-                uri = URI.parse('https://rationale-design.imgix.net' + var + '?palette=json&colors=2')
+                uri = URI.parse('https://rationale-design.imgix.net' + var.strip + '?palette=json&colors=2')
                 
                 # get resource with 5s timeout
                 begin
@@ -52,12 +52,15 @@ class GetColorTag < Liquid::Tag
 
                         # parse json
                         # (I'm getting the second main color out of 2 because I found it was more pleasant)
-                        json = JSON.parse(resp.body)
-                        color = json["colors"][1]["hex"]
+                        color = "#dadada"
+                        if resp.body.length >= 2
+                            json = JSON.parse(resp.body)
+                            color = json["colors"][1]["hex"]
 
-                        # cache to color to file
-                        CSV.open(filename, "a+b") do |csv|
-                            csv << [var, color.to_s]
+                            # cache to color to file
+                            CSV.open(filename, "a+b") do |csv|
+                                csv << [var, color.to_s]
+                            end
                         end
                 
                         # and return the hex color
