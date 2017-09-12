@@ -23,6 +23,6 @@ thumb_image:
 og_image: "/uploads/rationale_nycbg_og.jpg"
 ---
 
-A comprehensive minimanual of graphics standards for the Botanical Garden institute in New York. This manual illustrates a long-range program where standardization is a primary concern.
+Presented here is a comprehensive yet compact design manual outlining the graphics standards for the Botanical Garden institute in New York. This manual illustrates a program for standardization of signage and many communications.
 
 Designed by Massimo Vignelli in 1973, 32 pages.
