@@ -4,18 +4,25 @@ date: 2015-04-06 18:17:00 Z
 position: 0
 author: Sean Wolcott
 images:
-- image: |2-
-
-    /uploads/FPO%2032ratio.jpg
-  alt: 
-- image: "/uploads/FPO%2032ratio.jpg"
-  alt: 
-- image: "/uploads/FPO%2032ratio.jpg"
-  alt: 
-- image: "/uploads/FPO%2032ratio.jpg"
-  alt: 
+- image: "/uploads/rationale_seanwolcottdesign_1.jpg"
+  alt: rationale resources sean wolcott graphic design book cover
+- image: "/uploads/rationale_seanwolcottdesign_2.jpg"
+  alt: rationale resources sean wolcott graphic design book
+- image: "/uploads/rationale_seanwolcottdesign_3.jpg"
+  alt: rationale resources sean wolcott graphic design book
+- image: "/uploads/rationale_seanwolcottdesign_4.jpg"
+  alt: rationale resources sean wolcott graphic design book
+- image: "/uploads/rationale_seanwolcottdesign_5.jpg"
+  alt: rationale resources sean wolcott graphic design book
+- image: "/uploads/rationale_seanwolcottdesign_6.jpg"
+  alt: rationale resources sean wolcott graphic design book
+- image: "/uploads/rationale_seanwolcottdesign_7.jpg"
+  alt: rationale resources sean wolcott graphic design book
+- image: "/uploads/rationale_seanwolcottdesign_8.jpg"
+  alt: rationale resources sean wolcott graphic design book
 thumb_image:
-  image: "/uploads/rationale-seanwolcottdesign-0.jpg"
+  image: "/uploads/rationale_seanwolcottdesign_0.jpg"
+  alt: rationale resources sean wolcott graphic design book
 og_image: "/uploads/rationale_seanwolcottdesign_og.jpg"
 layout: resource
 ---
