@@ -7,23 +7,24 @@ position: 33
 year: 2010
 images:
 - image: "/uploads/rationale-concertseries-1.jpg"
-  alt: 
+  alt: rationale design music concert series poster
 - image: "/uploads/rationale-concertseries-2.jpg"
-  alt: 
+  alt: rationale design music concert series poster
 - image: "/uploads/rationale-concertseries-3.jpg"
-  alt: 
+  alt: rationale design music concert series poster
 - image: "/uploads/rationale-concertseries-4.jpg"
-  alt: 
+  alt: rationale design music concert series poster
 - image: "/uploads/rationale-concertseries-5.jpg"
-  alt: 
+  alt: rationale design music concert series poster
 - image: "/uploads/rationale-concertseries-6.jpg"
-  alt: 
+  alt: rationale design music concert series poster
 - image: "/uploads/rationale-concertseries-7.jpg"
-  alt: 
+  alt: rationale design music concert series poster
 - image: "/uploads/rationale-concertseries-8.jpg"
-  alt: 
+  alt: rationale design music concert series poster
 thumb_image:
   image: "/uploads/rationale-concertseries-0.jpg"
+  alt: rationale design music concert series poster
 og_image: "/uploads/rationale-concertseries-og.jpg"
 layout: project
 ---

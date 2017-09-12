@@ -7,11 +7,12 @@ position: 9
 year: 2009
 images:
 - image: "/uploads/rationale-remixvol1-1.jpg"
-  alt: 
+  alt: rationale design remix vol 1 album front cover
 - image: "/uploads/rationale-remixvol1-2.jpg"
-  alt: 
+  alt: rationale design remix vol 1 album back cover
 thumb_image:
   image: "/uploads/rationale-remixvol1-0.jpg"
+  alt: rationale design remix vol 1 album cover
 og_image: "/uploads/rationale-remixvol1-og.jpg"
 layout: project
 ---

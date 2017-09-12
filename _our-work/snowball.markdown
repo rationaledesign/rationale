@@ -7,8 +7,10 @@ position: 28
 year: 2015
 images:
 - image: "/uploads/rationale-snowball-1.jpg"
+  alt: rationale design snowball album cover
 thumb_image:
   image: "/uploads/rationale-snowball-0.jpg"
+  alt: rationale design snowball album cover
 og_image: "/uploads/rationale-snowball-og.jpg"
 layout: project
 ---

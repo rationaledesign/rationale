@@ -16,7 +16,8 @@ images:
   alt: 
 thumb_image:
   image: "/uploads/rationale-seanwolcottdesign-0.jpg"
-og_image: "/uploads/rationale-seanwolcottdesign-og.jpg"
+download_file: "/uploads/sean-wolcott-graphic-design-2008-2014.pdf"
+og_image: "/uploads/rationale_seanwolcottdesign_og.jpg"
 layout: resource
 ---
 

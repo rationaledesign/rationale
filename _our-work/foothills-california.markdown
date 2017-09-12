@@ -7,19 +7,20 @@ position: 36
 year: 2013
 images:
 - image: "/uploads/rationale-foothillsid-1.jpg"
-  alt: 
+  alt: rationale design foothills california identity logo
 - image: "/uploads/rationale-foothillsid-2.jpg"
-  alt: 
+  alt: rationale design foothills california identity bag
 - image: "/uploads/rationale-foothillsid-3b.jpg"
-  alt: 
+  alt: rationale design foothills california identity website
 - image: "/uploads/rationale-foothillsid-4.jpg"
-  alt: 
+  alt: rationale design foothills california identity poster
 - image: "/uploads/rationale-foothillsid-5b.jpg"
-  alt: 
+  alt: rationale design foothills california identity graphics
 - image: "/uploads/rationale-foothillsid-6b.jpg"
-  alt: 
+  alt: rationale design foothills california identity stationary
 thumb_image:
   image: "/uploads/rationale-foothillsid-0.jpg"
+  alt: rationale design foothills california identity
 og_image: "/uploads/rationale-foothillsid-og.jpg"
 layout: project
 ---

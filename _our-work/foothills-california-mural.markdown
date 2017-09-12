@@ -7,8 +7,10 @@ position: 13
 year: 2014
 images:
 - image: "/uploads/rationale-foothillsmural-1.jpg"
+  alt: rationale design foothills california mural
 thumb_image:
   image: "/uploads/rationale-foothillsmural-0.jpg"
+  alt: rationale design foothills california mural
 og_image: "/uploads/rationale-foothillsmural-og.jpg"
 ---
 

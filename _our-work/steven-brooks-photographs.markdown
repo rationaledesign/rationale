@@ -9,8 +9,10 @@ position: 21
 year: 2012
 images:
 - image: "/uploads/rationale-stevenbrooks-1b.jpg"
+  alt: rationale design steven brooks photographs book
 thumb_image:
   image: "/uploads/rationale-stevenbrooks-0b.jpg"
+  alt: rationale design steven brooks photographs book
 og_image: "/uploads/rationale-stevenbrooks-og1.jpg"
 layout: project
 ---

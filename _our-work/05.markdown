@@ -3,14 +3,14 @@ title: '05'
 position: 12
 images:
 - image: "/uploads/rationale-0dot5-1.jpg"
-  alt: test 1
+  alt: rationale design 0.5 album front cover
 - image: "/uploads/rationale-0dot5-3.jpg"
-  alt: test 2
+  alt: rationale design 0.5 poster
 - image: "/uploads/rationale-0dot5-2.jpg"
-  alt: test 3
+  alt: rationale design 0.5 album back cover
 thumb_image:
   image: "/uploads/rationale-0dot5-0.jpg"
-  alt: thumb test
+  alt: rationale design 0.5 album cover
 og_image: "/uploads/rationale-0dot5-og.jpg"
 ---
 

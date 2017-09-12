@@ -9,11 +9,12 @@ position: 8
 year: 2013
 images:
 - image: "/uploads/rationale-sanscalendar-1.jpg"
-  alt: 
+  alt: rationale design wall sans calendar
 - image: "/uploads/rationale-sanscalendar-2.jpg"
-  alt: 
+  alt: rationale design wall sans calendar
 thumb_image:
   image: "/uploads/rationale-sanscalendar-0.jpg"
+  alt: rationale design wall sans calendar
 og_image: "/uploads/rationale-sanscalendar-og.jpg"
 layout: project
 ---

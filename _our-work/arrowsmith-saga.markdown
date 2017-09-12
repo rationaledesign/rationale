@@ -7,11 +7,12 @@ position: 20
 year: 2012
 images:
 - image: "/uploads/rationale-arrowsmith-1.jpg"
-  alt: 
+  alt: rationale design arrowsmith saga book cover
 - image: "/uploads/rationale-arrowsmith-2b.jpg"
-  alt: 
+  alt: rationale design arrowsmith saga book cover
 thumb_image:
   image: "/uploads/rationale-arrowsmith-0c.jpg"
+  alt: rationale design arrowsmith saga book cover
 og_image: "/uploads/rationale-arrowsmith-og.jpg"
 layout: project
 ---

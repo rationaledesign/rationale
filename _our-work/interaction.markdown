@@ -7,11 +7,12 @@ position: 27
 year: 2012
 images:
 - image: "/uploads/rationale-interaction-1.jpg"
-  alt: 
+  alt: rationale design interaction album front cover
 - image: "/uploads/rationale-interaction-2.jpg"
-  alt: 
+  alt: rationale design interaction album back cover
 thumb_image:
   image: "/uploads/rationale-interaction-0b.jpg"
+  alt: rationale design interaction album cover
 og_image: "/uploads/rationale-interaction-og.jpg"
 layout: project
 ---

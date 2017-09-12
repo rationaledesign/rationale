@@ -7,17 +7,18 @@ position: 38
 year: 2014
 images:
 - image: "/uploads/rationale-casey-broadwater-1.jpg"
-  alt: 
+  alt: rationale design casey broadwater photography identity
 - image: "/uploads/rationale-casey-broadwater-2.jpg"
-  alt: 
+  alt: rationale design casey broadwater photography stationary
 - image: "/uploads/rationale-casey-broadwater-3.jpg"
-  alt: 
+  alt: rationale design casey broadwater photography identity website
 - image: "/uploads/rationale-casey-broadwater-4.jpg"
-  alt: 
+  alt: rationale design casey broadwater photography identity poster
 - image: "/uploads/rationale-casey-broadwater-5.jpg"
-  alt: 
+  alt: rationale design casey broadwater photography identity stationary
 thumb_image:
   image: "/uploads/rationale-casey-broadwater-0b.jpg"
+  alt: rationale design casey broadwater photography identity
 og_image: "/uploads/rationale-casey-broadwater-og.jpg"
 layout: project
 ---

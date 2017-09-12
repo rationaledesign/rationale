@@ -9,4 +9,4 @@ layout: store
 Shop
 
 
-Items by Rationale
+Items by Rationale (test)

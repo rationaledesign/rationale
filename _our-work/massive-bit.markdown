@@ -9,21 +9,22 @@ position: 37
 year: 2013
 images:
 - image: "/uploads/rationale-massivebit-1.jpg"
-  alt: 
+  alt: rationale design massive bits identity logo
 - image: "/uploads/rationale-massivebit-2.jpg"
-  alt: 
+  alt: rationale design massive bits identity poster
 - image: "/uploads/rationale-massivebit-3b.jpg"
-  alt: 
+  alt: rationale design massive bits identity logo
 - image: "/uploads/rationale-massivebit-4.jpg"
-  alt: 
+  alt: rationale design massive bits identity application
 - image: "/uploads/rationale-massivebit-5b.jpg"
-  alt: 
+  alt: rationale design massive bits identity graphics
 - image: "/uploads/rationale-massivebit-6.jpg"
-  alt: 
+  alt: rationale design massive bits identity stationary
 - image: "/uploads/rationale-massivebit-7.jpg"
-  alt: 
+  alt: rationale design massive bits identity stationary
 thumb_image:
   image: "/uploads/rationale-massivebit-0b.jpg"
+  alt: rationale design massive bits identity
 og_image: "/uploads/rationale-massivebit-og.jpg"
 layout: project
 ---

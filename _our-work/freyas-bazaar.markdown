@@ -7,8 +7,10 @@ position: 29
 year: 2012
 images:
 - image: "/uploads/rationale-freyasbazaar-1.jpg"
+  alt: rationale design freya's bazaar invitation
 thumb_image:
   image: "/uploads/rationale-freyasbazaar-0.jpg"
+  alt: rationale design freya's bazaar invitation
 og_image: "/uploads/rationale-freyasbazaar-og.jpg"
 layout: project
 ---

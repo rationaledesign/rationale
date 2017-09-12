@@ -5,8 +5,10 @@ position: 19
 year: 2011
 images:
 - image: "/uploads/rationale-newlight-1.jpg"
+  alt: rationale design new light album front cover
 thumb_image:
   image: "/uploads/rationale-newlight-0.jpg"
+  alt: rationale design new light album cover
 og_image: "/uploads/rationale-newlight-og.jpg"
 ---
 

@@ -7,8 +7,10 @@ position: 5
 year: 2011
 images:
 - image: "/uploads/rationale-allinlove-1.jpg"
+  alt: rationale design all in love poster
 thumb_image:
   image: "/uploads/rationale-allinlove-0.jpg"
+  alt: rationale design all in love
 og_image: "/uploads/rationale-allinlove-og.jpg"
 layout: project
 ---

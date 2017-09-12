@@ -7,23 +7,24 @@ position: 31
 year: 2012
 images:
 - image: "/uploads/rationale-classiccar-1.jpg"
-  alt: 
+  alt: rationale design classic car show poster
 - image: "/uploads/rationale-classiccar-2.jpg"
-  alt: 
+  alt: rationale design classic car show poster
 - image: "/uploads/rationale-classiccar-3.jpg"
-  alt: 
+  alt: rationale design classic car show poster
 - image: "/uploads/rationale-classiccar-4.jpg"
-  alt: 
+  alt: rationale design classic car show poster
 - image: "/uploads/rationale-classiccar-5.jpg"
-  alt: 
+  alt: rationale design classic car show poster
 - image: "/uploads/rationale-classiccar-6.jpg"
-  alt: 
+  alt: rationale design classic car show poster
 - image: "/uploads/rationale-classiccar-7.jpg"
-  alt: 
+  alt: rationale design classic car show poster
 - image: "/uploads/rationale-classiccar-8.jpg"
-  alt: 
+  alt: rationale design classic car show poster
 thumb_image:
   image: "/uploads/rationale-classiccar-0.jpg"
+  alt: rationale design classic car show poster
 og_image: "/uploads/rationale-classiccar-og.jpg"
 layout: project
 ---

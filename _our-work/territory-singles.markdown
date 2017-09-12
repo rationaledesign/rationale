@@ -5,13 +5,14 @@ position: 11
 year: 2016
 images:
 - image: "/uploads/rationale-fmsingles-1.jpg"
-  alt: 
+  alt: rationale design territory singles front cover
 - image: "/uploads/rationale-fmsingles-2.jpg"
-  alt: 
+  alt: rationale design territory singles front cover
 - image: "/uploads/rationale-fmsingles-3.jpg"
-  alt: 
+  alt: rationale design territory singles front cover
 thumb_image:
   image: "/uploads/rationale-fmsingles-0.jpg"
+  alt: rationale design territory singles cover
 og_image: "/uploads/rationale-fmsingles-og.jpg"
 ---
 

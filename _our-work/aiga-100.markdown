@@ -7,8 +7,10 @@ position: 0
 year: 2014
 images:
 - image: "/uploads/rationale-aiga100-1c.jpg"
+  alt: rationale design aiga 100 poster
 thumb_image:
   image: "/uploads/rationale-aiga100-0e.jpg"
+  alt: rationale design aiga 100
 og_image: "/uploads/rationale-aiga100-og1.jpg"
 ---
 
