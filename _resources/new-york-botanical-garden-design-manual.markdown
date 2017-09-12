@@ -23,4 +23,4 @@ thumb_image:
 og_image: "/uploads/rationale_nycbg_og.jpg"
 ---
 
-The 172 page book "Sean Wolcott: Graphic Design 2008–2014" chronicles the ongoing design work of the Rationale founder. Includes projects ranging from identity, promotion, publication, user interface, packaging design, previously unpublished works, and more.
+A comprehensive minimanual of graphics standards for the Botanical Garden institute in New York. Designed by Massimo Vignelli at Vignelli Associates in 1980, 32 pages.
