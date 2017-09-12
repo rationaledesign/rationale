@@ -6,19 +6,20 @@ author: Massimo Vignelli
 imgcount: 6
 images:
 - image: "/uploads/rationale_nycbg_1.jpg"
-  alt: 
+  alt: rationale resources vignelli new york botanical garden manual cover
 - image: "/uploads/rationale_nycbg_2.jpg"
-  alt: 
+  alt: rationale resources vignelli new york botanical garden manual
 - image: "/uploads/rationale_nycbg_3.jpg"
-  alt: 
+  alt: rationale resources vignelli new york botanical garden manual
 - image: "/uploads/rationale_nycbg_4.jpg"
-  alt: 
+  alt: rationale resources vignelli new york botanical garden manual
 - image: "/uploads/rationale_nycbg_5.jpg"
-  alt: 
+  alt: rationale resources vignelli new york botanical garden manual
 - image: "/uploads/rationale_nycbg_6.jpg"
-  alt: 
+  alt: rationale resources vignelli new york botanical garden manual
 thumb_image:
   image: "/uploads/rationale-nycbg-0.jpg"
+  alt: rationale resources vignelli new york botanical garden manual
 og_image: "/uploads/rationale_nycbg_og.jpg"
 ---
 
