@@ -8,7 +8,7 @@ images:
 - image: "/uploads/rationale_sanscalendar2017_1.jpg"
 - image: "/uploads/rationale_sanscalendar2017_2.jpg"
 thumb_image:
-  image: "/uploads/rationale_sanscalendar2017_0.jpg"
+  image: "/uploads/rationale-sanscalendar-0b.jpg"
 og_image: "/uploads/rationale_sanscalendar2017_og.jpg"
 layout: product-detail
 ---
