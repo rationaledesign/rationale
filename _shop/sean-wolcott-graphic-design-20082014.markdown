@@ -22,7 +22,7 @@ images:
 - image: "/uploads/rationale_seanwolcottdesign_8.jpg"
   alt: rationale resources sean wolcott graphic design book
 thumb_image:
-  image: "/uploads/rationale_seanwolcottdesign_0.jpg"
+  image: "/uploads/rationale_seanwolcottdesign_0b.jpg"
 layout: product-detail
 ---
 
