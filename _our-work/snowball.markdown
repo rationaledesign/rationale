@@ -6,12 +6,12 @@ categories:
 position: 28
 year: 2015
 images:
-- image: "/uploads/rationale-snowball-1.jpg"
+- image: "/uploads/rationale_2015_snowball1_1a.jpg"
   alt: rationale design snowball album cover
 thumb_image:
-  image: "/uploads/rationale-snowball-0.jpg"
+  image: "/uploads/rationale_2015_snowball1_0a.jpg"
   alt: rationale design snowball album cover
-og_image: "/uploads/rationale-snowball-og.jpg"
+og_image: "/uploads/rationale_2015_snowball1_og1a.jpg"
 layout: project
 ---
 
