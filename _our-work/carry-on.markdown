@@ -6,14 +6,14 @@ categories:
 position: 22
 year: 2013
 images:
-- image: "/uploads/rationale-carryon-1.jpg"
+- image: "/uploads/rationale_2013_carryon1_1a.jpg"
   alt: rationale design carry on book front cover
-- image: "/uploads/rationale-carryon-2b.jpg"
+- image: "/uploads/rationale_2013_carryon1_2a.jpg"
   alt: rationale design carry on book back cover
 thumb_image:
-  image: "/uploads/rationale-carryon-0.jpg"
+  image: "/uploads/rationale_2013_carryon1_0a.jpg"
   alt: rationale design carry on book cover
-og_image: "/uploads/rationale-carryon-og.jpg"
+og_image: "/uploads/rationale_2013_carryon1_og1a.jpg"
 layout: project
 ---
 
