@@ -6,12 +6,12 @@ categories:
 position: 26
 year: 2011
 images:
-- image: "/uploads/rationale-intent-1.jpg"
+- image: "/uploads/rationale_2011_intent1_1a.jpg"
   alt: rationale design intent album cover
 thumb_image:
-  image: "/uploads/rationale-intent-0.jpg"
+  image: "/uploads/rationale_2011_intent1_0a.jpg"
   alt: rationale design intent album cover
-og_image: "/uploads/rationale-intent-og.jpg"
+og_image: "/uploads/rationale_2011_intent1_og1a.jpg"
 layout: project
 ---
 
