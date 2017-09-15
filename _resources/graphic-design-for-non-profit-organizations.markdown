@@ -29,6 +29,6 @@ layout: resource
 
 The document presented here is focused on structural design and general best practices as it applies to Non-Profit Organizations. However, the scope of the teachings here apply to good design across any industry or platform.
 
-By Massimo Vignelli & Peter Laundy in partnership with AIGA. 1980, 52 pages
+Designed by Massimo Vignelli & Peter Laundy in partnership with AIGA. 1980, 52 pages.
 
 Provided for distribution graciously by Massimo Vignelli. 
