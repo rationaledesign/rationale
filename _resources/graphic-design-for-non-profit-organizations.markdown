@@ -31,4 +31,4 @@ The document presented here is focused on improving structural design and genera
 
 Designed by Massimo Vignelli & Peter Laundy in partnership with AIGA, 1980, 52 pages.
 
-Provided for distribution graciously by Massimo Vignelli. 
+Provided graciously by Massimo Vignelli. 
