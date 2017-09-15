@@ -5,22 +5,22 @@ position: 3
 author: Unimark / Massimo Vignelli
 imgcount: 7
 images:
-- image: "/uploads/rationale_dotzero1_1.jpg"
+- image: "/uploads/rationale_dotzero_1a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine cover
-- image: "/uploads/rationale_dotzero1_2.jpg"
+- image: "/uploads/rationale_dotzero_2a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
-- image: "/uploads/rationale_dotzero1_3.jpg"
+- image: "/uploads/rationale_dotzero_3a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
-- image: "/uploads/rationale_dotzero1_4.jpg"
+- image: "/uploads/rationale_dotzero_4a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
-- image: "/uploads/rationale_dotzero1_5.jpg"
+- image: "/uploads/rationale_dotzero_5a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
-- image: "/uploads/rationale_dotzero1_7.jpg"
+- image: "/uploads/rationale_dotzero_7a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
 thumb_image:
-  image: "/uploads/rationale-dotzero1-0.jpg"
+  image: "/uploads/rationale_dotzero_0a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
-og_image: "/uploads/rationale_dotzero1_og.jpg"
+og_image: "/uploads/rationale_dotzero_og1a.jpg"
 layout: resource
 ---
 
