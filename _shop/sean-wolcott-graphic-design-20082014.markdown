@@ -6,23 +6,24 @@ price: 35.4
 buylink: http://www.magcloud.com/browse/issue/905499
 images:
 - image: "/uploads/rationale_sw08141_1a.jpg"
-  alt: rationale resources sean wolcott graphic design book cover
+  alt: rationale shop sean wolcott graphic design book cover
 - image: "/uploads/rationale_sw08141_2a.jpg"
-  alt: rationale resources sean wolcott graphic design book
+  alt: rationale shop sean wolcott graphic design book
 - image: "/uploads/rationale_sw08141_3a.jpg"
-  alt: rationale resources sean wolcott graphic design book
+  alt: rationale shop sean wolcott graphic design book
 - image: "/uploads/rationale_sw08141_4a.jpg"
-  alt: rationale resources sean wolcott graphic design book
+  alt: rationale shop sean wolcott graphic design book
 - image: "/uploads/rationale_sw08141_5a.jpg"
-  alt: rationale resources sean wolcott graphic design book
+  alt: rationale shop sean wolcott graphic design book
 - image: "/uploads/rationale_sw08141_6a.jpg"
-  alt: rationale resources sean wolcott graphic design book
+  alt: rationale shop sean wolcott graphic design book
 - image: "/uploads/rationale_sw08141_7a.jpg"
-  alt: rationale resources sean wolcott graphic design book
+  alt: rationale shop sean wolcott graphic design book
 - image: "/uploads/rationale_sw08141_8a.jpg"
-  alt: rationale resources sean wolcott graphic design book
+  alt: rationale shop sean wolcott graphic design book
 thumb_image:
   image: "/uploads/rationale_sw08141_0a.jpg"
+  alt: rationale shop sean wolcott graphic design book
 og_image: "/uploads/rationale_sw08141_og1a.jpg"
 layout: product-detail
 ---
