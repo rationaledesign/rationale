@@ -8,12 +8,12 @@ tags:
 position: 32
 year: 2013
 images:
-- image: "/uploads/rationale-woodboatshow-1.jpg"
+- image: "/uploads/rationale_2013_woodenboatshow1_1a.jpg"
   alt: rationale design wooden boat show poster
 thumb_image:
-  image: "/uploads/rationale-woodboatshow-0.jpg"
+  image: "/uploads/rationale_2013_woodenboatshow1_0a.jpg"
   alt: rationale design wooden boat show poster
-og_image: "/uploads/rationale-woodboatshow-og.jpg"
+og_image: "/uploads/rationale_2013_woodenboatshow1_og1a.jpg"
 layout: project
 ---
 
