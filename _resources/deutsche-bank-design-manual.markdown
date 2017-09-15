@@ -27,6 +27,6 @@ og_image: "/uploads/rationale_deutschebank_og1a.jpg"
 layout: resource
 ---
 
-Presented here is a hi-resolution scan from the original "Erscheinungsbild Deutsche Bank. Typografie.” designed by legendary designer and artist Anton Stankowski in 1978, articulating his design systems for Deutsche Bank.
+Presented here is the "Erscheinungsbild Deutsche Bank Typografie” design manual, articulating the design systems for Deutsche Bank. Includes typography, grid, color, logo, stationery, and general design guidance.
 
-Includes typography, grid, color, logo, stationery, and guidance in many other areas.
+Designed by Anton Stankowski, 1978, 69 pages.
