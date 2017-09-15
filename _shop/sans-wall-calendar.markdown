@@ -4,13 +4,15 @@ date: 2014-09-28 14:36:00 Z
 position: 1
 price: 25
 buylink: https://www.etsy.com/listing/192878959/2016-sans-wall-calendar?ref=listing-shop-header-1
+imgcount: 2
 images:
 - image: "/uploads/rationale_sanscalendar171_1a.jpg"
-  alt: 
+  alt: rationale shop sans calendar 2017
 - image: "/uploads/rationale_sanscalendar171_2a.jpg"
-  alt: 
+  alt: rationale shop sans calendar 2017
 thumb_image:
   image: "/uploads/rationale_sanscalendar171_0a.jpg"
+  alt: rationale shop sans calendar 2017
 og_image: "/uploads/rationale_sanscalendar171_og1a.jpg"
 layout: product-detail
 ---
