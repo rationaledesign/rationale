@@ -54,7 +54,7 @@ defaults:
     og_image: 
 - scope:
     path: ''
-    type: store
+    type: shop
   values:
     layout: product-detail
     price: 
