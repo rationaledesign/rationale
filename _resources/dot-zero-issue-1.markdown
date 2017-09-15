@@ -20,6 +20,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_dotzero_0a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
+download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/Vignelli_DotZero_Issue1.pdf
 og_image: "/uploads/rationale_dotzero_og1a.jpg"
 layout: resource
 ---
