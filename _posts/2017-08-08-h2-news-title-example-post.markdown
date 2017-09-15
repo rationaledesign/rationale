@@ -11,6 +11,7 @@ featured_image:
 detail_images:
 - image: "/uploads/FPO54ratio.jpg"
   alt: detail image 1
+og_image: "/uploads/FPO11ratio.jpg"
 feed_image:
   image: "/uploads/FPO11ratio.jpg"
   alt: news feed image
