@@ -8,12 +8,12 @@ tags:
 position: 35
 year: 2014
 images:
-- image: "/uploads/rationale-synthpatch-1.jpg"
+- image: "/uploads/rationale_2014_synthpatch1_1a.jpg"
   alt: rationale design synth patch application
 thumb_image:
-  image: "/uploads/rationale-synthpatch-0.jpg"
+  image: "/uploads/rationale_2014_synthpatch1_0a.jpg"
   alt: rationale design synth patch application
-og_image: "/uploads/rationale-synthpatch-og.jpg"
+og_image: "/uploads/rationale_2014_synthpatch1_og1a.jpg"
 layout: project
 ---
 
