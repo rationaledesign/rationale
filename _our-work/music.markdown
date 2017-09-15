@@ -6,26 +6,26 @@ categories:
 position: 33
 year: 2010
 images:
-- image: "/uploads/rationale-concertseries-1.jpg"
+- image: "/uploads/rationale_2010_concertseries1_1a.jpg"
   alt: rationale design music concert series poster
-- image: "/uploads/rationale-concertseries-2.jpg"
+- image: "/uploads/rationale_2010_concertseries1_2a.jpg"
   alt: rationale design music concert series poster
-- image: "/uploads/rationale-concertseries-3.jpg"
+- image: "/uploads/rationale_2010_concertseries1_3a.jpg"
   alt: rationale design music concert series poster
-- image: "/uploads/rationale-concertseries-4.jpg"
+- image: "/uploads/rationale_2010_concertseries1_4a.jpg"
   alt: rationale design music concert series poster
-- image: "/uploads/rationale-concertseries-5.jpg"
+- image: "/uploads/rationale_2010_concertseries1_5a.jpg"
   alt: rationale design music concert series poster
-- image: "/uploads/rationale-concertseries-6.jpg"
+- image: "/uploads/rationale_2010_concertseries1_6a.jpg"
   alt: rationale design music concert series poster
-- image: "/uploads/rationale-concertseries-7.jpg"
+- image: "/uploads/rationale_2010_concertseries1_7a.jpg"
   alt: rationale design music concert series poster
-- image: "/uploads/rationale-concertseries-8.jpg"
+- image: "/uploads/rationale_2010_concertseries1_8a.jpg"
   alt: rationale design music concert series poster
 thumb_image:
-  image: "/uploads/rationale-concertseries-0.jpg"
+  image: "/uploads/rationale_2010_concertseries1_0a.jpg"
   alt: rationale design music concert series poster
-og_image: "/uploads/rationale-concertseries-og.jpg"
+og_image: "/uploads/rationale_2010_concertseries1_og1a.jpg"
 layout: project
 ---
 
