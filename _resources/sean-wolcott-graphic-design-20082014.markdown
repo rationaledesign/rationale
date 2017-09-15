@@ -5,26 +5,26 @@ position: 2
 author: Sean Wolcott
 imgcount: 8
 images:
-- image: "/uploads/rationale_seanwolcottdesign_1.jpg"
+- image: "/uploads/rationale_sw08141_1a.jpg"
   alt: rationale resources sean wolcott graphic design book cover
-- image: "/uploads/rationale_seanwolcottdesign_2.jpg"
+- image: "/uploads/rationale_sw08141_2a.jpg"
   alt: rationale resources sean wolcott graphic design book
-- image: "/uploads/rationale_seanwolcottdesign_3.jpg"
+- image: "/uploads/rationale_sw08141_3a.jpg"
   alt: rationale resources sean wolcott graphic design book
-- image: "/uploads/rationale_seanwolcottdesign_4.jpg"
+- image: "/uploads/rationale_sw08141_4a.jpg"
   alt: rationale resources sean wolcott graphic design book
-- image: "/uploads/rationale_seanwolcottdesign_5.jpg"
+- image: "/uploads/rationale_sw08141_5a.jpg"
   alt: rationale resources sean wolcott graphic design book
-- image: "/uploads/rationale_seanwolcottdesign_6.jpg"
+- image: "/uploads/rationale_sw08141_6a.jpg"
   alt: rationale resources sean wolcott graphic design book
-- image: "/uploads/rationale_seanwolcottdesign_7.jpg"
+- image: "/uploads/rationale_sw08141_7a.jpg"
   alt: rationale resources sean wolcott graphic design book
-- image: "/uploads/rationale_seanwolcottdesign_8.jpg"
+- image: "/uploads/rationale_sw08141_8a.jpg"
   alt: rationale resources sean wolcott graphic design book
 thumb_image:
-  image: "/uploads/rationale_seanwolcottdesign_0b.jpg"
+  image: "/uploads/rationale_sw08141_0a.jpg"
   alt: rationale resources sean wolcott graphic design book
-og_image: "/uploads/rationale_seanwolcottdesign_og.jpg"
+og_image: "/uploads/rationale_sw08141_og1a.jpg"
 layout: resource
 ---
 
