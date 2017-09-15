@@ -1,5 +1,5 @@
 ---
-title: Sans Wall Calendar
+title: Sans wall calendar
 date: 2014-09-28 14:36:00 Z
 position: 1
 price: 25
