@@ -6,14 +6,14 @@ categories:
 position: 20
 year: 2012
 images:
-- image: "/uploads/rationale-arrowsmith-1.jpg"
+- image: "/uploads/rationale_2012_arrowsmith1_1a.jpg"
   alt: rationale design arrowsmith saga book cover
-- image: "/uploads/rationale-arrowsmith-2b.jpg"
+- image: "/uploads/rationale_2012_arrowsmith1_2a.jpg"
   alt: rationale design arrowsmith saga book cover
 thumb_image:
-  image: "/uploads/rationale-arrowsmith-0c.jpg"
+  image: "/uploads/rationale_2012_arrowsmith1_0a.jpg"
   alt: rationale design arrowsmith saga book cover
-og_image: "/uploads/rationale-arrowsmith-og.jpg"
+og_image: "/uploads/rationale_2012_arrowsmith1_og1a.jpg"
 layout: project
 ---
 
