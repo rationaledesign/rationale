@@ -5,24 +5,24 @@ position: 4
 author: Massimo Vignelli
 imgcount: 7
 images:
-- image: "/uploads/rationale_non-profits_1.jpg"
+- image: "/uploads/rationale_nonprofit_1a.jpg"
   alt: rationale resources vignelli non-profit organizations manual cover
-- image: "/uploads/rationale_non-profits_2.jpg"
+- image: "/uploads/rationale_nonprofit_2a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
-- image: "/uploads/rationale_non-profits_3.jpg"
+- image: "/uploads/rationale_nonprofit_3a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
-- image: "/uploads/rationale_non-profits_4.jpg"
+- image: "/uploads/rationale_nonprofit_4a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
-- image: "/uploads/rationale_non-profits_5.jpg"
+- image: "/uploads/rationale_nonprofit_5a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
-- image: "/uploads/rationale_non-profits_6.jpg"
+- image: "/uploads/rationale_nonprofit_6a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
-- image: "/uploads/rationale_non-profits_7.jpg"
+- image: "/uploads/rationale_nonprofit_7a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
 thumb_image:
-  image: "/uploads/rationale-nonprofits-0d.jpg"
+  image: "/uploads/rationale_nonprofit_0a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
-og_image: "/uploads/rationale_non-profits_og.jpg"
+og_image: "/uploads/rationale_nonprofit_og1a.jpg"
 layout: resource
 ---
 
