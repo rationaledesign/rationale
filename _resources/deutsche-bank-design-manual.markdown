@@ -1,7 +1,7 @@
 ---
 title: Deutsche Bank design manual
 date: 2015-04-16 13:50:00 Z
-position: 1
+position: 2
 author: Anton Stankowski
 imgcount: 7
 images:
