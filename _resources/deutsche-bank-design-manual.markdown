@@ -5,24 +5,24 @@ position: 1
 author: Anton Stankowski
 imgcount: 7
 images:
-- image: "/uploads/rationale_deutsche_bank_1.jpg"
+- image: "/uploads/rationale_deutschebank_1a.jpg"
   alt: rationale resources stankowski deutsche bank manual cover
-- image: "/uploads/rationale_deutsche_bank_2.jpg"
+- image: "/uploads/rationale_deutschebank_2a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
-- image: "/uploads/rationale_deutsche_bank_3.jpg"
+- image: "/uploads/rationale_deutschebank_3a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
-- image: "/uploads/rationale_deutsche_bank_4.jpg"
+- image: "/uploads/rationale_deutschebank_4a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
-- image: "/uploads/rationale_deutsche_bank_5.jpg"
+- image: "/uploads/rationale_deutschebank_5a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
-- image: "/uploads/rationale_deutsche_bank_6.jpg"
+- image: "/uploads/rationale_deutschebank_6a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
-- image: "/uploads/rationale_deutsche_bank_7.jpg"
+- image: "/uploads/rationale_deutschebank_7a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
 thumb_image:
-  image: "/uploads/rationale-deutschebank-0.jpg"
+  image: "/uploads/rationale_deutschebank_0a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
-og_image: "/uploads/rationale_deutsche_bank_og.jpg"
+og_image: "/uploads/rationale_deutschebank_og1a.jpg"
 layout: resource
 ---
 
