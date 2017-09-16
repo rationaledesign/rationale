@@ -6,13 +6,14 @@ categories:
 position: 23
 year: 2012
 images:
-- image: "/uploads/rationale-ifnotfordawn-1b.jpg"
-  alt: 
-- image: "/uploads/rationale-ifnotfordawn-2.jpg"
-  alt: 
+- image: "/uploads/rationale_2012_ifnotfordawn1_1a.jpg"
+  alt: rationale design if not for the dawn book cover
+- image: "/uploads/rationale_2012_ifnotfordawn1_2a.jpg"
+  alt: rationale design if not for the dawn book cover
 thumb_image:
-  image: "/uploads/rationale-ifnotfordawn-0bb.jpg"
-og_image: "/uploads/rationale-ifnotfordawn-og.jpg"
+  image: "/uploads/rationale_2012_ifnotfordawn1_0a.jpg"
+  alt: rationale design if not for the dawn book cover
+og_image: "/uploads/rationale_2012_ifnotfordawn1_og1a.jpg"
 layout: project
 ---
 

@@ -6,13 +6,14 @@ categories:
 position: 6
 year: 2014
 images:
-- image: "/uploads/spff-1.jpg"
-  alt: 
-- image: "/uploads/spff-2.jpg"
-  alt: 
+- image: "/uploads/rationale_2014_spff1_1a.jpg"
+  alt: rationale design seattle polish film festival poster
+- image: "/uploads/rationale_2014_spff1_2a.jpg"
+  alt: rationale design seattle polish film festival poster
 thumb_image:
-  image: "/uploads/spff-0.jpg"
-og_image: "/uploads/spff-og.jpg"
+  image: "/uploads/rationale_2014_spff1_0a.jpg"
+  alt: rationale design seattle polish film festival poster
+og_image: "/uploads/rationale_2014_spff1_og1a.jpg"
 ---
 
 Polish cinema has a historic vibrancy and relevancy—not to mention a history of vibrant and relevant film posters. Indeed, the medium of the poster has seen some of its best and most iconic works in Polish cinema.

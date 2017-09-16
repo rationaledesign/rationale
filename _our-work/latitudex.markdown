@@ -7,19 +7,20 @@ position: 4
 year: 2013
 images:
 - image: "/uploads/rationale-latitudex-1b.jpg"
-  alt: 
+  alt: rationale design latitudex identity grid
 - image: "/uploads/rationale-latitudex-2.jpg"
-  alt: 
+  alt: rationale design latitudex identity poster
 - image: "/uploads/rationale-latitudex-3.jpg"
-  alt: 
+  alt: rationale design latitudex identity promo
 - image: "/uploads/rationale-latitudex-4.jpg"
-  alt: 
+  alt: rationale design latitudex identity website
 - image: "/uploads/rationale-latitudex-5.jpg"
-  alt: 
+  alt: rationale design latitudex identity poster
 - image: "/uploads/rationale-latitudex-6.jpg"
-  alt: 
+  alt: rationale design latitudex identity stationary
 thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
+  alt: rationale design latitudex identity
 og_image: "/uploads/rationale-latitudex-og.jpg"
 layout: project
 ---

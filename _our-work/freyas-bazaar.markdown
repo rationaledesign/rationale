@@ -6,10 +6,12 @@ categories:
 position: 29
 year: 2012
 images:
-- image: "/uploads/rationale-freyasbazaar-1.jpg"
+- image: "/uploads/rationale_2012_freyasbazaar1_1a.jpg"
+  alt: rationale design freya's bazaar invitation
 thumb_image:
-  image: "/uploads/rationale-freyasbazaar-0.jpg"
-og_image: "/uploads/rationale-freyasbazaar-og.jpg"
+  image: "/uploads/rationale_2012_freyasbazaar1_0a.jpg"
+  alt: rationale design freya's bazaar invitation
+og_image: "/uploads/rationale_2012_freyasbazaar1_og1a.jpg"
 layout: project
 ---
 

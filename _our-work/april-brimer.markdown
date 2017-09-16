@@ -4,6 +4,9 @@ date: 2017-07-20 00:00:00 Z
 categories:
 - Identity
 position: 1
+excerpt_text: This is the excerpt text. Lorem ipsum. April Brimer is an editorial
+  fashion and product photographer. April Brimer is an editorial fashion and product
+  photographer. April Brimer is an editorial fashion and product photographer.
 year: 2014
 images:
 - image: "/uploads/FPO%2032ratio.jpg"

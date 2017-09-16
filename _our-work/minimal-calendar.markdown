@@ -7,13 +7,14 @@ position: 7
 year: 2013
 images:
 - image: "/uploads/rationale-mincalendar-1.jpg"
-  alt: 
+  alt: rationale design minimal calendar application
 - image: "/uploads/rationale-mincalendar-2.jpg"
-  alt: 
+  alt: rationale design minimal calendar application
 - image: "/uploads/rationale-mincalendar-3.jpg"
-  alt: 
+  alt: rationale design minimal calendar application
 thumb_image:
-  image: "/uploads/rationale-mincalendar-0.jpg"
+  image: "/uploads/rationale_mincalendar_0b.jpg"
+  alt: rationale design minimal calendar application
 og_image: "/uploads/rationale-mincalendar-og.jpg"
 layout: project
 ---

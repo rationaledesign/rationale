@@ -6,10 +6,12 @@ categories:
 position: 5
 year: 2011
 images:
-- image: "/uploads/rationale-allinlove-1.jpg"
+- image: "/uploads/rationale_2011_allinlove1_1a.jpg"
+  alt: rationale design all in love poster
 thumb_image:
-  image: "/uploads/rationale-allinlove-0.jpg"
-og_image: "/uploads/rationale-allinlove-og.jpg"
+  image: "/uploads/rationale_2011_allinlove1_0a.jpg"
+  alt: rationale design all in love
+og_image: "/uploads/rationale_2011_allinlove1_og1a.jpg"
 layout: project
 ---
 

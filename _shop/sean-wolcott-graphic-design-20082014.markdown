@@ -1,17 +1,30 @@
 ---
 title: 'Sean Wolcott: Graphic Design 2008–2014'
 date: 2015-04-06 18:00:00 Z
+position: 0
 price: 35.4
 buylink: http://www.magcloud.com/browse/issue/905499
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
-  alt: 
-- image: "/uploads/FPO%2032ratio.jpg"
-  alt: 
-- image: "/uploads/FPO%2032ratio.jpg"
-  alt: 
+- image: "/uploads/rationale_sw08141_1a.jpg"
+  alt: rationale shop sean wolcott graphic design book cover
+- image: "/uploads/rationale_sw08141_2a.jpg"
+  alt: rationale shop sean wolcott graphic design book
+- image: "/uploads/rationale_sw08141_3a.jpg"
+  alt: rationale shop sean wolcott graphic design book
+- image: "/uploads/rationale_sw08141_4a.jpg"
+  alt: rationale shop sean wolcott graphic design book
+- image: "/uploads/rationale_sw08141_5a.jpg"
+  alt: rationale shop sean wolcott graphic design book
+- image: "/uploads/rationale_sw08141_6a.jpg"
+  alt: rationale shop sean wolcott graphic design book
+- image: "/uploads/rationale_sw08141_7a.jpg"
+  alt: rationale shop sean wolcott graphic design book
+- image: "/uploads/rationale_sw08141_8a.jpg"
+  alt: rationale shop sean wolcott graphic design book
 thumb_image:
-  image: "/uploads/rationale-seanwolcottdesign-0.jpg"
+  image: "/uploads/rationale_sw08141_0a.jpg"
+  alt: rationale shop sean wolcott graphic design book
+og_image: "/uploads/rationale_sw08141_og1a.jpg"
 layout: product-detail
 ---
 

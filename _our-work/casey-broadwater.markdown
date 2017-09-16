@@ -6,19 +6,20 @@ categories:
 position: 38
 year: 2014
 images:
-- image: "/uploads/rationale-casey-broadwater-1.jpg"
-  alt: 
-- image: "/uploads/rationale-casey-broadwater-2.jpg"
-  alt: 
-- image: "/uploads/rationale-casey-broadwater-3.jpg"
-  alt: 
-- image: "/uploads/rationale-casey-broadwater-4.jpg"
-  alt: 
-- image: "/uploads/rationale-casey-broadwater-5.jpg"
-  alt: 
+- image: "/uploads/rationale_2014_caseybroadwater1_1a.jpg"
+  alt: rationale design casey broadwater photography identity
+- image: "/uploads/rationale_2014_caseybroadwater1_2a.jpg"
+  alt: rationale design casey broadwater photography stationary
+- image: "/uploads/rationale_2014_caseybroadwater1_3a.jpg"
+  alt: rationale design casey broadwater photography identity website
+- image: "/uploads/rationale_2014_caseybroadwater1_4a.jpg"
+  alt: rationale design casey broadwater photography identity poster
+- image: "/uploads/rationale_2014_caseybroadwater1_5a.jpg"
+  alt: rationale design casey broadwater photography identity stationary
 thumb_image:
-  image: "/uploads/rationale-casey-broadwater-0b.jpg"
-og_image: "/uploads/rationale-casey-broadwater-og.jpg"
+  image: "/uploads/rationale_2014_caseybroadwater1_0a.jpg"
+  alt: rationale design casey broadwater photography identity
+og_image: "/uploads/rationale_2014_caseybroadwater1_og1a.jpg"
 layout: project
 ---
 

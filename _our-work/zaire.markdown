@@ -6,15 +6,16 @@ categories:
 position: 25
 year: 2013
 images:
-- image: "/uploads/rationale-zaire-1.jpg"
-  alt: 
-- image: "/uploads/rationale-zaire-2.jpg"
-  alt: 
-- image: "/uploads/rationale-zaire-3.jpg"
-  alt: 
+- image: "/uploads/rationale_2013_zaire1_1a.jpg"
+  alt: rationale design zaire album front cover
+- image: "/uploads/rationale_2013_zaire1_2a.jpg"
+  alt: rationale design zaire album poster
+- image: "/uploads/rationale_2013_zaire1_3a.jpg"
+  alt: rationale design zaire album back cover
 thumb_image:
-  image: "/uploads/rationale-zaire-0.jpg"
-og_image: "/uploads/rationale-zaire-og.jpg"
+  image: "/uploads/rationale_2013_zaire1_0a.jpg"
+  alt: rationale design zaire album cover
+og_image: "/uploads/rationale_2013_zaire1_og1a.jpg"
 layout: project
 ---
 

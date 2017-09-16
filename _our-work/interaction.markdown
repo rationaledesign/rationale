@@ -6,13 +6,14 @@ categories:
 position: 27
 year: 2012
 images:
-- image: "/uploads/rationale-interaction-1.jpg"
-  alt: 
-- image: "/uploads/rationale-interaction-2.jpg"
-  alt: 
+- image: "/uploads/rationale_2012_interaction1_1a.jpg"
+  alt: rationale design interaction album front cover
+- image: "/uploads/rationale_2012_interaction1_2a.jpg"
+  alt: rationale design interaction album back cover
 thumb_image:
-  image: "/uploads/rationale-interaction-0b.jpg"
-og_image: "/uploads/rationale-interaction-og.jpg"
+  image: "/uploads/rationale_2012_interaction1_0a.jpg"
+  alt: rationale design interaction album cover
+og_image: "/uploads/rationale_2012_interaction1_og1a.jpg"
 layout: project
 ---
 

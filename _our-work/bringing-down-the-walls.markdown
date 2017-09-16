@@ -6,13 +6,14 @@ categories:
 position: 34
 year: 2009
 images:
-- image: "/uploads/rationale-bringingdownwalls-1b.jpg"
-  alt: 
-- image: "/uploads/rationale-bringingdownwalls-2.jpg"
-  alt: 
+- image: "/uploads/rationale_2009_bringdownthewalls1_1a.jpg"
+  alt: rationale design bringing down the walls album cover
+- image: "/uploads/rationale_2009_bringdownthewalls1_2a.jpg"
+  alt: rationale design bringing down the walls poster
 thumb_image:
-  image: "/uploads/rationale-bringingdownwalls-0.jpg"
-og_image: "/uploads/rationale-bringingdownwalls-og1.jpg"
+  image: "/uploads/rationale_2009_bringdownthewalls1_0a.jpg"
+  alt: rationale design bringing down the walls
+og_image: "/uploads/rationale_2009_bringdownthewalls1_og1a.jpg"
 layout: project
 ---
 

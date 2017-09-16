@@ -1,32 +1,34 @@
 ---
-title: Graphic Design For Non-Profit Organizations
+title: Graphic Design for Non-Profit Organizations
 date: 2014-02-26 14:55:00 Z
 position: 4
 author: Massimo Vignelli
-imgcount: 8
+imgcount: 7
 images:
-- image: "/uploads/rationale-nonprofits-0d.jpg"
-  alt: 
-- image: "/uploads/rationale-nonprofits-2.jpg"
-  alt: 
-- image: "/uploads/rationale-nonprofits-3.jpg"
-  alt: 
-- image: "/uploads/rationale-nonprofits-4.jpg"
-  alt: 
-- image: "/uploads/rationale-nonprofits-5.jpg"
-  alt: 
-- image: "/uploads/rationale-nonprofits-6.jpg"
-  alt: 
-- image: "/uploads/rationale-nonprofits-8.jpg"
-  alt: 
+- image: "/uploads/rationale_nonprofit_1a.jpg"
+  alt: rationale resources vignelli non-profit organizations manual cover
+- image: "/uploads/rationale_nonprofit_2a.jpg"
+  alt: rationale resources vignelli non-profit organizations manual book
+- image: "/uploads/rationale_nonprofit_3a.jpg"
+  alt: rationale resources vignelli non-profit organizations manual book
+- image: "/uploads/rationale_nonprofit_4a.jpg"
+  alt: rationale resources vignelli non-profit organizations manual book
+- image: "/uploads/rationale_nonprofit_5a.jpg"
+  alt: rationale resources vignelli non-profit organizations manual book
+- image: "/uploads/rationale_nonprofit_6a.jpg"
+  alt: rationale resources vignelli non-profit organizations manual book
+- image: "/uploads/rationale_nonprofit_7a.jpg"
+  alt: rationale resources vignelli non-profit organizations manual book
 thumb_image:
-  image: "/uploads/rationale-nonprofits-0d.jpg"
-og_image: "/uploads/rationale-nonprofits-og.jpg"
+  image: "/uploads/rationale_nonprofit_0a.jpg"
+  alt: rationale resources vignelli non-profit organizations manual book
+download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/Vignelli_Graphic_Design_for_Non-Profit.pdf
+og_image: "/uploads/rationale_nonprofit_og1a.jpg"
 layout: resource
 ---
 
-The document presented here is focused on structural design and general best practices as it applies to Non-Profit Organizations. However, the scope of the teachings here apply to good design across any industry or platform.
+The document presented here is focused on improving structural design and general best practices for Non-Profit Organizations. However, the scope of the teachings apply to achieving good design across any industry.
 
-By Peter Laundy & Massimo Vignelli in partnership with AIGA. 1980, 52 pages
+Designed by Massimo Vignelli & Peter Laundy in partnership with AIGA, 1980, 52 pages.
 
-Provided for distribution graciously by Massimo Vignelli.
+Provided graciously by Massimo Vignelli. 
