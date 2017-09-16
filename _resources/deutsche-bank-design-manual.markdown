@@ -5,6 +5,7 @@ position: 2
 author: Anton Stankowski
 thumb_image:
   image: "/uploads/rationale-deutschebank-0.jpg"
+og_image: "/uploads/rationale-deutschebank-og.jpg"
 layout: resource
 ---
 

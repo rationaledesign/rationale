@@ -5,6 +5,7 @@ position: 1
 author: Massimo Vignelli
 thumb_image:
   image: "/uploads/rationale-nycbg-0.jpg"
+og_image: "/uploads/rationale-nycbg-og.jpg"
 ---
 
 ...
