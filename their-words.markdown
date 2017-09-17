@@ -6,7 +6,7 @@ og_image: "/uploads/rationale_og.jpg"
 layout: their-words
 ---
 
-We are happy to have received the praise of our clients and design legends alike.
+
 
 
 - > More than proud, I am honored to know such a talent.
