@@ -59,8 +59,8 @@ defaults:
     layout: product-detail
     price: 
     buylink: 
-    buytag:
-    is_buyactive:
+    buytag: 
+    is_buyactive: 
     imgcount: 
     images:
     - image: 
