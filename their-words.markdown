@@ -6,7 +6,7 @@ og_image: "/uploads/rationale_og.jpg"
 layout: their-words
 ---
 
-We are happy to enjoy the praise of design industries legends and business leaders alike.
+We are happy to have received the praise of design industry legends and innovative clients alike.
 
 
 - > More than proud, I am honored to know such a talent.
