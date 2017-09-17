@@ -7,10 +7,10 @@
   margin-bottom: $unit-2;
 
   @include breakpoint($small) {
-    margin-right: -12px;
     margin-bottom: 0;
   }
   @extend %row;
+  margin-right: -12px !important;
 }
 
 .gallery-thumbnail {
