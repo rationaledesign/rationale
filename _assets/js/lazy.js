@@ -23,7 +23,10 @@ scrollHandler = function () {
   // console.log('active')
 };
 
+var $lazyimages;
+
 $('document').ready(function() {
+  $lazyimages = $('.lazy');
   activateVisiblePicturefills();
 });
 
@@ -33,7 +36,7 @@ function activateVisiblePicturefills() {
 
   var redraw = false;
 
-  $('.lazy').each(function(i, elm) {
+  $lazyimages.each(function(i, elm) {
     var needsToDisplay = checkvisible(elm) && !$(elm).attr('data-picture');
     if (needsToDisplay) {
       $(elm).attr('data-picture', '');
