@@ -6,6 +6,7 @@ og_image: "/uploads/rationale_og.jpg"
 layout: their-words
 ---
 
+Accolades we have received: 
 
 
 
