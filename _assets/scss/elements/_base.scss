@@ -6,6 +6,8 @@ html {
   $grid-color: rgba(red, 0.15);
   background-color: $white;
   height: 100%;
+  width: 100vw;
+  overflow-x: hidden;
 
   &.gridShown {
     background: linear-gradient($grid-color, $grid-color 1px, transparent 1px);

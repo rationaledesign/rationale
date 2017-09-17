@@ -1,12 +1,14 @@
-<span class="lazy {% if page.collection %}detail{% else %}thumb{% endif %}" data-alt="{{include.image.alt}}" 
-      style="background-color: {% get_color include.image.image %}">
-  <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=1&q=50"></span>
-  <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=2&q=40" data-media="(-webkit-min-device-pixel-ratio: 2.0)"></span>
-  <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=1&q=50" data-media="(min-width: 600px)"></span>
-  <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=2&q=40" data-media="(min-width: 600px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
-  <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=40" data-media="(min-width: 1025px)"></span>
-  <span data-src="https://rationale-design.imgix.net{{include.image.image}}?auto=format&fit=max&dpr=3&q=30" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
-  <noscript>
-      <img src="https://rationale-design.imgix.net{{include.image.image}}?auto=format&fit=max&q=65" alt="{{include.image.alt}}">
-  </noscript>
-</span>
+<div style="background-color: {% get_color include.image.image %}; {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}">
+    <span class="lazycont {% if page.collection %}detail{% else %}thumb{% endif %}" data-alt="{{include.image.alt}}">
+        <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=1&q=50"></span>
+        <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=2&q=40" data-media="(-webkit-min-device-pixel-ratio: 2.0)"></span>
+        <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=1&q=50" data-media="(min-width: 600px)"></span>
+        <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=2&q=40" data-media="(min-width: 600px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
+        <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=40" data-media="(min-width: 1025px)"></span>
+        <span data-src="https://rationale-design.imgix.net{{include.image.image}}?auto=format&fit=max&dpr=3&q=30" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
+        <noscript>
+            <img src="https://rationale-design.imgix.net{{include.image.image}}?auto=format&fit=max&q=65" alt="{{include.image.alt}}">
+        </noscript>
+    </span>
+</div>
+

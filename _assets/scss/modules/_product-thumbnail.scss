@@ -12,6 +12,10 @@
     @include breakpoint($small) {
       @include col-half(false);
     }
+
+    div { // force 
+      background-color: transparent !important;
+    }
   
     a { // overwrite default link color
       display: block;
@@ -22,7 +26,7 @@
       display: block;
     }
 
-    .lazy.thumb {
+    .lazycont.thumb {
       padding-bottom: 66.6%;
     }
   

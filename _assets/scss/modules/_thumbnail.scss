@@ -54,14 +54,13 @@
   }
 }
 
-.lazy,
+.lazycont,
 .imgr {
   display: block;
   position: relative;
   width: 100%;
-  // overflow: hidden;
-  opacity: 0;
-  transition: opacity .7s ease-in-out;
+  overflow: hidden;
+  
 
   &.thumb {
     padding-bottom: 56.47%;
@@ -72,9 +71,15 @@
     // min-height: 500px;
   }
 
-  &.loaded {
-    opacity: 1;
+  .lazy {
+    opacity: 0;
+    transition: opacity 200ms 250ms ease-in-out;
+
+    &.loaded {
+      opacity: 1;
+    }
   }
+  
 }
 
 .img-container img {
