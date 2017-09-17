@@ -38,7 +38,7 @@
           continue;
         }
 
-        picImg.src =  matchedEl.getAttribute( "data-src" );
+        picImg.setAttribute("data-src", matchedEl.getAttribute( "data-src" ));
         matchedEl.appendChild( picImg );
         picImg.removeAttribute("width");
         picImg.removeAttribute("height");

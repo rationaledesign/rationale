@@ -1,52 +1,38 @@
-function checkvisible( elm ) {
-  // console.log($(elm).offset());
-    var vpH = $(window).height() + 600, // Viewport Height
-        st = $(window).scrollTop(), // Scroll Top
-        y = $(elm).offset().top;
-    // console.log(vpH, st, y);
-    return (y < (vpH + st));
-}
 
-var scrollTimeout;
-
-$(window).scroll(function () {
-  if (scrollTimeout) {
-      // clear the timeout, if one is pending
-      clearTimeout(scrollTimeout);
-      scrollTimeout = null;
-  }
-  scrollTimeout = setTimeout(scrollHandler, 15);
-});
-
-scrollHandler = function () {
-  activateVisiblePicturefills();
-  // console.log('active')
-};
-
-var $lazyimages;
 
 $('document').ready(function() {
-  $lazyimages = $('.lazy');
-  activateVisiblePicturefills();
-});
+  // set picture fills
+  var $lazyconts = $('.lazycont');
+  $lazyconts.attr('data-picture', '');
+  window.picturefill();
 
-// $window.on('resize scroll touchmove', activateVisiblePicturefills);
+  // set filled images as .lazy
+  var $lazyimages = $('.lazycont img');
+  $lazyimages.addClass("lazy")
 
-function activateVisiblePicturefills() {
-
-  var redraw = false;
-
-  $lazyimages.each(function(i, elm) {
-    var needsToDisplay = checkvisible(elm) && !$(elm).attr('data-picture');
-    if (needsToDisplay) {
-      $(elm).attr('data-picture', '');
-      $(elm).delay(500).queue(function(){
-        $(this).addClass('loaded').clearQueue();
-      });
-      redraw = true;
+  // run lazyload
+  var lazyinstance = $(".lazy").not($(".owl-carousel .lazy")).lazy({
+    visibleOnly: true,
+    chainable: false,
+    afterLoad: function(element) {
+      element.addClass("loaded")
     }
   });
+  $(".owl-carousel .lazy").each(function() {
+    $(this).attr("src", $(this).attr("data-src")).addClass("loaded");
+  });
 
-  window.picturefill();
-}
+  var resizeTimeout;
+  $(window).bind("resize",function(event){
+    resizeTimeout = setTimeout(function () {
+      $(".lazy").each(function() {
+        if ($(this).attr("src") != $(this).attr("data-src")) {
+          $(this).attr("src", $(this).attr("data-src"))
+          lazyinstance.addItems($(this));
+          lazyinstance.loadAll();
+        }
+      });
+    }, 100);
+  });
 
+});
