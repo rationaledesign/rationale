@@ -6,8 +6,7 @@ og_image: "/uploads/rationale_og.jpg"
 layout: their-words
 ---
 
-Accolades we have received
-
+We are happy to have received the following accolades:
 
 
 - > More than proud, I am honored to know such a talent.
