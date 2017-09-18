@@ -44,14 +44,13 @@ class GetSizeTag < Liquid::Tag
                 begin
                     http = Net::HTTP.new(uri.host, uri.port)
                     http.use_ssl = true if uri.scheme == 'https'
-                    http.read_timeout = 5
+                    http.read_timeout = 7
                     
                     http.start do
                         request = Net::HTTP::Get.new(uri.request_uri)
                         resp = http.request(request)
 
                         # parse json
-                        # (I'm getting the second main color out of 2 because I found it was more pleasant)
                         printheight = "56"
                         if resp.body.length >= 2
                             json = JSON.parse(resp.body)
@@ -71,7 +70,7 @@ class GetSizeTag < Liquid::Tag
                     end
 
                     rescue Timeout::Error => error
-                        "56"
+                        "56.1"
                 end
             end
         end
