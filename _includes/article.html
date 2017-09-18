@@ -19,7 +19,7 @@
 {% else %}
 <div class="border-top padding-top--half row">
   <div class="med-col-third pr-2">
-    <h1 class="h2 mb-half">{{include.article.title}}</h1>
+    <h1 class="h2">{{include.article.title}}</h1>
     <date class="h5 mb block">{{include.article.date | date: "%b %d, %Y" }}</date>
     {% if include.article.excerpt_text %}
       <div class="more">
