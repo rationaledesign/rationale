@@ -159,6 +159,7 @@ h5, .h5, .h5-wrap p, .h5-wrap a { @include h5; }
 
 @mixin link--reset {
   text-decoration: none;
+  color: inherit;
 
   &:hover,
   &:active,
