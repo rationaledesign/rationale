@@ -15,7 +15,13 @@ layout: default
                 {% assign fractional = price_split[1] | append: "00" | truncate: 2, "" %}
 
                 ${{ integral }}.{{ fractional }}<br>
-                <a href="{{ page.buylink }}" target="_blank">Where to buy</a>
+                {% if page.is_buyactive == false %}
+                  {% if page.buytag %}{{page.buytag}}
+                  {% else %}Where to buy{% endif %}
+                {% else %}
+                  {% if page.buytag %}<a href="{{ page.buylink }}" target="_blank">{{page.buytag}}</a>
+                  {% else %}<a href="{{ page.buylink }}" target="_blank">Where to buy</a>{% endif %}
+                {% endif %}
               </div>
           </div>
           <div class="sm-col-half product-gallery">
