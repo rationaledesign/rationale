@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="{% if page.layout == 'article' or page.layout == 'articles' %}bg-whiteWarm{% endif %}">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -74,7 +74,7 @@
 <body itemscope itemtype="http://schema.org/ProfessionalService">
   <h1 itemprop="name" class="hide">Rationale Design</h1>
   <p class="hide" itemprop="description">{{site.description}}</p>
-  <div class="content {{ page.title | slugify }} {% if page.layout == 'article' or page.layout == 'articles' %}xbg-whiteWarm{% endif %}">
+  <div class="content {{ page.title | slugify }}">
 
     <header class="container">
       {% include header.html %}
