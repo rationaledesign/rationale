@@ -6,11 +6,15 @@ layout: default
   <div class="container row">
     <div class="project-info med-col-half med-offset-half">
       <h1 class='h2 mb-half'>{{ page.title }}</h1>
-      <div class="project-description h4-wrap">
-          <div class="project-content--truncated">
-            {{content | truncatewords: 30 }}<button class="js-more">more</button>
+      <div class="project-description h4-wrap more">
+          <div class="project-content--truncated more-short">
+            {% if page.excerpt_text %}
+              {{page.excerpt_text}}<button class="js-more">more</button>
+            {% else %}
+              <p style="color: #ff3c00;">Please include an excerpt text value</p>
+            {% endif %}
           </div>
-          <div class="project-content">
+          <div class="project-content more-full">
             {{content}}
           </div>
       </div>

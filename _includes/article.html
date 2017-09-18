@@ -1,0 +1,45 @@
+{% if include.short == "true" %}
+  <!-- only show articles in the feed that are not the current article -->
+  {% if page.title != include.article.title %}
+    <figure class="feed-post">
+      <a href="{{include.article.url}}" class="link--reset">
+        <img src="{{article.featured_image.image}}" alt="{{pinclude.ost.featured_image.alt}}">
+        <h2 class="feed-post__title link--secondary">{{include.article.title}}</h2>
+        <time class="h5">{{include.article.date}}</time>
+        {% if include.article.excerpt_text %}
+          <p class="h4 no-margin">
+            {{include.article.excerpt_text}}
+          </p>
+        {% else %}
+          <span style="color: #ff3c00;">Please include an excerpt text value</span>
+        {% endif %}
+      </a>
+    </figure>
+  {% endif %}
+{% else %}
+<div class="border-top padding-top--half row">
+  <div class="med-col-third pr-2">
+    <h1 class="h2 mb-half">{{include.article.title}}</h1>
+    <date class="h5 mb block">{{include.article.date}}</date>
+    {% if include.article.excerpt_text %}
+      <div class="more">
+        <div class="h4 more-short">
+          {{include.article.excerpt_text}}<button class="js-more">more</button>
+        </div>
+        <div class="h4-wrap more-full">
+          {{include.article.content}}
+        </div>
+      </div>
+    {% else %}
+      <div class="h4-wrap">
+        {{include.article.content}}
+      </div>
+    {% endif %}
+  </div>
+  <div class="med-col-two-thirds">
+    {% for image in include.article.detail_images %}
+      {% include img.html image=image %}
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

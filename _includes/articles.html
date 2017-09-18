@@ -1,0 +1,23 @@
+<!-- <div class="feed-years">
+  {% for years in articles.years %}
+    <div class="feed-year row">
+      <p class="med-col-third h2">{{years.year}}</p>
+      <div class="feed-posts med-col-two-thirds">
+        {% for article in year.articles %}
+          {% include article.html article=article short=true %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endfor %}
+</div> -->
+
+<div class="feed-years">
+  <div class="feed-year row">
+    <p class="med-col-third h2">2017</p>
+    <div class="feed-posts med-col-two-thirds">
+      {% for article in include.articles %}
+        {% include article.html article=article short="true" %}
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="content">
+  <div class="container">
+    <div class="mb-4">
+      {% include article.html article=page %}
+    </div>
+    <div class="border-top">
+      <div class="pt row">
+        {% include articles.html articles=site.posts %}
+      </div>
+    </div>
+  </div>
+</div>
+

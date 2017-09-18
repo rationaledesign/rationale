@@ -74,7 +74,7 @@
 <body itemscope itemtype="http://schema.org/ProfessionalService">
   <h1 itemprop="name" class="hide">Rationale Design</h1>
   <p class="hide" itemprop="description">{{site.description}}</p>
-  <div class="content {{ page.title | slugify }}">
+  <div class="content {{ page.title | slugify }} {% if page.layout == 'article' or page.layout == 'articles' %}xbg-whiteWarm{% endif %}">
 
     <header class="container">
       {% include header.html %}
