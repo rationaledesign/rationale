@@ -8,7 +8,7 @@ buytag: Purchase online from Book/Shop
 is_buyactive: true
 imgcount: 2
 images:
-- image: "/uploads/rationale_sanscalendar171_1c.jpg"
+- image: "/uploads/rationale_sanscalendar171_1b.jpg"
   alt: rationale shop sans calendar 2017
 - image: "/uploads/rationale_sanscalendar171_2c.jpg"
   alt: rationale shop sans calendar 2017
