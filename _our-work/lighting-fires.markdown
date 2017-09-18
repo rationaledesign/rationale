@@ -6,20 +6,20 @@ categories:
 position: 3
 year: 2012
 images:
-- image: "/uploads/rationale-lightingfires-1.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_1a.jpg"
   alt: rationale design lighting fires book cover
-- image: "/uploads/rationale-lightingfires-2.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_2a.jpg"
   alt: rationale design lighting fires book cover
-- image: "/uploads/rationale-lightingfires-3b.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_3a.jpg"
   alt: rationale design lighting fires promo
-- image: "/uploads/rationale-lightingfires-4b.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_4a.jpg"
   alt: rationale design lighting fires grid
-- image: "/uploads/rationale-lightingfires-5.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_5a.jpg"
   alt: rationale design lighting fires website
 thumb_image:
-  image: "/uploads/rationale-lightingfires-0b.jpg"
+  image: "/uploads/rationale_2012_lightingfires1_0a.jpg"
   alt: rationale design lighting fires identity
-og_image: "/uploads/rationale-lightingfires-og.jpg"
+og_image: "/uploads/rationale_2012_lightingfires1_og1a.jpg"
 layout: project
 ---
 

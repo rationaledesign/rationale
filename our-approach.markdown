@@ -9,7 +9,7 @@ images:
   alt: 
 og_image: "/uploads/rationale_og.jpg"
 bottom_body: |-
-  Our team of highly curated top talent from around the global brings a world class and international perspective. Sean Wolcott the founder of Rationale brings over 20 years experience lorem ipsum dolor ist amet lorem dolor amet.
+  Our team of talent from around the globe brings a world class and international perspective, giving a broad level of insights to each project. Sean Wolcott the founder of Rationale brings over 20 years experience having previously design for some of the biggest brands and products in the world.
 
   We would love to discuss the possibility in how we might help on your next project.
 
@@ -20,4 +20,4 @@ layout: our-approach
 
 Design is not a job, it is a mission.
 
-Rationale was founded on this conviction – our work is our passion and we bring over 20 years expertise across all aspects of design to each projects wether it be brand identity systems, digital design, publications, or more.
+Rationale was founded on this conviction – our work is our passion and we bring over 20 years expertise across all aspects of design to each project wether it be a brand identity system, digital design, publication, or beyond.
