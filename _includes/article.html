@@ -23,7 +23,7 @@
     <date class="h5 mb block">{{include.article.date | date: "%b %d, %Y" }}</date>
     {% if include.article.excerpt_text %}
       <div class="more">
-        <div class="h4 more-short">
+        <div class="h4-wrap more-short">
           {{include.article.excerpt_text | markdownify }}<button class="js-more">more</button>
         </div>
         <div class="h4-wrap more-full">
