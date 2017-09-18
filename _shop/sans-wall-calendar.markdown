@@ -4,11 +4,13 @@ date: 2014-09-28 14:36:00 Z
 position: 1
 price: 25
 buylink: https://www.shopbookshop.com/
+buytag: Purchase online from Book/Shop
+is_buyactive: true
 imgcount: 2
 images:
-- image: "/uploads/rationale_sanscalendar171_1a.jpg"
+- image: "/uploads/rationale_sanscalendar171_1c.jpg"
   alt: rationale shop sans calendar 2017
-- image: "/uploads/rationale_sanscalendar171_2a.jpg"
+- image: "/uploads/rationale_sanscalendar171_2c.jpg"
   alt: rationale shop sans calendar 2017
 thumb_image:
   image: "/uploads/rationale_sanscalendar171_0a.jpg"

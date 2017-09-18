@@ -7,6 +7,7 @@
 }
 
 .project-detail .project-info {
+  width: 100%;
   border-top: 1px solid $grey_medium;
   padding-top: $unit-half;
 }
@@ -23,23 +24,11 @@
   margin-bottom: $unit-4;
   margin-top: -4px;
 
-  @include breakpoint($med) {
-    & > p:first-child {
-      display: none;
-    }
-  }
-}
-
-.project-content {
-  @include breakpoint($small-only) {
-    display: none;
-  }
-}
-
-.project-content--truncated {
-  @include breakpoint($med) {
-    display: none;
-  }
+  // @include breakpoint($med) {
+  //   & > p:first-child {
+  //     display: none;
+  //   }
+  // }
 }
 
 .project-images {

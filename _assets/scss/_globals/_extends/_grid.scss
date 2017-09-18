@@ -23,7 +23,7 @@
 %row,
 .row { // required to start a grid
   // overflow: hidden;
-  &:after {
+  &:after{
     content: "";
     display: table;
     clear: both;
@@ -183,6 +183,12 @@
   }
 }
 
+.med-col-two-thirds {
+  @include breakpoint($med) {
+    @include col-two-thirds(false);
+  }
+}
+
 .lg-col-half {
   @include breakpoint($large) {
     @include col-half(false);
@@ -214,6 +220,12 @@
 .pb-3     { padding-bottom: $unit-3 }
 .pb-4     { padding-bottom: $unit-4 }
 .pb-half  { padding-bottom: $unit-half }
+
+.pr       { padding-right: $unit      !important; }
+.pr-2     { padding-right: $unit-2    !important; }
+.pr-3     { padding-right: $unit-3    !important; }
+.pr-4     { padding-right: $unit-4    !important; }
+.pr-half  { padding-right: $unit-half !important; }
 
 // FIXME create space classes
 

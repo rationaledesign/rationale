@@ -2,6 +2,9 @@
 title: Rationale
 timezone: UTC
 collections:
+  articles:
+    title: Articles
+    output: true
   our-work:
     title: Our work
     output: true

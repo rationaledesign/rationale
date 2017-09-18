@@ -1,0 +1,28 @@
+<div class="feed-years">
+  {% assign postsByYear = include.articles | group_by_exp:"article", "article.date | date: '%Y'" %}
+
+
+  {% for year in postsByYear %}
+
+    {% assign notCurrentPostArray = "" | split: "" %}
+
+    {% for article in year.items %}
+      {% unless article.title == page.title %}
+        {% assign notCurrentPostArray = notCurrentPostArray | push: article %}
+      {% endunless %}
+    {% endfor %}
+
+    {% if notCurrentPostArray.size > 0 %}
+      <div class="feed-year row">
+        <p class="med-col-third h2">{{year.name}}</p>
+        <div class="feed-posts med-col-two-thirds">
+          {% for article in notCurrentPostArray %}
+            {% include article.html article=article short="true" %}
+          {% endfor %}
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+

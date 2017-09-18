@@ -1,0 +1,52 @@
+.feed-years {
+  margin-top: -$unit-half;
+}
+
+.feed-year {
+
+  &:not(:last-child) {
+    border-bottom: 1px solid $black;
+  }
+
+  &:not(:first-child) {
+    padding-top: $unit-half;
+
+    .feed-posts {
+      margin-top: $unit-4 - $unit-half;
+    }
+  }
+}
+
+.feed-posts {
+
+}
+
+.feed-post {
+  padding-right: $unit-2;
+  margin-bottom: $unit-5;
+
+  @include breakpoint($small) {
+    width: 50%;
+    float: left;
+
+    &:nth-child(2n) {
+      float: right;
+    }
+  }
+
+  time {
+    display: block;
+    margin-bottom: $unit-15;
+    color: $grey-dark;
+  }
+
+  img {
+    margin-bottom: $unit;
+  }
+}
+
+.feed-post__title {
+  .feed-post:hover & {
+    color: $black;
+  }
+}

@@ -4,6 +4,8 @@ date: 2015-04-06 18:00:00 Z
 position: 0
 price: 35.4
 buylink: http://www.magcloud.com/browse/issue/905499
+buytag: Purchase online from MagCloud
+is_buyactive: true
 images:
 - image: "/uploads/rationale_sw08141_1a.jpg"
   alt: rationale shop sean wolcott graphic design book cover

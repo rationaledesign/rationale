@@ -54,31 +54,36 @@
   }
 }
 
-.lazycont,
-.imgr {
+.img {
   display: block;
   position: relative;
   width: 100%;
-  overflow: hidden;
-  
-
-  &.thumb {
-    padding-bottom: 56.47%;
-    height: 0;
-  }
 
   &.detail {
-    // min-height: 500px;
+    margin-bottom: 1px;
+    overflow: hidden;
   }
 
-  .lazy {
-    opacity: 0;
-    transition: opacity 200ms 250ms ease-in-out;
+  .lazycont {
+    display: block;
+    position: relative;
+    width: 100%;
 
-    &.loaded {
-      opacity: 1;
+    &.thumb {
+      padding-bottom: 56.47%;
+      height: 0;
+    }
+  
+    .lazy {
+      opacity: 0;
+      transition: opacity 200ms 250ms ease-in-out;
+  
+      &.loaded {
+        opacity: 1;
+      }
     }
   }
+  
   
 }
 
