@@ -1,5 +1,6 @@
-<div style="background-color: {% get_color include.image.image %}; {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}">
-    <span class="lazycont {% if page.collection %}detail{% else %}thumb{% endif %}" data-alt="{{include.image.alt}}">
+<div class="img {% if include.type == 'detail' %}detail{% endif %}" 
+    style="background-color: {% get_color include.image.image %}; {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}">
+    <span class="lazycont {% if include.type != 'detail' %}thumb{% endif %}" data-alt="{{include.image.alt}}">
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=1&q=50"></span>
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=2&q=40" data-media="(-webkit-min-device-pixel-ratio: 2.0)"></span>
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=1&q=50" data-media="(min-width: 600px)"></span>
