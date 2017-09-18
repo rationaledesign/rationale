@@ -157,6 +157,20 @@ h5, .h5, .h5-wrap p, .h5-wrap a { @include h5; }
   }
 }
 
+@mixin link--reset {
+  text-decoration: none;
+  color: inherit;
+
+  &:hover,
+  &:active,
+  &:visited {
+    color: inherit;
+  }
+}
+
+.link--reset      { @include link--reset; }
+.link--secondary  { @include link--secondary; }
+
 .h2 a, .h2-wrap a { top: auto; @include link--secondary; }
 .h4 a, .h4-wrap a { top: auto; @include link--tertiary; }
 .h5 a, .h5-wrap a { top: auto; @include link--tertiary; }

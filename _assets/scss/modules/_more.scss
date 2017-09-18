@@ -11,3 +11,15 @@
     bottom: -$unit;
   }
 }
+
+.more-short {
+  @include breakpoint($med) {
+    display: none;
+  }
+}
+
+.more-full {
+  @include breakpoint($small-only) {
+    display: none;
+  }
+}
