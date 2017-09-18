@@ -1,6 +1,7 @@
 ---
 title: This is the second post
 date: 2017-09-18 12:26:00 Z
+layout: article
 excerpt_text: |-
   This is the excerpt of the second post.
 

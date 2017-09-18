@@ -5,4 +5,4 @@ layout: articles
 og_image: "/uploads/rationale_og.jpg"
 ---
 
-This is the news page
+This is the articles page

@@ -183,6 +183,12 @@
   }
 }
 
+.med-col-two-thirds {
+  @include breakpoint($med) {
+    @include col-two-thirds(false);
+  }
+}
+
 .lg-col-half {
   @include breakpoint($large) {
     @include col-half(false);

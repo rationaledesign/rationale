@@ -12,12 +12,16 @@
 </div> -->
 
 <div class="feed-years">
-  <div class="feed-year row">
-    <p class="med-col-third h2">2017</p>
-    <div class="feed-posts med-col-two-thirds">
-      {% for article in include.articles %}
-        {% include article.html article=article short="true" %}
-      {% endfor %}
+  {% assign postsByYear = include.articles | group_by_exp:"article", "article.date | date: '%Y'" %}
+
+  {% for year in postsByYear %}
+    <div class="feed-year row">
+      <p class="med-col-third h2">{{year.name}}</p>
+      <div class="feed-posts med-col-two-thirds">
+        {% for article in year.items %}
+          {% include article.html article=article short="true" %}
+        {% endfor %}
+      </div>
     </div>
-  </div>
+  {% endfor %}
 </div>

@@ -1,4 +1,3 @@
-
 .feed-years {
   margin-top: -$unit-half;
 }
@@ -11,6 +10,10 @@
 
   &:not(:first-child) {
     padding-top: $unit-half;
+
+    .feed-posts {
+      margin-top: $unit-4 - $unit-half;
+    }
   }
 }
 
@@ -21,7 +24,6 @@
 .feed-post {
   padding-right: $unit-2;
   margin-bottom: $unit-5;
-
 
   @include breakpoint($small) {
     width: 50%;
@@ -44,5 +46,7 @@
 }
 
 .feed-post__title {
-  @include link--secondary;
+  .feed-post:hover & {
+    color: $black;
+  }
 }
