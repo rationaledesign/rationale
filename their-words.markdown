@@ -12,13 +12,13 @@ We are happy to have received the following praise:
 - > More than proud, I am honored to know such a talent.
 <cite>Massimo Vignelli</cite>
 
-- >In a world of design that is too often going to extremes, it is a relief to find that there is still enough space for a plain style.
+- > In a world of design that is too often going to extremes, it is a relief to find that there is still enough space for a plain style.
 <cite>Ben Bos</cite>
 
 - >I have followed their development for some time now and I am impressed by the strong and consequent work.
 <cite>Wim Crouwel</cite>
 
-- >Impressed by such vital strengths.
+- >I am impressed by such vital and strong work.
 <cite>Rolf Muller</cite>
 
 
