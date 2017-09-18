@@ -63,16 +63,17 @@
     margin-bottom: 1px;
     overflow: hidden;
   }
+  &.thumb {
+    .lazycont {
+      padding-bottom: 56.47%;
+      height: 0;
+    }
+  }
 
   .lazycont {
     display: block;
     position: relative;
     width: 100%;
-
-    &.thumb {
-      padding-bottom: 56.47%;
-      height: 0;
-    }
   
     .lazy {
       opacity: 0;
