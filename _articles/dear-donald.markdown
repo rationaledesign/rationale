@@ -1,14 +1,14 @@
 ---
-title: Awesomesauce
-date: 2016-08-08 23:36:00 Z
-excerpt_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia fuga
-  labore natus ipsam corporis molestiae at rem non, aut molestias doloremque explicabo,
-  ab asperiores eligendi repudiandae. Dolorum, consectetur corrupti magni.
+title: Dear Donald
+date: 2016-07-17 23:36:00 Z
+excerpt_text: It was a pleasure and privilege to design this full page ad appearing
+  in todays New York Times and Cleveland Plain Dealer as well as be a part of its
+  timely message. Check it out!
 featured_image:
-  image: "/uploads/FPO54ratio.jpg"
+  image: "/uploads/test-1donald.jpg"
   alt: featured_image
 detail_images:
-- image: "/uploads/FPO54ratio.jpg"
+- image: "/uploads/test-1donald.jpg"
   alt: detail image 1
 og_image: "/uploads/FPO11ratio.jpg"
 feed_image:
@@ -17,10 +17,6 @@ feed_image:
 layout: article
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia fuga labore natus ipsam corporis molestiae at rem non, aut molestias doloremque explicabo, ab asperiores eligendi repudiandae. Dolorum, consectetur corrupti magni.
+It was a pleasure and privilege to design this full page ad appearing in todays New York Times and Cleveland Plain Dealer as well as be a part of its timely message. Check it out!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque, repudiandae rerum nostrum facilis cum nobis aperiam sapiente ipsam praesentium animi, sequi sit, esse nam doloribus vel dignissimos repellat! Eius, quis.
-
-This Saturday, October 24th, 5-7 PM at Peter Miller Books in Seattle attend an exclusive recording of the “Beyond This Point” podcast on branding, graphic design.
-
-
+http://www.deardonald.com/
