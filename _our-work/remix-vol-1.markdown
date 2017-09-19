@@ -4,7 +4,7 @@ date: 2009-01-01 00:00:00 Z
 categories:
 - Packaging
 position: 9
-excerpt_text:
+excerpt_text: 
 year: 2009
 images:
 - image: "/uploads/rationale_2009_remixvol11_1a.jpg"
