@@ -2,6 +2,8 @@
 title: Territory Singles
 date: 2017-07-22 16:51:00 Z
 position: 11
+excerpt_text: Shown here is an excerpt of a five-part series of music single packaging,
+  which represents the songs’ subjects in a conceptual and unified graphical manner.
 year: 2016
 images:
 - image: "/uploads/rationale_2016_territorysingles1_1a.jpg"
