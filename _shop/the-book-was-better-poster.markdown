@@ -17,6 +17,5 @@ Shipping Rates: <br>
 United States – $15 USD <br>
 Canada – $25 USD <br>
 Overseas – $30 USD <br>
-Multiple poster orders will ship at single poster rate. 
 
-Posters ship within 1 week of receipt of order. Comes in heavy duty roll, ready to be framed or hung as is. 
+Multiple poster orders will ship at single poster rate. Posters ship within 1 week of receipt of order. Comes in heavy duty roll, ready to be framed or hung as is. 
