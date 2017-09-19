@@ -40,4 +40,4 @@ Perfect bound
 Coated 80# cover stock and 80# text paper stock  
 Published 4/6/2015  
  
-The book is also available as a free PDF [here](http://rationale-design.com/assets/img/_source/resources/sean-wolcott-graphic-design-20082014/sean-wolcott-graphic-design-2008-2014.pdf).
+The book is also available as a free PDF in our [Resources](https://rationale-design.com/resources/).
