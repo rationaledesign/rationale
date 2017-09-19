@@ -1,8 +1,9 @@
 ---
 title: Awesomesauce
 date: 2016-08-08 23:36:00 Z
-layout: article
-excerpt_text: 
+excerpt_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia fuga
+  labore natus ipsam corporis molestiae at rem non, aut molestias doloremque explicabo,
+  ab asperiores eligendi repudiandae. Dolorum, consectetur corrupti magni.
 featured_image:
   image: "/uploads/FPO54ratio.jpg"
   alt: featured_image
@@ -13,6 +14,7 @@ og_image: "/uploads/FPO11ratio.jpg"
 feed_image:
   image: "/uploads/FPO11ratio.jpg"
   alt: news feed image
+layout: article
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia fuga labore natus ipsam corporis molestiae at rem non, aut molestias doloremque explicabo, ab asperiores eligendi repudiandae. Dolorum, consectetur corrupti magni.
