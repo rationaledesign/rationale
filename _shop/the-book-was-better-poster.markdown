@@ -8,8 +8,10 @@ is_buyactive: false
 imgcount: 1
 images:
 - image: "/uploads/rationale_tbwbp1_1a.jpg"
+  alt: rationale shop the book was a better film festival poster
 thumb_image:
   image: "/uploads/rationale_tbwbp1_0a.jpg"
+  alt: rationale shop the book was a better film festival poster
 og_image: "/uploads/rationale_tbwbp1_1og.jpg"
 ---
 
