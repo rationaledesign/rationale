@@ -1,7 +1,10 @@
 ---
-title: Classic Car Show
+title: Classic Car Show poster
 date: 2017-09-19 15:16:00 Z
 position: 5
+price: 175
+buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7XCZGUWL6RW8J
+is_buyactive: true
 ---
 
 Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on back by the designer. 
