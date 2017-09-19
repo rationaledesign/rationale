@@ -4,6 +4,9 @@ date: 2017-07-20 00:00:00 Z
 categories:
 - Promotion
 position: 31
+excerpt_text: Instead of the usual graphics, we reenvisioned the Hot Rod & Classic
+  Car Show in historic Snohomish, Washington, USA to direct focus to the beauty of
+  cars’ details themselves.
 year: 2012
 images:
 - image: "/uploads/rationale_2012_classiccar1_1a.jpg"
