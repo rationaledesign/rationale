@@ -6,6 +6,10 @@ categories:
 tags:
 - featured
 position: 8
+excerpt_text: |-
+  This simple typographic wall calendar provides a beautiful and functional way to keep track of events. Dates are listed as two vertical columns with ample room for notes in a minimal black, white, and red design.
+
+  Available for purchase from the Rationale [Store](http://www.rationale-design.com/store/).
 year: 2013
 images:
 - image: "/uploads/rationale-sanscalendar-1.jpg"
