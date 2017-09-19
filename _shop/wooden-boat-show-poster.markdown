@@ -3,8 +3,8 @@ title: Wooden Boat Show poster
 date: 2017-09-15 18:32:00 Z
 position: 4
 price: "$175"
-buytag: Out of stock
-is_buyactive: false
+buytag: Buy now
+is_buyactive: true
 imgcount: 1
 images:
 - image: "/uploads/rationale_woodenboatposter1_1b.jpg"
