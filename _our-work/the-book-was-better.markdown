@@ -4,6 +4,10 @@ date: 2017-07-20 00:00:00 Z
 categories:
 - Identity
 position: 2
+excerpt_text: For the second annual The Book Was Better Film Festival, in which people
+  submit a short film based on one chapter from a book, Rationale created an identity
+  program that can be taken in new directions for years to come while maintaining
+  a clear image.
 year: 2016
 images:
 - image: "/uploads/FPO%2032ratio.jpg"
