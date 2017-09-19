@@ -2,6 +2,11 @@
   position: relative;
   line-height: inherit;
 
+  display: block;
+  margin: (-$unit*1.5) 0 (-$unit) 0;
+
+  color: $black;
+
   &:before {
     content: '';
     position: absolute;
@@ -9,6 +14,11 @@
     left:   -$unit;
     right:  -$unit;
     bottom: -$unit;
+  }
+
+  &:hover,
+  &:active {
+    color: $red;
   }
 }
 
