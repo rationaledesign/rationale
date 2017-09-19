@@ -5,7 +5,10 @@ categories:
 - Identity
 position: 17
 excerpt_text: In the space of transport, particularly for the maritime industry, there
-  is an overwhelming richness of history and metaphors to embrace.
+  is an overwhelming richness of history and metaphors to embrace. As such, a maritime
+  company’s visual identity has great opportunity to distinguish itself from competitors
+  as superior and state-of-the-art. This was our goal with the identity we developed
+  for Schaefer Stevedoring.
 year: 2016
 images:
 - image: "/uploads/FPO%2032ratio.jpg"
