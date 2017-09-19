@@ -3,8 +3,9 @@ title: All In Love poster
 date: 2017-09-15 18:33:00 Z
 position: 3
 price: 175
-buytag: Out of stock
-is_buyactive: false
+buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=H64FABCG2YSSY
+buytag: Buy now
+is_buyactive: true
 imgcount: 1
 images:
 - image: "/uploads/rationale_allinloveposter1_1d.jpg"
@@ -20,10 +21,5 @@ Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at
 Edition – 200 <br>
 Size – A1 / 594 x 841 mm / 23.4 x 33.1 inches <br>
 Paper – 192 gsm, 10.3 mil <br>
-
-Shipping Rates: <br>
-United States – $15 USD <br>
-Canada – $25 USD <br>
-Overseas – $30 USD <br>
 
 Multiple poster orders will ship at single poster rate. Posters ship within 1 week of receipt of order. Comes in heavy duty roll, ready to be framed or hung as is. 
