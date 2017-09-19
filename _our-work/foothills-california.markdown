@@ -4,6 +4,8 @@ date: 2013-01-01 00:00:00 Z
 categories:
 - Identity
 position: 36
+excerpt_text: Foothills California, a lifestyle brand, was in need of a refined and
+  timeless identity system.
 year: 2013
 images:
 - image: "/uploads/rationale-foothillsid-1.jpg"
