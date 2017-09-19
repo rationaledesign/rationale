@@ -7,9 +7,7 @@ tags:
 - featured
 position: 21
 excerpt_text: Design system, book cover, and interior design for the book series “Steven
-  Brooks Photographs”. The series presents the photographs in a stark and refined
-  manner with imagery that explores the relationships between light, built and natural
-  environments, and the viewer.
+  Brooks Photographs”.
 year: 2012
 images:
 - image: "/uploads/rationale_2012_stevenbrooks1_1a.jpg"
