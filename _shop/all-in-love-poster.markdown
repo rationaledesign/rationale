@@ -2,14 +2,16 @@
 title: All In Love poster
 date: 2017-09-15 18:33:00 Z
 position: 3
-price: "$175"
+price: 175
 buytag: Where to buy
 is_buyactive: false
 imgcount: 1
 images:
 - image: "/uploads/rationale_allinloveposter1_1a.jpg"
+  alt: rationale shop all in love poster
 thumb_image:
   image: "/uploads/rationale_allinloveposter1_0a.jpg"
+  alt: rationale shop all in love poster
 og_image: "/uploads/rationale_allinloveposter1_ogsource.jpg"
 ---
 
