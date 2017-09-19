@@ -5,9 +5,7 @@ categories:
 - Identity
 position: 4
 excerpt_text: Just as latitudinal lines wrap the globe, a continuous line wraps all
-  Latitudex communications. This unbroken element evokes a direct line to a solution,
-  as well as a promise of execution to the customer. The primary system of yellow
-  color provides a bright and optimistic accent to all pieces.
+  Latitudex communications.
 year: 2013
 images:
 - image: "/uploads/rationale-latitudex-1b.jpg"
