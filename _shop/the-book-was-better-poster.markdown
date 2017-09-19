@@ -7,10 +7,10 @@ buytag: Out of stock
 is_buyactive: false
 imgcount: 1
 images:
-- image: "/uploads/rationale_tbwbp1_1c.jpg"
+- image: "/uploads/rationale_tbwbp1_1d.jpg"
   alt: rationale shop the book was a better film festival poster
 thumb_image:
-  image: "/uploads/rationale_tbwbp1_0b.jpg"
+  image: "/uploads/rationale_tbwbp1_0c.jpg"
   alt: rationale shop the book was a better film festival poster
 og_image: "/uploads/rationale_tbwbp1_1og.jpg"
 ---
