@@ -4,7 +4,7 @@ date: 2017-07-20 00:00:00 Z
 categories:
 - Identity
 position: 1
-excerpt_text: "April Brimer is an editorial fashion and product photographer. \nPhotography
+excerpt_text: "April Brimer is an editorial fashion and product photographer. \n\nPhotography
   and fashion are integral to one another, and demand rigor of each other; design
   brings the forms together while emphasizing their high standards."
 year: 2014
