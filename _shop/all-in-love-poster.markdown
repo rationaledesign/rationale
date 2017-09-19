@@ -7,7 +7,7 @@ buytag: Out of stock
 is_buyactive: false
 imgcount: 1
 images:
-- image: "/uploads/rationale_allinloveposter1_1c.jpg"
+- image: "/uploads/rationale_allinloveposter1_1d.jpg"
   alt: rationale shop all in love poster
 thumb_image:
   image: "/uploads/rationale_allinloveposter1_0e.jpg"
