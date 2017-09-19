@@ -4,6 +4,7 @@ date: 2017-09-15 18:31:00 Z
 position: 2
 price: 175
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M6KBZD2V2937L
+buytag: Add to cart
 is_buyactive: true
 imgcount: 1
 images:
