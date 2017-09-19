@@ -18,4 +18,6 @@ thumb_image:
 og_image: "/uploads/rationale_2016_territorysingles1_og1a.jpg"
 ---
 
-Shown here is an excerpt of a five-part series of music single packaging, which represents the songs’ subjects in a conceptual and unified graphical manner. The use of color, grid, movement, and concept within the system lends both consistency and diversity to the collection of songs by music group The Fascination Movement songs: “The Ones You Love”, “From Above”, “New Promise”, “Never Walk Away”, and “In Code”.
+Shown here is an excerpt of a five-part series of music single packaging, which represents the songs’ subjects in a conceptual and unified graphical manner.
+
+The use of color, grid, movement, and concept within the system lends both consistency and diversity to the collection of songs by music group The Fascination Movement songs: “The Ones You Love”, “From Above”, “New Promise”, “Never Walk Away”, and “In Code”.
