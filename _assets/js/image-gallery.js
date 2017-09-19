@@ -17,9 +17,16 @@ $(document).ready(function() {
     owl.trigger('next.owl.carousel', [300]);
   });
 
-  // updates active item after movement
+  // updates active item during movement
   owl.on('changed.owl.carousel', function(event) {
     $(".active").removeClass("active");
     thumbs.eq(event.item.index).addClass("active");
+  });
+  // forces lazy images after movement
+  owl.on('translated.owl.carousel', function(event) {
+    lazyinstance.update();
+  });
+  owl.on('dragged.owl.carousel', function(event) {
+    lazyinstance.update();
   });
 });
