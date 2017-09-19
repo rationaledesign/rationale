@@ -15,4 +15,6 @@ thumb_image:
   image: "/uploads/rationale-sdfgivebig-0.jpg"
 ---
 
-The poster for the 2016 GiveBig campaign for the Seattle Design Foundation was created to promote philanthropic donations in support of the SDF and its mission: to foster innovation in emerging talent by selecting individuals to receive small, project-focused grants matched with mentorship. The design conveys the concept of growth, upward motion, light, and transformation, while building on the existing SDF identity.
+The poster for the 2016 GiveBig campaign for the Seattle Design Foundation was created to promote philanthropic donations in support of the SDF and its mission: to foster innovation in emerging talent by selecting individuals to receive small, project-focused grants matched with mentorship.
+
+The design conveys the concept of growth, upward motion, light, and transformation, while building on the existing SDF identity.
