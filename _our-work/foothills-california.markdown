@@ -5,7 +5,9 @@ categories:
 - Identity
 position: 36
 excerpt_text: Foothills California, a lifestyle brand, was in need of a refined and
-  timeless identity system.
+  timeless identity system. In fashion, perhaps more than in any other area, the need
+  to stand out is as relevant to the design of an identity as it is to the design
+  of the products themselves.
 year: 2013
 images:
 - image: "/uploads/rationale-foothillsid-1.jpg"
@@ -27,8 +29,6 @@ og_image: "/uploads/rationale-foothillsid-og.jpg"
 layout: project
 ---
 
-Foothills California, a lifestyle brand, was in need of a refined and timeless identity system.
-
-In fashion, perhaps more than in any other area, the need to stand out is as relevant to the design of an identity as it is to the design of the products themselves.
+Foothills California, a lifestyle brand, was in need of a refined and timeless identity system. In fashion, perhaps more than in any other area, the need to stand out is as relevant to the design of an identity as it is to the design of the products themselves.
 
 The solution is a straightforward, visually powerful nod to the Native American heritage that inspires their products.
