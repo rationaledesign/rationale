@@ -4,6 +4,9 @@ date: 2014-01-01 00:00:00 Z
 categories:
 - Promotion
 position: 6
+excerpt_text: Polish cinema has a historic vibrancy and relevancy—not to mention a
+  history of vibrant and relevant film posters. Indeed, the medium of the poster has
+  seen some of its best and most iconic works in Polish cinema.
 year: 2014
 images:
 - image: "/uploads/rationale_2014_spff1_1a.jpg"
