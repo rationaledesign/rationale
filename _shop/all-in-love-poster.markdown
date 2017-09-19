@@ -12,7 +12,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_allinloveposter1_0d.jpg"
   alt: rationale shop all in love poster
-og_image: "/uploads/rationale_allinloveposter1_ogsource.jpg"
+og_image: "/uploads/rationale_allinloveposter1_1og.jpg"
 ---
 
 Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on back by the designer. 
