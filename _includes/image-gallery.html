@@ -4,7 +4,7 @@
 <div class="image-gallery">
   <div class="owl-carousel">
     {% for thumb in thumbs %}
-      <div class="owl-thumb">{% include img.html image=thumb %}</div>
+      <div class="owl-thumb">{% include img.html image=thumb  type="gallery" %}</div>
     {% endfor %}
   </div>
   <ul class="gallery-thumbnails">
@@ -12,7 +12,7 @@
     {% for thumb in thumbs %}
       <li class="gallery-thumbnail {% if forloop.first == true %}active{% endif %}" data-target="{{ forloop.index }} ">
         <div class="thumb-wrap">
-          {% include img.html image=thumb %}
+          {% include img.html image=thumb type="gallery" %}
         </div>
       </li>
     {% endfor %}

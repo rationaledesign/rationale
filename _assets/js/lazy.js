@@ -1,4 +1,4 @@
-
+var lazyinstance;
 
 $('document').ready(function() {
   // set picture fills
@@ -11,15 +11,12 @@ $('document').ready(function() {
   $lazyimages.addClass("lazy")
 
   // run lazyload
-  var lazyinstance = $(".lazy").not($(".owl-carousel .lazy")).lazy({
+  lazyinstance = $(".lazy").lazy({
     visibleOnly: true,
     chainable: false,
     afterLoad: function(element) {
       element.addClass("loaded")
     }
-  });
-  $(".owl-carousel .lazy").each(function() {
-    $(this).attr("src", $(this).attr("data-src")).addClass("loaded");
   });
 
   var resizeTimeout;

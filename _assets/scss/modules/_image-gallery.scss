@@ -1,5 +1,7 @@
 .image-gallery {
     @include breakpoint($small) { padding-right: $unit-2; }
+
+    .img.gallery img { position: absolute; width: 100.1% }
 }
   
 .gallery-thumbnails {
