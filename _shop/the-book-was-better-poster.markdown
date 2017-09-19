@@ -3,7 +3,14 @@ title: The Book Was Better poster
 date: 2017-09-15 18:31:00 Z
 position: 2
 price: 175
-is_buyactive: true
+buytag: Out of stock
+is_buyactive: false
+imgcount: 1
+images:
+- image: "/uploads/rationale_tbwbp1_1a.jpg"
+thumb_image:
+  image: "/uploads/rationale_tbwbp1_0a.jpg"
+og_image: "/uploads/rationale_tbwbp1_1og.jpg"
 ---
 
 Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on back by the designer. 
