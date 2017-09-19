@@ -74,9 +74,9 @@ defaults:
     og_image: 
 - scope:
     path: ''
-    type: posts
+    type: articles
   values:
-    layout: post-detail
+    layout: article
     excerpt_text: 
     featured_image:
       image: 

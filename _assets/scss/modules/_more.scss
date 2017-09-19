@@ -13,13 +13,13 @@
 }
 
 .more-short {
-  @include breakpoint($med) {
+  @include breakpoint($small) {
     display: none;
   }
 }
 
 .more-full {
-  @include breakpoint($small-only) {
+  @include breakpoint($mobile) {
     display: none;
   }
 }

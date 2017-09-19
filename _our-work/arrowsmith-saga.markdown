@@ -4,6 +4,9 @@ date: 2017-07-20 00:00:00 Z
 categories:
 - Publication
 position: 20
+excerpt_text: Book cover design for novels “The Arrowsmith Saga”, parts 1 and 2. Visuals
+  use spilled wine as a representative of blood, alluding to the increasingly darker
+  aspects of each novel in the series.
 year: 2012
 images:
 - image: "/uploads/rationale_2012_arrowsmith1_1a.jpg"

@@ -2,6 +2,10 @@
 title: Territory
 date: 2017-08-23 19:28:00 Z
 position: 10
+excerpt_text: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
+  praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi
+  sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt
+  mollitia animi, id est laborum et dolorum fuga.
 year: 2017
 images:
 - image: "/uploads/FPO%2032ratio.jpg"

@@ -6,6 +6,9 @@ categories:
 tags:
 - featured
 position: 35
+excerpt_text: SynthPatch is an iOS application which allows for owners of analog synthesizers
+  to quickly notate and share their settings in an elegant, intuitive, and efficiently
+  abstracted manner. To be released in 2017.
 year: 2014
 images:
 - image: "/uploads/rationale_2014_synthpatch1_1a.jpg"

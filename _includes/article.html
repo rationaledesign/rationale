@@ -11,7 +11,9 @@
             {{include.article.excerpt_text | markdownify }}
           </div>
         {% else %}
-          <span style="color: #ff3c00;">Please include an excerpt text value</span>
+          <div class="h4-wrap">
+            {{include.article.content}}
+          </div>
         {% endif %}
       </a>
     </figure>
@@ -24,7 +26,7 @@
     {% if include.article.excerpt_text %}
       <div class="more">
         <div class="h4-wrap more-short">
-          {{include.article.excerpt_text | markdownify }}<button class="js-more">more</button>
+          {{include.article.excerpt_text | markdownify }}<button class="js-more mb">more</button>
         </div>
         <div class="h4-wrap more-full">
           {{include.article.content}}

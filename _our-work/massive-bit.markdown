@@ -6,6 +6,9 @@ categories:
 tags:
 - featured
 position: 37
+excerpt_text: Massive Bit offers a unique service to technology companies by distilling
+  big data down to the most relevant information, with the aim of helping their clients
+  make more informed multimillion dollar decisions.
 year: 2013
 images:
 - image: "/uploads/rationale-massivebit-1.jpg"

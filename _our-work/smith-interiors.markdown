@@ -4,6 +4,9 @@ date: 2014-01-01 00:00:00 Z
 categories:
 - Identity
 position: 39
+excerpt_text: Smith Interiors is a floor covering business specializing in both residential
+  and commercial sales and installation of hardwoods, carpet, tile, and more. The
+  company, in business since 1975, has strong and well-developed small town roots.
 year: 2014
 images:
 - image: "/uploads/FPO%2032ratio.jpg"

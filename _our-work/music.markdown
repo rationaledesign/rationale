@@ -4,6 +4,10 @@ date: 2010-01-01 00:00:00 Z
 categories:
 - Promotion
 position: 33
+excerpt_text: 'Series of posters for music concerts using a variety of focused, clear,
+  and calm visual devices: strong, simple typography; geometric shapes; primary colors.
+  The result is a poster that, in its simplicity, calls attention to itself in the
+  visually cluttered landscape of music posters.'
 year: 2010
 images:
 - image: "/uploads/rationale_2010_concertseries1_1a.jpg"
