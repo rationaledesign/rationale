@@ -18,6 +18,6 @@ og_image: "/uploads/rationale_tbwbp1_1og.jpg"
 
 Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
 
-Edition – 200 <br>
+Edition – 100 <br>
 Size – A1 / 594 x 841 mm / 23.4 x 33.1 in <br>
 Paper – 192 gsm, 10.3 mil
