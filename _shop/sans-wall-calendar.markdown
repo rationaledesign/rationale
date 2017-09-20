@@ -25,7 +25,9 @@ Available for purchase online exclusively via Book/Shop or at your local design-
 
 Designed by Sean Wolcott/Rationale.
 
-Specifications:
-11x17” spiral bound with hanger
-13 pages (cover, 12 months)
-High-quality printing on 100# cover stock
+Edition – 600 annually 
+Pages – 13 pages
+Printing – Indigo offset
+Size – 28x43 cm / 11x17 in 
+Paper – High-quality coated 80# stock
+Finish – Spiral bound with hanger
