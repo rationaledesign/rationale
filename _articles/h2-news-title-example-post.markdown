@@ -6,7 +6,7 @@ excerpt_text: This Saturday, October 24th, 5-7 PM at Peter Miller Books in Seatt
   design history and print featuring Lance Wyman, Rationale’s Sean Wolcott, Adrian
   Shaughnessy, and Peter Miller. Moderated by Civilization.
 featured_image:
-  image: "/uploads/rationale_2012_classiccar1_og1a.jpg"
+  image: "/uploads/rationale_woodenboatposter1_1b.jpg"
   alt: featured_image
 detail_images:
 - image: "/uploads/rationale_nycbg1_6a.jpg"
