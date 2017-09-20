@@ -5,7 +5,7 @@ excerpt_text: It was a pleasure and privilege to design this full page ad appear
   in todays New York Times and Cleveland Plain Dealer as well as be a part of its
   timely message. Check it out!
 featured_image:
-  image: "/uploads/test-1donald.jpg"
+  image: "/uploads/rationale_2014_caseybroadwater1_3a.jpg"
   alt: featured_image
 detail_images:
 - image: "/uploads/test-1donald.jpg"
