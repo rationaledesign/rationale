@@ -1,5 +1,5 @@
 ---
-title: Buy Buy
+title: FPO Buy Buy
 date: 2017-09-20 10:39:00 Z
 excerpt_text: |-
   This is for mobile.
