@@ -21,5 +21,5 @@ Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at
 Instead of the usual graphics, we reenvisioned the Hot Rod & Classic Car Show in historic Snohomish, Washington, USA to direct focus to the beauty of cars’ details themselves. The close-up photography is paired with a bold typographic treatment that entices one to come and “See More” at the annual event.
 
 Edition – 100 <br>
-Size – A1 / 594 x 841 mm / 23.4 x 33.1 in <br>
+Size – A1 / 594x841 mm / 23.4x33.1 in<br>
 Paper – 192 gsm, 10.3 mil
