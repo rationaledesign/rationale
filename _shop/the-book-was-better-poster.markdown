@@ -21,5 +21,5 @@ Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at
 Many visual metaphors can signify film, but most of these are too referential to the previous, analog era. The solution here achieves something more universal and transcendent: Transitioning groups of lines suggest the transitioning frames of a movie as well as the turning pages of a book. 
 
 Edition – 100 <br>
-Size – A1 / 594 x 841 mm / 23.4 x 33.1 in <br>
+Size – A1 / 594x841 mm / 23.4x33.1 in <br>
 Paper – 192 gsm, 10.3 mil
