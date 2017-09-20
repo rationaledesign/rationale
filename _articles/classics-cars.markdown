@@ -7,4 +7,11 @@ detail_images:
 - image: "/uploads/test-1donald.jpg"
 ---
 
-The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.
+This is for mobile.
+This is for mobile.
+This is for mobile.
+This is for mobile.
+This is for desktop.
+This is for desktop.
+This is for desktop.
+This is for desktop.
