@@ -28,6 +28,6 @@ Designed by Sean Wolcott/Rationale.
 Edition – 600 annually 
 Pages – 13
 Size – 28x43 cm / 11x17 in 
-Printing – Indigo offset
 Paper – High-quality coated 80# stock
+Printing – Indigo offset
 Finish – Spiral bound with hanger
