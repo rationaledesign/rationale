@@ -1,7 +1,7 @@
 ---
 title: FPO Dear Donald
 date: 2016-07-17 23:36:00 Z
-position: 1
+position: 4
 excerpt_text: It was a pleasure and privilege to design this full page ad appearing
   in todays New York Times and Cleveland Plain Dealer as well as be a part of its
   timely message. Check it out!
