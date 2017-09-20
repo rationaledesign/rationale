@@ -6,8 +6,14 @@ price: 175
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7XCZGUWL6RW8J
 buytag: Buy now
 is_buyactive: true
+imgcount: 1
+images:
+- image: "/uploads/rationale_classiccarshowposter1_1a.jpg"
+  alt: rationale shop classic car show poster
 thumb_image:
-  image: "/uploads/rationale_tbwbp1_0c.jpg"
+  image: "/uploads/rationale_classiccarshowposter1_0f.jpg"
+  alt: rationale shop classic car show poster
+og_image: "/uploads/rationale_classiccarshowposter1_1og.jpg"
 ---
 
 Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
