@@ -21,5 +21,5 @@ Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at
 For the Port of Toledo Wooden Boat Show poster custom cut wood blocks to spell out “boat show” using naval signal flags.
 
 Edition – 100 <br>
-Size – A1 / 594 x 841 mm / 23.4 x 33.1 in <br>
+Size – A1 / 594x841 mm / 23.4x33.1 in <br>
 Paper – 192 gsm, 10.3 mil
