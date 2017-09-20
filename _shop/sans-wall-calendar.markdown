@@ -26,7 +26,7 @@ Available for purchase online exclusively via Book/Shop or at your local design-
 Designed by Sean Wolcott/Rationale.
 
 Edition – 600 annually 
-Pages – 13 pages
+Pages – 13
 Printing – Indigo offset
 Size – 28x43 cm / 11x17 in 
 Paper – High-quality coated 80# stock
