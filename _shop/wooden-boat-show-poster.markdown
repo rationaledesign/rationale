@@ -8,7 +8,7 @@ buytag: Buy now
 is_buyactive: true
 imgcount: 1
 images:
-- image: "/uploads/rationale_woodenboatposter1_1b.jpg"
+- image: "/uploads/rationale_woodenboatposter1_0c.jpg"
   alt: rationale shop wooden boat show poster
 thumb_image:
   image: "/uploads/rationale_woodenboatposter1_0d.jpg"
