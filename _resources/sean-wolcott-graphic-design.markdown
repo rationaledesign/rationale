@@ -33,5 +33,5 @@ layout: resource
 
 Designed by Sean Wolcott, 2015, 172 pages.
  
-This book is also available in printed format in our [Shop](https://rationale-design.com/shop/). 
+This book is also available in printed format in our [Shop](https://rationale-design.com/shop/sean-wolcott-graphic-design/). 
 
