@@ -1,5 +1,5 @@
 ---
-title: Lance Wyman podcast
+title: FPO Lance Wyman podcast
 date: 2017-08-08 23:36:00 Z
 excerpt_text: This Saturday, October 24th, 5-7 PM at Peter Miller Books in Seattle
   attend an exclusive recording of the “Beyond This Point” podcast on branding, graphic
