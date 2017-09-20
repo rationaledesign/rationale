@@ -22,5 +22,5 @@ Many visual metaphors can signify film, but most of these are too referential to
 
 Edition – 100 <br>
 Size – A1 / 594x841 mm / 23.4x33.1 in <br>
-Paper – 192 gsm, 10.3 mil enhanced matte
+Paper – 192 gsm, 10.3 mil enhanced matte <br>
 Printing – Giclée
