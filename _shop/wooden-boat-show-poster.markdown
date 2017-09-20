@@ -22,4 +22,5 @@ For the Port of Toledo Wooden Boat Show poster custom cut wood blocks to spell o
 
 Edition – 100 <br>
 Size – A1 / 594x841 mm / 23.4x33.1 in <br>
-Paper – 192 gsm, 10.3 mil
+Paper – 192 gsm, 10.3 mil enhanced matte
+Printing – Giclée
