@@ -25,9 +25,9 @@ Available for purchase online exclusively via Book/Shop or at your local design-
 
 Designed by Sean Wolcott/Rationale.
 
-Edition – 600 annually 
-Pages – 13
-Size – 28x43 cm / 11x17 in 
-Paper – High-quality coated 80# stock
-Printing – Indigo offset
-Finish – Spiral bound with hanger
+Edition – 600 annually <br>
+Pages – 13 <br>
+Size – 28x43 cm / 11x17 in <br>
+Paper – High-quality coated 80# stock <br>
+Printing – Indigo offset <br>
+Finish – Spiral bound with hanger <br>
