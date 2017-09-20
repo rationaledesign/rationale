@@ -36,6 +36,6 @@ Edition – 300 <br>
 Pages – 172 <br>
 Size – 20x20 cm / 8x8 in <br>
 Paper – High-quality coated 80# stock <br>
-Printing – Indigo offset <br>
+Printing – Indigo offset, perfect bound <br>
  
 The book is also available as a free PDF in our [Resources](https://rationale-design.com/resources/sean-wolcott-graphic-design/).
