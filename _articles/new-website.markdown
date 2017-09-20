@@ -1,5 +1,5 @@
 ---
-title: New Website
+title: New website
 date: 2017-10-02 22:35:00 Z
 position: 0
 ---
