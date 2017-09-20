@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: FPO Resources
 date: 2016-09-20 10:36:00 Z
 excerpt_text: |-
   The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.
