@@ -1,6 +1,6 @@
 ---
 title: Modernist Graphic Design in the Pacific Northwest
-date: 2017-05-03 00:00:00 Z
+date: 2014-05-03 00:00:00 Z
 featured_image:
   image: "/uploads/rationale_2015-05-03_1a.jpg"
   alt: rationale article modernist graphic design pacific northwest
