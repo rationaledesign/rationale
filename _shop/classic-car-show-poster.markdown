@@ -6,6 +6,8 @@ price: 175
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7XCZGUWL6RW8J
 buytag: Buy now
 is_buyactive: true
+thumb_image:
+  image: "/uploads/rationale_tbwbp1_0c.jpg"
 ---
 
 Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
