@@ -22,5 +22,5 @@ Poster design for the promotion of the release of the single “All In Love” b
 
 Edition – 100 <br>
 Size – A1 / 594x841 mm / 23.4x33.1 in <br>
-Paper – 192 gsm, 10.3 mil enhanced matte
+Paper – 192 gsm, 10.3 mil enhanced matte <br>
 Printing – Giclée
