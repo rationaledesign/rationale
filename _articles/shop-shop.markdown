@@ -1,5 +1,5 @@
 ---
-title: Shop Shop
+title: FPO Shop Shop
 date: 2016-12-31 10:38:00 Z
 excerpt_text: The resources on this site are a collection of both new and rare design
   works provided free for research and educational purposes.
