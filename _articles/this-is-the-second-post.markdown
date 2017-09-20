@@ -1,5 +1,5 @@
 ---
-title: 2017 Rationale Calendar
+title: FPO 2017 Rationale Calendar
 date: 2016-09-13 12:26:00 Z
 excerpt_text: The 2016 Rationale sans calendar is now available for purchase at [rationale-design.com/store](http://rationale-design.com/store).
 featured_image:
