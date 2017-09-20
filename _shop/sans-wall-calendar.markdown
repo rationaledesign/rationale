@@ -29,5 +29,4 @@ Edition – 600 annually <br>
 Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
 Paper – High-quality coated 80# stock <br>
-Printing – Indigo offset <br>
-Finish – Spiral bound with hanger <br>
+Printing – Indigo offset, spiral bound with hanger <br>
