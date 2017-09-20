@@ -34,7 +34,6 @@ The 172 page book "Sean Wolcott: Graphic Design 2008–2014" chronicles the ongo
 
 Edition – 300 <br> 
 Pages – 172 <br>
-Published – April 6, 2015 <br>
 Size – 20x20 cm / 8x8 in <br>
 Paper – High-quality coated 80# stock <br>
 Printing – Indigo offset <br>
