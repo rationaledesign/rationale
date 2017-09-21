@@ -24,10 +24,8 @@
   
     img {
       display: block;
-      object-fit: contain;
-      object-position: left bottom;
-      height: 100%;
-      @include breakpoint($mobile) { position: relative; }
+      bottom: 0; position: absolute;
+      @include breakpoint($mobile) { position: relative; bottom: auto; }
     }
 
     .img.thumb .lazycont {
