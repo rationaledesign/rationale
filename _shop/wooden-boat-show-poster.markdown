@@ -11,7 +11,7 @@ images:
 - image: "/uploads/rationale_woodenboatposter1_1b.jpg"
   alt: rationale shop wooden boat show poster
 thumb_image:
-  image: "/uploads/rationale_woodenboatposter1_0g.jpg"
+  image: "/uploads/rationale_woodenboatposter1_0i.jpg"
   alt: rationale shop wooden boat show poster
 og_image: "/uploads/rationale_woodenboatposter1_1og.jpg"
 ---
