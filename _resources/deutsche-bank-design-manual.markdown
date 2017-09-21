@@ -20,7 +20,7 @@ images:
 - image: "/uploads/rationale_deutschebank_7a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
 thumb_image:
-  image: "/uploads/rationale_deutschebank_0a.jpg"
+  image: "/uploads/rationale_deutschebank_0b.jpg"
   alt: rationale resources stankowski deutsche bank manual book
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/Stankowski_DeutscheBank_Design_Manual.pdf
 og_image: "/uploads/rationale_deutschebank_og1a.jpg"
