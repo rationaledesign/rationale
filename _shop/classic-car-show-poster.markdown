@@ -11,7 +11,7 @@ images:
 - image: "/uploads/rationale_classiccarshowposter1_1a.jpg"
   alt: rationale shop classic car show poster
 thumb_image:
-  image: "/uploads/rationale_classiccarshowposter1_0f.jpg"
+  image: "/uploads/rationale_classiccarshowposter1_0h.jpg"
   alt: rationale shop classic car show poster
 og_image: "/uploads/rationale_classiccarshowposter1_1og.jpg"
 ---
