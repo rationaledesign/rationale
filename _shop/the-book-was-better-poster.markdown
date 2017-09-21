@@ -1,7 +1,7 @@
 ---
 title: The Book Was Better poster
 date: 2017-09-15 18:31:00 Z
-position: 2
+position: 3
 price: 175
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EJRLS8SYNQD4W
 buytag: Buy now
