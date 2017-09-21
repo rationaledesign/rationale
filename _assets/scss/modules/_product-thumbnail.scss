@@ -24,10 +24,15 @@
   
     img {
       display: block;
+      object-fit: contain;
+      object-position: left bottom;
+      height: 100%;
+      @include breakpoint($mobile) { position: relative; }
     }
 
     .img.thumb .lazycont {
       padding-bottom: 66.6%;
+      @include breakpoint($mobile) { padding-bottom: 0; height: auto; }
     }
   
     .product-thumbnail-title {
