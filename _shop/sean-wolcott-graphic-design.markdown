@@ -24,7 +24,7 @@ images:
 - image: "/uploads/rationale_sw08141_8a.jpg"
   alt: rationale shop sean wolcott graphic design book
 thumb_image:
-  image: "/uploads/rationale_sw08141_0a.jpg"
+  image: "/uploads/rationale_sw08141_0b.jpg"
   alt: rationale shop sean wolcott graphic design book
 og_image: "/uploads/rationale_sw08141_og1a.jpg"
 layout: product-detail
