@@ -18,7 +18,7 @@ images:
 - image: "/uploads/rationale_nycbg1_6a.jpg"
   alt: rationale resources vignelli new york botanical garden manual
 thumb_image:
-  image: "/uploads/rationale_nycbg1_0a.jpg"
+  image: "/uploads/rationale_nycbg_0b.jpg"
   alt: rationale resources vignelli new york botanical garden manual
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/Vignelli_NYBG_Design_Manual.pdf
 og_image: "/uploads/rationale_nycbg1_og1a.jpg"
