@@ -1,5 +1,5 @@
 <div class="feed-years">
-  {% assign postsByYear = include.articles | group_by_exp:"article", "article.date | date: '%Y'" %}
+  {% assign postsByYear = include.articles | reverse | group_by_exp:"article", "article.date | date: '%Y'" %}
 
 
   {% for year in postsByYear %}
