@@ -13,7 +13,7 @@ images:
 - image: "/uploads/rationale_sanscalendar171_2c.jpg"
   alt: rationale shop sans calendar 2017
 thumb_image:
-  image: "/uploads/rationale_sanscalendar171_0a.jpg"
+  image: "/uploads/rationale_sanscalendar171_0b.jpg"
   alt: rationale shop sans calendar 2017
 og_image: "/uploads/rationale_sanscalendar171_og1a.jpg"
 layout: product-detail
