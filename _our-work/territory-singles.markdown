@@ -10,7 +10,7 @@ images:
   alt: rationale design territory singles front cover
 - image: "/uploads/rationale_2016_territorysingles1_2a.jpg"
   alt: rationale design territory singles front cover
-- image: "/uploads/rationale_2016_territorysingles1_3a.jpg"
+- image: "/uploads/rationale_2016_territorysingles1_3b.jpg"
   alt: rationale design territory singles front cover
 thumb_image:
   image: "/uploads/rationale_2016_territorysingles1_0a.jpg"
