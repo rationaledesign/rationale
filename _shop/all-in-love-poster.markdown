@@ -11,7 +11,7 @@ images:
 - image: "/uploads/rationale_allinloveposter1_1d.jpg"
   alt: rationale shop all in love poster
 thumb_image:
-  image: "/uploads/rationale_allinloveposter1_0f.jpg"
+  image: "/uploads/rationale_allinloveposter1_0g.jpg"
   alt: rationale shop all in love poster
 og_image: "/uploads/rationale_allinloveposter1_1og.jpg"
 ---
