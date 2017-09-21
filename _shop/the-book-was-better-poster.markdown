@@ -11,7 +11,7 @@ images:
 - image: "/uploads/rationale_tbwbp1_1d.jpg"
   alt: rationale shop the book was a better film festival poster
 thumb_image:
-  image: "/uploads/rationale_tbwbp1_0c.jpg"
+  image: "/uploads/rationale_tbwbp1_0d.jpg"
   alt: rationale shop the book was a better film festival poster
 og_image: "/uploads/rationale_tbwbp1_1og.jpg"
 ---
