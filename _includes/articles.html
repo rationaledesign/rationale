@@ -14,7 +14,7 @@
 
     {% if notCurrentPostArray.size > 0 %}
       <div class="feed-year row">
-        <p class="med-col-third h2">{{year.name}}</p>
+        <p class="med-col-third h2 feed-year-title">{{year.name}}</p>
         <div class="feed-posts med-col-two-thirds">
           {% for article in notCurrentPostArray %}
             {% include article.html article=article short="true" %}

@@ -2,12 +2,13 @@
 title: Article TBD1
 date: 2017-09-21 22:36:00 Z
 position: 2
-featured_text: This is the featured text
+featured_text: This is the featured text!
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore.
 featured_image:
   image: "/uploads/FPO11ratio.jpg"
 detail_images:
+- image: "/uploads/FPO11ratio.jpg"
 - image: "/uploads/FPO11ratio.jpg"
 ---
 

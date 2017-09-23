@@ -1,20 +1,26 @@
 .feed-years {
-  margin-top: -$unit-half;
+  // margin-top: -$unit-half;
 }
 
 .feed-year {
 
-  &:not(:last-child) {
-    border-bottom: 1px solid $black;
-  }
+  .article-feed & { padding-top: $unit; }
+  .article &      { padding-top: $unit; }
 
-  &:not(:first-child) {
-    padding-top: $unit-half;
+  &:not(:last-child) { border-bottom: 1px solid $black; }
 
-    .feed-posts {
-      margin-top: $unit-4 - $unit-half;
+  .articles &:not(:first-child) { padding-top: $unit; }
+  .articles &:first-child .feed-posts {
+
+    @include breakpoint($med) {
+      margin-top: -$unit-3;
     }
   }
+
+}
+
+.feed-year-title {
+  margin-bottom: $unit-2 !important;
 }
 
 .feed-posts {
@@ -22,10 +28,10 @@
 }
 
 .feed-post {
-  padding-right: $unit-2;
   margin-bottom: $unit-5;
 
   @include breakpoint($small) {
+    padding-right: $unit-2;
     width: 50%;
     float: left;
 
@@ -34,7 +40,7 @@
     }
   }
 
-  time {
+  date {
     display: block;
     margin-bottom: $unit-15;
     color: $grey-dark;
@@ -50,7 +56,58 @@
 }
 
 .feed-post__title {
-  .feed-post:hover & {
-    color: $black;
+  display: inline-block;
+  background-image: none;
+}
+
+.feed-post-more {
+  display: inline;
+  top: -3px !important;
+  color: $grey-dark !important;
+
+  &:hover {
+    background-image: none !important;
+    color: $black !important;
+  }
+}
+
+.article {
+  date {
+    color: $grey-dark;
+  }
+
+  @include breakpoint($med) {
+    margin-bottom: $unit-4;
+  }
+
+  .more-full {
+
+    @include breakpoint($small-only) {
+      margin-bottom: $unit-3;
+    }
+  }
+}
+
+.article-images {
+  margin-bottom: $unit-2;
+  margin-top: -3px;
+
+  .img:not(:last-child) {
+    margin-bottom: 1px;
+  }
+}
+
+.article-date--top {
+  display: none;
+
+  @include breakpoint($med) {
+    display: block;
+  }
+}
+
+.article-date--bottom {
+
+  @include breakpoint($med) {
+    display: none;
   }
 }

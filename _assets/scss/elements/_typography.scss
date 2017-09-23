@@ -170,6 +170,7 @@ h5, .h5, .h5-wrap p, .h5-wrap a { @include h5; }
 
 .link--reset      { @include link--reset; }
 .link--secondary  { @include link--secondary; }
+.link--tertiary   { @include link--tertiary; }
 
 .h2 a, .h2-wrap a { top: auto; @include link--secondary; }
 .h4 a, .h4-wrap a { top: auto; @include link--tertiary; }

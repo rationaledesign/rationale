@@ -4,29 +4,29 @@
     <figure class="feed-post">
       <a href="{{include.article.url}}" class="link--reset">
         {% include img.html image=article.featured_image type="post-img" %}
-        <h2 class="feed-post__title link--secondary">{{include.article.title}}</h2>
-        <time class="h5">{{ include.article.date | date: "%b %d" }}</time>
-        {% if include.article.featured_text %}
-          <div class="h4-wrap no-margin">
-            {{ include.article.featured_text | markdownify }}
-          </div>
-        {% else %}
-          <div class="h4-wrap">
-            {{include.article.content}}
-          </div>
-        {% endif %}
       </a>
+      <a href="{{include.article.url}}" class="link--reset">
+        <h2 class="feed-post__title link--secondary mb-half">{{include.article.title}}</h2>
+      </a>
+      {% if include.article.featured_text %}
+        <div class="h4-wrap no-margin inline-wrap">
+          {{ include.article.featured_text | markdownify }} <a href="{{include.article.url}}" class="ib link--tertiary feed-post-more">Read More</a>
+        </div>
+      {% else %}
+        <div class="h4-wrap">
+          {{include.article.content}}
+        </div>
+      {% endif %}
     </figure>
   {% endif %}
 {% else %}
-<div class="border-top padding-top--half row">
+<div class="row">
   <div class="med-col-third pr-2">
-    <h1 class="h2">{{include.article.title}}</h1>
-    <date class="h5 mb block">{{include.article.date | date: "%b %d, %Y" }}</date>
+    <h1 class="h2 mb-half">{{include.article.title}}</h1>
     {% if include.article.excerpt_text %}
       <div class="more">
         <div class="h4-wrap more-short">
-          {{include.article.excerpt_text | markdownify }}<button class="js-more mb">more</button>
+          {{include.article.excerpt_text | markdownify }}<button class="js-more mb">Read more</button>
         </div>
         <div class="h4-wrap more-full">
           {{include.article.content}}
@@ -37,11 +37,15 @@
         {{include.article.content}}
       </div>
     {% endif %}
+  <date class="h5 mb block article-date--top">Published on: {{include.article.date | date: "%B %d, %Y" }}</date>
   </div>
   <div class="med-col-two-thirds">
-    {% for image in include.article.detail_images %}
-      {% include img.html image=image %}
-    {% endfor %}
+    <div class="article-images">
+      {% for image in include.article.detail_images %}
+        {% include img.html image=image %}
+      {% endfor %}
+    </div>
+    <date class="h5 mb block article-date--bottom">Published on: {{include.article.date | date: "%B %d, %Y" }}</date>
   </div>
 </div>
 {% endif %}

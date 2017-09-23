@@ -1,9 +1,8 @@
 .js-more { // button
   position: relative;
-  line-height: inherit;
+  @include h4;
 
   display: block;
-  margin: (-$unit) 0 (-$unit) 0;
 
   color: $black;
 

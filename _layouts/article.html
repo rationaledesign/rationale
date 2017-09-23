@@ -4,11 +4,14 @@ layout: default
 
 <div class="content">
   <div class="container">
-    <div class="mb-4">
+    <div class="row border-top pt">
+      <h1 class="h2 mb-1">Articles</h1>
+    </div>
+    <div class="mb-half article">
       {% include article.html article=page %}
     </div>
-    <div class="border-top">
-      <div class="pt row">
+    <div class="border-top article-feed">
+      <div class="row">
         {% include articles.html articles=site.articles %}
       </div>
     </div>

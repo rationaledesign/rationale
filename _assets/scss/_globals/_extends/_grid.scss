@@ -328,6 +328,7 @@ $columnWidth: 100 / 12;
 
 // space classes
 
+.mb-half    { margin-bottom: $unit }
 .mb, .mb-1  { margin-bottom: $unit-2 }
 .mb-1-5     { margin-bottom: $unit-3 }
 .mb-2       { margin-bottom: $unit-4 }
@@ -350,6 +351,20 @@ $columnWidth: 100 / 12;
 .pr-3     { padding-right: $unit-3    !important; }
 .pr-4     { padding-right: $unit-4    !important; }
 .pr-half  { padding-right: $unit-half !important; }
+
+.pt, .pt-1 { padding-top: $unit !important; }
+
+.no-margin { margin: 0 !important; }
+
+.block  { display: block }
+.ib     { display: inline-block }
+
+.inline { display: inline; }
+.inline-wrap {
+  > * {
+    display: inline;
+  }
+}
 
 // FIXME create space classes
 
