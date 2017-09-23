@@ -59,6 +59,132 @@
   @include col;
 }
 
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11 {
+  @include col;
+}
+
+$totalColumns: 12;
+$columnWidth: 100 / 12;
+
+@mixin col-1  { width: $columnWidth; }
+@mixin col-2  { width: $columnWidth * 2; }
+@mixin col-3  { width: 25%; }
+@mixin col-4  { width: $columnWidth * 4; }
+@mixin col-5  { width: $columnWidth * 5; }
+@mixin col-6  { width: 50%; }
+@mixin col-7  { width: $columnWidth * 7; }
+@mixin col-8  { width: $columnWidth * 8; }
+@mixin col-9  { width: 75%; }
+@mixin col-10 { width: $columnWidth * 10; }
+@mixin col-11 { width: $columnWidth * 11; }
+
+.col-1  { @include col-1; }
+.col-2  { @include col-2; }
+.col-3  { @include col-3; }
+.col-4  { @include col-4; }
+.col-5  { @include col-5; }
+.col-6  { @include col-6; }
+.col-7  { @include col-7; }
+.col-8  { @include col-8; }
+.col-9  { @include col-9; }
+.col-10 { @include col-10; }
+.col-11 { @include col-11; }
+
+.sm-col-1  { @include breakpoint($small) { @include col-1; } }
+.sm-col-2  { @include breakpoint($small) { @include col-2; } }
+.sm-col-3  { @include breakpoint($small) { @include col-3; } }
+.sm-col-4  { @include breakpoint($small) { @include col-4; } }
+.sm-col-5  { @include breakpoint($small) { @include col-5; } }
+.sm-col-6  { @include breakpoint($small) { @include col-6; } }
+.sm-col-7  { @include breakpoint($small) { @include col-7; } }
+.sm-col-8  { @include breakpoint($small) { @include col-8; } }
+.sm-col-9  { @include breakpoint($small) { @include col-9; } }
+.sm-col-10 { @include breakpoint($small) { @include col-10; } }
+.sm-col-11 { @include breakpoint($small) { @include col-11; } }
+
+.med-col-1  { @include breakpoint($med) { @include col-1; } }
+.med-col-2  { @include breakpoint($med) { @include col-2; } }
+.med-col-3  { @include breakpoint($med) { @include col-3; } }
+.med-col-4  { @include breakpoint($med) { @include col-4; } }
+.med-col-5  { @include breakpoint($med) { @include col-5; } }
+.med-col-6  { @include breakpoint($med) { @include col-6; } }
+.med-col-7  { @include breakpoint($med) { @include col-7; } }
+.med-col-8  { @include breakpoint($med) { @include col-8; } }
+.med-col-9  { @include breakpoint($med) { @include col-9; } }
+.med-col-10 { @include breakpoint($med) { @include col-10; } }
+.med-col-11 { @include breakpoint($med) { @include col-11; } }
+
+.lrg-col-1  { @include breakpoint($large) { @include col-1; } }
+.lrg-col-2  { @include breakpoint($large) { @include col-2; } }
+.lrg-col-3  { @include breakpoint($large) { @include col-3; } }
+.lrg-col-4  { @include breakpoint($large) { @include col-4; } }
+.lrg-col-5  { @include breakpoint($large) { @include col-5; } }
+.lrg-col-6  { @include breakpoint($large) { @include col-6; } }
+.lrg-col-7  { @include breakpoint($large) { @include col-7; } }
+.lrg-col-8  { @include breakpoint($large) { @include col-8; } }
+.lrg-col-9  { @include breakpoint($large) { @include col-9; } }
+.lrg-col-10 { @include breakpoint($large) { @include col-10; } }
+.lrg-col-11 { @include breakpoint($large) { @include col-11; } }
+
+.offset-1   { margin-left: $columnWidth; }
+.offset-2   { margin-left: $columnWidth * 2; }
+.offset-3   { margin-left: 25%; }
+.offset-4   { margin-left: $columnWidth * 4; }
+.offset-5   { margin-left: $columnWidth * 5; }
+.offset-6   { margin-left: 50%; }
+.offset-7   { margin-left: $columnWidth * 7; }
+.offset-8   { margin-left: $columnWidth * 8; }
+.offset-9   { margin-left: 75%; }
+.offset-10  { margin-left: $columnWidth * 10; }
+.offset-11  { margin-left: $columnWidth * 11; }
+
+.sm-offset-1   { @include breakpoint($small) { margin-left: $columnWidth; } }
+.sm-offset-2   { @include breakpoint($small) { margin-left: $columnWidth * 2; } }
+.sm-offset-3   { @include breakpoint($small) { margin-left: 25%; } }
+.sm-offset-4   { @include breakpoint($small) { margin-left: $columnWidth * 4; } }
+.sm-offset-5   { @include breakpoint($small) { margin-left: $columnWidth * 5; } }
+.sm-offset-6   { @include breakpoint($small) { margin-left: 50%; } }
+.sm-offset-7   { @include breakpoint($small) { margin-left: $columnWidth * 7; } }
+.sm-offset-8   { @include breakpoint($small) { margin-left: $columnWidth * 8; } }
+.sm-offset-9   { @include breakpoint($small) { margin-left: 75%; } }
+.sm-offset-10  { @include breakpoint($small) { margin-left: $columnWidth * 10; } }
+.sm-offset-11  { @include breakpoint($small) { margin-left: $columnWidth * 11; } }
+
+.med-offset-1   { @include breakpoint($med) { margin-left: $columnWidth; } }
+.med-offset-2   { @include breakpoint($med) { margin-left: $columnWidth * 2; } }
+.med-offset-3   { @include breakpoint($med) { margin-left: 25%; } }
+.med-offset-4   { @include breakpoint($med) { margin-left: $columnWidth * 4; } }
+.med-offset-5   { @include breakpoint($med) { margin-left: $columnWidth * 5; } }
+.med-offset-6   { @include breakpoint($med) { margin-left: 50%; } }
+.med-offset-7   { @include breakpoint($med) { margin-left: $columnWidth * 7; } }
+.med-offset-8   { @include breakpoint($med) { margin-left: $columnWidth * 8; } }
+.med-offset-9   { @include breakpoint($med) { margin-left: 75%; } }
+.med-offset-10  { @include breakpoint($med) { margin-left: $columnWidth * 10; } }
+.med-offset-11  { @include breakpoint($med) { margin-left: $columnWidth * 11; } }
+
+.lrg-offset-1   { @include breakpoint($large) { margin-left: $columnWidth; } }
+.lrg-offset-2   { @include breakpoint($large) { margin-left: $columnWidth * 2; } }
+.lrg-offset-3   { @include breakpoint($large) { margin-left: 25%; } }
+.lrg-offset-4   { @include breakpoint($large) { margin-left: $columnWidth * 4; } }
+.lrg-offset-5   { @include breakpoint($large) { margin-left: $columnWidth * 5; } }
+.lrg-offset-6   { @include breakpoint($large) { margin-left: 50%; } }
+.lrg-offset-7   { @include breakpoint($large) { margin-left: $columnWidth * 7; } }
+.lrg-offset-8   { @include breakpoint($large) { margin-left: $columnWidth * 8; } }
+.lrg-offset-9   { @include breakpoint($large) { margin-left: 75%; } }
+.lrg-offset-10  { @include breakpoint($large) { margin-left: $columnWidth * 10; } }
+.lrg-offset-11  { @include breakpoint($large) { margin-left: $columnWidth * 11; } }
+
+
 // SIXTH
 
 @mixin col-sixth($extend: true) {
