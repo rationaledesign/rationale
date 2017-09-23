@@ -6,9 +6,9 @@
         {% include img.html image=article.featured_image type="post-img" %}
         <h2 class="feed-post__title link--secondary">{{include.article.title}}</h2>
         <time class="h5">{{ include.article.date | date: "%b %d" }}</time>
-        {% if include.article.excerpt_text %}
+        {% if include.article.featured_text %}
           <div class="h4-wrap no-margin">
-            {{include.article.excerpt_text | markdownify }}
+            {{ include.article.featured_text | markdownify }}
           </div>
         {% else %}
           <div class="h4-wrap">

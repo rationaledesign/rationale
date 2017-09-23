@@ -2,6 +2,7 @@
 title: Manuals 2
 date: 2014-09-27 23:23:00 Z
 position: 14
+featured_text: This is the featured text.
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt.
 featured_image:

@@ -2,6 +2,7 @@
 title: Music Poster Series
 date: 2013-05-20 23:27:00 Z
 position: 18
+featured_text: This is the featured text.
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore.
 featured_image:
