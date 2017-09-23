@@ -8,9 +8,6 @@ collections:
   our-work:
     title: Our work
     output: true
-  posts:
-    title: Posts
-    output: true
   resources:
     title: Resources
     output: true
