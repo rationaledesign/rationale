@@ -2,6 +2,7 @@
 title: Typho Interview
 date: 2014-06-27 23:25:00 Z
 position: 16
+featured_text: This is the featured text.
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor.
 featured_image:

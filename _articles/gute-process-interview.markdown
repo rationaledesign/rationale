@@ -2,6 +2,7 @@
 title: Gute Process Interview
 date: 2016-04-25 22:48:00 Z
 position: 6
+featured_text: This is the featured text.
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt.
 featured_image:

@@ -2,6 +2,7 @@
 title: Design & Technology Interview
 date: 2014-08-20 23:23:00 Z
 position: 15
+featured_text: This is the featured text.
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore.
 featured_image:

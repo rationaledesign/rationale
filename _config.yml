@@ -31,60 +31,61 @@ defaults:
     type: our-work
   values:
     layout: project
-    excerpt_text: 
-    year: 
+    excerpt_text:
+    year:
     images:
-    - image: 
-      alt: 
+    - image:
+      alt:
     thumb_image:
-      image: 
-      alt: 
-    og_image: 
+      image:
+      alt:
+    og_image:
 - scope:
     path: ''
     type: resources
   values:
     layout: resource
-    author: 
-    imgcount: 
+    author:
+    imgcount:
     images:
-    - image: 
-      alt: 
+    - image:
+      alt:
     thumb_image:
-      image: 
-      alt: 
-    download_file: 
-    og_image: 
+      image:
+      alt:
+    download_file:
+    og_image:
 - scope:
     path: ''
     type: shop
   values:
     layout: product-detail
-    price: 
-    buylink: 
-    buytag: 
-    is_buyactive: 
-    imgcount: 
+    price:
+    buylink:
+    buytag:
+    is_buyactive:
+    imgcount:
     images:
-    - image: 
-      alt: 
+    - image:
+      alt:
     thumb_image:
-      image: 
-      alt: 
-    og_image: 
+      image:
+      alt:
+    og_image:
 - scope:
     path: ''
     type: articles
   values:
     layout: article
-    excerpt_text: 
+    featured_text:
+    excerpt_text:
     featured_image:
-      image: 
-      alt: 
+      image:
+      alt:
     detail_images:
-    - image: 
-      alt: 
-    og_image: 
+    - image:
+      alt:
+    og_image:
 permalink: pretty
 exclude:
 - Gemfile
