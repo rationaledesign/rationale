@@ -1,5 +1,5 @@
 <div class="img {{ include.type }}" 
-    style="background-color: {% get_color include.image.image %}; {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}{% if include.type == 'gallery' %}padding-bottom: {% get_size include.image.image %}%{% endif %}">
+    style="background-color: {% get_color include.image.image %}; {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}{% if include.type == 'gallery' or include.type == 'post-img' %}padding-bottom: {% get_size include.image.image %}%{% endif %}">
     <span class="lazycont" data-alt="{{include.image.alt}}">
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=1&q=50"></span>
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=2&q=40" data-media="(-webkit-min-device-pixel-ratio: 2.0)"></span>
