@@ -3,7 +3,7 @@
   {% if page.title != include.article.title %}
     <figure class="feed-post">
       <a href="{{include.article.url}}" class="link--reset">
-        <img src="{{article.featured_image.image}}" alt="{{pinclude.ost.featured_image.alt}}">
+        {% include img.html image=article.featured_image type="post-img" %}
         <h2 class="feed-post__title link--secondary">{{include.article.title}}</h2>
         <time class="h5">{{ include.article.date | date: "%b %d" }}</time>
         {% if include.article.featured_text %}

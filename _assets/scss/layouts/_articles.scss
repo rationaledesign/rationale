@@ -40,8 +40,12 @@
     color: $grey-dark;
   }
 
-  img {
+  .post-img {
     margin-bottom: $unit;
+
+    img {
+      position: absolute;
+    }
   }
 }
 

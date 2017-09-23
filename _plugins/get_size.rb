@@ -18,7 +18,7 @@ class GetSizeTag < Liquid::Tag
 
         if var.nil? || var.empty?
             # if image is empty
-            return "transparent"
+            return "0"
         else
             flag = 0
 
