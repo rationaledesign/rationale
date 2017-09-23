@@ -39,6 +39,6 @@ layout: default
     var url = window.location.href;
     if (url.indexOf("/resources") !== -1) document.getElementById('res404').style.display = 'block';
     else if (url.indexOf("/shop") !== -1) document.getElementById('str404').style.display = 'block';
-    else if (url.indexOf("/articles") !== -1) document.getElementById('nws404').style.display = 'block';
+    else if (url.indexOf("/articles") !== -1) { document.getElementById('nws404').style.display = 'block'; document.getElementsByTagName( 'html' )[0].setAttribute( 'class', 'bg-whiteWarm' ) }
     else document.getElementById('prj404').style.display = 'block';
 </script>
