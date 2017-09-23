@@ -1,3 +1,4 @@
+$col-color: rgba(aqua, 0.35);
 * {
   box-sizing: border-box;
 }
@@ -73,6 +74,32 @@ img {width: 100%; display: block;}
   padding-right: 12px;
   margin: 0 auto;
   width: 100%;
+
+  .gridShown &:before {
+    position: absolute;
+    top: 0;
+    left:  12px;
+    right: 12px - 1px;
+    bottom: 0;
+    content: '';
+    background: linear-gradient(to right, $col-color 1px, transparent 1px);
+    background-size: 8.333333% 1px;
+
+    @include breakpoint($small) {
+      left:  24px;
+      right: 24px - 1px;
+    }
+
+    @include breakpoint(700px) {
+      left:  48px;
+      right: 48px - 1px;
+    }
+
+    @include breakpoint($large) {
+      left:  144px;
+      right: 144px - 1px;
+    }
+  }
 
   @include breakpoint($small) {
     padding-left:  24px;
