@@ -18,4 +18,4 @@ layout: our-approach
 
 Design is not a job, it is a mission.
 
-Rationale was founded on this conviction – our work is our passion and we bring over 20 years of expertise across all aspects of design to each project whether it be a brand identity system, website, application, publication, or more.
+Rationale was founded on this conviction – our work is our passion and we bring over 20 years of expertise across all aspects of design whether it be a brand identity system, website, application, publication, or more.
