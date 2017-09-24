@@ -2,7 +2,8 @@
 title: New Website
 date: 2017-10-02 22:35:00 Z
 position: 0
-featured_text: This is the featured text.
+featured_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 featured_image:
