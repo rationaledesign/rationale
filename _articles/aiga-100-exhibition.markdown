@@ -2,7 +2,8 @@
 title: AIGA 100 Exhibition
 date: 2014-10-30 23:22:00 Z
 position: 12
-featured_text: This is the featured text.
+featured_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 excerpt_text: Lorem ipsum dolor sit amet.
 featured_image:
   image: "/uploads/rationale_2014-10-30_1a.jpg"
