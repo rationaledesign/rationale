@@ -20,8 +20,12 @@
 }
 
 .project-description {
-  margin-bottom: $unit-4;
+  margin-bottom: $unit-3;
   margin-top: -4px;
+
+  @include breakpoint($large) {
+    margin-bottom: $unit-4;
+  }
 
   // @include breakpoint($med) {
   //   & > p:first-child {

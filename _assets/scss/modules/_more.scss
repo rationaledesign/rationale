@@ -3,7 +3,8 @@
   @include h4;
 
   display: block;
-
+  margin-top: -$unit; margin-left: 0;
+  
   color: $black;
 
   &:before {

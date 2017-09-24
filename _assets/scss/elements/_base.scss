@@ -6,9 +6,6 @@ $col-color: rgba(aqua, 0.35);
 html {
   $grid-color: rgba(red, 0.15);
   background-color: $white;
-  height: 100%;
-  width: 100vw;
-  overflow-x: hidden;
 
   &.gridShown {
     background: linear-gradient($grid-color, $grid-color 1px, transparent 1px);
@@ -25,7 +22,6 @@ body {
   flex-direction: column;
   overflow-x: hidden;
   font-family: $font-NHG--roman;
-  width: 100vw;
   min-height: 100vh;
 }
 
