@@ -2,7 +2,8 @@
 title: Modernist Graphic Design in the Pacific Northwest
 date: 2015-05-03 23:12:00 Z
 position: 9
-featured_text: This is the featured text.
+featured_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua ut enim ad minim.
 featured_image:
