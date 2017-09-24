@@ -24,7 +24,7 @@
   <div class="med-col-third pr-2">
     <h1 class="h2 mb-half">{{include.article.title}}</h1>
     {% if include.article.excerpt_text %}
-      <div class="more">
+      <div class="more article-content">
         <div class="h4-wrap more-short">
           {{include.article.excerpt_text | markdownify }}<button class="js-more mb">Read more</button>
         </div>
@@ -33,7 +33,7 @@
         </div>
       </div>
     {% else %}
-      <div class="h4-wrap">
+      <div class="h4-wrap article-content">
         {{include.article.content}}
       </div>
     {% endif %}
