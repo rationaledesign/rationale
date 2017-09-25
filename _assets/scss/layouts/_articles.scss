@@ -1,6 +1,4 @@
-.feed-years {
-  // margin-top: -$unit-half;
-}
+.feed-years { }
 
 .feed-year {
 
@@ -23,21 +21,20 @@
   margin-bottom: $unit-2 !important;
 }
 
-.feed-posts {
+.feed-posts {}
 
+.grid-sizer {
+  @include breakpoint($small) {
+    width:  50%;
+  }
 }
 
 .feed-post {
-  margin-bottom: $unit-5;
+  padding-bottom: $unit-5;
 
   @include breakpoint($small) {
     padding-right: $unit-2;
     width: 50%;
-    float: left;
-
-    &:nth-child(2n) {
-      float: right;
-    }
   }
 
   date {

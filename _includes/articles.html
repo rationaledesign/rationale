@@ -16,6 +16,7 @@
       <div class="feed-year row">
         <p class="med-col-third h2 feed-year-title">{{year.name}}</p>
         <div class="feed-posts med-col-two-thirds">
+          <div class="grid-sizer"></div>
           {% for article in notCurrentPostArray %}
             {% include article.html article=article short="true" %}
           {% endfor %}
@@ -24,5 +25,3 @@
     {% endif %}
   {% endfor %}
 </div>
-
-
