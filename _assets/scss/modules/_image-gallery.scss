@@ -3,7 +3,7 @@
 
     .img.gallery img { position: absolute; width: 100.1% }
 }
-  
+
 .gallery-thumbnails {
   padding-right: $unit-half;
   margin-bottom: $unit-2;
@@ -61,18 +61,5 @@
       @include breakpoint($mobile) {
         background-color: $grey_dark;
       }
-      /*.thumb-wrap:before {
-        @include breakpoint($small) {
-          display: block;
-          position: absolute;
-          content: '';
-          top: 0;
-          bottom: 0;
-          right: 0;
-          left: 0;
-          border: 1px solid $grey_dark;
-          z-index: 1;
-        }
-      }*/
     }
 }

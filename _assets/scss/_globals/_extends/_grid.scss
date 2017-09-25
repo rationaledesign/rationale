@@ -365,12 +365,3 @@ $columnWidth: 100 / 12;
     display: inline;
   }
 }
-
-// FIXME create space classes
-
-.sm-below-mb {
-  @include breakpoint(0px $small) {
-    //margin-bottom: $unit-15;
-  }
-}
-
