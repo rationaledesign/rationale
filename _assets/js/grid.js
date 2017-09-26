@@ -21,7 +21,8 @@ if (window.innerWidth > 559) {
       itemSelector: '.feed-post',
       columnWidth: '.grid-sizer',
       percentPosition: true,
-      transitionDuration: 0
+      transitionDuration: 0,
+      horizontalOrder: true
     });
   })
 }
@@ -55,7 +56,8 @@ window.addEventListener("optimizedResize", function() {
           itemSelector: '.feed-post',
           columnWidth: '.grid-sizer',
           percentPosition: true,
-          transitionDuration: 0
+          transitionDuration: 0,
+          horizontalOrder: true
         });
       })
     } else if (posts && window.innerWidth < 559) {
@@ -64,7 +66,8 @@ window.addEventListener("optimizedResize", function() {
           itemSelector: '.feed-post',
           columnWidth: '.grid-sizer',
           percentPosition: true,
-          transitionDuration: 0
+          transitionDuration: 0,
+          horizontalOrder: true
         });
         msnry.destroy();
       })
