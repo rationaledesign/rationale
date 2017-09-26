@@ -16,16 +16,14 @@ if (window.innerWidth > 559) {
 
   var posts = document.querySelectorAll('.feed-posts');
 
-  if(posts.length) {
-    posts.forEach(function(container, i){
-      var msnry = new Masonry( container, {
-        itemSelector: '.feed-post',
-        columnWidth: '.grid-sizer',
-        percentPosition: true,
-        transitionDuration: 0
-      });
-    })
-  }
+  [].forEach.call(posts, function(container, i) {
+    var msnry = new Masonry( container, {
+      itemSelector: '.feed-post',
+      columnWidth: '.grid-sizer',
+      percentPosition: true,
+      transitionDuration: 0
+    });
+  })
 }
 
 (function() {
@@ -52,28 +50,24 @@ window.addEventListener("optimizedResize", function() {
     if(!posts && window.innerWidth > 559) {
       window.posts = document.querySelectorAll('.feed-posts');
 
-      if (posts.length) {
-        posts.forEach(function(container, i){
-          var msnry = new Masonry( container, {
-            itemSelector: '.feed-post',
-            columnWidth: '.grid-sizer',
-            percentPosition: true,
-            transitionDuration: 0
-          });
-        })
-      }
+      [].forEach.call(posts, function(container, i) {
+        var msnry = new Masonry( container, {
+          itemSelector: '.feed-post',
+          columnWidth: '.grid-sizer',
+          percentPosition: true,
+          transitionDuration: 0
+        });
+      })
     } else if (posts && window.innerWidth < 559) {
-      if(posts.length) {
-        posts.forEach(function(container){
-          var msnry = new Masonry( container, {
-            itemSelector: '.feed-post',
-            columnWidth: '.grid-sizer',
-            percentPosition: true,
-            transitionDuration: 0
-          });
-          msnry.destroy();
-        })
-        window.posts = null;
-      }
+      [].forEach.call(posts, function(container, i) {
+        var msnry = new Masonry( container, {
+          itemSelector: '.feed-post',
+          columnWidth: '.grid-sizer',
+          percentPosition: true,
+          transitionDuration: 0
+        });
+        msnry.destroy();
+      })
+      window.posts = null;
     }
 });
