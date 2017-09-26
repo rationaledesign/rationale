@@ -16,14 +16,16 @@ if (window.innerWidth > 559) {
 
   var posts = document.querySelectorAll('.feed-posts');
 
-  posts.forEach(function(container, i){
-    var msnry = new Masonry( container, {
-      itemSelector: '.feed-post',
-      columnWidth: '.grid-sizer',
-      percentPosition: true,
-      transitionDuration: 0
-    });
-  })
+  if(posts.length) {
+    posts.forEach(function(container, i){
+      var msnry = new Masonry( container, {
+        itemSelector: '.feed-post',
+        columnWidth: '.grid-sizer',
+        percentPosition: true,
+        transitionDuration: 0
+      });
+    })
+  }
 }
 
 (function() {
@@ -49,24 +51,29 @@ if (window.innerWidth > 559) {
 window.addEventListener("optimizedResize", function() {
     if(!posts && window.innerWidth > 559) {
       window.posts = document.querySelectorAll('.feed-posts');
-      posts.forEach(function(container, i){
-        var msnry = new Masonry( container, {
-          itemSelector: '.feed-post',
-          columnWidth: '.grid-sizer',
-          percentPosition: true,
-          transitionDuration: 0
-        });
-      })
+
+      if (posts.length) {
+        posts.forEach(function(container, i){
+          var msnry = new Masonry( container, {
+            itemSelector: '.feed-post',
+            columnWidth: '.grid-sizer',
+            percentPosition: true,
+            transitionDuration: 0
+          });
+        })
+      }
     } else if (posts && window.innerWidth < 559) {
-      posts.forEach(function(container){
-        var msnry = new Masonry( container, {
-          itemSelector: '.feed-post',
-          columnWidth: '.grid-sizer',
-          percentPosition: true,
-          transitionDuration: 0
-        });
-        msnry.destroy();
-      })
-      window.posts = null;
+      if(posts.length) {
+        posts.forEach(function(container){
+          var msnry = new Masonry( container, {
+            itemSelector: '.feed-post',
+            columnWidth: '.grid-sizer',
+            percentPosition: true,
+            transitionDuration: 0
+          });
+          msnry.destroy();
+        })
+        window.posts = null;
+      }
     }
 });
