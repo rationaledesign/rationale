@@ -12,9 +12,12 @@ excerpt_text: Lorem is simply dummy text of the printing and typesetting industr
   book. It has survived not only five centuries, but also the leap into electronic
   typesetting, remaining essentially unchanged.
 featured_image:
-  image: "/uploads/FPO11ratio.jpg"
+  image: "/uploads/rationale_2017-09-10_1a.jpg"
+  alt: rationale articles new posters in the shop
 detail_images:
-- image: "/uploads/FPO11ratio.jpg"
+- image: "/uploads/rationale_2017-09-10_1a.jpg"
+  alt: rationale articles new posters in the shop
+og_image: "/uploads/rationale_2017-09-10_og1a.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
