@@ -8,7 +8,7 @@ featured_image:
   image: "/uploads/rationale_2013-05-20_1a.jpg"
   alt: rationale articles music poster series
 detail_images:
-- image: "/uploads/FPO11ratio.jpg"
+- image: "/uploads/rationale_2013-05-20_1a.jpg"
   alt: rationale articles music poster series
 og_image: "/uploads/rationale_2013-05-20_og1a.jpg"
 ---
