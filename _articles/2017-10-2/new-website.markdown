@@ -11,7 +11,6 @@ featured_image:
 detail_images:
 - image: "/uploads/rationale_2017-10-12_1a.jpg"
   alt: rationale articles new website
-- image: "/uploads/FPO11ratio.jpg"
 og_image: "/uploads/rationale_2017-10-12_og1a.jpg"
 ---
 
