@@ -20,3 +20,5 @@ layout: project
 ---
 
 On the poster for Port of Toledo Wooden Boat Show, custom cut wood blocks to spell out “boat show” using naval signal flags.
+
+Available for purchase from the Rationale [Store](https://rationale-design.com/shop/wooden-boat-show-poster/).
