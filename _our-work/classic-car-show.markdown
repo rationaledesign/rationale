@@ -35,3 +35,5 @@ layout: project
 Instead of the usual graphics, we reenvisioned the Hot Rod & Classic Car Show in historic Snohomish, Washington, USA to direct focus to the beauty of cars’ details themselves.
 
 The close-up photography is paired with a bold typographic treatment that entices one to come and “See More” at the annual event.
+
+Available for purchase from the Rationale [Store](https://rationale-design.com/shop/classic-car-show-poster/).
