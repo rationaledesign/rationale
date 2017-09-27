@@ -8,10 +8,12 @@ featured_text: Lorem is simply dummy text of the printing and typesetting indust
   book. It has survived not only five centuries, but also the leap into electronic
   typesetting, remaining essentially unchanged.
 featured_image:
-  image: "/uploads/rationale_2016-04-25_1a.jpg"
+  image: "/uploads/rationale_2016-04-25_1b.jpg"
+  alt: rationale articles gute process interview
 detail_images:
 - image: "/uploads/rationale_2016-04-25_1a.jpg"
-og_image: "/uploads/rationale_2016-04-25_og1a.jpg"
+  alt: rationale articles gute process interview
+og_image: "/uploads/rationale_2016-04-25_og1b.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
