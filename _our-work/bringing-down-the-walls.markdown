@@ -10,7 +10,7 @@ excerpt_text: Promotional poster design for release of music group The Fascinati
   single, poster artwork, and related EP release.
 year: 2009
 images:
-- image: "/uploads/rationale_2009_bringdownthewalls1_1b.jpg"
+- image: "/uploads/rationale_2009_bringdownthewalls1_1c.jpg"
   alt: rationale design bringing down the walls album cover
 - image: "/uploads/rationale_2009_bringdownthewalls1_2a.jpg"
   alt: rationale design bringing down the walls poster
