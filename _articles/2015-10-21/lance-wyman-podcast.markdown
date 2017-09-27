@@ -7,9 +7,11 @@ featured_text: Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempo
   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
   irure dolor in reprehenderit in voluptate velit esse cillum dolore.
 featured_image:
-  image: "/uploads/rationale_2015-10-21_1a.jpg"
+  image: "/uploads/rationale_2015-10-21_1b.jpg"
+  alt: rationale articles lance wyman podcast
 detail_images:
 - image: "/uploads/rationale_2015-10-21_1a.jpg"
+  alt: rationale articles lance wyman podcast
 og_image: "/uploads/rationale_2015-10-21_og1a.jpg"
 ---
 
