@@ -11,7 +11,7 @@ featured_image:
   image: "/uploads/rationale_2016-04-25_1b.jpg"
   alt: rationale articles gute process interview
 detail_images:
-- image: "/uploads/rationale_2016-04-25_1a.jpg"
+- image: "/uploads/rationale_2016-04-25_1b.jpg"
   alt: rationale articles gute process interview
 og_image: "/uploads/rationale_2016-04-25_og1b.jpg"
 ---
