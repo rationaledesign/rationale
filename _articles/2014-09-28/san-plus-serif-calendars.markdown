@@ -7,10 +7,12 @@ featured_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
   tempor incididunt.
 featured_image:
-  image: "/uploads/rationale_2014-09-28_1a.jpg"
+  image: "/uploads/rationale_2014-09-28_1b.jpg"
+  alt: rationale articles san serif 2015 calendar
 detail_images:
-- image: "/uploads/rationale_2014-09-28_1a.jpg"
-og_image: "/uploads/rationale_2014-09-28_og1a.jpg"
+- image: "/uploads/rationale_2014-09-28_1b.jpg"
+  alt: rationale articles san serif 2015 calendar
+og_image: "/uploads/rationale_2014-09-28_og1b.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
