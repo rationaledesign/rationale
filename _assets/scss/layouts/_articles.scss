@@ -5,7 +5,7 @@
   .article-feed & { padding-top: $unit; }
   .article &      { padding-top: $unit; }
 
-  &:not(:last-child) { border-bottom: 1px solid $black; }
+  &:not(:last-child) { border-bottom: 1px solid $grey-medium; }
 
   .articles &:not(:first-child) { padding-top: $unit; }
   .articles &:first-child .feed-posts {
