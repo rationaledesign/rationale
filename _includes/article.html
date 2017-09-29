@@ -21,7 +21,7 @@
   {% endif %}
 {% else %}
 <div class="row">
-  <div class="med-col-third pr-2">
+  <div class="sm-col-11 med-col-12 med-col-third">
     <h1 class="h2 mb-half">{{include.article.title}}</h1>
     {% if include.article.excerpt_text %}
       <div class="more article-content">
@@ -39,13 +39,13 @@
     {% endif %}
   <date class="h5 mb block article-date--top">Published on {{include.article.date | date: "%B %d, %Y" }}</date>
   </div>
-  <div class="med-col-two-thirds">
+  <div class="med-col-two-thirds sm-cf md-cf-off">
     <div class="article-images">
       {% for image in include.article.detail_images %}
         {% include img.html image=image %}
       {% endfor %}
     </div>
-    <date class="h5 mb block article-date--bottom">Published on: {{include.article.date | date: "%B %d, %Y" }}</date>
+    <date class="h5 mb block article-date--bottom">Published on {{include.article.date | date: "%B %d, %Y" }}</date>
   </div>
 </div>
 {% endif %}

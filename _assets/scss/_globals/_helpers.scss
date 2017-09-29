@@ -30,6 +30,18 @@
 
 .cf {clear:both}
 
+.sm-cf {
+  @include breakpoint($small) {
+    clear: both;
+  }
+}
+
+.md-cf-off {
+  @include breakpoint($med) {
+    clear: none;
+  }
+}
+
 %clearfix:before,
 %clearfix:after {
     content: " "; /* 1 */

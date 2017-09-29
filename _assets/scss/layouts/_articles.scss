@@ -87,6 +87,10 @@
   .article-content {
     margin-bottom: $unit-3;
     margin-top: -4px;
+
+    @include breakpoint($med) {
+      padding-right: $unit-2;
+    }
   }
 }
 
