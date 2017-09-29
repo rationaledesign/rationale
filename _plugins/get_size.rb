@@ -63,7 +63,7 @@ class GetSizeTag < Liquid::Tag
                             CSV.open(filename, "a+b") do |csv|
                                 csv << [var, printheight]
                             end
-                        else return res.class.name
+                        else return resp.class.name
                         end
                 
                         # and return the hex color
