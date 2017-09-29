@@ -5,8 +5,8 @@
       <a href="{{include.article.url}}" class="link--reset">
         {% include img.html image=article.featured_image type="post-img" %}
       </a>
-      <a href="{{include.article.url}}" class="link--reset">
-        <h2 class="feed-post__title link--secondary mb-half">{{include.article.title}}</h2>
+      <a href="{{include.article.url}}" class="link--reset mb-half ib">
+        <h2 class="feed-post__title link--secondary inline">{{include.article.title}}</h2>
       </a>
       {% if include.article.featured_text %}
         <div class="h4-wrap no-margin inline-wrap">
@@ -37,7 +37,7 @@
         {{include.article.content}}
       </div>
     {% endif %}
-  <date class="h5 mb block article-date--top">Published on: {{include.article.date | date: "%B %d, %Y" }}</date>
+  <date class="h5 mb block article-date--top">Published on {{include.article.date | date: "%B %d, %Y" }}</date>
   </div>
   <div class="med-col-two-thirds">
     <div class="article-images">

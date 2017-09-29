@@ -60,7 +60,7 @@
 }
 
 $totalColumns: 12;
-$columnWidth: 100 / 12;
+$columnWidth: 100 / 12 * 1%;
 
 @mixin col-1  { @include col; width: $columnWidth; }
 @mixin col-2  { @include col; width: $columnWidth * 2; }
@@ -73,6 +73,7 @@ $columnWidth: 100 / 12;
 @mixin col-9  { @include col; width: 75%; }
 @mixin col-10 { @include col; width: $columnWidth * 10; }
 @mixin col-11 { @include col; width: $columnWidth * 11; }
+@mixin col-12 { @include col; width: 100%; }
 
 .col-1  { @include col-1; }
 .col-2  { @include col-2; }
@@ -85,6 +86,7 @@ $columnWidth: 100 / 12;
 .col-9  { @include col-9; }
 .col-10 { @include col-10; }
 .col-11 { @include col-11; }
+.col-12 { @include col-12; }
 
 .sm-col-1  { @include breakpoint($small) { @include col-1; } }
 .sm-col-2  { @include breakpoint($small) { @include col-2; } }
@@ -97,6 +99,7 @@ $columnWidth: 100 / 12;
 .sm-col-9  { @include breakpoint($small) { @include col-9; } }
 .sm-col-10 { @include breakpoint($small) { @include col-10; } }
 .sm-col-11 { @include breakpoint($small) { @include col-11; } }
+.sm-col-12 { @include breakpoint($small) { @include col-12; } }
 
 .med-col-1  { @include breakpoint($med) { @include col-1; } }
 .med-col-2  { @include breakpoint($med) { @include col-2; } }
@@ -109,6 +112,7 @@ $columnWidth: 100 / 12;
 .med-col-9  { @include breakpoint($med) { @include col-9; } }
 .med-col-10 { @include breakpoint($med) { @include col-10; } }
 .med-col-11 { @include breakpoint($med) { @include col-11; } }
+.med-col-12 { @include breakpoint($med) { @include col-12; } }
 
 .lrg-col-1  { @include breakpoint($large) { @include col-1; } }
 .lrg-col-2  { @include breakpoint($large) { @include col-2; } }
@@ -121,6 +125,7 @@ $columnWidth: 100 / 12;
 .lrg-col-9  { @include breakpoint($large) { @include col-9; } }
 .lrg-col-10 { @include breakpoint($large) { @include col-10; } }
 .lrg-col-11 { @include breakpoint($large) { @include col-11; } }
+.lrg-col-12 { @include breakpoint($large) { @include col-12; } }
 
 @mixin offset-col-1  { @include col; margin-left: $columnWidth; }
 @mixin offset-col-2  { @include col; margin-left: $columnWidth * 2; }

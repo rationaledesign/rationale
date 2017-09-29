@@ -13,7 +13,11 @@
     <ul>
       <div class="sm-col-half med-col-third mb-tight">
         <li>
-          <a href="/articles/" class="news-link {% if parent.url == "/articles" and page.permalink != "/404.html" %}is-current-page{% endif %}">
+          {% assign isArticle = false %}
+          {% if page.title | downcase == 'articles' or page.collection == 'articles' %}
+            {% assign isArticle = true %}
+          {% endif %}
+          <a href="/articles/" class="news-link {% if isArticle and page.permalink != "/404.html" %}is-current-page{% endif %}">
             Articles
           </a>
         </li>
