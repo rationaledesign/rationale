@@ -2,15 +2,8 @@
 title: New Posters in the Shop
 date: 2017-09-10 22:50:00 Z
 position: 3
-featured_text: Lorem is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when
-  an unknown printer took a galley of type and scrambled it to make a type specimen
-  book.
-excerpt_text: Lorem is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when
-  an unknown printer took a galley of type and scrambled it to make a type specimen
-  book. It has survived not only five centuries, but also the leap into electronic
-  typesetting, remaining essentially unchanged.
+featured_text: Collection of new posters and artifacts designed and made by Rationale
+  with the utmost care and quality.
 featured_image:
   image: "/uploads/rationale_2017-09-10_1a.jpg"
   alt: rationale articles new posters in the shop
@@ -20,4 +13,4 @@ detail_images:
 og_image: "/uploads/rationale_2017-09-10_og1a.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.
+Collection of new posters and artifacts designed and made by Rationale with the utmost care and quality. Come visit our shop [here](https://rationale-design.com/shop/)
