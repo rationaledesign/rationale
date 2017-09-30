@@ -9,10 +9,10 @@ featured_text: Lorem is simply dummy text of the printing and typesetting indust
   typesetting, remaining essentially unchanged.
 featured_image:
   image: "/uploads/rationale_2016-04-25_1b.jpg"
-  alt: rationale articles gute process interview
+  alt: rationale articles gute process interview sean wolcott
 detail_images:
 - image: "/uploads/rationale_2016-04-25_1b.jpg"
-  alt: rationale articles gute process interview
+  alt: rationale articles gute process interview sean wolcott
 og_image: "/uploads/rationale_2016-04-25_og1b.jpg"
 ---
 
