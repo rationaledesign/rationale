@@ -2,10 +2,8 @@
 title: Rationale San+Serif Calendars 2015
 date: 2014-09-09 23:22:00 Z
 position: 13
-featured_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt.
+featured_text: The 2015 Rationale sans & serif calendar are now available for purchase
+  at our shop.
 featured_image:
   image: "/uploads/rationale_2014-09-28_1b.jpg"
   alt: rationale articles san serif 2015 calendar
