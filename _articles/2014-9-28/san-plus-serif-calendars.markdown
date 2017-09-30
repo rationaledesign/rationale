@@ -13,4 +13,4 @@ detail_images:
 og_image: "/uploads/rationale_2014-09-28_og1b.jpg"
 ---
 
-The 2015 Rationale sans & serif calendar are now available for purchase at our shop[here](https://rationale-design.com/shop/).
+The 2015 Rationale sans & serif calendar are now available for purchase at our shop [here](https://rationale-design.com/shop/).
