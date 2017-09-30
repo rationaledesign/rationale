@@ -14,6 +14,6 @@ detail_images:
 og_image: "/uploads/rationale_2016-07-17_og1a.jpg"
 ---
 
-It was a pleasure and privilege to design this full page ad appearing in todays New York Times and Cleveland Plain Dealer as well as be a part of its timely message. Check it out
+It was a pleasure and privilege to design this full page ad appearing in todays New York Times and Cleveland Plain Dealer as well as be a part of its timely message.
 
-[dear-donald.org](http://www.deardonald.com/)
+Check it out at [dear-donald.org](http://www.deardonald.com/)
