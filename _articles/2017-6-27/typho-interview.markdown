@@ -22,7 +22,7 @@ og_image: "/uploads/rationale_2014-06-27_og1a.jpg"
 
 The interview transcript with Typho is as follows…
 
-INTRODUCTION
+INTRODUCTION</br>
 Q: Could you please you tell us briefly about your background?
 
 A: After growing up doing art, I found my way into design in high school. I have been practicing design in the Seattle area for the last 15 years. After starting in print production work I continued to shift towards pure design, especially after discovering the modernist masters of the 20th century. The highlight of all this was studying and being mentored by my own personal design master, Massimo Vignelli.
@@ -47,7 +47,7 @@ Q: What Inspires you?
 
 A: The endless wonder and surprise of the creative process itself.
 
-THE LIGHTING FIRES PROJECT
+THE LIGHTING FIRES PROJECT</br>
 Q: Could you briefly discuss the idea behind the identity of this book series?
 
 A: This book series needed a design language that could stem from the cover concept and then apply to the interior contents as well as data visualizations and more.
