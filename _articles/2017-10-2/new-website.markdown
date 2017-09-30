@@ -16,4 +16,4 @@ Today we publish our new website to the world with a selection of our distinguis
 
 Come and have a look our new place, and don't forget to grab some free PDF's on our Resources and finally get a good design artefact from our shop.
 
-Enjoy the content and go spread the word!
+Enjoy the content and go spread the word.
