@@ -8,8 +8,10 @@ excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
   tempor incididunt ut labore et dolore magna aliqua ut enim ad minim.
 featured_image:
   image: "/uploads/rationale_2015-05-03_1a.jpg"
+  alt: rationale articles modernist graphic design in the pacific northwest
 detail_images:
 - image: "/uploads/rationale_2015-05-03_1a.jpg"
+  alt: rationale articles modernist graphic design in the pacific northwest
 og_image: "/uploads/rationale_2015-05-03_og1a.jpg"
 ---
 
