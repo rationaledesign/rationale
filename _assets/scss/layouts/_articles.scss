@@ -94,6 +94,12 @@
   }
 }
 
+.article-title {
+  @include breakpoint($med) {
+    padding-right: $unit-2;
+  }
+}
+
 .article-images {
   margin-bottom: $unit-2;
 
