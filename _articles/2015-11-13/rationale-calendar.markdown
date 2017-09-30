@@ -13,4 +13,4 @@ detail_images:
 og_image: "/uploads/rationale_2015-11-13_og1b.jpg"
 ---
 
-The 2016 Rationale sans calendar is now available for purchase at our shop. [Buy it here](https://rationale-design.com/shop/)
+The 2016 Rationale sans calendar is now available for purchase at our shop [here](https://rationale-design.com/shop/).
