@@ -7,8 +7,10 @@ featured_text: It was a pleasure and privilege to design this full page ad appea
   timely message.
 featured_image:
   image: "/uploads/rationale_2016-07-17_1a.jpg"
+  alt: rationale articles dear donald newspaper advertisement
 detail_images:
 - image: "/uploads/rationale_2016-07-17_1a.jpg"
+  alt: rationale articles dear donald newspaper advertisement
 og_image: "/uploads/rationale_2016-07-17_og1a.jpg"
 ---
 
