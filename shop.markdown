@@ -9,4 +9,4 @@ layout: store
 Shop
 
 
-Shop items are a collection of artifacts designed and made by Rationale with the utmost care and quality. 
+Shop items are a collection of artifacts designed and made by Rationale with the utmost care and quality.
