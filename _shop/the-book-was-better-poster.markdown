@@ -16,11 +16,12 @@ thumb_image:
 og_image: "/uploads/rationale_tbwbp1_1og.jpg"
 ---
 
-Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
+Many visual metaphors can signify film, but most of these are too referential to the previous, analog era. The solution here achieves something more universal and transcendent: Transitioning groups of lines suggest the transitioning frames of a movie as well as the turning pages of a book.
 
-Many visual metaphors can signify film, but most of these are too referential to the previous, analog era. The solution here achieves something more universal and transcendent: Transitioning groups of lines suggest the transitioning frames of a movie as well as the turning pages of a book. 
+Limited-edition film festival poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large-format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on the back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
 
-Edition – 100 <br>
-Size – A1 / 594x841 mm / 23.4x33.1 in <br>
-Paper – 192 gsm, 10.3 mil enhanced matte <br>
-Printing – Giclée
+Year – 2016 <br>
+Edition – 100 <br> 
+Size – A1 / 594x841 mm / 23.4x33.1 in <br> 
+Paper – 192 gsm, 10.3 mil enhanced matte <br> 
+Printing – Giclée
