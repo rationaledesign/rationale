@@ -16,11 +16,12 @@ thumb_image:
 og_image: "/uploads/rationale_allinloveposter1_1og.jpg"
 ---
 
-Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
-
 Poster design for the promotion of the release of the single “All In Love” by music group The Fascination Movement. Poster graphics build off of the design language from the album release Intent, which the song also appears on.
 
-Edition – 100 <br>
-Size – A1 / 594x841 mm / 23.4x33.1 in <br>
-Paper – 192 gsm, 10.3 mil enhanced matte <br>
-Printing – Giclée
+Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large-format size on enhanced matte paper in deep and vibrant colors. Signed and numbered on the back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
+
+Year – 2011 <br>
+Edition – 100 <br>
+Size – A1 / 594x841 mm / 23.4x33.1 in <br> 
+Paper – 192 gsm, 10.3 mil enhanced matte <br> 
+Printing – Giclée
