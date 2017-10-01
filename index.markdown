@@ -6,4 +6,4 @@ og_image: "/uploads/rationale_og.jpg"
 layout: our-work
 ---
 
-Providing world-class expertise in design, identity systems, and envisioning across multiple mediums.
+Providing world-class expertise in design, identity systems, and more across multiple mediums.
