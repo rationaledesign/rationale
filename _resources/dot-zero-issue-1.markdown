@@ -25,6 +25,6 @@ og_image: "/uploads/rationale_dotzero_og1a.jpg"
 layout: resource
 ---
 
-The document presented here is issue one of Dot Zero magazine. Dot Zero acted as house publication of Unimark in partnership with Finch Paper. Unimark was co-founded in 1965 by Massimo Vignelli, Ralph Eckerstrom, Wally Gutches, Larry Klein, Bob Noorda, Jim Fogelman, and Bob Moldavsky.
+The document presented here is Issue 1 of Dot Zero magazine. Dot Zero acted as the house publication of Unimark in partnership with Finch Paper. Unimark was cofounded in 1965 by Massimo Vignelli, Ralph Eckerstrom, Wally Gutches, Larry Klein, Bob Noorda, Jim Fogelman, and Bob Moldavsky.
 
 Designed by Massimo Vignelli, 1966, 29 pages.
