@@ -19,14 +19,13 @@ og_image: "/uploads/rationale_sanscalendar171_og1a.jpg"
 layout: product-detail
 ---
 
-This simple typographic wall calendar provides a beautiful and functional way for keeping track of the years events. Dates are listed as a two vertical columns with ample room for notes in a minimal black, white, and red design.
+This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as a two vertical columns with ample room for notes in a minimal black, white, and red design.
 
-Available for purchase online exclusively via Book/Shop or at your local design-minded shop. 
+Available for purchase online exclusively via Book/Shop or at select local design-minded retailers.
 
-Designed by Sean Wolcott/Rationale.
-
+Year – 2013 <br>
 Edition – 600 annually <br>
-Pages – 13 <br>
+Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
 Paper – High-quality coated 80# stock <br>
-Printing – Indigo offset, spiral bound with hanger <br>
+Printing – Indigo offset, spiral bound with hanger
