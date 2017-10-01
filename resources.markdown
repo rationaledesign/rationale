@@ -9,4 +9,4 @@ layout: resources
 Resources
 
 
-The resources on this site are a collection of both new and rare design works provided free for research and educational purposes.
+The resources on this site are a collection of both new and rare design works provided by Rationale for free for research and educational purposes.
