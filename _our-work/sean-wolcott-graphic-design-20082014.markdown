@@ -12,7 +12,7 @@ excerpt_text: 'The 172 page book “Sean Wolcott: Graphic Design 2008–2014” 
   previously unpublished works, and more.'
 year: 2015
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: "/uploads/rationale_comingsoon_1a.jpg"
 thumb_image:
   image: "/uploads/rationale-swbook0714-0.jpg"
 layout: project
