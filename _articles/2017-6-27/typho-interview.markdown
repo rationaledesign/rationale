@@ -22,7 +22,7 @@ og_image: "/uploads/rationale_2014-06-27_og1a.jpg"
 ---
 
 The following transcript is from a June 2014 interview between Rationale founder Sean Wolcott and design publication Typho.
-<br> 
+
 <br> 
 Q: Could you please you tell us briefly about your background?
 
