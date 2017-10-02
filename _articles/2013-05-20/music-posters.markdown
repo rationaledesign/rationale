@@ -2,8 +2,8 @@
 title: Music Poster Series
 date: 2013-05-20 23:27:00 Z
 position: 18
-featured_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+featured_text: Posters that, in their simplicity, call attention to theirselves in
+  the visually cluttered landscape of music promotions.
 featured_image:
   image: "/uploads/rationale_2013-05-20_1a.jpg"
   alt: rationale articles music poster series
@@ -13,4 +13,4 @@ detail_images:
 og_image: "/uploads/rationale_2013-05-20_og1a.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+We have collected a series of posters designed for The Fascination Movement and other concerts over the last few years. Each employs a variety of focused visual devices: strong, simple typography; geometric shapes; primary colors. The result is set of posters that, in their simplicity, call attention to theirselves in the visually cluttered landscape of music promotions.
