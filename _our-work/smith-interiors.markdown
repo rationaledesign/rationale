@@ -9,7 +9,7 @@ excerpt_text: Smith Interiors is a floor covering business specializing in both 
   company, in business since 1975, has strong and well-developed small town roots.
 year: 2014
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: "/uploads/rationale_comingsoon_1a.jpg"
 thumb_image:
   image: "/uploads/smithinteriors-0.jpg"
 layout: project
