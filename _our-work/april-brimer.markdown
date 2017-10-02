@@ -9,7 +9,7 @@ excerpt_text: "April Brimer is an editorial fashion and product photographer. \n
   brings the forms together while emphasizing their high standards."
 year: 2014
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: "/uploads/rationale_comingsoon_1a.jpg"
 thumb_image:
   image: "/uploads/rationale-aprilbrimer-0.jpg"
 layout: project
