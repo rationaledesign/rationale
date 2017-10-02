@@ -7,7 +7,13 @@ featured_image:
   image: "/uploads/rationale_2017-09-10_1a.jpg"
   alt: rationale articles new posters in the shop
 detail_images:
-- image: "/uploads/rationale_2017-09-10_1a.jpg"
+- image: "/uploads/rationale_2017-09-10_2a.jpg"
+  alt: rationale articles new posters in the shop
+- image: "/uploads/rationale_2017-09-10_3a.jpg"
+  alt: rationale articles new posters in the shop
+- image: "/uploads/rationale_2017-09-10_4a.jpg"
+  alt: rationale articles new posters in the shop
+- image: "/uploads/rationale_2017-09-10_5a.jpg"
   alt: rationale articles new posters in the shop
 og_image: "/uploads/rationale_2017-09-10_og1a.jpg"
 ---
