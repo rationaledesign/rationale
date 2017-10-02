@@ -88,8 +88,6 @@ defaults:
     og_image: 
 permalink: pretty
 exclude:
-- Gemfile
-- Gemfile.lock
 - README.md
 - node_modules/
 - package.json
