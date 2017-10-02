@@ -10,7 +10,7 @@ excerpt_text: For the second annual The Book Was Better Film Festival, in which 
   a clear image.
 year: 2016
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: "/uploads/rationale_comingsoon_1a.jpg"
 thumb_image:
   image: "/uploads/rationale-tbwb-0.jpg"
 ---
