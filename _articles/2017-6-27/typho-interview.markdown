@@ -19,6 +19,8 @@ detail_images:
   alt: rationale articles typho interview
 - image: "/uploads/rationale_2014-06-27_2a.jpg"
   alt: rationale articles typho interview
+- image: "/uploads/rationale_2014-06-27_3a.jpg"
+  alt: 
 og_image: "/uploads/rationale_2014-06-27_og1a.jpg"
 ---
 
