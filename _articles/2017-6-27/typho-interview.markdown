@@ -28,6 +28,7 @@ The following transcript is from a June 2014 interview between Rationale founder
 
 INTRODUCTION<br> 
 <br>
+<br>
 Q: Could you please you tell us briefly about your background?
 
 A: After growing up doing art, I found my way into design in high school. I have been practicing design in the Seattle area for the last 15 years. After starting in print production work I continued to shift towards pure design, especially after discovering the modernist masters of the 20th century. The highlight of all this was studying and being mentored by my own personal design master, Massimo Vignelli.
