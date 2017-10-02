@@ -19,5 +19,5 @@ This Saturday, October 24th, 5-7 PM at Peter Miller Books in Seattle attend an e
 
 We are very honored to have this chance to be on stage chatting with such design legends.
 
-[Peter Miller Books](http://www.petermiller.com/)
+[Peter Miller Books](http://www.petermiller.com/)<br>
 [Design Lecture Series](http://designlectur.es/)
