@@ -13,4 +13,4 @@ detail_images:
 og_image: "/uploads/rationale_2017-09-10_og1a.jpg"
 ---
 
-Collection of new posters and artifacts designed and made by Rationale with the utmost care and quality. Come visit our shop [here](https://rationale-design.com/shop/)
+Collection of new posters and artifacts designed and made by Rationale with the utmost care and quality. Come visit our [Shop](https://rationale-design.com/shop/).
