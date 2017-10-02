@@ -51,6 +51,7 @@ Q: What Inspires you?
 A: The endless wonder and surprise of the creative process itself.
 
 ON THE LIGHTING FIRES PROJECT<br> 
+<br> 
 Q: Could you briefly discuss the idea behind the identity of this book series?
 
 A: This book series needed a design language that could stem from the cover concept and then apply to the interior contents as well as data visualizations and more.
