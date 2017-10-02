@@ -10,7 +10,7 @@ excerpt_text: How does one convey the nuance, history, and diversity of wine cul
   liaison Bryan Kennedy.
 year: 2016
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: "/uploads/rationale_comingsoon_1a.jpg"
 thumb_image:
   image: "/uploads/rationale-bkennedy-0.jpg"
 ---
