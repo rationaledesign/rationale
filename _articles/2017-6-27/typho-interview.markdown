@@ -4,9 +4,10 @@ date: 2014-06-27 23:25:00 Z
 position: 16
 featured_text: Sequence and geometry. The unexpectedly expected.
 excerpt_text: |-
-  The interview transcript with Typho is as follows…
+  The following transcript is from a June 2014 interview between Rationale founder Sean Wolcott and design publication Typho.
 
-  INTRODUCTION
+  INTRODUCTION<br>
+  <br>
   Q:Could you please you tell us briefly about your background?
 
   A:After growing up doing art, I found my way into design in high school. I have been practicing design in the Seattle area for the last 15 years. After starting in print production work I continued to shift towards pure design, especially after discovering the modernist masters of the 20th century. The highlight of all this was studying and being mentored by my own personal design master, Massimo Vignelli.
