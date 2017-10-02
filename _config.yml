@@ -94,7 +94,7 @@ exclude:
 - node_modules/
 - package.json
 - gulpfile.js
-plugins:
+gems:
 - jekyll-sitemap
 - jekyll-feed
 description: Rationale provides world-class expertise in design, identity systems,
