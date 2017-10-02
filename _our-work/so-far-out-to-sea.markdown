@@ -9,7 +9,7 @@ excerpt_text: 'The cover imagery for the novel “So Far Out to Sea” takes a g
   aspects of the story: The blue of the ocean and black of space.'
 year: 2015
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: "/uploads/rationale_comingsoon_1a.jpg"
 thumb_image:
   image: "/uploads/rationale-sofarsea-0.jpg"
 layout: project
