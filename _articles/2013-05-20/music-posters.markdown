@@ -8,7 +8,11 @@ featured_image:
   image: "/uploads/rationale_2013-05-20_1a.jpg"
   alt: rationale articles music poster series
 detail_images:
-- image: "/uploads/rationale_2013-05-20_1a.jpg"
+- image: "/uploads/rationale_2013-05-20_2a.jpg"
+  alt: rationale articles music poster series
+- image: "/uploads/rationale_2013-05-20_3a.jpg"
+  alt: rationale articles music poster series
+- image: "/uploads/rationale_2013-05-20_4a.jpg"
   alt: rationale articles music poster series
 og_image: "/uploads/rationale_2013-05-20_og1a.jpg"
 ---
