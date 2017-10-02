@@ -19,6 +19,6 @@ We are happy to have received the following praise:
 <cite>Wim Crouwel</cite>
 
 - >I am impressed by such vital and strong work.
-<cite>Rolf Muller</cite>
+<cite>Rolf Müller</cite>
 
 
