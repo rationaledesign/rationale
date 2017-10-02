@@ -1,5 +1,5 @@
 ---
-title: 'Sean Wolcott: Graphic Design 2008–2014'
+title: 'Sean Wolcott: Graphic Design'
 date: 2015-04-06 18:17:00 Z
 position: 0
 author: Sean Wolcott
