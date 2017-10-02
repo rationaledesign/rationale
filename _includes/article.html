@@ -42,7 +42,7 @@
   <div class="med-col-two-thirds sm-cf md-cf-off">
     <div class="article-images">
       {% for image in include.article.detail_images %}
-        {% include img.html image=image %}
+        {% include img.html image=image type="post-img" %}
       {% endfor %}
     </div>
     <date class="h5 mb block article-date--bottom">Published on {{include.article.date | date: "%B %d, %Y" }}</date>

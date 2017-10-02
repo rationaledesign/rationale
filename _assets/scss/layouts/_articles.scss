@@ -103,6 +103,9 @@
 .article-images {
   margin-bottom: $unit-2;
 
+  img {
+    position: absolute;
+  }
   .img:not(:last-child) {
     margin-bottom: 1px;
   }
