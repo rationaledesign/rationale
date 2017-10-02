@@ -2,7 +2,7 @@
 title: New website
 date: 2017-09-21 22:36:00 Z
 position: 2
-featured_text: Go and spread the word!
+featured_text: Spread the word!
 featured_image:
   image: "/uploads/rationale_2017-10-12_1a.jpg"
   alt: rationale articles new website
