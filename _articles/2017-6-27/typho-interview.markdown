@@ -2,8 +2,7 @@
 title: Typho Interview
 date: 2014-06-27 23:25:00 Z
 position: 16
-featured_text: A new interview with Rationale’s Sean Wolcott is now up from Typho!
-  Check it out.
+featured_text: Sequence and geometry. The unexpectedly expected.
 excerpt_text: |-
   The interview transcript with Typho is as follows…
 
@@ -17,10 +16,12 @@ featured_image:
 detail_images:
 - image: "/uploads/rationale_2014-06-27_1a.jpg"
   alt: rationale articles typho interview
+- image: "/uploads/rationale_2014-06-27_2a.jpg"
+  alt: rationale articles typho interview
 og_image: "/uploads/rationale_2014-06-27_og1a.jpg"
 ---
 
-The interview transcript with Typho is as follows…
+The following transcript is from a June 2014 interview between Rationale founder Sean Wolcott and design publication Typho.
 
 INTRODUCTION<br> 
 Q: Could you please you tell us briefly about your background?
@@ -39,7 +40,7 @@ Q: Can you tell us a little bit about your creative process?
 
 A: My creative process is fairly consistent. For design projects its all about finding a solution to a problem, so step one is to best define that problem for myself and the client so that i may seek a proper solution. It is about searching and investigating to find a highly-charged visual and conceptual essence. The unexpectedly expected.
 
-Q: What does graphic design means to you?**
+Q: What does graphic design means to you?
 
 A: Paul Rand said design is the “manipulation of form and content”. In the digital world today, we are dealing with design of experiences that manipulate from and content over time. Design to me is a way to make the world a better place.
 
