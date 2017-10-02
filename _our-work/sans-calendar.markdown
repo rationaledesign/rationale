@@ -8,14 +8,14 @@ tags:
 position: 8
 year: 2013
 images:
-- image: "/uploads/rationale_sanscalendar171_1c.jpg"
+- image: "/uploads/rationale_2017_sanscalendar1_1a.jpg"
   alt: rationale design wall sans calendar
-- image: "/uploads/rationale_sanscalendar171_2c.jpg"
+- image: "/uploads/rationale_2017_sanscalendar1_2a.jpg"
   alt: rationale design wall sans calendar
 thumb_image:
   image: "/uploads/rationale-sanscalendar-0.jpg"
   alt: rationale design wall sans calendar
-og_image: "/uploads/rationale_sanscalendar171_og1a.jpg"
+og_image: "/uploads/rationale_2017_sanscalendar1_og1a.jpg"
 layout: project
 ---
 
