@@ -11,7 +11,7 @@ excerpt_text: In the space of transport, particularly for the maritime industry,
   for Schaefer Stevedoring.
 year: 2016
 images:
-- image: "/uploads/FPO%2032ratio.jpg"
+- image: "/uploads/rationale_comingsoon_1a.jpg"
 thumb_image:
   image: "/uploads/rationale-schaeferid-0.jpg"
 ---
