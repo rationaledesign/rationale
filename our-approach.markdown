@@ -21,3 +21,4 @@ layout: our-approach
 Design is not a job, it is a mission.
 
 Rationale was founded on this conviction. Our work is our passion and we bring over 20 years of expertise across all aspects of design, be it a brand identity, website, application, publication, or otherwise.
+
