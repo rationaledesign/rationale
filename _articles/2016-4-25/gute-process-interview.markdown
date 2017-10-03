@@ -13,6 +13,6 @@ detail_images:
 og_image: "/uploads/rationale_2016-04-25_og1b.jpg"
 ---
 
-The fourth issue is out now from design magazine Gute Process with an interview with Rationale founder Sean Wolcott. This issue focuses on exploring the relationship of clients, business, and design and we were happy to be invited to discuss the topic.
+The fourth issue is out now of design magazine Gute Process which includes an interview with Rationale founder Sean Wolcott. This issue focuses on the relationship of clients, business, and design and we were happy to be invited to the discussion.
 
-Read full interview [here](http://www.guteprocess.com/issues/04/sean-wolcott).
+Read the full interview [here](http://www.guteprocess.com/issues/04/sean-wolcott).
