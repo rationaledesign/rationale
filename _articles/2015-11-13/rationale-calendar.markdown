@@ -2,7 +2,7 @@
 title: Rationale Sans Calendar 2016
 date: 2015-11-13 23:00:00 Z
 position: 7
-featured_text: The 2016 Rationale sans calendar is now available for purchase.
+featured_text: Available now.
 featured_image:
   image: "/uploads/rationale_2015-11-13_1b.jpg"
   alt: rationale articles sans calendar 2016
