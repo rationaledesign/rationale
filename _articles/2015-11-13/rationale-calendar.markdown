@@ -8,7 +8,7 @@ featured_image:
   image: "/uploads/rationale_2015-11-13_1b.jpg"
   alt: rationale articles sans calendar 2016
 detail_images:
-- image: "/uploads/rationale_2015-11-13_1b.jpg"
+- image: "/uploads/rationale_2015-11-13_2a.jpg"
   alt: rationale articles sans calendar 2016
 og_image: "/uploads/rationale_2015-11-13_og1b.jpg"
 ---
