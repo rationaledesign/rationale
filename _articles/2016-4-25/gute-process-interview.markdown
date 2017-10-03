@@ -8,7 +8,7 @@ featured_image:
   image: "/uploads/rationale_2016-04-25_1b.jpg"
   alt: rationale articles gute process interview sean wolcott
 detail_images:
-- image: "/uploads/rationale_2016-04-25_2a.jpg"
+- image: "/uploads/rationale_2016-04-25_2b.jpg"
   alt: rationale articles gute process interview sean wolcott
 og_image: "/uploads/rationale_2016-04-25_og1b.jpg"
 ---
