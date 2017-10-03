@@ -23,7 +23,7 @@ This simple typographic wall calendar provides a beautiful and functional way fo
 
 Available for purchase online exclusively via Book/Shop or at select local design-minded retailers.
 
-Year – 2013 <br>
+Year – ©2014 <br>
 Edition – 600 annually <br>
 Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
