@@ -3,11 +3,11 @@ title: Our approach
 date: 2017-06-28 20:37:00 Z
 position: 1
 images:
-- image: "/uploads/rationale-aiga-ourapproach.jpg"
+- image: "/uploads/rationale_ourapproach_1a.jpg"
   alt: 
-- image: "/uploads/rationale-sean-wolcott.jpg"
+- image: "/uploads/rationale_ourapproach_2a.jpg"
   alt: 
-og_image: "/uploads/rationale_og.jpg"
+og_image: "/uploads/rationale_ourapproach_og1a.jpg"
 bottom_body: |-
   Sean Wolcott, the acclaimed designer and founder of Rationale, has previously designed for some of the biggest brands and products in the world, and his team of top international talent brings a broad level of insight to each project.
 
