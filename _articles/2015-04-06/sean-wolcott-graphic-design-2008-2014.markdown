@@ -23,4 +23,4 @@ og_image: "/uploads/rationale_2015-04-06_og1b.jpg"
 
 We are pleased to announce the 172 page book “Sean Wolcott: Graphic Design 2008–2014” chronicling the ongoing design work of the Rationale founder. Includes projects ranging from identity, promotion, publication, user interface, packaging design and more.
 
-This book is available now as a free PDF and high-quality digitally printed book. Find out more [here](https://rationale-design.com/our-work/sean-wolcott-graphic-design-20082014/).
+This book is available as a free PDF in our [Resources](https://rationale-design.com/resources/sean-wolcott-graphic-design/) or a printed book in our [Shop](https://rationale-design.com/shop/sean-wolcott-graphic-design/).
