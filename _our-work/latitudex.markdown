@@ -16,7 +16,7 @@ images:
   alt: rationale design latitudex identity promo
 - image: "/uploads/rationale_2013_latitudex1_3b.jpg"
   alt: rationale design latitudex identity poster
-- image: "/uploads/rationale_2013_latitudex1_6a.jpg"
+- image: "/uploads/rationale_2013_latitudex1_6b.jpg"
   alt: rationale design latitudex identity stationary
 thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
