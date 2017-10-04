@@ -14,4 +14,4 @@ og_image: "/uploads/rationale_2014-09-27_og1b.jpg"
 
 Manuals 2, a new book by Unit Editions is available for pre-order now which includes an interview with Rationale’s Sean Wolcott. 
 <br>
-See more [here](https://www.uniteditions.com/).
+Find out more [here](https://www.uniteditions.com/).
