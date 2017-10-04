@@ -11,7 +11,7 @@ year: 2013
 images:
 - image: "/uploads/rationale_2013_carryon1_1a.jpg"
   alt: rationale design carry on book front cover
-- image: "/uploads/rationale_2013_carryon1_2a.jpg"
+- image: "/uploads/rationale_2013_carryon1_2b.jpg"
   alt: rationale design carry on book back cover
 thumb_image:
   image: "/uploads/rationale_2013_carryon1_0a.jpg"
