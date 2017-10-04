@@ -12,6 +12,6 @@ detail_images:
 og_image: "/uploads/rationale_2014-10-30_og1b.jpg"
 ---
 
-We recently designed a poster celebrating the 100th year of the AIGA, which is soon to be up for auction at an AIGA 100 exhibition in Colorado, [Chaircuterie](https://colorado.aiga.org/event/chaircuterie-an-aiga-colorado-design-council-event/).
+We recently designed a poster celebrating the 100th year of the AIGA, which is soon to be up for auction at an AIGA exhibition in Colorado called [Chaircuterie](https://colorado.aiga.org/event/chaircuterie-an-aiga-colorado-design-council-event/).
 
-Read more about this poster [here](https://rationale-design.com/our-work/aiga-100/).
+Learn more about this poster [here](https://rationale-design.com/our-work/aiga-100/).
