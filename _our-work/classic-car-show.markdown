@@ -9,7 +9,7 @@ excerpt_text: Instead of the usual graphics, we reenvisioned the Hot Rod & Class
   cars’ details themselves.
 year: 2012
 images:
-- image: "/uploads/rationale_2012_classiccar1_1a.jpg"
+- image: "/uploads/rationale_2012_classiccar1_1b.jpg"
   alt: rationale design classic car show poster
 - image: "/uploads/rationale_2012_classiccar1_2a.jpg"
   alt: rationale design classic car show poster
