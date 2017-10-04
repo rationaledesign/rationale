@@ -1,5 +1,5 @@
 ---
-title: Manuals 2 Out Now
+title: Manuals 2 Is Out Now
 date: 2014-12-08 23:21:00 Z
 position: 11
 featured_text: Passionately crafted books.
