@@ -56,7 +56,7 @@ A: The endless wonder and surprise of the creative process itself.
 <br>
 <br> 
 <br> 
-ON THE LIGHTING FIRES PROJECT<br> 
+<strong>ON THE LIGHTING FIRES PROJECT</strong><br> 
 
 Q: Could you briefly discuss the idea behind the identity of this book series?
 
