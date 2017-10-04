@@ -15,7 +15,7 @@ images:
   alt: rationale design lighting fires book cover
 - image: "/uploads/rationale_2012_lightingfires1_3b.jpg"
   alt: rationale design lighting fires promo
-- image: "/uploads/rationale_2012_lightingfires1_4c.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_4d.jpg"
   alt: rationale design lighting fires grid
 - image: "/uploads/rationale_2012_lightingfires1_5a.jpg"
   alt: rationale design lighting fires website
