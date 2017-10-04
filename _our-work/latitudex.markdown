@@ -10,7 +10,7 @@ images:
   alt: rationale design latitudex identity grid
 - image: "/uploads/rationale_2013_latitudex1_2b.jpg"
   alt: rationale design latitudex identity poster
-- image: "/uploads/rationale_2013_latitudex1_5a.jpg"
+- image: "/uploads/rationale_2013_latitudex1_5b.jpg"
   alt: rationale design latitudex identity website
 - image: "/uploads/rationale_2013_latitudex1_4b.jpg"
   alt: rationale design latitudex identity promo
