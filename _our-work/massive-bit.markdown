@@ -11,19 +11,19 @@ excerpt_text: Massive Bit offers a unique service to technology companies by dis
   make more informed multimillion dollar decisions.
 year: 2013
 images:
-- image: "/uploads/rationale-massivebit-1.jpg"
+- image: "/uploads/rationale_2013_massivebit1_1c.jpg"
   alt: rationale design massive bits identity logo
-- image: "/uploads/rationale-massivebit-2.jpg"
+- image: "/uploads/rationale_2013_massivebit1_2c.jpg"
   alt: rationale design massive bits identity poster
-- image: "/uploads/rationale-massivebit-3b.jpg"
+- image: "/uploads/rationale_2013_massivebit1_3c.jpg"
   alt: rationale design massive bits identity logo
-- image: "/uploads/rationale-massivebit-4.jpg"
+- image: "/uploads/rationale_2013_massivebit1_4c.jpg"
   alt: rationale design massive bits identity application
-- image: "/uploads/rationale-massivebit-5b.jpg"
+- image: "/uploads/rationale_2013_massivebit1_5c.jpg"
   alt: rationale design massive bits identity graphics
-- image: "/uploads/rationale-massivebit-6.jpg"
+- image: "/uploads/rationale_2013_massivebit1_6c.jpg"
   alt: rationale design massive bits identity stationary
-- image: "/uploads/rationale-massivebit-7.jpg"
+- image: "/uploads/rationale_2013_massivebit1_7c.jpg"
   alt: rationale design massive bits identity stationary
 thumb_image:
   image: "/uploads/rationale-massivebit-0b.jpg"
