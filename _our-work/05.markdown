@@ -1,9 +1,7 @@
 ---
 title: '05'
 position: 12
-excerpt_text: EP cover “0.5” designed for music group The Fascination Movement. The
-  imagery’s circular mark and transitioning colors serve as the basis for a design
-  language that is applied to related singles, posters, and other promotional materials.
+year: 2008
 images:
 - image: "/uploads/rationale_2008_0dot51_1a.jpg"
   alt: rationale design 0.5 album front cover
