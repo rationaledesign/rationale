@@ -1,5 +1,5 @@
 ---
-title: Manuals 2
+title: Announcing Manuals 2
 date: 2014-09-27 23:23:00 Z
 position: 14
 featured_text: Manuals 2, a new book by Unit Editions is available for pre-order now
