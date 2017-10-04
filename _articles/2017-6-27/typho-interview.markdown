@@ -28,7 +28,8 @@ The following transcript is from a June 2014 interview between Rationale founder
 <br>
 <br> 
 <br> 
-<strong>INTRODUCTION</strong><br> 
+<br> 
+INTRODUCTION<br> 
 
 Q: Could you please you tell us briefly about your background?
 
@@ -56,7 +57,8 @@ A: The endless wonder and surprise of the creative process itself.
 <br>
 <br> 
 <br> 
-<strong>ON THE LIGHTING FIRES PROJECT</strong><br> 
+<br> 
+ON THE LIGHTING FIRES PROJECT<br> 
 
 Q: Could you briefly discuss the idea behind the identity of this book series?
 
