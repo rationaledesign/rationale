@@ -2,10 +2,7 @@
 title: Modernist Graphic Design in the Pacific Northwest
 date: 2015-05-03 23:12:00 Z
 position: 9
-featured_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
-excerpt_text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua ut enim ad minim.
+featured_text: From advertising to New Graphic Design.
 featured_image:
   image: "/uploads/rationale_2015-05-03_1a.jpg"
   alt: rationale articles modernist graphic design in the pacific northwest
@@ -15,4 +12,6 @@ detail_images:
 og_image: "/uploads/rationale_2015-05-03_og1a.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.
+We have contributed an article to the latest issue of long-running architecture and design magazine Arcade documenting the little-known history of local designers Irwin and Ellen McFadden. 
+
+Read the article in full [here](http://arcadenw.org/article/modernist-graphic-design-in-the-pacific-northwest).
