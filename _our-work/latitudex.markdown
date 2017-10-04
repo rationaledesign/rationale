@@ -4,20 +4,19 @@ date: 2013-01-01 00:00:00 Z
 categories:
 - Identity
 position: 4
-excerpt_text: 
 year: 2013
 images:
-- image: "/uploads/rationale-latitudex-1b.jpg"
+- image: "/uploads/rationale_2013_latitudex1_1a.jpg"
   alt: rationale design latitudex identity grid
-- image: "/uploads/rationale-latitudex-2.jpg"
-  alt: rationale design latitudex identity poster
-- image: "/uploads/rationale-latitudex-3.jpg"
-  alt: rationale design latitudex identity promo
-- image: "/uploads/rationale-latitudex-4.jpg"
+- image: "/uploads/rationale_2013_latitudex1_4a.jpg"
   alt: rationale design latitudex identity website
-- image: "/uploads/rationale-latitudex-5.jpg"
+- image: "/uploads/rationale_2013_latitudex1_5a.jpg"
   alt: rationale design latitudex identity poster
-- image: "/uploads/rationale-latitudex-6.jpg"
+- image: "/uploads/rationale_2013_latitudex1_3a.jpg"
+  alt: rationale design latitudex identity promo
+- image: "/uploads/rationale_2013_latitudex1_2a.jpg"
+  alt: rationale design latitudex identity poster
+- image: "/uploads/rationale_2013_latitudex1_6a.jpg"
   alt: rationale design latitudex identity stationary
 thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
