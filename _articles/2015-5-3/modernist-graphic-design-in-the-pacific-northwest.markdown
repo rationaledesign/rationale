@@ -7,7 +7,7 @@ featured_image:
   image: "/uploads/rationale_2015-05-03_1a.jpg"
   alt: rationale articles modernist graphic design in the pacific northwest
 detail_images:
-- image: "/uploads/rationale_2015-05-03_2b.jpg"
+- image: "/uploads/rationale_2015-05-03_2c.jpg"
   alt: rationale articles modernist graphic design in the pacific northwest
 og_image: "/uploads/rationale_2015-05-03_og1a.jpg"
 ---
