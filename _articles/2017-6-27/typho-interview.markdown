@@ -28,7 +28,7 @@ The following transcript is from a June 2014 interview between Rationale founder
 <br>
 <br> 
 <br> 
-INTRODUCTION<br> 
+<strong>INTRODUCTION</strong><br> 
 
 Q: Could you please you tell us briefly about your background?
 
