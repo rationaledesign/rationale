@@ -19,8 +19,9 @@ detail_images:
 og_image: "/uploads/rationale_2014-08-20_og1b.jpg"
 ---
 
-Sean Wolcott of Rationale has recently contributed insights for an essay regarding design today and impacts of technology. The discussion is as follows…
-
+Sean Wolcott of Rationale has recently contributed insights for an interview regarding design today and impacts of technology. The discussion is as follows:<br>
+<br>
+<br>
 Q: How do you think graphic design can branch out from its online presence?
 
 A: The online presence is both a vehicle and mechanism of graphic design itself. This is good, however it is important that as designers we continue to asses the whole environment, built and digital, looking for opportunities that we may apply our skills. Unit Editions and others have continued to prove value in print publications, lending a certain level of completeness and permanence to the works. Others give a platform of graphic design through exhibitions, teaching, and conferences. All these things branch out the online presence. The most important thing we must do is maintain a critical mind, perpetuating a discourse on the things that are not just popular but worthwhile and lasting in design.
