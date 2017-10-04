@@ -14,6 +14,6 @@ og_image: "/uploads/rationale_2015-10-21_og1a.jpg"
 
 On October 24th from 5-7pm at Peter Miller Books in Seattle come attend a recording of the “Beyond This Point” podcast on branding, graphic design history, and print featuring design legend Lance Wyman, Sean Wolcott of Rationale, Adrian Shaughnessy of Unit Editions, and Peter Miller of Peter Miller Books. Moderated by Civilization.
 
-[Design Lecture Series](http://designlectur.es/)<br>
+[Beyond This Point](http://beyondthispoint.design/)<br>
 [Peter Miller Books](http://www.petermiller.com/)<br>
 [Unit Editions](http://www.uniteditions.com/)<br>
