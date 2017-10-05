@@ -19,6 +19,8 @@ images:
   alt: rationale design smith interiors identity vehicle graphics
 - image: "/uploads/rationale_2014_smithinteriors1_3a.jpg"
   alt: rationale design smith interiors identity stationary
+- image: "/uploads/rationale_2014_smithinteriors1_5e.jpg"
+  alt: rationale design smith interiors identity logotype
 thumb_image:
   image: "/uploads/smithinteriors-0.jpg"
   alt: rationale design smith interiors identity
