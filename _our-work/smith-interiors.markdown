@@ -24,7 +24,7 @@ images:
 thumb_image:
   image: "/uploads/smithinteriors-0.jpg"
   alt: rationale design smith interiors identity
-og_image: "/uploads/rationale_2014_smithinteriors1_og1a.jpg"
+og_image: "/uploads/rationale_2014_smithinteriors1_og1b.jpg"
 layout: project
 ---
 
