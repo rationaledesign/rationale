@@ -2,8 +2,7 @@
 title: Gute Process Interview
 date: 2016-04-25 22:48:00 Z
 position: 6
-featured_text: "“There is always a voice which seeks to communicate with an element
-  of universal clarity”"
+featured_text: "“Communicate with an element of universal clarity”"
 featured_image:
   image: "/uploads/rationale_2016-04-25_1b.jpg"
   alt: rationale articles gute process interview sean wolcott
