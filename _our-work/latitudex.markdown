@@ -8,15 +8,15 @@ year: 2013
 images:
 - image: "/uploads/rationale_2013_latitudex1_1a.jpg"
   alt: rationale design latitudex identity grid
-- image: "/uploads/rationale_2013_latitudex1_7a.jpg"
+- image: "/uploads/rationale_2013_latitudex1_7b.jpg"
   alt: rationale design latitudex identity promo
-- image: "/uploads/rationale_2013_latitudex1_3b.jpg"
+- image: "/uploads/rationale_2013_latitudex1_3c.jpg"
   alt: rationale design latitudex identity poster
-- image: "/uploads/rationale_2013_latitudex1_5b.jpg"
+- image: "/uploads/rationale_2013_latitudex1_5c.jpg"
   alt: rationale design latitudex identity website
-- image: "/uploads/rationale_2013_latitudex1_2b.jpg"
+- image: "/uploads/rationale_2013_latitudex1_2c.jpg"
   alt: rationale design latitudex identity poster
-- image: "/uploads/rationale_2013_latitudex1_6b.jpg"
+- image: "/uploads/rationale_2013_latitudex1_6c.jpg"
   alt: rationale design latitudex identity stationary
 thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
