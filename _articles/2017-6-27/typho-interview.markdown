@@ -2,7 +2,7 @@
 title: Typho Interview
 date: 2014-06-27 23:25:00 Z
 position: 16
-featured_text: Sequence and geometry. The unexpectedly expected.
+featured_text: Sequence and geometry.
 excerpt_text: |-
   The following transcript is from a June 2014 interview between Rationale founder Sean Wolcott and design publication Typho.
 
