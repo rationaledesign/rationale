@@ -2,7 +2,7 @@
 title: New Posters in the Shop
 date: 2017-09-10 22:50:00 Z
 position: 3
-featured_text: Ultra-high-quality prints
+featured_text: High-quality prints.
 featured_image:
   image: "/uploads/rationale_2017-09-10_1a.jpg"
   alt: rationale articles new posters in the shop
