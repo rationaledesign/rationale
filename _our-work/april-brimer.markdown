@@ -17,11 +17,11 @@ images:
   alt: rationale design april brimer photography website
 - image: "/uploads/rationale_2014_aprilbrimer1_4a.jpg"
   alt: rationale design april brimer photography promo
-- image: "/uploads/rationale_2014_aprilbrimer1_5a.jpg"
+- image: "/uploads/rationale_2014_aprilbrimer1_5b.jpg"
   alt: rationale design april brimer photography stationary
-- image: "/uploads/rationale_2014_aprilbrimer1_6a.jpg"
+- image: "/uploads/rationale_2014_aprilbrimer1_6b.jpg"
   alt: rationale design april brimer photography promo
-- image: "/uploads/rationale_2014_aprilbrimer1_7a.jpg"
+- image: "/uploads/rationale_2014_aprilbrimer1_7b.jpg"
   alt: rationale design april brimer photography promo
 thumb_image:
   image: "/uploads/rationale-aprilbrimer-0.jpg"
