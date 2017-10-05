@@ -2,7 +2,7 @@
 title: Lance Wyman Podcast
 date: 2015-10-21 23:10:00 Z
 position: 8
-featured_text: Exclusive recording of “Beyond This Point” podcast.
+featured_text: Recording of “Beyond This Point” podcast.
 featured_image:
   image: "/uploads/rationale_2015-10-21_1b.jpg"
   alt: rationale articles lance wyman podcast civilization
