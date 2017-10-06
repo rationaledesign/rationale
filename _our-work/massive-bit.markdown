@@ -18,7 +18,7 @@ images:
 - image: "/uploads/rationale_2013_massivebit1_3c.jpg"
   alt: rationale design massive bits identity logo
 - image: "/uploads/rationale_2013_massivebit1_4c.jpg"
-  alt: rationale design massive bits identity application
+  alt: rationale design massive bits identity app
 - image: "/uploads/rationale_2013_massivebit1_5c.jpg"
   alt: rationale design massive bits identity graphics
 - image: "/uploads/rationale_2013_massivebit1_6c.jpg"
