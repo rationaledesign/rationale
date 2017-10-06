@@ -7,7 +7,7 @@ featured_image:
   image: "/uploads/rationale_2015-04-06_1b.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
 detail_images:
-- image: "/uploads/rationale_sw08141_og1a.jpg"
+- image: "/uploads/rationale_sw08141_1a.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
 - image: "/uploads/rationale_sw08141_5a.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
