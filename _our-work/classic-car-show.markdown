@@ -28,7 +28,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2012_classiccar1_0a.jpg"
   alt: rationale design classic car show poster
-og_image: "/uploads/rationale_2012_classiccar1_og1a.jpg"
+og_image: "/uploads/rationale_2012_classiccar1_og1b.jpg"
 layout: project
 ---
 
