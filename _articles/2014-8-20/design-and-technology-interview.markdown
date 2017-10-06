@@ -35,7 +35,7 @@ A: There are many great blogs which share inspiration and discussion and bring d
 
 Q: Do you think that graphic design pieces should have a physical display/exhibition for it to be appreciated? Why or why not?
 
-A: The work should speak for itself regardless if screen or print, in gallery or home. There is further depth that can be given to a specific context that something is made for. The interaction of digital or the tactility of an unfolding of print peice, each can be important in conveying the full experience.
+A: The work should speak for itself regardless if screen or print, in gallery or home. There is further depth that can be given to a specific context that something is made for. The interaction of digital or the tactility of an unfolding of print piece, each can be important in conveying the full experience.
 
 Q: How do you think people’s views on graphic design have changed over the years? Do you think it is becoming more accepted as an art? Why?
 
