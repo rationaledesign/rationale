@@ -15,7 +15,7 @@ featured_image:
   image: "/uploads/rationale_2014-06-27_1a.jpg"
   alt: rationale articles typho interview
 detail_images:
-- image: "/uploads/rationale_2014-06-27_1a.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_4g.jpg"
   alt: rationale articles typho interview grid
 - image: "/uploads/rationale_2014-06-27_2a.jpg"
   alt: rationale articles typho interview book
