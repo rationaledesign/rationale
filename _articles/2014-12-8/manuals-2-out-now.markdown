@@ -16,6 +16,6 @@ detail_images:
 og_image: "/uploads/rationale_2014-12-08_og1b.jpg"
 ---
 
-We had a really great time contributing an interview as well as several design manuals to Unit Editions Manuals 2. Unit Editions never ceases to impress with their passionately crafted books. <br>
- 
+We had a really great time contributing an interview as well as several design manuals to Unit Editions’ Manuals 2. Unit Editions never ceases to impress with their passionately crafted books. 
+
 Be sure to pick one up while you can [here](https://www.uniteditions.com/).
