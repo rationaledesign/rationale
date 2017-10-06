@@ -16,8 +16,8 @@ detail_images:
 og_image: "/uploads/rationale_2013-05-20_og1a.jpg"
 ---
 
-We have collected a series of concert posters designed for The Fascination Movement and other select artists over the last several years. Each employs a variety of focused visual devices: strong, simple typography; geometric shapes; primary colors. 
+We’ve collected a series of our concert posters designed for The Fascination Movement and other select artists over the last several years. Each employs a variety of focused visual devices: geometric shapes, primary colors, and strong, simple typography.
 
-The result is set of posters that, in their simplicity, call attention to theirselves in the visually cluttered landscape of music promotions.
+The result is set of posters that, in their simplicity, call attention to themselves in the visually cluttered landscape of music promotions.
 
 See them all [here](https://rationale-design.com/our-work/music/).
