@@ -28,7 +28,7 @@ images:
 thumb_image:
   image: "/uploads/rationale-massivebit-0b.jpg"
   alt: rationale design massive bits identity
-og_image: "/uploads/rationale-massivebit-og.jpg"
+og_image: "/uploads/rationale-massivebit-og1.jpg"
 layout: project
 ---
 
