@@ -18,4 +18,4 @@ detail_images:
 og_image: "/uploads/rationale_2017-09-10_og1a.jpg"
 ---
 
-High-quality prints of Rationale designed posters are now available in the [Shop](https://rationale-design.com/shop/).
+High-quality prints of Rationale-designed posters are now available in the [Shop](https://rationale-design.com/shop/).
