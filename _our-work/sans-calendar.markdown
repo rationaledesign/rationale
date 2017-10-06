@@ -6,7 +6,7 @@ categories:
 tags:
 - featured
 position: 8
-year: 2017
+year: 2014
 images:
 - image: "/uploads/rationale_2017_sanscalendar1_1d.jpg"
   alt: rationale design wall sans calendar
@@ -15,7 +15,7 @@ images:
 thumb_image:
   image: "/uploads/rationale-sanscalendar-0.jpg"
   alt: rationale design wall sans calendar
-og_image: "/uploads/rationale_2017_sanscalendar1_og1b.jpg"
+og_image: "/uploads/rationale_2017_sanscalendar1_og1c.jpg"
 layout: project
 ---
 
