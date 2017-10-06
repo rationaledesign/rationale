@@ -11,8 +11,11 @@ excerpt_text: How does one convey the nuance, history, and diversity of wine cul
 year: 2016
 images:
 - image: "/uploads/rationale-bkennedy-1a.jpg"
+  alt: rationale design bryan kennedy identity logo
 thumb_image:
   image: "/uploads/rationale-bkennedy-0.jpg"
+  alt: rationale design bryan kennedy identity
+og_image: "/uploads/rationale_2016_bryankennedy1_og1a.jpg"
 ---
 
 How does one convey the nuance, history, and diversity of wine culture in a simple visual means? Corks, bottles on a rack, a cluster of grapes—such concepts provide a compelling way to represent the range of its culture and craft for wine liaison Bryan Kennedy.
