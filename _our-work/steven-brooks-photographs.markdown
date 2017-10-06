@@ -17,7 +17,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2012_stevenbrooks1_0a.jpg"
   alt: rationale design steven brooks photographs book
-og_image: "/uploads/rationale_2012_stevenbrooks1_0a.jpg"
+og_image: "/uploads/rationale_2012_stevenbrooks1_og1b.jpg"
 layout: project
 ---
 
