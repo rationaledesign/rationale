@@ -8,11 +8,11 @@ featured_image:
   alt: rationale articles manuals 2 out now
 detail_images:
 - image: "/uploads/rationale_2014-12-08_2a.jpg"
-  alt: rationale articles manuals 2 out now
+  alt: rationale articles manuals 2 out now unit editions
 - image: "/uploads/rationale_2014-12-08_1b.jpg"
-  alt: rationale articles manuals 2 out now
+  alt: rationale articles manuals 2 out now unit editions
 - image: "/uploads/rationale_2014-12-08_3a.jpg"
-  alt: rationale articles manuals 2 out now
+  alt: rationale articles manuals 2 out now unit editions
 og_image: "/uploads/rationale_2014-12-08_og1b.jpg"
 ---
 
