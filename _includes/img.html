@@ -1,4 +1,4 @@
-<div class="img {{ include.type }}" 
+<div class="img {{ include.type }}"
     style="background-color: {% get_color include.image.image %}; {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}{% if include.type == 'gallery' or include.type == 'post-img' %}padding-bottom: {% get_size include.image.image %}%{% endif %}">
     <span class="lazycont" data-alt="{{include.image.alt}}">
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=1&q=50"></span>
@@ -6,7 +6,11 @@
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=1&q=50" data-media="(min-width: 600px)"></span>
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=2&q=40" data-media="(min-width: 600px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=40" data-media="(min-width: 1025px)"></span>
-        <span data-src="https://rationale-design.imgix.net{{include.image.image}}?auto=format&fit=max&dpr=3&q=30" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
+        <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=2&q=60" data-media="(min-width: 1025px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
+        {% if include.type == 'detail' %}
+            <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=2000&auto=format&fit=max&dpr=1&q=60" data-media="(min-width: 1500px)"></span>
+            <span data-src="https://rationale-design.imgix.net{{include.image.image}}?auto=format&fit=max&dpr=2&q=60" data-media="(min-width: 1500px) and (-webkit-min-device-pixel-ratio: 2.0)"></span>
+        {% endif %}
         <noscript>
             <img src="https://rationale-design.imgix.net{{include.image.image}}?auto=format&fit=max&q=65" alt="{{include.image.alt}}">
         </noscript>
