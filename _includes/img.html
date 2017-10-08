@@ -1,4 +1,4 @@
-<div class="img {{ include.type }}"
+<!-- <div class="img {{ include.type }}"
     style="background-color: {% get_color include.image.image %}; {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}{% if include.type == 'gallery' or include.type == 'post-img' %}padding-bottom: {% get_size include.image.image %}%{% endif %}">
     <span class="lazycont" data-alt="{{include.image.alt}}">
         <span data-src="https://rationale-design.imgix.net{{include.image.image}}?w=500&auto=format&fit=max&dpr=1&q=50"></span>
@@ -15,4 +15,57 @@
             <img src="https://rationale-design.imgix.net{{include.image.image}}?auto=format&fit=max&q=65" alt="{{include.image.alt}}">
         </noscript>
     </span>
+</div> -->
+
+<div
+    class="img {{ include.type }}"
+    style="background-color: {% get_color include.image.image %};
+        {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}
+        {% if include.type == 'gallery' or include.type == 'post-img' %}padding-bottom: {% get_size include.image.image %}%{% endif %}"
+>
+    <picture class="lazycont">
+        {% if include.type == 'detail' %}
+            <source
+                data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=2000&auto=format&fit=max&dpr=1&q=60"
+                media="(min-width: 1500px)"
+            >
+            <source
+                data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=2000&auto=format&fit=max&dpr=2&q=60"
+                media="(min-width: 1500px) and (-webkit-min-device-pixel-ratio: 2.0)"
+            >
+        {% endif %}
+        <source
+                data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=50"
+                media="(min-width: 1280px)"
+        >
+        <source
+            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=2&q=50"
+            media="(min-width: 1280px) and (-webkit-min-device-pixel-ratio: 2.0)"
+        >
+
+        <source
+            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=1&q=50"
+            media="(min-width: 768px)"
+        >
+        <source
+            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=2&q=50"
+            media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 2.0)"
+        >
+
+        <source
+            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=650&auto=format&fit=max&dpr=1&q=40"
+            media="(min-width: 480px) "
+        >
+        <source
+            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=650&auto=format&fit=max&dpr=2&q=40"
+            media="(min-width: 480px) and (-webkit-min-device-pixel-ratio: 2.0)"
+        >
+        <img
+            class="lazyload"
+            data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=50"
+            alt="{{include.image.alt}}"
+        >
+    </picture>
+
 </div>
+

@@ -74,18 +74,21 @@
     display: block;
     position: relative;
     width: 100%;
-  
-    .lazy {
+
+    img {
       opacity: 0;
-      transition: opacity 200ms 250ms ease-in-out;
-  
-      &.loaded {
+
+      &.lazyloaded {
+        transition: opacity 200ms 250ms ease-in-out;
+        opacity: 1;
+      }
+      &.cached {
         opacity: 1;
       }
     }
   }
-  
-  
+
+
 }
 
 .img-container img {

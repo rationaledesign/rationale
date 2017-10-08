@@ -18,7 +18,9 @@
   ],
   "dependencies": {
     "reset-css": "^2.2.0",
-    "singularity": "^1.8.0"
+    "singularity": "^1.8.0",
+    "imgix.js": "^3.3.0",
+    "lazysizes": "^3.0.0"
   },
   "devDependencies": {
     "breakpoint-sass": "^2.7.1"

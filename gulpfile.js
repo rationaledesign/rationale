@@ -118,7 +118,9 @@ gulp.task( 'clean:images', ( callback ) => {
 gulp.task( 'build:scripts', () =>
   gulp.src( [
     // Add all npm packages first
-    '_assets/js/**/*.js'
+    './_assets/_bower_components/imgix.js/dist/imgix.js',
+    './_assets/_bower_components/lazysizes/lazysizes.js',
+    './_assets/js/**/*.js'
   ] )
     .pipe( $.plumber( { 'errorHandler': handleErrors } ) )
     .pipe( $.sourcemaps.init() )
