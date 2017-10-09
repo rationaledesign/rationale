@@ -7,51 +7,50 @@
     <picture class="lazycont">
         {% if include.type == 'detail' %}
             <source
-                data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=2000&auto=format&fit=max&dpr=2&q=60"
+                data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=2600&auto=format&fit=max&dpr=2&q=60"
+                media="(min-width: 2000px) and (-webkit-min-device-pixel-ratio: 1.25) and (min-resolution: 120dpi)"
+            >
+            <source
+                data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=2600&auto=format&fit=max&dpr=1&q=60"
+                media="(min-width: 2000px)"
+            >
+            <source
                 data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=2000&auto=format&fit=max&dpr=2&q=60"
                 media="(min-width: 1500px) and (-webkit-min-device-pixel-ratio: 1.25) and (min-resolution: 120dpi)"
             >
             <source
-                data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=2000&auto=format&fit=max&dpr=1&q=60"
                 data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=2000&auto=format&fit=max&dpr=1&q=60"
                 media="(min-width: 1500px)"
             >
         {% endif %}
         <source
             data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=2&q=50"
-            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=2&q=50"
             media="(min-width: 1280px) and (-webkit-min-device-pixel-ratio: 1.25) and (min-resolution: 120dpi)"
         >
         <source
-                data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=50"
                 data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=50"
                 media="(min-width: 1280px)"
         >
 
         <source
             data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=2&q=50"
-            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=2&q=50"
             media="(min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.25) and (min-resolution: 120dpi)"
         >
         <source
-            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=1&q=50"
             data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=1000&auto=format&fit=max&dpr=1&q=50"
             media="(min-width: 768px)"
         >
 
         <source
             data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=650&auto=format&fit=max&dpr=2&q=40"
-            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=650&auto=format&fit=max&dpr=2&q=40"
             media="(min-width: 480px) and (-webkit-min-device-pixel-ratio: 1.25) and (min-resolution: 120dpi)"
         >
         <source
-            data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=650&auto=format&fit=max&dpr=1&q=40"
             data-srcset="https://rationale-design.imgix.net{{include.image.image}}?w=650&auto=format&fit=max&dpr=1&q=40"
             media="(min-width: 480px) "
         >
         <img
             class="lazyload"
-            data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=50"
             data-src="https://rationale-design.imgix.net{{include.image.image}}?w=1500&auto=format&fit=max&dpr=1&q=50"
             alt="{{include.image.alt}}"
         >
