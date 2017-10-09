@@ -2,6 +2,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 require 'csv'
+require_relative 'fastimage.rb'
 
 module Jekyll
 class GetSizeTag < Liquid::Tag
@@ -38,41 +39,17 @@ class GetSizeTag < Liquid::Tag
 
             # if nothing was found, get the size from imgix 
             if flag == 0
-                uri = URI.parse('https://rationale-design.imgix.net' + var.strip + '?fm=json')
+                pixelwidth, pixelheight = FastImage.size('https://rationale-design.imgix.net' + var.strip)
                 
-                # get resource with 5s timeout
-                begin
-                    http = Net::HTTP.new(uri.host, uri.port)
-                    http.use_ssl = true if uri.scheme == 'https'
-                    http.read_timeout = 7
-                    
-                    http.start do
-                        request = Net::HTTP::Get.new(uri.request_uri)
-                        resp = http.request(request)
+                printheight = "56"
+                printheight = sprintf("%.4f",(pixelheight.to_f * 100 / pixelwidth.to_f))
 
-                        # parse json
-                        printheight = "56"
-                        if resp.body.length >= 2
-                            json = JSON.parse(resp.body)
-                            pixelheight = json["PixelHeight"].to_f
-                            pixelwidth = json["PixelWidth"].to_f
-
-                            printheight = sprintf("%.4f",(pixelheight * 100 / pixelwidth))
-
-                            # cache to color to file
-                            CSV.open(filename, "a+b") do |csv|
-                                csv << [var, printheight]
-                            end
-                        else return resp.class.name
-                        end
-                
-                        # and return the hex color
-                        return printheight
-                    end
-
-                    rescue Timeout::Error => error
-                        "56.1"
+                # cache size to file
+                CSV.open(filename, "a+b") do |csv|
+                    csv << [var, printheight]
                 end
+
+                return printheight
             end
         end
     end

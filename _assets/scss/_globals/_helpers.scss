@@ -13,9 +13,11 @@
     padding-bottom: 0 !important;
     height: auto !important;
     &:not(:last-child) {
-      @include breakpoint($small-only) {
-        margin-bottom: 1px;
-      }
+      .post-img {
+        @include breakpoint($small-only) {
+          margin-bottom: 1px;
+        }
+      } 
     }
 
     @include breakpoint($small) {
