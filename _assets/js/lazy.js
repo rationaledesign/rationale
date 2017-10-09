@@ -1,7 +1,4 @@
-// document.addEventListener('lazybeforeunveil', function(e) {
-//   console.log(e.target.parentNode);
-// });
-
+// commented for future work
 // const lazyImages = document.querySelectorAll('img[data-src]');
 
 // // Check for Cache support
@@ -128,5 +125,4 @@
 //       });
 //     }, 100);
 //   });
-
 // });

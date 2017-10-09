@@ -11,7 +11,6 @@ document.body.addEventListener("keyup", function(e){
 })
 
 // masonry layout
-
 if (window.innerWidth > 559) {
 
   var posts = document.querySelectorAll('.feed-posts');
