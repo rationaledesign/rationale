@@ -4,24 +4,24 @@
 }
 
 .product-thumbnail {
-  
+
     &:hover a {
       color: $red;
     }
-  
+
     @include breakpoint($small) {
       @include col-half(false);
     }
 
-    div { // force 
+    div { // force
       background-color: transparent !important;
     }
-  
+
     a { // overwrite default link color
       display: block;
       color: $black;
     }
-  
+
     img {
       display: block;
       bottom: 0; position: absolute;
@@ -32,16 +32,16 @@
       padding-bottom: 66.6%;
       @include breakpoint($mobile) { padding-bottom: 0; height: auto; }
     }
-  
+
     .product-thumbnail-title {
       padding-top: $unit;
       padding-right: 60px;
       height: $unit-4;
 
       h3 { display: none }
-  
-      @include breakpoint($small) { 
-        height: $unit-6; 
+
+      @include breakpoint($small) {
+        height: $unit-6;
         padding-right: 16.66%;
         h3 { display: block }
       }
