@@ -21,9 +21,9 @@ layout: product-detail
 
 This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as a two vertical columns with ample room for notes in a minimal black, white, and red design.
 
-Available for purchase online exclusively via Book/Shop or at select local design-minded retailers.
+Available for purchase online via Book/Shop or at select local design-minded retailers.
 
-Year – ©2014 <br>
+Year – 2017 <br>
 Edition – 600 annually <br>
 Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
