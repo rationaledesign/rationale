@@ -1,5 +1,5 @@
 ---
-title: Rationale Sans Calendar 2016
+title: 2016 Sans wall calendar
 date: 2015-11-13 23:00:00 Z
 position: 7
 featured_text: Available now.
