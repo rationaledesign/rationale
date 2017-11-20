@@ -23,6 +23,8 @@ This simple typographic wall calendar provides a beautiful and functional way fo
 
 Available for purchase online via the Rationale shop or at select local design-minded retailers.
 
+Ships starting December 1st
+
 Year – 2018 <br>
 Edition – 600 annually <br>
 Pages – 13 <br>
