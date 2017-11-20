@@ -6,7 +6,7 @@ featured_image:
   image: "/uploads/rationale_2017-11-20_1a.jpg"
   alt: rationale articles sans calendar 2018 purchase
 detail_images:
-- image: "/uploads/rationale_2018_sanscalendar1_2a.jpg"
+- image: "/uploads/rationale_sanscalendar181_1a.jpg"
   alt: rationale articles sans calendar 2018 purchase
 og_image: "/uploads/rationale_2017-11-20_1oga1.jpg"
 ---
