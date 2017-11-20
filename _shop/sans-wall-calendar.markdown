@@ -3,8 +3,8 @@ title: Sans wall calendar
 date: 2014-09-28 14:36:00 Z
 position: 1
 price: 25
-buylink: https://www.shopbookshop.com/
-buytag: Purchase online from Book/Shop
+buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X33HYCDEUN5FN
+buytag: Buy now
 is_buyactive: true
 imgcount: 2
 images:
@@ -21,7 +21,7 @@ layout: product-detail
 
 This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as a two vertical columns with ample room for notes in a minimal black, white, and red design.
 
-Available for purchase online via Book/Shop or at select local design-minded retailers.
+Available for purchase online via the Rationale shop or at select local design-minded retailers.
 
 Year – 2018 <br>
 Edition – 600 annually <br>
