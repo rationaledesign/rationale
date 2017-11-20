@@ -8,14 +8,14 @@ buytag: Purchase online from Book/Shop
 is_buyactive: true
 imgcount: 2
 images:
-- image: "/uploads/rationale_sanscalendar171_1c.jpg"
-  alt: rationale shop sans calendar 2017
-- image: "/uploads/rationale_sanscalendar171_2c.jpg"
-  alt: rationale shop sans calendar 2017
+- image: "/uploads/rationale_sanscalendar181_1a.jpg"
+  alt: rationale shop sans calendar 2018
+- image: "/uploads/rationale_sanscalendar181_2a.jpg"
+  alt: rationale shop sans calendar 2018
 thumb_image:
-  image: "/uploads/rationale_sanscalendar171_0b.jpg"
-  alt: rationale shop sans calendar 2017
-og_image: "/uploads/rationale_sanscalendar171_og1a.jpg"
+  image: "/uploads/rationale_sanscalendar181_0a.jpg"
+  alt: rationale shop sans calendar 2018
+og_image: "/uploads/rationale_sanscalendar181_og1a.jpg"
 layout: product-detail
 ---
 
@@ -23,7 +23,7 @@ This simple typographic wall calendar provides a beautiful and functional way fo
 
 Available for purchase online via Book/Shop or at select local design-minded retailers.
 
-Year – 2017 <br>
+Year – 2018 <br>
 Edition – 600 annually <br>
 Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
