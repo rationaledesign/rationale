@@ -1,5 +1,5 @@
 ---
-title: Rationale Sans Calendar 2018
+title: 2018 Sans wall calendar
 date: 2017-11-20 17:42:00 Z
 featured_text: Available now.
 featured_image:
@@ -11,6 +11,6 @@ detail_images:
 og_image: "/uploads/rationale_2017-11-20_1oga1.jpg"
 ---
 
-The 2018 Rationale Sans calendar is now available for purchase.
+The 2018 Rationale Sans wall calendar is now available for purchase.
 
 See more details in our [Shop](https://rationale-design.com/shop/).
