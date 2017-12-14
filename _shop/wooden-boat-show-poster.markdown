@@ -20,6 +20,8 @@ Designed for the Port of Toledo Wooden Boat Show, this poster features custom-cu
 
 Limited-edition poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large-format size on enhanced matte paper in deep and vibrant colors. Signed and numbered on the back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
 
+Shipping rates: US–9 / CA–12 / INT–16
+
 Year – 2013 <br>
 Edition – 100 <br> 
 Size – A1 / 594x841 mm / 23.4x33.1 in <br> 
