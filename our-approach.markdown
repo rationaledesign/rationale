@@ -8,16 +8,14 @@ images:
 - image: "/uploads/rationale_ourapproach_2a.jpg"
   alt: 
 og_image: "/uploads/rationale_ourapproach_og1a.jpg"
-bottom_body: |
+bottom_body: |+
   Sean Wolcott, the acclaimed designer and founder of Rationale, has previously designed for some of the biggest brands and products in the world, and his team of top international talent brings a broad level of insight to each project.
 
   We would be happy to discuss how we might help with your next project.
 
   * [hello@rationale-design.com](mailto:hello@rationale-design.com)
   * [+1 415/742 9116](tel:+1415749116)
-  <br>
-  217 1st Avenue South #4324
-  Seattle, WA 98194
+
 layout: our-approach
 ---
 
