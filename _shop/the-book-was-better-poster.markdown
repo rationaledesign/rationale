@@ -20,6 +20,8 @@ Many visual metaphors can signify film, but most of these are too referential to
 
 Limited-edition film festival poster designed by Sean Wolcott of Rationale. Giclée printed at A1 large-format size on enhanced matte paper with deep and vibrant colors. Signed and numbered on the back by the designer. Shipped in a heavy-duty mailing tube ready to be framed or hung as is.
 
+Shipping rates: US–9 / CA–12 / INT–16
+
 Year – 2016 <br>
 Edition – 100 <br> 
 Size – A1 / 594x841 mm / 23.4x33.1 in <br> 
