@@ -34,6 +34,8 @@ The 172-page book Sean Wolcott: Graphic Design chronicles the ongoing design wor
 
 Designed by Sean Wolcott of Rationale.
 
+Shipping rates: US–9 / CA–12 / INT–16
+
 Year – 2015 <br>
 Edition – 300 <br>
 Pages – 172 <br>
