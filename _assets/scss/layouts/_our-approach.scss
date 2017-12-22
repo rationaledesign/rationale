@@ -1,6 +1,14 @@
 .our-approach .content {
   .bottom_body {
     margin-bottom: $unit-5;
+
+    ul {
+      li {
+        @include h2;
+        &:nth-child(3) { margin-top: $unit*2; }
+      }
+    }
+
     @include breakpoint($med){ margin-bottom: $unit-7; }
 
     // not future-proof, but targets the links easily
