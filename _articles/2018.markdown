@@ -1,6 +1,7 @@
 ---
 title: '2018'
 date: 2017-12-31 21:30:00 Z
+published: false
 position: 0
 featured_text: 2017 was a landmark.
 featured_image:
