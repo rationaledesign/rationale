@@ -3,8 +3,7 @@ title: Sans wall calendar
 date: 2014-09-28 14:36:00 Z
 position: 1
 price: 25
-buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X33HYCDEUN5FN
-buytag: Buy now
+buytag: Sold out
 is_buyactive: true
 imgcount: 2
 images:
