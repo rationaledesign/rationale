@@ -12,4 +12,4 @@ detail_images:
 og_image: "/uploads/rationale_2018-01-01_og1b.jpg"
 ---
 
-2017 was a landmark. We would like to thank our clients for their shared ambition, our partners for their dedication, and our friends for their support. Best wishes to all for 2018.
+2017 was a landmark. We would like to thank our clients for their ambition, our partners for their dedication, and our friends for their support. Best wishes to all for 2018.
