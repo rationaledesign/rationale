@@ -4,7 +4,7 @@ date: 2017-12-31 21:30:00 Z
 position: 0
 featured_text: 2017 was a landmark.
 featured_image:
-  image: "/uploads/rationale_2018-01-01_1a.jpg"
+  image: "/uploads/rationale_2017-11-20_1a.jpg"
   alt: rationale happy new year 2018
 detail_images:
 - image: "/uploads/rationale_2018-01-01_1a.jpg"
