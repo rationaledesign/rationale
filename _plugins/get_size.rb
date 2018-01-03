@@ -44,12 +44,16 @@ class GetSizeTag < Liquid::Tag
                 printheight = "56"
                 printheight = sprintf("%.4f",(pixelheight.to_f * 100 / pixelwidth.to_f))
 
-                # cache size to file
-                CSV.open(filename, "a+b") do |csv|
-                    csv << [var, printheight]
-                end
+                if printheight.match(/\A[-+]?[0-9]+\z/) 
+                    # cache size to file
+                    CSV.open(filename, "a+b") do |csv|
+                        csv << [var, printheight]
+                    end
 
-                return printheight
+                    return printheight
+                else
+                    return "56"
+                end
             end
         end
     end
