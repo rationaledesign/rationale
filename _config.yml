@@ -20,6 +20,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  image-ratios:
+    title: image_ratios
+    output: false
 defaults:
 - scope:
     path: ''
