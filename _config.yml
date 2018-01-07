@@ -22,7 +22,7 @@ collections:
     output: true
   image-ratios:
     title: image_ratios
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
