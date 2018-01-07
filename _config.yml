@@ -36,9 +36,11 @@ defaults:
     images:
     - image: 
       alt: 
+      color:
     thumb_image:
       image: 
       alt: 
+      color:
     og_image: 
 - scope:
     path: ''
@@ -50,9 +52,11 @@ defaults:
     images:
     - image: 
       alt: 
+      color:
     thumb_image:
       image: 
       alt: 
+      color:
     download_file: 
     og_image: 
 - scope:
@@ -68,9 +72,11 @@ defaults:
     images:
     - image: 
       alt: 
+      color:
     thumb_image:
       image: 
       alt: 
+      color:
     og_image: 
 - scope:
     path: ''
@@ -82,9 +88,11 @@ defaults:
     featured_image:
       image: 
       alt: 
+      color:
     detail_images:
     - image: 
       alt: 
+      color:
     og_image: 
 url: https://rationale-design.com
 permalink: pretty
