@@ -39,10 +39,12 @@ defaults:
     images:
     - image: 
       alt: 
+      image_ratio:
       color:
     thumb_image:
       image: 
       alt: 
+      image_ratio:
       color:
     og_image: 
 - scope:
@@ -55,10 +57,12 @@ defaults:
     images:
     - image: 
       alt: 
+      image_ratio:
       color:
     thumb_image:
       image: 
       alt: 
+      image_ratio:
       color:
     download_file: 
     og_image: 
@@ -75,10 +79,12 @@ defaults:
     images:
     - image: 
       alt: 
+      image_ratio:
       color:
     thumb_image:
       image: 
       alt: 
+      image_ratio:
       color:
     og_image: 
 - scope:
@@ -91,10 +97,12 @@ defaults:
     featured_image:
       image: 
       alt: 
+      image_ratio:
       color:
     detail_images:
     - image: 
       alt: 
+      image_ratio:
       color:
     og_image: 
 url: https://rationale-design.com

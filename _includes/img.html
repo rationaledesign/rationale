@@ -1,6 +1,6 @@
 <div
-    class="img {{ include.type }}"
-    style="background-color: {% get_color include.image.image %};
+    class="img {{ include.type }} img-{{ include.image_ratio.title }}"
+    style="background-color: {% if include.color %}{{include.color}}{% else %}{% get_color include.image.image %}{% endif %};
         {% if include.type == 'detail' %}height: {% get_size include.image.image %}vw{% endif %}
         {% if include.type == 'gallery' or include.type == 'post-img' %}padding-bottom: {% get_size include.image.image %}%{% endif %}"
 >
