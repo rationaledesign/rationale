@@ -1,0 +1,39 @@
+.img-height-1-1 {
+  height: calc((1/1) * 100vw) !important;
+}
+
+.img-height-3-2 {
+  height: calc((2/3) * 100vw) !important;
+}
+
+.img-height-5-4 {
+  height: calc((4/5) * 100vw) !important;
+}
+
+.img-height-7-5 {
+  height: calc((7/5) * 100vw) !important;
+}
+
+.img-height-16-9 {
+  height: calc((9/16) * 100vw);
+}
+
+.img-ratio-1-1 {
+  padding-bottom: 100% !important;
+}
+
+.img-ratio-3-2 {
+  padding-bottom: calc((2 / 3) * 100%) !important;
+}
+
+.img-ratio-5-4 {
+  padding-bottom: calc((4/5) * 100%) !important;
+}
+
+.img-ratio-7-5 {
+  padding-bottom: calc((5/7) * 100vw) !important;
+}
+
+.img-ratio-16-9 {
+  padding-bottom: calc((9 / 16) * 100%) !important;
+}
