@@ -6,6 +6,7 @@ featured_text: '"Communicate with an element of universal clarity"'
 featured_image:
   image: "/uploads/rationale_2016-04-25_1b.jpg"
   alt: rationale articles gute process interview sean wolcott
+  image_ratio: 3-2
 detail_images:
 - image: "/uploads/rationale_2016-04-25_2b.jpg"
   alt: rationale articles gute process interview sean wolcott
