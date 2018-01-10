@@ -6,6 +6,7 @@ featured_text: Available now.
 featured_image:
   image: "/uploads/rationale_2017-11-20_1a.jpg"
   alt: rationale articles sans calendar 2018 purchase
+  image_ratio: 1-1
 detail_images:
 - image: "/uploads/rationale_sanscalendar181_1a.jpg"
   alt: rationale articles sans calendar 2018 purchase
