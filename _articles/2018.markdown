@@ -7,10 +7,13 @@ featured_text: 2017 was a landmark.
 featured_image:
   image: "/uploads/rationale_2018-01-01_1a.jpg"
   alt: rationale happy new year 2018
-  image_ratio: 1-1
+  image_ratio: 3-2
+  color: fb3d03
 detail_images:
 - image: "/uploads/rationale_2018-01-01_1a.jpg"
   alt: rationale happy new year 2018
+  image_ratio: 3-2
+  color: fb3d03
 og_image: "/uploads/rationale_2018-01-01_og1b.jpg"
 ---
 
