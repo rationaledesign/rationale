@@ -4,8 +4,10 @@ date: 2017-08-23 19:28:00 Z
 position: 10
 year: 2017
 images:
-- image: "/uploads/rationale_2017_territory_1a.jpg"
+- image: "/uploads/rationale_2017_territory_1b.jpg"
   alt: rationale design territory album cover
+  image_ratio: 16-9
+  color: "#ef3e00"
 thumb_image:
   image: "/uploads/rationale-territory-0.jpg"
   alt: rationale design territory album
