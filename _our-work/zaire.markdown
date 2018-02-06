@@ -12,10 +12,10 @@ year: 2013
 images:
 - image: "/uploads/rationale_2013_zaire1_1a.jpg"
   alt: rationale design zaire album front cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2013_zaire1_2a.jpg"
   alt: rationale design zaire album poster
-- image: "/uploads/rationale_2013_zaire1_3a.jpg"
-  alt: rationale design zaire album back cover
 thumb_image:
   image: "/uploads/rationale_2013_zaire1_0a.jpg"
   alt: rationale design zaire album cover
