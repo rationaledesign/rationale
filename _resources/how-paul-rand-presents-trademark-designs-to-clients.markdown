@@ -6,19 +6,21 @@ imgcount: 3
 images:
 - image: "/uploads/rationale_randtrademarks_1a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
-  image_ratio: 
-  color: 
+  image_ratio: 3-2
+  color: "#f0f0f0"
 - image: "/uploads/rationale_randtrademarks_2a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
-  image_ratio: 
-  color: 
+  image_ratio: 3-2
+  color: "#85abd2"
 - image: "/uploads/rationale_randtrademarks_3a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
-  image_ratio: 
-  color: 
+  image_ratio: 3-2
+  color: "#d24932"
 thumb_image:
   image: "/uploads/rationale_randtrademarks_0a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
+  image_ratio: 3-2
+  color: "#000000"
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/Rand_Graphis153_Trademark_Presentation.pdf
 og_image: "/uploads/rationale_randtrademarks_og1a.jpg"
 ---
