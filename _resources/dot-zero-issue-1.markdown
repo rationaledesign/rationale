@@ -1,7 +1,7 @@
 ---
 title: Dot Zero – Issue 1
 date: 2014-06-07 06:01:00 Z
-position: 3
+position: 4
 author: Unimark / Massimo Vignelli
 imgcount: 7
 images:
