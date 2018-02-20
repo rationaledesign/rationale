@@ -23,6 +23,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_ibmbodonimanual1_0a.jpg"
   alt: rationale resources karl gerstner ibm bodoni design manual
+download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/IBM_Bodoni_Manual_Pt1.pdf
 og_image: "/uploads/rationale_ibmbodonimanual1_og1a.jpg"
 ---
 
