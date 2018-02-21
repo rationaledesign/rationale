@@ -29,4 +29,4 @@ We are proud to present an exhibit of cultural Modernist design works curated fr
 
 In partnership with Civilization, an exhibition like this is a Seattle first. While you've seen works like this online, it can't quite compare with the power and scale of the real thing. Come experience it in Seattle through March 23rd with an opening party happening from 6–9pm on February 21st.
 
-Get more details at at [Non-Breaking Space](http://non-breaking.space/)
+Get more details at [Non-Breaking Space](http://non-breaking.space/)
