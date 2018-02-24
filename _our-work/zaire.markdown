@@ -10,10 +10,6 @@ excerpt_text: Cover for EP “Zaire”, designed for music group Young Monday. A
   other promotional materials.
 year: 2013
 images:
-- image: "/uploads/rationale_2013_zaire1_1a.jpg"
-  alt: rationale design zaire album front cover
-  image_ratio: 
-  color: 
 - image: "/uploads/rationale_2013_zaire1_2a.jpg"
   alt: rationale design zaire album poster
 thumb_image:
