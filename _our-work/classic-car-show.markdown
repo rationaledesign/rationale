@@ -19,8 +19,6 @@ images:
   alt: rationale design classic car show poster
 - image: "/uploads/rationale_2012_classiccar1_4a.jpg"
   alt: rationale design classic car show poster
-- image: "/uploads/rationale_2012_classiccar1_8a.jpg"
-  alt: rationale design classic car show poster
 thumb_image:
   image: "/uploads/rationale_2012_classiccar1_0a.jpg"
   alt: rationale design classic car show poster
