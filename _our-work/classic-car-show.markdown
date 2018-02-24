@@ -11,17 +11,13 @@ year: 2012
 images:
 - image: "/uploads/rationale_2012_classiccar1_1b.jpg"
   alt: rationale design classic car show poster
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2012_classiccar1_2a.jpg"
   alt: rationale design classic car show poster
 - image: "/uploads/rationale_2012_classiccar1_3a.jpg"
   alt: rationale design classic car show poster
 - image: "/uploads/rationale_2012_classiccar1_4a.jpg"
-  alt: rationale design classic car show poster
-- image: "/uploads/rationale_2012_classiccar1_5a.jpg"
-  alt: rationale design classic car show poster
-- image: "/uploads/rationale_2012_classiccar1_6a.jpg"
-  alt: rationale design classic car show poster
-- image: "/uploads/rationale_2012_classiccar1_7a.jpg"
   alt: rationale design classic car show poster
 - image: "/uploads/rationale_2012_classiccar1_8a.jpg"
   alt: rationale design classic car show poster
