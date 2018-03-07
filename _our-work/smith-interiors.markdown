@@ -11,6 +11,8 @@ year: 2014
 images:
 - image: "/uploads/rationale_2014_smithinteriors1_5g.jpg"
   alt: rationale design smith interiors identity logotype
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2014_smithinteriors1_6c.jpg"
   alt: rationale design smith interiors identity logomark
 - image: "/uploads/rationale_2014_smithinteriors1_1a.jpg"
@@ -24,6 +26,7 @@ images:
 thumb_image:
   image: "/uploads/smithinteriors-0.jpg"
   alt: rationale design smith interiors identity
+  color: "#6e6f6a"
 og_image: "/uploads/rationale_2014_smithinteriors1_og1b.jpg"
 layout: project
 ---
