@@ -4,16 +4,18 @@ date: 2009-01-01 00:00:00 Z
 categories:
 - Packaging
 position: 9
-excerpt_text: 
 year: 2009
 images:
 - image: "/uploads/rationale_2009_remixvol11_1a.jpg"
   alt: rationale design remix vol 1 album front cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2009_remixvol11_2a.jpg"
   alt: rationale design remix vol 1 album back cover
 thumb_image:
   image: "/uploads/rationale_2009_remixvol11_0a.jpg"
   alt: rationale design remix vol 1 album cover
+  color: "#0073da"
 og_image: "/uploads/rationale_2009_remixvol11_og1a.jpg"
 layout: project
 ---
