@@ -12,11 +12,14 @@ year: 2016
 images:
 - image: "/uploads/rationale-bkennedy-1a.jpg"
   alt: rationale design bryan kennedy identity logo
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2016_bryankennedy1_2a.jpg"
   alt: rationale design bryan kennedy identity logo
 thumb_image:
   image: "/uploads/rationale-bkennedy-0.jpg"
   alt: rationale design bryan kennedy identity
+  color: "#e5002b"
 og_image: "/uploads/rationale_2016_bryankennedy1_og1a.jpg"
 ---
 
