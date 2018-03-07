@@ -12,9 +12,11 @@ year: 2016
 images:
 - image: "/uploads/rationale_2016_tbwb1_1a.jpg"
   alt: rationale design the book was better film festival poster
+  color: "#000000"
 thumb_image:
   image: "/uploads/rationale-tbwb-0.jpg"
   alt: rationale design the book was better film festival
+  color: "#000000"
 og_image: "/uploads/rationale_2015_tbwb1_og1a.jpg"
 ---
 
