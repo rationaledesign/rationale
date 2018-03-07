@@ -13,6 +13,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2013_woodenboatshow1_0a.jpg"
   alt: rationale design wooden boat show poster
+  color: "#302f37"
 og_image: "/uploads/rationale_2013_woodenboatshow1_og1a.jpg"
 layout: project
 ---
