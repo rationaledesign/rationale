@@ -8,9 +8,11 @@ year: 2014
 images:
 - image: "/uploads/rationale_2014_aiga1_1a.jpg"
   alt: rationale design aiga 100 poster
+  color: "#fa0098"
 thumb_image:
   image: "/uploads/rationale_2014_aiga1_0a.jpg"
   alt: rationale design aiga 100
+  color: "#fa0098"
 og_image: "/uploads/rationale_2014_aiga1_og1a.jpg"
 ---
 
