@@ -5,6 +5,8 @@ year: 2008
 images:
 - image: "/uploads/rationale_2008_0dot51_1a.jpg"
   alt: rationale design 0.5 album front cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2008_0dot51_2a.jpg"
   alt: rationale design 0.5 poster
 - image: "/uploads/rationale_2008_0dot51_3a.jpg"
@@ -12,6 +14,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2008_0dot51_0a.jpg"
   alt: rationale design 0.5 album cover
+  color: "#2d4642"
 og_image: "/uploads/rationale_2008_0dot51_og1a.jpg"
 ---
 
