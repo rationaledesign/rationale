@@ -8,6 +8,8 @@ year: 2016
 images:
 - image: "/uploads/rationale_2016_territorysingles1_1a.jpg"
   alt: rationale design territory singles front cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2016_territorysingles1_2a.jpg"
   alt: rationale design territory singles front cover
 - image: "/uploads/rationale_2016_territorysingles1_3b.jpg"
@@ -15,6 +17,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2016_territorysingles1_0a.jpg"
   alt: rationale design territory singles cover
+  color: "#454aa8"
 og_image: "/uploads/rationale_2016_territorysingles1_og1a.jpg"
 ---
 
