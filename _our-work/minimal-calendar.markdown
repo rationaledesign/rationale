@@ -17,6 +17,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_mincalendar_0b.jpg"
   alt: rationale design minimal calendar application
+  color: "#fd2f00"
 og_image: "/uploads/rationale-mincalendar-og.jpg"
 layout: project
 ---
