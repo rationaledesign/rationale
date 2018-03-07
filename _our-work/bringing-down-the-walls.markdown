@@ -12,11 +12,14 @@ year: 2009
 images:
 - image: "/uploads/rationale_2009_bringdownthewalls1_1d.jpg"
   alt: rationale design bringing down the walls album cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2009_bringdownthewalls1_2b.jpg"
   alt: rationale design bringing down the walls poster
 thumb_image:
   image: "/uploads/rationale_2009_bringdownthewalls1_0a.jpg"
   alt: rationale design bringing down the walls
+  color: "#a6a5a3"
 og_image: "/uploads/rationale_2009_bringdownthewalls1_og1b.jpg"
 layout: project
 ---
