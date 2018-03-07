@@ -16,6 +16,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2014_synthpatch1_0a.jpg"
   alt: rationale design synth patch application
+  color: "#1a1a1a"
 og_image: "/uploads/rationale_2014_synthpatch1_og1a.jpg"
 layout: project
 ---
