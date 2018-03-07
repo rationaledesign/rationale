@@ -12,6 +12,8 @@ year: 2010
 images:
 - image: "/uploads/rationale_2010_concertseries1_1a.jpg"
   alt: rationale design music concert series poster
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2010_concertseries1_2a.jpg"
   alt: rationale design music concert series poster
 - image: "/uploads/rationale_2010_concertseries1_3a.jpg"
@@ -29,6 +31,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2010_concertseries1_0a.jpg"
   alt: rationale design music concert series poster
+  color: "#2b2e8d"
 og_image: "/uploads/rationale_2010_concertseries1_og1a.jpg"
 layout: project
 ---
