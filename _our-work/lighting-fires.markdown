@@ -11,6 +11,8 @@ year: 2012
 images:
 - image: "/uploads/rationale_2012_lightingfires1_1a.jpg"
   alt: rationale design lighting fires book cover
+  image_ratio: 
+  color: "#fa3700"
 - image: "/uploads/rationale_2012_lightingfires1_2a.jpg"
   alt: rationale design lighting fires book cover
 - image: "/uploads/rationale_2012_lightingfires1_3b.jpg"
@@ -22,6 +24,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2012_lightingfires1_0a.jpg"
   alt: rationale design lighting fires identity
+  color: "#fa3700"
 og_image: "/uploads/rationale_2012_lightingfires1_og1a.jpg"
 layout: project
 ---
