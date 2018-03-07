@@ -15,6 +15,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2013_zaire1_0a.jpg"
   alt: rationale design zaire album cover
+  color: "#04548f"
 og_image: "/uploads/rationale_2013_zaire1_og1a.jpg"
 layout: project
 ---
