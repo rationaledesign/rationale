@@ -11,11 +11,14 @@ year: 2012
 images:
 - image: "/uploads/rationale_2012_interaction1_1a.jpg"
   alt: rationale design interaction album front cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2012_interaction1_2a.jpg"
   alt: rationale design interaction album back cover
 thumb_image:
   image: "/uploads/rationale_2012_interaction1_0a.jpg"
   alt: rationale design interaction album cover
+  color: "#1a1a1a"
 og_image: "/uploads/rationale_2012_interaction1_og1a.jpg"
 layout: project
 ---
