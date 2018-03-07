@@ -8,6 +8,8 @@ year: 2013
 images:
 - image: "/uploads/rationale_2013_latitudex1_1a.jpg"
   alt: rationale design latitudex identity grid
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2013_latitudex1_7b.jpg"
   alt: rationale design latitudex identity promo
 - image: "/uploads/rationale_2013_latitudex1_3c.jpg"
@@ -21,6 +23,7 @@ images:
 thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
   alt: rationale design latitudex identity
+  color: "#feb81a"
 og_image: "/uploads/rationale-latitudex-og.jpg"
 layout: project
 ---
