@@ -11,6 +11,8 @@ year: 2014
 images:
 - image: "/uploads/rationale_2014_aprilbrimer1_1a.jpg"
   alt: rationale design april brimer photography book cover
+  image_ratio: 
+  color: "#ebebeb"
 - image: "/uploads/rationale_2014_aprilbrimer1_2a.jpg"
   alt: rationale design april brimer photography book inside pages
 - image: "/uploads/rationale_2014_aprilbrimer1_3a.jpg"
@@ -26,6 +28,7 @@ images:
 thumb_image:
   image: "/uploads/rationale-aprilbrimer-0.jpg"
   alt: rationale design april brimer photography
+  color: "#ebebeb"
 og_image: "/uploads/rationale_2014_aprilbrimer1_og1a.jpg"
 layout: project
 ---
