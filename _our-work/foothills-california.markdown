@@ -12,6 +12,8 @@ year: 2013
 images:
 - image: "/uploads/rationale-foothillsid-1.jpg"
   alt: rationale design foothills california identity logo
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale-foothillsid-2.jpg"
   alt: rationale design foothills california identity bag
 - image: "/uploads/rationale-foothillsid-3b.jpg"
@@ -25,6 +27,7 @@ images:
 thumb_image:
   image: "/uploads/rationale-foothillsid-0.jpg"
   alt: rationale design foothills california identity
+  color: "#000000"
 og_image: "/uploads/rationale-foothillsid-og.jpg"
 layout: project
 ---
