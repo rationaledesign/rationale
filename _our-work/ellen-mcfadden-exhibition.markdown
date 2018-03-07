@@ -11,6 +11,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2015_ellenmcfadden1_0b.jpg"
   alt: 'rationale design ellen mcfadden exhibition '
+  color: "#1a1a1a"
 og_image: "/uploads/rationale_2015_ellenmcfadden1_og1a.jpg"
 ---
 
