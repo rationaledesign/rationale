@@ -16,6 +16,7 @@ images:
 thumb_image:
   image: "/uploads/rationale-schaeferid-0.jpg"
   alt: rationale design schaefer stevedoring identity
+  color: "#011f5b"
 og_image: "/uploads/rationale_2016_schaeferid1_og1a.jpg"
 ---
 
