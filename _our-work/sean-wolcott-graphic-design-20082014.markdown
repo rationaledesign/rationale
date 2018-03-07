@@ -14,11 +14,14 @@ year: 2015
 images:
 - image: "/uploads/rationale_2015_swbook0714_1a.jpg"
   alt: rationale design sean wolcott graphic design 2007 2014 book cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2015_swbook0714_2a.jpg"
   alt: rationale design sean wolcott graphic design 2007 2014 book all pages
 thumb_image:
   image: "/uploads/rationale-swbook0714-0.jpg"
   alt: rationale design sean wolcott graphic design 2007 2014 book
+  color: "#ebebeb"
 og_image: "/uploads/rationale_2015_swbook0714_og1a.jpg"
 layout: project
 ---
