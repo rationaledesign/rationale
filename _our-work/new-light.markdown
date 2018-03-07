@@ -12,6 +12,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2011_newlight1_0a.jpg"
   alt: rationale design new light album cover
+  color: "#493267"
 og_image: "/uploads/rationale_2011_newlight1_og1a.jpg"
 ---
 
