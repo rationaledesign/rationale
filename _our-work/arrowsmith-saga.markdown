@@ -11,11 +11,14 @@ year: 2012
 images:
 - image: "/uploads/rationale_2012_arrowsmith1_1a.jpg"
   alt: rationale design arrowsmith saga book cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2012_arrowsmith1_2a.jpg"
   alt: rationale design arrowsmith saga book cover
 thumb_image:
   image: "/uploads/rationale_2012_arrowsmith1_0a.jpg"
   alt: rationale design arrowsmith saga book cover
+  color: "#fd2f00"
 og_image: "/uploads/rationale_2012_arrowsmith1_og1a.jpg"
 layout: project
 ---
