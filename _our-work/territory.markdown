@@ -11,6 +11,7 @@ images:
 thumb_image:
   image: "/uploads/rationale-territory-0.jpg"
   alt: rationale design territory album
+  color: "#fe2a40"
 og_image: "/uploads/rationale_2017_territory_og1b.jpg"
 ---
 
