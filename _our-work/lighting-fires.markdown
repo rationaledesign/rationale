@@ -12,7 +12,7 @@ images:
 - image: "/uploads/rationale_2012_lightingfires1_1a.jpg"
   alt: rationale design lighting fires book cover
   image_ratio: 
-  color: "#fa3700"
+  color: 
 - image: "/uploads/rationale_2012_lightingfires1_2a.jpg"
   alt: rationale design lighting fires book cover
 - image: "/uploads/rationale_2012_lightingfires1_3b.jpg"
