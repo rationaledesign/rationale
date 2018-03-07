@@ -22,6 +22,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2012_classiccar1_0a.jpg"
   alt: rationale design classic car show poster
+  color: "#b0160e"
 og_image: "/uploads/rationale_2012_classiccar1_og1a.jpg"
 layout: project
 ---
