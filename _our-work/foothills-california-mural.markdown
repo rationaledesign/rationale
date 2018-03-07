@@ -11,6 +11,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2014_foothillsmural1_0a.jpg"
   alt: rationale design foothills california mural
+  color: "#d73822"
 og_image: "/uploads/rationale_2014_foothillsmural1_og1a.jpg"
 ---
 
