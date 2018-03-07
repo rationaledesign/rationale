@@ -13,6 +13,8 @@ year: 2013
 images:
 - image: "/uploads/rationale_2013_massivebit1_1c.jpg"
   alt: rationale design massive bits identity logo
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_2013_massivebit1_2c.jpg"
   alt: rationale design massive bits identity poster
 - image: "/uploads/rationale_2013_massivebit1_3c.jpg"
@@ -28,6 +30,7 @@ images:
 thumb_image:
   image: "/uploads/rationale-massivebit-0b.jpg"
   alt: rationale design massive bits identity
+  color: "#ff4e24"
 og_image: "/uploads/rationale-massivebit-og1.jpg"
 layout: project
 ---
