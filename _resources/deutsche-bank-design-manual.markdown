@@ -29,8 +29,8 @@ og_image: "/uploads/rationale_deutschebank_og1a.jpg"
 layout: resource
 ---
 
-Presented here is the “Erscheinungsbild Deutsche Bank Typografie” design manual, articulating the design systems for Deutsche Bank. Includes typography, grid, color, logo, stationery, and general design guidance. These works are the property of their respective owners and should be used for non-commercial research and education purposes only. © Grafisches Atelier Stankowski + Duschek, Meike Gatermann and Stankowski-Stiftung
+Presented here is the “Erscheinungsbild Deutsche Bank Typografie” design manual, articulating the design systems for Deutsche Bank. Includes typography, grid, color, logo, stationery, and general design guidance. These works are the property of their respective owners and should be used for non-commercial research and education purposes only. ©Grafisches Atelier Stankowski + Duschek, Meike Gatermann and Stankowski-Stiftung
 
 Designed by Anton Stankowski, 1978, 69 pages.
 
-Please visit and support [Stankowski-Stiftung](http://www.stankowski-stiftung.de/english/index_eng.html) by purchasing one of their important and inspiring design publications. 
+Please visit and support [Stankowski-Stiftung](http://www.stankowski-stiftung.de/english/index_eng.html) by purchasing one of their design publications. 
