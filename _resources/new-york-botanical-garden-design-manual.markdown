@@ -28,5 +28,4 @@ og_image: "/uploads/rationale_nycbg1_og1a.jpg"
 
 Presented here is a comprehensive yet compact design manual outlining the graphics standards for the New York Botanical Garden. This manual illustrates a program for standardization of signage and many other communications for the gardens. These works are the property of their respective owners and should be used for non-commercial research and education purposes only.
 
-
 Designed by Massimo Vignelli, 1973, 32 pages.

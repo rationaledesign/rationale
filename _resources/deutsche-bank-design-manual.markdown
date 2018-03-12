@@ -7,6 +7,8 @@ imgcount: 7
 images:
 - image: "/uploads/rationale_deutschebank_1a.jpg"
   alt: rationale resources stankowski deutsche bank manual cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_deutschebank_2a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
 - image: "/uploads/rationale_deutschebank_3a.jpg"
@@ -27,6 +29,6 @@ og_image: "/uploads/rationale_deutschebank_og1a.jpg"
 layout: resource
 ---
 
-Presented here is the “Erscheinungsbild Deutsche Bank Typografie” design manual, articulating the design systems for Deutsche Bank. Includes typography, grid, color, logo, stationery, and general design guidance.
+Presented here is the “Erscheinungsbild Deutsche Bank Typografie” design manual, articulating the design systems for Deutsche Bank. Includes typography, grid, color, logo, stationery, and general design guidance. These works are the property of their respective owners and should be used for non-commercial research and education purposes only.
 
 Designed by Anton Stankowski, 1978, 69 pages.
