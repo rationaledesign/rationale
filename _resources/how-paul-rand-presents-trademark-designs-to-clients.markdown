@@ -26,4 +26,4 @@ download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources
 og_image: "/uploads/rationale_randtrademarks_og1a.jpg"
 ---
 
-“How Paul Rand Presents Trademark Designs to Clients”, an excerpt from Graphis 153 (1971/72) provides examples of the short run booklets Paul Rand used to showcase his one-option-only identity solutions to clients. Also included are many of Rand’s own insights into the process which guided his concepts.
+“How Paul Rand Presents Trademark Designs to Clients”, an excerpt from Graphis 153 (1971/72) provides examples of the short run booklets Paul Rand used to showcase his one-option-only identity solutions to clients. Also included are many of Rand’s own insights into the process which guided his concepts. These works are the property of their respective owners and should be used for non-commercial research and education purposes only.
