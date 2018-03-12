@@ -29,7 +29,7 @@ download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources
 og_image: "/uploads/rationale_ibmbodonimanual2_og1a.jpg"
 ---
 
-Presented here is an extremely smart, informative, and rare design manual in two volumes which details appropriate usage of the typeface Bodoni for IBM communications. The document is its own masterclass on the typeface, its uses, and nuances. “Such a choice could be based on a mix of functional, aesthetic and psychological criteria. That means: readability, beauty and originality”
+Presented here is an extremely smart, informative, and rare design manual in two volumes which details appropriate usage of the typeface Bodoni for IBM communications. The document is its own masterclass on the typeface, its uses, and nuances. “Such a choice could be based on a mix of functional, aesthetic and psychological criteria. That means: readability, beauty and originality” These works are the property of their respective owners and should be used for non-commercial research and education purposes only.
 
 Designed by Karl Gerstner, 1984, 58 pages.
 
