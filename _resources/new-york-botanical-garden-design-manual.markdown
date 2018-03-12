@@ -7,6 +7,8 @@ imgcount: 6
 images:
 - image: "/uploads/rationale_nycbg1_1a.jpg"
   alt: rationale resources vignelli new york botanical garden manual cover
+  image_ratio: 
+  color: 
 - image: "/uploads/rationale_nycbg1_2a.jpg"
   alt: rationale resources vignelli new york botanical garden manual
 - image: "/uploads/rationale_nycbg1_3a.jpg"
@@ -24,6 +26,7 @@ download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources
 og_image: "/uploads/rationale_nycbg1_og1a.jpg"
 ---
 
-Presented here is a comprehensive yet compact design manual outlining the graphics standards for the New York Botanical Garden. This manual illustrates a program for standardization of signage and many other communications for the gardens.
+Presented here is a comprehensive yet compact design manual outlining the graphics standards for the New York Botanical Garden. This manual illustrates a program for standardization of signage and many other communications for the gardens. These works are the property of their respective owners and should be used for non-commercial research and education purposes only.
+
 
 Designed by Massimo Vignelli, 1973, 32 pages.
