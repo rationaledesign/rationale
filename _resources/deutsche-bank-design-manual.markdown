@@ -8,19 +8,25 @@ images:
 - image: "/uploads/rationale_deutschebank_1a.jpg"
   alt: rationale resources stankowski deutsche bank manual cover
   image_ratio: 
-  color: 
+  color: "#cccccc"
 - image: "/uploads/rationale_deutschebank_2a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_deutschebank_3a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_deutschebank_4a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_deutschebank_5a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_deutschebank_6a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_deutschebank_7a.jpg"
   alt: rationale resources stankowski deutsche bank manual book
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_deutschebank_0b.jpg"
   alt: rationale resources stankowski deutsche bank manual book
