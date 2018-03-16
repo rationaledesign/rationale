@@ -8,6 +8,7 @@ year: 2011
 images:
 - image: "/uploads/rationale_2011_allinlove1_1a.jpg"
   alt: rationale design all in love poster
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2011_allinlove1_0a.jpg"
   alt: rationale design all in love
