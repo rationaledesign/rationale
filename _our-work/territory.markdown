@@ -7,7 +7,7 @@ images:
 - image: "/uploads/rationale_2017_territory_1c.jpg"
   alt: rationale design territory album cover
   image_ratio: 16-9
-  color: "#ef3e00"
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale-territory-0.jpg"
   alt: rationale design territory album
