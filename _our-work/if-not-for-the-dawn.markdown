@@ -13,9 +13,10 @@ images:
 - image: "/uploads/rationale_2012_ifnotfordawn1_1a.jpg"
   alt: rationale design if not for the dawn book cover
   image_ratio: 
-  color: 
+  color: "#ebebeb"
 - image: "/uploads/rationale_2012_ifnotfordawn1_2a.jpg"
   alt: rationale design if not for the dawn book cover
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2012_ifnotfordawn1_0a.jpg"
   alt: rationale design if not for the dawn book cover
