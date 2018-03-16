@@ -12,15 +12,19 @@ images:
 - image: "/uploads/rationale_2012_lightingfires1_1a.jpg"
   alt: rationale design lighting fires book cover
   image_ratio: 
-  color: 
+  color: "#fa3700"
 - image: "/uploads/rationale_2012_lightingfires1_2a.jpg"
   alt: rationale design lighting fires book cover
+  color: "#fa3700"
 - image: "/uploads/rationale_2012_lightingfires1_3b.jpg"
   alt: rationale design lighting fires promo
+  color: "#ebebeb"
 - image: "/uploads/rationale_2012_lightingfires1_4g.jpg"
   alt: rationale design lighting fires grid
+  color: "#ebebeb"
 - image: "/uploads/rationale_2012_lightingfires1_5a.jpg"
   alt: rationale design lighting fires website
+  color: "#fa3700"
 thumb_image:
   image: "/uploads/rationale_2012_lightingfires1_0a.jpg"
   alt: rationale design lighting fires identity
