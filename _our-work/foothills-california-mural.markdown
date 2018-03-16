@@ -8,6 +8,7 @@ year: 2014
 images:
 - image: "/uploads/rationale_2014_foothillsmural1_1a.jpg"
   alt: rationale design foothills california mural
+  color: "#c8cdd3"
 thumb_image:
   image: "/uploads/rationale_2014_foothillsmural1_0a.jpg"
   alt: rationale design foothills california mural
