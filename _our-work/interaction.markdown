@@ -12,9 +12,10 @@ images:
 - image: "/uploads/rationale_2012_interaction1_1a.jpg"
   alt: rationale design interaction album front cover
   image_ratio: 
-  color: 
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2012_interaction1_2a.jpg"
   alt: rationale design interaction album back cover
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2012_interaction1_0a.jpg"
   alt: rationale design interaction album cover
