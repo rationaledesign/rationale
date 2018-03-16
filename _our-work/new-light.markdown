@@ -9,6 +9,7 @@ year: 2011
 images:
 - image: "/uploads/rationale_2011_newlight1_1a.jpg"
   alt: rationale design new light album front cover
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2011_newlight1_0a.jpg"
   alt: rationale design new light album cover
