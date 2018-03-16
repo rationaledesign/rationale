@@ -8,15 +8,15 @@ images:
 - image: "/uploads/rationale_randtrademarks_1a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
   image_ratio: 3-2
-  color: "#f0f0f0"
+  color: "#cccccc"
 - image: "/uploads/rationale_randtrademarks_2a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
   image_ratio: 3-2
-  color: "#85abd2"
+  color: "#cccccc"
 - image: "/uploads/rationale_randtrademarks_3a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
   image_ratio: 3-2
-  color: "#d24932"
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_randtrademarks_0a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
