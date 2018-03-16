@@ -9,9 +9,10 @@ images:
 - image: "/uploads/rationale_2009_remixvol11_1a.jpg"
   alt: rationale design remix vol 1 album front cover
   image_ratio: 
-  color: 
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2009_remixvol11_2a.jpg"
   alt: rationale design remix vol 1 album back cover
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2009_remixvol11_0a.jpg"
   alt: rationale design remix vol 1 album cover
