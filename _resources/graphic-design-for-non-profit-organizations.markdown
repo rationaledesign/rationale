@@ -8,19 +8,25 @@ images:
 - image: "/uploads/rationale_nonprofit_1a.jpg"
   alt: rationale resources vignelli non-profit organizations manual cover
   image_ratio: 
-  color: 
+  color: "#cccccc"
 - image: "/uploads/rationale_nonprofit_2a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_nonprofit_3a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_nonprofit_4a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_nonprofit_5a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_nonprofit_6a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
+  color: "#cccccc"
 - image: "/uploads/rationale_nonprofit_7a.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_nonprofit_0b.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
