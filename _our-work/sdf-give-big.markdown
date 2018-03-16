@@ -12,6 +12,7 @@ year: 2016
 images:
 - image: "/uploads/rationale_2016_sdfbig1_1a.jpg"
   alt: rationale design seattle design foundation givebig poster
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale-sdfgivebig-0.jpg"
   alt: rationale design seattle design foundation givebig
