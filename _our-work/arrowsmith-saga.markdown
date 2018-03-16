@@ -12,9 +12,10 @@ images:
 - image: "/uploads/rationale_2012_arrowsmith1_1a.jpg"
   alt: rationale design arrowsmith saga book cover
   image_ratio: 
-  color: 
+  color: "#fd2f00"
 - image: "/uploads/rationale_2012_arrowsmith1_2a.jpg"
   alt: rationale design arrowsmith saga book cover
+  color: "#ebebeb"
 thumb_image:
   image: "/uploads/rationale_2012_arrowsmith1_0a.jpg"
   alt: rationale design arrowsmith saga book cover
