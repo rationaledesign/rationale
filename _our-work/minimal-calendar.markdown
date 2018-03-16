@@ -9,11 +9,13 @@ images:
 - image: "/uploads/rationale-mincalendar-1.jpg"
   alt: rationale design minimal calendar application
   image_ratio: 
-  color: 
+  color: "#fd2f00"
 - image: "/uploads/rationale-mincalendar-2.jpg"
   alt: rationale design minimal calendar application
+  color: "#fd2f00"
 - image: "/uploads/rationale-mincalendar-3.jpg"
   alt: rationale design minimal calendar application
+  color: "#fd2f00"
 thumb_image:
   image: "/uploads/rationale_mincalendar_0b.jpg"
   alt: rationale design minimal calendar application
