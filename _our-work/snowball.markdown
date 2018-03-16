@@ -12,6 +12,7 @@ year: 2015
 images:
 - image: "/uploads/rationale_2015_snowball1_1a.jpg"
   alt: rationale design snowball album cover
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_2015_snowball1_0a.jpg"
   alt: rationale design snowball album cover
