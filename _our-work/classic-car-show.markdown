@@ -12,11 +12,13 @@ images:
 - image: "/uploads/rationale_2012_classiccar1_1b.jpg"
   alt: rationale design classic car show poster
   image_ratio: 
-  color: 
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2012_classiccar1_2a.jpg"
   alt: rationale design classic car show poster
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2012_classiccar1_3a.jpg"
   alt: rationale design classic car show poster
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2012_classiccar1_4a.jpg"
   alt: rationale design classic car show poster
 thumb_image:
