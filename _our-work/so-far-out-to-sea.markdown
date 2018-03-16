@@ -12,9 +12,10 @@ images:
 - image: "/uploads/rationale_2015_sofarsea1_1a.jpg"
   alt: rationale design so far out to sea book cover front
   image_ratio: 
-  color: 
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2015_sofarsea1_2a.jpg"
   alt: rationale design so far out to sea book cover back
+  color: "#ebebeb"
 thumb_image:
   image: "/uploads/rationale-sofarsea-0.jpg"
   alt: rationale design so far out to sea book
