@@ -21,6 +21,7 @@ images:
   color: "#aaaaaa"
 - image: "/uploads/rationale_2012_classiccar1_4a.jpg"
   alt: rationale design classic car show poster
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2012_classiccar1_0a.jpg"
   alt: rationale design classic car show poster
