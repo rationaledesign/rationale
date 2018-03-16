@@ -13,17 +13,22 @@ images:
 - image: "/uploads/rationale-foothillsid-1.jpg"
   alt: rationale design foothills california identity logo
   image_ratio: 
-  color: 
+  color: "#000000"
 - image: "/uploads/rationale-foothillsid-2.jpg"
   alt: rationale design foothills california identity bag
+  color: "#cccccc"
 - image: "/uploads/rationale-foothillsid-3b.jpg"
   alt: rationale design foothills california identity website
+  color: "#fd2f00"
 - image: "/uploads/rationale-foothillsid-4.jpg"
   alt: rationale design foothills california identity poster
+  color: "#aaaaaa"
 - image: "/uploads/rationale-foothillsid-5b.jpg"
   alt: rationale design foothills california identity graphics
+  color: "#ebebeb"
 - image: "/uploads/rationale-foothillsid-6b.jpg"
   alt: rationale design foothills california identity stationary
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale-foothillsid-0.jpg"
   alt: rationale design foothills california identity
