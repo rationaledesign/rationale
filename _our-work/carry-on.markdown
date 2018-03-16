@@ -12,9 +12,10 @@ images:
 - image: "/uploads/rationale_2013_carryon1_1a.jpg"
   alt: rationale design carry on book front cover
   image_ratio: 
-  color: 
+  color: "#666666"
 - image: "/uploads/rationale_2013_carryon1_2b.jpg"
   alt: rationale design carry on book back cover
+  color: "#ebebeb"
 thumb_image:
   image: "/uploads/rationale_2013_carryon1_0a.jpg"
   alt: rationale design carry on book cover
