@@ -14,6 +14,7 @@ year: 2012
 images:
 - image: "/uploads/rationale_2012_stevenbrooks1_1a.jpg"
   alt: rationale design steven brooks photographs book
+  color: "#ebebeb"
 thumb_image:
   image: "/uploads/rationale_2012_stevenbrooks1_0a.jpg"
   alt: rationale design steven brooks photographs book
