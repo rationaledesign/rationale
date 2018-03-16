@@ -8,17 +8,22 @@ images:
 - image: "/uploads/rationale_dotzero_1a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine cover
   image_ratio: 
-  color: 
+  color: "#cccccc"
 - image: "/uploads/rationale_dotzero_2a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
+  color: "#cccccc"
 - image: "/uploads/rationale_dotzero_3a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
+  color: "#cccccc"
 - image: "/uploads/rationale_dotzero_4a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
+  color: "#cccccc"
 - image: "/uploads/rationale_dotzero_5a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
+  color: "#cccccc"
 - image: "/uploads/rationale_dotzero_7a.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_dotzero_0b.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
