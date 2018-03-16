@@ -8,17 +8,22 @@ images:
 - image: "/uploads/rationale_nycbg1_1a.jpg"
   alt: rationale resources vignelli new york botanical garden manual cover
   image_ratio: 
-  color: 
+  color: "#cccccc"
 - image: "/uploads/rationale_nycbg1_2a.jpg"
   alt: rationale resources vignelli new york botanical garden manual
+  color: "#cccccc"
 - image: "/uploads/rationale_nycbg1_3a.jpg"
   alt: rationale resources vignelli new york botanical garden manual
+  color: "#cccccc"
 - image: "/uploads/rationale_nycbg1_4a.jpg"
   alt: rationale resources vignelli new york botanical garden manual
+  color: "#cccccc"
 - image: "/uploads/rationale_nycbg1_5a.jpg"
   alt: rationale resources vignelli new york botanical garden manual
+  color: "#cccccc"
 - image: "/uploads/rationale_nycbg1_6a.jpg"
   alt: rationale resources vignelli new york botanical garden manual
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_nycbg_0b.jpg"
   alt: rationale resources vignelli new york botanical garden manual
