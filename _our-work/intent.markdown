@@ -11,6 +11,7 @@ year: 2011
 images:
 - image: "/uploads/rationale_2011_intent1_1a.jpg"
   alt: rationale design intent album cover
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2011_intent1_0a.jpg"
   alt: rationale design intent album cover
