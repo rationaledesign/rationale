@@ -15,7 +15,7 @@ images:
   color: "#222222"
 - image: "/uploads/rationale_2014_spff1_2a.jpg"
   alt: rationale design seattle polish film festival poster
-  Key: "#ebebeb"
+  color: "#ebebeb"
 thumb_image:
   image: "/uploads/rationale_2014_spff1_0a.jpg"
   alt: rationale design seattle polish film festival poster
