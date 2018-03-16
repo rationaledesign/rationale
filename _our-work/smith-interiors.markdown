@@ -12,17 +12,22 @@ images:
 - image: "/uploads/rationale_2014_smithinteriors1_5g.jpg"
   alt: rationale design smith interiors identity logotype
   image_ratio: 
-  color: 
+  color: "#ebebeb"
 - image: "/uploads/rationale_2014_smithinteriors1_6c.jpg"
   alt: rationale design smith interiors identity logomark
+  color: "#6e6f6a"
 - image: "/uploads/rationale_2014_smithinteriors1_1a.jpg"
   alt: rationale design smith interiors identity poster
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2014_smithinteriors1_2a.jpg"
   alt: rationale design smith interiors identity posters
+  color: "#ebebeb"
 - image: "/uploads/rationale_2014_smithinteriors1_4f.jpg"
   alt: rationale design smith interiors identity vehicle graphics
+  color: "#ebebeb"
 - image: "/uploads/rationale_2014_smithinteriors1_3a.jpg"
   alt: rationale design smith interiors identity stationary
+  color: "#ebebeb"
 thumb_image:
   image: "/uploads/smithinteriors-0.jpg"
   alt: rationale design smith interiors identity
