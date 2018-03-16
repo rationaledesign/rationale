@@ -13,6 +13,7 @@ year: 2016
 images:
 - image: "/uploads/rationale-schaeferid-1a.jpg"
   alt: rationale design schaefer stevedoring identity logo
+  color: "#011f5b"
 thumb_image:
   image: "/uploads/rationale-schaeferid-0.jpg"
   alt: rationale design schaefer stevedoring identity
