@@ -10,6 +10,7 @@ year: 2013
 images:
 - image: "/uploads/rationale_2013_woodenboatshow1_1a.jpg"
   alt: rationale design wooden boat show poster
+  color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2013_woodenboatshow1_0a.jpg"
   alt: rationale design wooden boat show poster
