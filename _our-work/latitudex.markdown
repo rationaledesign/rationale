@@ -9,17 +9,22 @@ images:
 - image: "/uploads/rationale_2013_latitudex1_1a.jpg"
   alt: rationale design latitudex identity grid
   image_ratio: 
-  color: 
+  color: "#feb81a"
 - image: "/uploads/rationale_2013_latitudex1_7b.jpg"
   alt: rationale design latitudex identity promo
+  color: "#feb81a"
 - image: "/uploads/rationale_2013_latitudex1_3c.jpg"
   alt: rationale design latitudex identity poster
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2013_latitudex1_5d.jpg"
   alt: rationale design latitudex identity website
+  color: "#feb81a"
 - image: "/uploads/rationale_2013_latitudex1_2c.jpg"
   alt: rationale design latitudex identity poster
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2013_latitudex1_6c.jpg"
   alt: rationale design latitudex identity stationary
+  color: "#feb81a"
 thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
   alt: rationale design latitudex identity
