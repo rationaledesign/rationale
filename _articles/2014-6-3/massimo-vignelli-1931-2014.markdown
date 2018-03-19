@@ -6,9 +6,11 @@ featured_text: Farewell to an all-time great.
 featured_image:
   image: "/uploads/rationale_2014-06-03_1a.jpg"
   alt: rationale articles massimo vignelli
+  color: "#000000"
 detail_images:
 - image: "/uploads/rationale_2014-06-03_1a.jpg"
   alt: rationale articles massimo vignelli
+  color: "#000000"
 og_image: "/uploads/rationale_2014-06-03_og1a.jpg"
 ---
 
