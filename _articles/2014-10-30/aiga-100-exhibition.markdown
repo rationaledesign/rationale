@@ -6,9 +6,11 @@ featured_text: AIGA 100 exhibition.
 featured_image:
   image: "/uploads/rationale_2014-10-30_1b.jpg"
   alt: rationale articles aiga 100 exhibition
+  color: "#fa0098"
 detail_images:
 - image: "/uploads/rationale_2014-10-30_2a.jpg"
   alt: rationale articles aiga 100 exhibition
+  color: "#ebebeb"
 og_image: "/uploads/rationale_2014-10-30_og1b.jpg"
 ---
 
