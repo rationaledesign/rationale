@@ -6,13 +6,18 @@ featured_text: Silence speaks loudest.
 featured_image:
   image: "/uploads/rationale_2013-05-20_1a.jpg"
   alt: rationale articles music poster series
+  color: "#131d7a"
 detail_images:
 - image: "/uploads/rationale_2013-05-20_2a.jpg"
   alt: rationale articles music poster series
+  image_ratio: 
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2013-05-20_3a.jpg"
   alt: rationale articles music poster series
+  color: "#aaaaaa"
 - image: "/uploads/rationale_2013-05-20_4a.jpg"
   alt: rationale articles music poster series
+  color: "#aaaaaa"
 og_image: "/uploads/rationale_2013-05-20_og1a.jpg"
 ---
 
