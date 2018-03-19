@@ -21,7 +21,7 @@ thumb_image:
   image: "/uploads/rationale_randtrademarks_0a.jpg"
   alt: rationale resources paul rand trademark design presentation graphis
   image_ratio: 3-2
-  color: "#000000"
+  color: "#fffdfa"
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/Rand_Graphis153_Trademark_Presentation.pdf
 og_image: "/uploads/rationale_randtrademarks_og1a.jpg"
 ---
