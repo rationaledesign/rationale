@@ -12,9 +12,11 @@ excerpt_text: |-
 featured_image:
   image: "/uploads/rationale_2014-08-20_1b.jpg"
   alt: rationale articles design technology interview
+  color: "#000000"
 detail_images:
 - image: "/uploads/rationale_2014-08-20_1a.jpg"
   alt: rationale articles design technology interview
+  color: "#111111"
 og_image: "/uploads/rationale_2014-08-20_og1b.jpg"
 ---
 
