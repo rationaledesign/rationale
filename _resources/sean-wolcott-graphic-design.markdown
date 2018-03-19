@@ -33,6 +33,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_sw08141_0b.jpg"
   alt: rationale resources sean wolcott graphic design book
+  color: "#fffdfa"
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/SeanWolcott_Design_2008-2014.pdf
 og_image: "/uploads/rationale_sw08141_og1a.jpg"
 layout: resource
