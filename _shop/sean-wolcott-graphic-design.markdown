@@ -9,23 +9,33 @@ is_buyactive: true
 images:
 - image: "/uploads/rationale_sw08141_1a.jpg"
   alt: rationale shop sean wolcott graphic design book cover
+  image_ratio: 
+  color: "#cccccc"
 - image: "/uploads/rationale_sw08141_2a.jpg"
   alt: rationale shop sean wolcott graphic design book
+  color: "#cccccc"
 - image: "/uploads/rationale_sw08141_3a.jpg"
   alt: rationale shop sean wolcott graphic design book
+  color: "#cccccc"
 - image: "/uploads/rationale_sw08141_4a.jpg"
   alt: rationale shop sean wolcott graphic design book
+  color: "#cccccc"
 - image: "/uploads/rationale_sw08141_5a.jpg"
   alt: rationale shop sean wolcott graphic design book
+  color: "#cccccc"
 - image: "/uploads/rationale_sw08141_6a.jpg"
   alt: rationale shop sean wolcott graphic design book
+  color: "#cccccc"
 - image: "/uploads/rationale_sw08141_7a.jpg"
   alt: rationale shop sean wolcott graphic design book
+  color: "#cccccc"
 - image: "/uploads/rationale_sw08141_8a.jpg"
   alt: rationale shop sean wolcott graphic design book
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_sw08141_0b.jpg"
   alt: rationale shop sean wolcott graphic design book
+  color: "#fffdfa"
 og_image: "/uploads/rationale_sw08141_og1a.jpg"
 layout: product-detail
 ---
