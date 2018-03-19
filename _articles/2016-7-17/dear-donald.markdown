@@ -6,9 +6,11 @@ featured_text: This is who we are.
 featured_image:
   image: "/uploads/rationale_2016-07-17_1a.jpg"
   alt: rationale articles dear donald newspaper advertisement
+  color: "#ebebeb"
 detail_images:
 - image: "/uploads/rationale_2016-07-17_1a.jpg"
   alt: rationale articles dear donald newspaper advertisement
+  color: "#ebebeb"
 og_image: "/uploads/rationale_2016-07-17_og1a.jpg"
 ---
 
