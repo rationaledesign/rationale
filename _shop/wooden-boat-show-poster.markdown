@@ -10,9 +10,11 @@ imgcount: 1
 images:
 - image: "/uploads/rationale_woodenboatposter1_1b.jpg"
   alt: rationale shop wooden boat show poster
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_woodenboatposter1_0i.jpg"
   alt: rationale shop wooden boat show poster
+  color: "#fffdfa"
 og_image: "/uploads/rationale_woodenboatposter1_1og.jpg"
 ---
 
