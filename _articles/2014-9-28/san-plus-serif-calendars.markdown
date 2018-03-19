@@ -6,9 +6,11 @@ featured_text: Available now.
 featured_image:
   image: "/uploads/rationale_2014-09-28_1b.jpg"
   alt: rationale articles san serif 2015 calendar
+  color: "#444444"
 detail_images:
 - image: "/uploads/rationale_2014-09-28_1b.jpg"
   alt: rationale articles san serif 2015 calendar
+  color: "#444444"
 og_image: "/uploads/rationale_2014-09-28_og1b.jpg"
 ---
 
