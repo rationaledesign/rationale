@@ -6,9 +6,11 @@ featured_text: Recording “Beyond This Point” podcast.
 featured_image:
   image: "/uploads/rationale_2015-10-21_1b.jpg"
   alt: rationale articles lance wyman podcast civilization
+  color: "#ebebeb"
 detail_images:
 - image: "/uploads/rationale_2015-10-21_1a.jpg"
   alt: rationale articles lance wyman podcast civilization
+  color: "#ebebeb"
 og_image: "/uploads/rationale_2015-10-21_og1a.jpg"
 ---
 
