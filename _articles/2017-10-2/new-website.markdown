@@ -6,9 +6,11 @@ featured_text: Commitment, discipline, and passion.
 featured_image:
   image: "/uploads/rationale_2017-10-12_1a.jpg"
   alt: rationale articles new website launch
+  color: "#e94a66"
 detail_images:
 - image: "/uploads/rationale_2017-10-12_1a.jpg"
   alt: rationale articles new website launch
+  color: "#e94a66"
 og_image: "/uploads/rationale_2017-10-12_og1a.jpg"
 ---
 
