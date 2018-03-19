@@ -7,9 +7,11 @@ featured_image:
   image: "/uploads/rationale_2017-11-20_1a.jpg"
   alt: rationale articles sans calendar 2018 purchase
   image_ratio: 1-1
+  color: "#ebebeb"
 detail_images:
 - image: "/uploads/rationale_sanscalendar181_1a.jpg"
   alt: rationale articles sans calendar 2018 purchase
+  color: "#ebebeb"
 og_image: "/uploads/rationale_2017-11-20_1oga1.jpg"
 ---
 
