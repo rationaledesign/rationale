@@ -30,6 +30,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_nonprofit_0b.jpg"
   alt: rationale resources vignelli non-profit organizations manual book
+  color: "#fffdfa"
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/Vignelli_Graphic_Design_for_Non-Profit.pdf
 og_image: "/uploads/rationale_nonprofit_og1a.jpg"
 layout: resource
