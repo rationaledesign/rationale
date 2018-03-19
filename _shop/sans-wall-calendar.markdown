@@ -9,11 +9,15 @@ imgcount: 2
 images:
 - image: "/uploads/rationale_sanscalendar181_1a.jpg"
   alt: rationale shop sans calendar 2018
+  image_ratio: 
+  color: "#cccccc"
 - image: "/uploads/rationale_sanscalendar181_2a.jpg"
   alt: rationale shop sans calendar 2018
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_sanscalendar181_0a.jpg"
   alt: rationale shop sans calendar 2018
+  color: "#fffdfa"
 og_image: "/uploads/rationale_sanscalendar181_og1a.jpg"
 layout: product-detail
 ---
