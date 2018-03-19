@@ -10,18 +10,18 @@ featured_image:
   image: "/uploads/rationale_2018-02-21_1a.jpg"
   alt: design exhibition rationale design seattle modernism
   image_ratio: 3-2
-  color: "#4b4194"
+  color: "#ebebeb"
 detail_images:
 - image: "/uploads/rationale_2018-02-21_2a.jpg"
   alt: design exhibition rationale design seattle modernism otl aicher karl gerstner
     armin hofmann
   image_ratio: 3-2
-  color: "#d3323a"
+  color: "#ebebeb"
 - image: "/uploads/rationale_2018-02-21_1a.jpg"
   alt: design exhibition rationale design seattle modernism otl aicher karl gerstner
     armin hofmann
   image_ratio: 3-2
-  color: "#4b4194"
+  color: "#ebebeb"
 og_image: "/uploads/rationale_2018-02-21_og1a.jpg"
 ---
 
