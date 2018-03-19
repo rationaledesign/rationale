@@ -6,13 +6,18 @@ featured_text: Passionately crafted books.
 featured_image:
   image: "/uploads/rationale_2014-12-08_1b.jpg"
   alt: rationale articles manuals 2 out now
+  color: "#000000"
 detail_images:
 - image: "/uploads/rationale_2014-12-08_2a.jpg"
   alt: rationale articles manuals 2 out now unit editions
+  image_ratio: 
+  color: "#000000"
 - image: "/uploads/rationale_2014-12-08_1b.jpg"
   alt: rationale articles manuals 2 out now unit editions
+  color: "#000000"
 - image: "/uploads/rationale_2014-12-08_3a.jpg"
   alt: rationale articles manuals 2 out now unit editions
+  color: "#000000"
 og_image: "/uploads/rationale_2014-12-08_og1b.jpg"
 ---
 
