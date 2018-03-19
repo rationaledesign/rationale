@@ -14,13 +14,18 @@ excerpt_text: "The following transcript is from a June 2014 interview between Ra
 featured_image:
   image: "/uploads/rationale_2014-06-27_1a.jpg"
   alt: rationale articles typho interview
+  color: "#ebebeb"
 detail_images:
 - image: "/uploads/rationale_2012_lightingfires1_4g.jpg"
   alt: rationale articles typho interview grid
+  image_ratio: 
+  color: "#ebebeb"
 - image: "/uploads/rationale_2014-06-27_2a.jpg"
   alt: rationale articles typho interview book
+  color: "#fa3700"
 - image: "/uploads/rationale_2014-06-27_3a.jpg"
   alt: rationale articles typho interview book
+  color: "#fa3700"
 og_image: "/uploads/rationale_2014-06-27_og1a.jpg"
 ---
 
