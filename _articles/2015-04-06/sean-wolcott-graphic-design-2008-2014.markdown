@@ -6,15 +6,21 @@ featured_text: Design work of Rationale’s founder.
 featured_image:
   image: "/uploads/rationale_2015-04-06_1b.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
+  color: "#ebebeb"
 detail_images:
 - image: "/uploads/rationale_sw08141_1a.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
+  image_ratio: 
+  color: "#ebebeb"
 - image: "/uploads/rationale_sw08141_5a.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
+  color: "#ebebeb"
 - image: "/uploads/rationale_sw08141_4a.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
+  color: "#ebebeb"
 - image: "/uploads/rationale_sw08141_8a.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
+  color: "#ebebeb"
 og_image: "/uploads/rationale_2015-04-06_og1b.jpg"
 ---
 
