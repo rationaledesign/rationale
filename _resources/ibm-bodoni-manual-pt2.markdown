@@ -25,6 +25,7 @@ thumb_image:
   image: "/uploads/rationale_ibmbodonimanual2_0a.jpg"
   alt: rationale resources karl gerstner ibm bodoni design manual
   image_ratio: 3-2
+  color: "#fffdfa"
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/IBM_Bodoni_Manual_Pt2.pdf
 og_image: "/uploads/rationale_ibmbodonimanual2_og1a.jpg"
 ---
