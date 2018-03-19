@@ -6,9 +6,11 @@ featured_text: Available for pre-order.
 featured_image:
   image: "/uploads/rationale_2014-09-27_1b.jpg"
   alt: rationale articles manuals 2
+  color: "#fc4c1f"
 detail_images:
 - image: "/uploads/rationale_2014-09-27_2a.jpg"
   alt: rationale articles manuals 2 unit editions
+  color: "#000000"
 og_image: "/uploads/rationale_2014-09-27_og1b.jpg"
 ---
 
