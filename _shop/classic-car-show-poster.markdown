@@ -11,9 +11,11 @@ imgcount: 1
 images:
 - image: "/uploads/rationale_classiccarshowposter1_1a.jpg"
   alt: rationale shop classic car show poster
+  color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_classiccarshowposter1_0i.jpg"
   alt: rationale shop classic car show poster
+  color: "#fffdfa"
 og_image: "/uploads/rationale_classiccarshowposter1_1og.jpg"
 ---
 
