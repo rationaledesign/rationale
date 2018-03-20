@@ -5,8 +5,10 @@ position: 1
 images:
 - image: "/uploads/rationale_ourapproach_1a.jpg"
   alt: rationale design
+  color: "#000000"
 - image: "/uploads/rationale_ourapproach_2b.jpg"
   alt: sean wolcott rationale design
+  color: "#cccccc"
 og_image: "/uploads/rationale_ourapproach_og1a.jpg"
 bottom_body: |+
   Sean Wolcott, the acclaimed designer and founder of Rationale, has previously designed for some of the biggest brands and products in the world, and his team of top international talent brings a broad level of insight to each project.
