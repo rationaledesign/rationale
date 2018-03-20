@@ -3,7 +3,7 @@ title: Minimal Calendar
 date: 2013-01-01 00:00:00 Z
 categories:
 - User Interface
-position: 8
+position: 7
 year: 2013
 images:
 - image: "/uploads/rationale-mincalendar-1.jpg"
