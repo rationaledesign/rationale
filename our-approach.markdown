@@ -5,7 +5,7 @@ position: 1
 images:
 - image: "/uploads/rationale_ourapproach_1a.jpg"
   alt: rationale design
-- image: "/uploads/rationale_ourapproach_2a.jpg"
+- image: "/uploads/rationale_ourapproach_2b.jpg"
   alt: sean wolcott rationale design
 og_image: "/uploads/rationale_ourapproach_og1a.jpg"
 bottom_body: |+
