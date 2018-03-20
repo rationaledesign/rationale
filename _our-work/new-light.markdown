@@ -1,7 +1,7 @@
 ---
 title: New Light
 date: 2017-07-24 20:09:00 Z
-position: 19
+position: 20
 excerpt_text: Cover for the single “New Light”, designed for music group The Fascination
   Movement. Cover graphics build off of the design language from the album release
   Intent, on which the song also appears.

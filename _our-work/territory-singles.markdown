@@ -1,7 +1,7 @@
 ---
 title: Territory Singles
 date: 2017-07-22 16:51:00 Z
-position: 11
+position: 12
 excerpt_text: Shown here is an excerpt of a five-part series of music single packaging,
   which represents the songs’ subjects in a conceptual and unified graphical manner.
 year: 2016
