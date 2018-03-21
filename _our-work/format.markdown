@@ -6,11 +6,11 @@ excerpt_text: Format EP and single covers, designed for music group Nameless Ite
   the energy and movement of the music.
 year: 2017
 images:
-- image: "/uploads/rationale_2017_format_1b.jpg"
+- image: "/uploads/rationale_2017_format_1c.jpg"
   alt: rationale design nameless items format ep activity downsweep music album cover
   image_ratio: 16-9
   color: "#4f4f4f"
-- image: "/uploads/rationale_2017_format_2c.jpg"
+- image: "/uploads/rationale_2017_format_2d.jpg"
   alt: rationale design nameless items format ep activity downsweep music album cover
   image_ratio: 16-9
   color: "#fefdf9"
