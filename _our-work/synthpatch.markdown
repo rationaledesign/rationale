@@ -11,7 +11,7 @@ excerpt_text: SynthPatch is an iOS application which allows for owners of analog
   abstracted manner. Out now for iPhone.
 year: 2017
 images:
-- image: "/uploads/rationale_2014_synthpatch1_1a.jpg"
+- image: "/uploads/rationale_2014_synthpatch2_1b.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
   image_ratio: 
   color: "#1a1a1a"
