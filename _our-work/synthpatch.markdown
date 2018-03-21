@@ -43,4 +43,4 @@ og_image: "/uploads/rationale_2014_synthpatch2_og1a.jpg"
 layout: project
 ---
 
-[SynthPatch](https://synthpatchapp.com/) is an iOS application which allows for owners of analog synthesizers to quickly notate and share their settings in an elegant, intuitive, and efficiently abstracted manner. Out now for iPhone.
+[SynthPatch](https://synthpatchapp.com/) is an iOS application which allows for owners of analog synthesizers to quickly notate and share their settings in an elegant, intuitive, and efficiently abstracted manner. Rationale developed the application concept, end-to-end experience, design systems and identity. Out now for iPhone.
