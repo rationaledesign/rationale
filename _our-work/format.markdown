@@ -13,7 +13,7 @@ images:
 - image: "/uploads/rationale_2017_format_2c.jpg"
   alt: rationale design nameless items format ep activity downsweep music album cover
   image_ratio: 16-9
-  color: "#4f4f4f"
+  color: "#fefdf9"
 thumb_image:
   image: "/uploads/rationale_2017_format_0a.jpg"
   alt: rationale design nameless items format ep activity downsweep music album cover
