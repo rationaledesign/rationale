@@ -10,7 +10,7 @@ images:
   alt: rationale design aiga 100 poster
   color: "#aaaaaa"
 thumb_image:
-  image: "/uploads/rationale_2014_aiga1_0a.jpg"
+  image: "/uploads/rationale_2014_aiga1_0b-227617.jpg"
   alt: rationale design aiga 100
   color: "#fa0098"
 og_image: "/uploads/rationale_2014_aiga1_og1a.jpg"
