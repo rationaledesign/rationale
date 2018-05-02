@@ -36,7 +36,7 @@ images:
   image_ratio: 5-4
   color: "#1a1a1a"
 thumb_image:
-  image: "/uploads/rationale_2014_synthpatch2_0a.jpg"
+  image: "/uploads/rationale_2014_synthpatch2_0b.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
   color: "#1a1a1a"
 og_image: "/uploads/rationale_2014_synthpatch2_og1a.jpg"
