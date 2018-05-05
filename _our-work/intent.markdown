@@ -11,6 +11,11 @@ year: 2011
 images:
 - image: "/uploads/rationale_2011_intent1_1a.jpg"
   alt: rationale design intent album cover
+  image_ratio: 
+  color: "#aaaaaa"
+- image: "/uploads/rationale_2011_newlight1_1a.jpg"
+  alt: rationale design new intent light album front cover
+  image_ratio: 
   color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2011_intent1_0a.jpg"
