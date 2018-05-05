@@ -2,11 +2,9 @@
 title: Territory
 date: 2017-08-23 19:28:00 Z
 position: 11
-excerpt_text: "Cover and singles for the Territory EP, designed for music group The
+excerpt_text: 'Cover and singles for the Territory EP, designed for music group The
   Fascination Movement. The imagery brings a strong design of sequential elements
-  converging and diverging. \n\nArtwork leverages the same approach and use of color
-  and grid for the EP singles, representing the songs’ subjects in a conceptual and
-  unified graphical manner."
+  converging and diverging. '
 year: 2017
 images:
 - image: "/uploads/rationale_2017_territory_1c.jpg"
@@ -32,4 +30,6 @@ thumb_image:
 og_image: "/uploads/rationale_2017_territory_og1b.jpg"
 ---
 
-Cover and singles for the Territory EP, designed for music group The Fascination Movement. The imagery brings a strong design of sequential elements converging and diverging.
+Cover and singles for the Territory EP, designed for music group The Fascination Movement. The imagery brings a strong design of sequential elements converging and diverging. 
+
+Artwork leverages the same approach and use of color and grid for the EP singles, representing the songs’ subjects in a conceptual and unified graphical manner.
