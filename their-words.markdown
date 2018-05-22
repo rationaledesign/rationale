@@ -15,7 +15,7 @@ We are happy to have received the following praise:
 - > In a world of design that is too often going to extremes, it is a relief to find that there is still enough space for a plain style.
 <cite>Ben Bos</cite>
 
-- > The work demonstrates your own personal design language. I wish a great future for Rationale.
+- > The work demonstrates your own personal design language and I wish a great future for Rationale.
 <cite>Armin Hofmann</cite>
 
 - >I have followed their development for some time and I am impressed by the strong and consequent work.
