@@ -11,7 +11,7 @@ images:
   color: "#cccccc"
 og_image: "/uploads/rationale_ourapproach_og1a.jpg"
 bottom_body: |+
-  Sean Wolcott, the acclaimed designer and founder of Rationale, has previously designed for some of the biggest brands and products in the world, and his team of top international talent brings a broad level of insight to each project.
+  Sean Wolcott, the acclaimed designer and founder of Rationale, has previously designed for some of the biggest companies and products in the world, and his team of top international talent brings a broad level of insight to each project.
 
   We would be happy to discuss how we might help with your next project.
 
@@ -25,5 +25,5 @@ layout: our-approach
 
 Design is not a job, it is a mission.
 
-Rationale was founded on this conviction. Our work is our passion and we bring over 20 years of expertise across all aspects of design, be it a brand identity, website, application, publication, or otherwise.
+Rationale was founded on this conviction. Our work is our passion and we bring over 20 years of expertise across all aspects of design, be it a visual identity, website, application, publication, or otherwise.
 
