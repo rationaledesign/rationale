@@ -1,7 +1,7 @@
 ---
 title: IBM Bodoni Manual Pt.2
 date: 2018-02-20 18:48:00 Z
-position: 2
+position: 3
 author: Karl Gerstner
 imgcount: 4
 images:
