@@ -5,4 +5,3 @@ position: 0
 og_image: "/uploads/rationale_og.jpg"
 layout: our-work
 ---
-

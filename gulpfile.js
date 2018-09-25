@@ -149,7 +149,7 @@ gulp.task( 'clean:scripts', ( callback ) => {
 gulp.task( 'build:jekyll', () =>
   gulp.src('')
     .pipe( $.plumber( { 'errorHandler': handleErrors } ) )
-    .pipe($.run('bundle exec jekyll build'))
+    .pipe($.run('bundle exec jekyll build --incremental'))
 );
 
 gulp.task( 'clean:jekyll', ( callback ) => {

@@ -4,13 +4,13 @@ layout: default
 
 <div class="content">
   <div class="container">
-    {{ if content }}
-      <div class="row">
-        <div class="h2 mb-2 med-col-half med-offset-half">
-          {{content}}
-        </div>
+    {% comment %}
+    <div class="row">
+      <div class="h2 mb-2 med-col-half med-offset-half">
+        {{content}}
       </div>
-    {{ endif }}
+    </div>
+    {% endcomment %}
     <div class="row">
       <div class="sm-below-mb">
         {% include thumbnails.html collection=site.our-work %}
@@ -18,4 +18,3 @@ layout: default
     </div>
   </div>
 </div>
-

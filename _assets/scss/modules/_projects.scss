@@ -9,6 +9,14 @@
 .project-detail .project-info {
   border-top: 1px solid $grey_medium;
   padding-top: $unit-half;
+
+  @include breakpoint($small) {
+    width: 100%;
+  }
+
+  @include breakpoint($med) {
+    width: auto;
+  }
 }
 
 // project detail
@@ -21,11 +29,33 @@
 
 .project-description {
   margin-bottom: $unit-3;
-  margin-top: -4px;
+  // margin-top: -4px;
 
-  @include breakpoint($large) {
-    margin-bottom: $unit-4;
+  @include breakpoint($small) {
+    max-width: 38em;
   }
+
+  @include breakpoint($med) {
+    max-width: none;
+  }
+
+  p, ul, ol {
+    margin-bottom: $unit;
+    position: static;
+
+    // &:last-child {
+    //   margin-bottom: 0;
+    // }
+  }
+
+  .js-more {
+    margin-top: 0;
+    top: 0;
+  }
+
+  // @include breakpoint($large) {
+  //   margin-bottom: $unit-4;
+  // }
 
   // @include breakpoint($med) {
   //   & > p:first-child {

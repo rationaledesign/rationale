@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  border-top: solid $black 18px;
+  border-top: solid $black $unit-15;
   -webkit-font-smoothing: antialiased !important;
   color: $black;
   display: flex;
@@ -32,10 +32,10 @@ footer {
 
 header{
   width: 100%;
-  min-height: $unit-9 + $unit-half;
+  min-height: $unit-12 - $unit-15;
 
-  @include breakpoint($small){ min-height: $unit-8 + $unit-half; }
-  @include breakpoint($med){ min-height: $unit-6 + $unit-half; }
+  // @include breakpoint($small){ min-height: $unit-8 + $unit-half; }
+  // @include breakpoint($med){ min-height: $unit-6 + $unit-half; }
 }
 
 footer {
