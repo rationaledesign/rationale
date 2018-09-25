@@ -4,18 +4,16 @@
 
 Fork the master repo. Once forked go to the location of the forked repo `git clone yourHttpRepoLocation` down to your local computer.
 
-__Node__, __Bower__, & __Gulp__ need to be installed.
+__Node__ & __Gulp__ need to be installed.
 
 ### Node
 [Node Download](https://nodejs.org/en/download/)
 
-### Gulp & Bower
-`npm install -g gulp && bower`
+### Gulp
+`npm install -g gulp`
 
 ### Install the dependencies
 `npm install`
-
-`bower install`
 
 ### Add upstream remote (master codebase)
 
@@ -73,7 +71,7 @@ After a PR is submitted the code owner will approve or request new changes and p
 
 ### _assets
 
-This is where bower components, Fonts, JS, and SCSS files are stored. Fonts, JS, and SCSS are edited here and are live reloaded to the page.
+This is where Fonts, JS, and SCSS files are stored. Fonts, JS, and SCSS are edited here and are live reloaded to the page.
 
 The SCSS folder is a bit messy right now and should be cleaned up as work is done.
 
