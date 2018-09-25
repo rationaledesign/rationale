@@ -15,6 +15,7 @@ thumb_image:
   image: "/uploads/rationale_2017_format_0a.jpg"
   alt: rationale design nameless items format ep activity downsweep music album cover
   color: "#00e135"
+is_featured: true
 og_image: "/uploads/rationale_2017_format_og1b.jpg"
 ---
 
