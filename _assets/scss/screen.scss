@@ -1,6 +1,6 @@
-@import "../_bower_components/reset-css/_reset.scss";
-@import "../_bower_components/breakpoint-sass/stylesheets/_breakpoint";
-@import "../_bower_components/singularity/stylesheets/_singularitygs";
+@import "../../node_modules/reset-css/_reset.scss";
+@import "../../node_modules/breakpoint-sass/stylesheets/_breakpoint";
+@import "../../node_modules/singularitygs/stylesheets/singularitygs";
 
 @import "_globals/_config";
 @import "_globals/_icon-font";

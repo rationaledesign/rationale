@@ -109,7 +109,7 @@ url: https://rationale-design.com
 permalink: pretty
 exclude:
 - README.md
-- node_modules/
+- node_modules
 - package.json
 - gulpfile.js
 gems:

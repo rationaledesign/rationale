@@ -118,8 +118,8 @@ gulp.task( 'clean:images', ( callback ) => {
 gulp.task( 'build:scripts', () =>
   gulp.src( [
     // Add all npm packages first
-    './_assets/_bower_components/imgix.js/dist/imgix.js',
-    './_assets/_bower_components/lazysizes/lazysizes.js',
+    './node_modules/imgix.js/dist/imgix.js',
+    './node_modules/lazysizes/lazysizes.js',
     './_assets/js/**/*.js'
   ] )
     .pipe( $.plumber( { 'errorHandler': handleErrors } ) )
@@ -149,7 +149,7 @@ gulp.task( 'clean:scripts', ( callback ) => {
 gulp.task( 'build:jekyll', () =>
   gulp.src('')
     .pipe( $.plumber( { 'errorHandler': handleErrors } ) )
-    .pipe($.run('bundle exec jekyll build'))
+    .pipe($.run('bundle exec jekyll build --incremental'))
 );
 
 gulp.task( 'clean:jekyll', ( callback ) => {
