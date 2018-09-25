@@ -46,7 +46,7 @@ defaults:
       alt: 
       image_ratio: 
       color: 
-    is_featured:
+    is_featured: 
     og_image: 
 - scope:
     path: ''
