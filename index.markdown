@@ -6,4 +6,3 @@ og_image: "/uploads/rationale_og.jpg"
 layout: our-work
 ---
 
-Providing world-class design expertise. 

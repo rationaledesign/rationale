@@ -1,7 +1,7 @@
 ---
 title: Dot Zero – Issue 1
 date: 2014-06-07 06:01:00 Z
-position: 6
+position: 8
 author: Unimark / Massimo Vignelli
 imgcount: 7
 images:
@@ -27,6 +27,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_dotzero_0b.jpg"
   alt: rationale resources unimark dot zero issue 1 magazine
+  color: "#fffdfa"
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/files/Vignelli_DotZero_Issue1.pdf
 og_image: "/uploads/rationale_dotzero_og1a.jpg"
 layout: resource

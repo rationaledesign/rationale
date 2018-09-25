@@ -1,7 +1,7 @@
 ---
-title: Music Poster Series
+title: Music poster series
 date: 2013-05-20 23:27:00 Z
-position: 18
+position: 22
 featured_text: Silence speaks loudest.
 featured_image:
   image: "/uploads/rationale_2013-05-20_1a.jpg"

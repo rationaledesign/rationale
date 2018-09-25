@@ -1,7 +1,7 @@
 ---
 title: Modernist Graphic Design in the Pacific Northwest
 date: 2015-05-03 23:12:00 Z
-position: 9
+position: 13
 featured_text: From advertising to New Graphic Design.
 featured_image:
   image: "/uploads/rationale_2015-05-03_1a.jpg"

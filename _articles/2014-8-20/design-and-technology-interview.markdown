@@ -1,7 +1,7 @@
 ---
-title: Design & Technology Interview
+title: Design & technology interview
 date: 2014-08-20 23:23:00 Z
-position: 15
+position: 19
 featured_text: Design today and impacts of technology.
 excerpt_text: |-
   Sean Wolcott of Rationale has recently contributed insights for an essay regarding design today and impacts of technology. The discussion is as follows…

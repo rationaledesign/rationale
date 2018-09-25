@@ -1,7 +1,7 @@
 ---
-title: New Website
+title: New website
 date: 2017-09-21 22:36:00 Z
-position: 2
+position: 6
 featured_text: Commitment, discipline, and passion.
 featured_image:
   image: "/uploads/rationale_2017-10-12_1a.jpg"

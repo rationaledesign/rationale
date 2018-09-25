@@ -1,7 +1,7 @@
 ---
-title: Lance Wyman Podcast
+title: Lance Wyman podcast
 date: 2015-10-21 23:10:00 Z
-position: 8
+position: 12
 featured_text: Recording “Beyond This Point” podcast.
 featured_image:
   image: "/uploads/rationale_2015-10-21_1b.jpg"

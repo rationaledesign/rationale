@@ -1,7 +1,7 @@
 ---
 title: How Paul Rand Presents Trademark Designs to Clients
 date: 2018-02-07 18:50:00 Z
-position: 8
+position: 10
 author: Paul Rand
 imgcount: 3
 images:

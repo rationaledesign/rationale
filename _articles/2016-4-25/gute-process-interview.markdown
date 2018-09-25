@@ -1,7 +1,7 @@
 ---
-title: Gute Process Interview
+title: Gute Process interview
 date: 2016-04-25 22:48:00 Z
-position: 6
+position: 10
 featured_text: '"Communicate with an element of universal clarity"'
 featured_image:
   image: "/uploads/rationale_2016-04-25_1b.jpg"

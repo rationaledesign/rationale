@@ -1,7 +1,7 @@
 ---
 title: Dear Donald
 date: 2016-07-17 22:47:00 Z
-position: 5
+position: 9
 featured_text: This is who we are.
 featured_image:
   image: "/uploads/rationale_2016-07-17_1a.jpg"

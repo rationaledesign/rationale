@@ -1,7 +1,7 @@
 ---
-title: This Land
+title: This land
 date: 2016-11-10 22:47:00 Z
-position: 4
+position: 8
 featured_text: "..."
 featured_image:
   image: "/uploads/rationale_2016-11-10_1a.jpg"

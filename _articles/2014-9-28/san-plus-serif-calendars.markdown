@@ -1,7 +1,7 @@
 ---
-title: 2015 San+Serif Calendars
+title: 2015 San+Serif calendars
 date: 2014-09-09 23:22:00 Z
-position: 13
+position: 17
 featured_text: Available now.
 featured_image:
   image: "/uploads/rationale_2014-09-28_1b.jpg"

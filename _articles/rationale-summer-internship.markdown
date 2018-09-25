@@ -1,6 +1,7 @@
 ---
-title: Rationale Summer Internship
+title: Rationale summer internship
 date: 2018-04-17 17:18:00 Z
+position: 2
 featured_text: Passionate and like-minded designers inquire.
 excerpt_text: Rationale is looking for a passionate and like-minded graphic designer
   to join us for a paid summer internship assisting with a variety of projects ranging

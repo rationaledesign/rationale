@@ -1,7 +1,7 @@
 ---
 title: Massimo Vignelli 1931-2014
 date: 2014-06-03 23:26:00 Z
-position: 17
+position: 21
 featured_text: Farewell to an all-time great.
 featured_image:
   image: "/uploads/rationale_2014-06-03_1a.jpg"
