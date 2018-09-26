@@ -18,7 +18,7 @@ We are happy to have received the following praise:
 - > The work demonstrates your own personal design language and I wish a great future for Rationale.
 <cite>Armin Hofmann</cite>
 
-- > The work shows an optimistic approach; it is very strong! Good to see that you are in full swing. I cannot find weak points!
+- > The work shows an optimistic approach; it is very strong. Good to see that you are in full swing. I cannot find weak points.
 <cite>Wim Crouwel</cite>
 
 - >I am impressed by such vital and strong work.
