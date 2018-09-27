@@ -21,6 +21,7 @@ thumb_image:
   image: "/uploads/rationale_2009_bringdownthewalls1_0a.jpg"
   alt: rationale design bringing down the walls
   color: "#a6a5a3"
+is_featured: true
 og_image: "/uploads/rationale_2009_bringdownthewalls1_og1b.jpg"
 layout: project
 ---

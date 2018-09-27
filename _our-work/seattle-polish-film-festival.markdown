@@ -20,6 +20,7 @@ thumb_image:
   image: "/uploads/rationale_2014_spff1_0a.jpg"
   alt: rationale design seattle polish film festival poster
   color: "#222222"
+is_featured: true
 og_image: "/uploads/rationale_2014_spff1_og1a.jpg"
 ---
 

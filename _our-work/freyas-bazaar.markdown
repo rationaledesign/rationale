@@ -16,6 +16,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2012_freyasbazaar1_0a.jpg"
   alt: rationale design freya's bazaar invitation
+is_featured: true
 og_image: "/uploads/rationale_2012_freyasbazaar1_og1a.jpg"
 layout: project
 ---

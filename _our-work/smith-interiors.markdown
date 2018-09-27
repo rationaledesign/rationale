@@ -32,6 +32,7 @@ thumb_image:
   image: "/uploads/smithinteriors-0.jpg"
   alt: rationale design smith interiors identity
   color: "#6e6f6a"
+is_featured: true
 og_image: "/uploads/rationale_2014_smithinteriors1_og1b.jpg"
 layout: project
 ---

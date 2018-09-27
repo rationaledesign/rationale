@@ -23,6 +23,7 @@ thumb_image:
   image: "/uploads/rationale-swbook0714-0.jpg"
   alt: rationale design sean wolcott graphic design 2007 2014 book
   color: "#ebebeb"
+is_featured: true
 og_image: "/uploads/rationale_2015_swbook0714_og1a.jpg"
 layout: project
 ---

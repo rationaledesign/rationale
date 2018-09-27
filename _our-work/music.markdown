@@ -39,6 +39,7 @@ thumb_image:
   image: "/uploads/rationale_2010_concertseries1_0a.jpg"
   alt: rationale design music concert series poster
   color: "#2b2e8d"
+is_featured: true
 og_image: "/uploads/rationale_2010_concertseries1_og1a.jpg"
 layout: project
 ---

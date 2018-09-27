@@ -20,6 +20,7 @@ thumb_image:
   image: "/uploads/rationale-sofarsea-0.jpg"
   alt: rationale design so far out to sea book
   color: "#0055b8"
+is_featured: true
 og_image: "/uploads/rationale_2015_sofarsea1_og1a.jpg"
 layout: project
 ---
