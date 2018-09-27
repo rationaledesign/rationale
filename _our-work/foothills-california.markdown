@@ -33,6 +33,7 @@ thumb_image:
   image: "/uploads/rationale-foothillsid-0.jpg"
   alt: rationale design foothills california identity
   color: "#000000"
+is_featured: true
 og_image: "/uploads/rationale-foothillsid-og.jpg"
 layout: project
 ---

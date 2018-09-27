@@ -21,6 +21,7 @@ thumb_image:
   image: "/uploads/rationale_2016_territorysingles1_0a.jpg"
   alt: rationale design territory singles cover
   color: "#454aa8"
+is_featured: true
 og_image: "/uploads/rationale_2016_territorysingles1_og1a.jpg"
 ---
 

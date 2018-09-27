@@ -37,6 +37,7 @@ thumb_image:
   image: "/uploads/rationale-massivebit-0b.jpg"
   alt: rationale design massive bits identity
   color: "#ff4e24"
+is_featured: true
 og_image: "/uploads/rationale-massivebit-og1.jpg"
 layout: project
 ---

@@ -30,6 +30,7 @@ thumb_image:
   image: "/uploads/rationale_2014_caseybroadwater1_0a.jpg"
   alt: rationale design casey broadwater photography identity
   color: "#c8cdd3"
+is_featured: true
 og_image: "/uploads/rationale_2014_caseybroadwater1_og1a.jpg"
 layout: project
 ---

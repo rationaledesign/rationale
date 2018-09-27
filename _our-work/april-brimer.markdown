@@ -35,6 +35,7 @@ thumb_image:
   image: "/uploads/rationale-aprilbrimer-0.jpg"
   alt: rationale design april brimer photography
   color: "#ebebeb"
+is_featured: true
 og_image: "/uploads/rationale_2014_aprilbrimer1_og1a.jpg"
 layout: project
 ---

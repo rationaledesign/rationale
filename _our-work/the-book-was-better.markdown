@@ -17,6 +17,7 @@ thumb_image:
   image: "/uploads/rationale-tbwb-0.jpg"
   alt: rationale design the book was better film festival
   color: "#000000"
+is_featured: true
 og_image: "/uploads/rationale_2015_tbwb1_og1a.jpg"
 ---
 

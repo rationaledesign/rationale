@@ -39,6 +39,7 @@ thumb_image:
   image: "/uploads/rationale_2014_synthpatch2_0b.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
   color: "#1a1a1a"
+is_featured: true
 og_image: "/uploads/rationale_2014_synthpatch2_og1a.jpg"
 layout: project
 ---

@@ -29,6 +29,7 @@ thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
   alt: rationale design latitudex identity
   color: "#feb81a"
+is_featured: true
 og_image: "/uploads/rationale-latitudex-og.jpg"
 layout: project
 ---

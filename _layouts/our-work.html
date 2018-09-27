@@ -13,7 +13,8 @@ layout: default
     {% endcomment %}
     <div class="row">
       <div class="sm-below-mb">
-        {% include thumbnails.html collection=site.our-work %}
+        {% assign featured_projects = site.our-work | where:"is_featured",true | sort:"position" %}
+        {% include thumbnails.html collection=featured_projects %}
       </div>
     </div>
   </div>

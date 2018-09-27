@@ -1,0 +1,33 @@
+.projects-list {
+	font-size: 14px;
+	line-height: (18 / 14);
+	column-gap: $unit-2;
+	padding-bottom: $unit-4;
+
+	@include breakpoint($small) {
+		columns: 2;
+	}
+
+	@include breakpoint($med) {
+		columns: 3;
+	}
+}
+
+.projects-list__year {
+	break-inside: avoid;
+	padding-bottom: $unit;
+}
+
+.projects-list__year-heading {
+	border-top: 1px solid;
+	padding-top: $unit-half;
+	@include h5--med;
+	position: static;
+}
+
+.projects-list__projects {
+	a {
+		color: $black;
+	    @include link;
+	}
+}

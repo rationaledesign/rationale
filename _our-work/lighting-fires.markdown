@@ -29,6 +29,7 @@ thumb_image:
   image: "/uploads/rationale_2012_lightingfires1_0a.jpg"
   alt: rationale design lighting fires identity
   color: "#fa3700"
+is_featured: true
 og_image: "/uploads/rationale_2012_lightingfires1_og1a.jpg"
 layout: project
 ---

@@ -13,6 +13,7 @@ thumb_image:
   image: "/uploads/rationale_2011_allinlove1_0a.jpg"
   alt: rationale design all in love
   color: "#000000"
+is_featured: true
 og_image: "/uploads/rationale_2011_allinlove1_og1a.jpg"
 layout: project
 ---

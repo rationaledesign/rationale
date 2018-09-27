@@ -20,6 +20,7 @@ thumb_image:
   image: "/uploads/rationale_2013_carryon1_0a.jpg"
   alt: rationale design carry on book cover
   color: "#000000"
+is_featured: true
 og_image: "/uploads/rationale_2013_carryon1_og1a.jpg"
 layout: project
 ---
