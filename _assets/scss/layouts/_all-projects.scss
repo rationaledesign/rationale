@@ -1,6 +1,6 @@
 .projects-list {
-	font-size: 14px;
-	line-height: (18 / 14);
+	font-size: 17px;
+	line-height: (22 / 17);
 	column-gap: $unit-2;
 	padding-bottom: $unit-4;
 
@@ -21,7 +21,7 @@
 .projects-list__year-heading {
 	border-top: 1px solid;
 	padding-top: $unit-half;
-	@include h5--med;
+	@include h4--med;
 	position: static;
 }
 
