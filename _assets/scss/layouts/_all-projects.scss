@@ -1,3 +1,11 @@
+.all-projects {
+	@include breakpoint($small) {
+		footer {
+			margin-right: $unit-2;
+		}
+	}
+}
+
 .projects-list {
 	font-size: 17px;
 	line-height: (20 / 17);
@@ -29,7 +37,7 @@
 	font-size: 32px;
 	line-height: 1;
 	font-family: $font-NHG--med;
-	letter-spacing: -(1em/32); // 1px, scalable with font size
+	letter-spacing: -(2em/32); // 1px, scalable with font size
 	margin-bottom: $unit;
 }
 
