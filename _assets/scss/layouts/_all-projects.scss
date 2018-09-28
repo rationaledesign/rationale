@@ -8,7 +8,7 @@
 
 .projects-list {
 	font-size: 17px;
-	line-height: (20 / 17);
+	line-height: 24px;
 	padding-bottom: $unit-4;
 	column-gap: 0;
 
@@ -38,7 +38,7 @@
 	line-height: 1;
 	font-family: $font-NHG--med;
 	letter-spacing: -(2em/32); // 1px, scalable with font size
-	margin-bottom: $unit;
+	margin-bottom: 9px;
 }
 
 .projects-list__projects {
