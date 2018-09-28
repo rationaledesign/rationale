@@ -1,6 +1,6 @@
 .all-projects {
 	@include breakpoint($small) {
-		footer {
+		footer .row:before {
 			margin-right: $unit-2;
 		}
 	}
