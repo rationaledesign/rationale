@@ -9,7 +9,7 @@ position: 0
 excerpt_text: "[SynthPatch](https://synthpatchapp.com/) is an iOS application that
   allows owners of analog synthesizers to quickly notate and share their settings
   in an elegant, intuitive, and efficiently abstracted manner. Out now for iPhone."
-year: 2017
+year: 2016
 images:
 - image: "/uploads/rationale_2014_synthpatch2_1d.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
