@@ -7,6 +7,7 @@
 }
 
 .projects-list {
+    margin-top: 5px;
 	font-size: 17px;
 	line-height: 24px;
 	padding-bottom: $unit-4;
@@ -23,7 +24,7 @@
 
 .projects-list__year {
 	break-inside: avoid;
-	padding-bottom: $unit-2;
+	padding-bottom: $unit-3 - 1;
 
 	@include breakpoint($small) {
 		margin-right: $unit-2;
@@ -32,13 +33,13 @@
 
 .projects-list__year-heading {
 	border-top: 1px solid $grey_medium;
-	padding-top: $unit-half;
+	padding-top: 1px;
 	position: static;
 	font-size: 32px;
 	line-height: 1;
 	font-family: $font-NHG--med;
 	letter-spacing: -(2em/32); // 1px, scalable with font size
-	margin-bottom: 9px;
+	margin-bottom: 3px;
 }
 
 .projects-list__projects {
