@@ -1,5 +1,5 @@
 ---
-title: Massimo Vignelli 1931-2014
+title: MV 1931-2014
 date: 2014-06-03 23:26:00 Z
 position: 21
 featured_text: Farewell to an all-time great.
