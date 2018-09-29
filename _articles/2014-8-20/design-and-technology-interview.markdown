@@ -1,5 +1,5 @@
 ---
-title: Design & technology interview
+title: Design interview
 date: 2014-08-20 23:23:00 Z
 position: 19
 featured_text: Design today and impacts of technology.
