@@ -1,5 +1,5 @@
 ---
-title: New posters in the shop
+title: New posters
 date: 2017-09-10 22:50:00 Z
 position: 7
 featured_text: High-quality prints.

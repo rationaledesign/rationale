@@ -1,5 +1,5 @@
 ---
-title: SynthPatch app released
+title: SynthPatch released
 date: 2018-03-19 23:27:00 Z
 position: 1
 featured_text: Out now for iOS.

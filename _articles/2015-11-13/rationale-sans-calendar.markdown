@@ -1,5 +1,5 @@
 ---
-title: 2016 Sans wall calendar
+title: 2016 calendar
 date: 2015-11-13 23:00:00 Z
 position: 11
 featured_text: Available now.

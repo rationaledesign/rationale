@@ -1,5 +1,5 @@
 ---
-title: 2018 Sans wall calendar
+title: 2018 calendar
 date: 2017-11-20 17:42:00 Z
 position: 5
 featured_text: Available now.
