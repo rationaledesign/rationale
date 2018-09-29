@@ -1,5 +1,5 @@
 ---
-title: 2015 San+Serif calendars
+title: 2015 calendars
 date: 2014-09-09 23:22:00 Z
 position: 17
 featured_text: Available now.
