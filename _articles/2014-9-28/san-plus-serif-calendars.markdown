@@ -1,5 +1,5 @@
 ---
-title: 2015 calendars
+title: 2015 calendar
 date: 2014-09-09 23:22:00 Z
 position: 17
 featured_text: Available now.
