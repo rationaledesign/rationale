@@ -1,5 +1,5 @@
 ---
-title: Sean Wolcott 2008–2014
+title: Sean Wolcott 08–14
 date: 2015-04-06 23:20:00 Z
 position: 14
 featured_text: Design work of Rationale’s founder.
