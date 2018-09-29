@@ -1,5 +1,5 @@
 ---
-title: 'Survey Vol.1: Culture'
+title: Survey Vol.1 Culture
 date: 2018-02-19 20:14:00 Z
 position: 3
 featured_text: Rationale curated exhibition.

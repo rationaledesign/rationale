@@ -1,5 +1,5 @@
 ---
-title: Gute Process interview
+title: New interview
 date: 2016-04-25 22:48:00 Z
 position: 10
 featured_text: '"Communicate with an element of universal clarity"'
