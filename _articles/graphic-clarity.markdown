@@ -1,5 +1,5 @@
 ---
-title: Graphic Clarity exhibit
+title: Graphic Clarity
 date: 2018-09-06 18:02:00 Z
 position: 0
 featured_text: Russell Day Gallery 9/24–10/26.
