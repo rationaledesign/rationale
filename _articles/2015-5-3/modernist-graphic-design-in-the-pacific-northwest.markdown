@@ -1,5 +1,5 @@
 ---
-title: Modernist Pacific Northwest
+title: Pacific Northwest modern
 date: 2015-05-03 23:12:00 Z
 position: 13
 featured_text: From advertising to New Graphic Design.
