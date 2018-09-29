@@ -1,5 +1,5 @@
 ---
-title: Rationale summer internship
+title: Summer internship
 date: 2018-04-17 17:18:00 Z
 position: 2
 featured_text: Passionate and like-minded designers inquire.
