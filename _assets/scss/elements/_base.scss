@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  border-top: solid $black $unit-15;
+  border-top: solid $black $body-top-border-height;
   -webkit-font-smoothing: antialiased !important;
   color: $black;
   display: flex;
@@ -32,7 +32,7 @@ footer {
 
 header{
   width: 100%;
-  min-height: $unit-12 - $unit-15;
+  min-height: $unit-13 - $body-top-border-height;
 
   // @include breakpoint($small){ min-height: $unit-8 + $unit-half; }
   // @include breakpoint($med){ min-height: $unit-6 + $unit-half; }
@@ -127,17 +127,17 @@ p {
 
   &.h1, .h1-wrap & { margin-bottom: $h1-lh; }
   &.h2, .h2-wrap & { margin-bottom: $h2-lh; }
-  &.h3, .h3-wrap & { margin-bottom: $h3-lh; }
+  // &.h3, .h3-wrap & { margin-bottom: $h3-lh; }
   &.h4, .h4-wrap & { margin-bottom: $h4-lh; }
   &.h5, .h5-wrap & { margin-bottom: $h5-lh; }
 
-  &.h3--med, .h3--med-wrap & { margin-bottom: $h3-lh; }
+  // &.h3--med, .h3--med-wrap & { margin-bottom: $h3-lh; }
   &.h4--med, .h4--med-wrap & { margin-bottom: $h4-lh; }
   &.h5--med, .h5--med-wrap & { margin-bottom: $h5-lh; }
 }
 
 blockquote {
-  margin-bottom: $unit-3;
+  margin-bottom: $unit-3 + 3px;
 
   p {
     @include h2;
@@ -145,8 +145,8 @@ blockquote {
   }
 
   cite {
-    margin-top: $unit-half;
-    margin-bottom: -2px;
+    margin-top: 8px;
+    margin-bottom: 3px;
     display: block;
     @include h4--med;
     color: $black;

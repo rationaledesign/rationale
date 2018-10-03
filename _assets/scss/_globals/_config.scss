@@ -14,36 +14,36 @@ $gutter2: 1px;
 $basefont:  17px;
 
 $h1:        46px;
-$h2:        32px;
-$h3:        20px;
+$h2:        36px;
+// $h3:        20px;
 $h4:        17px;
 $h5:        14px;
 $h6:        14px;
 
-$h1-lh:        48px;
-$h2-lh:        36px;
-$h3-lh:        24px;
-$h4-lh:        20px;
+$h1-lh:        55px;
+$h2-lh:        44px;
+// $h3-lh:        22px;
+$h4-lh:        22px;
 $h5-lh:        18px;
 
-// line height
-$line: $basefont * 1.5;
+// // line height
+// $line: $basefont * 1.5;
 
 // spacing
-$base-spacing-unit: 24px;
+$base-spacing-unit: 22px;
 
-$unit:        12px;
+$unit:        11px;
 
 $unit-qtr:    $unit / 4;
-$unit-half:   $unit / 2;
+$unit-half:   6px; //$unit / 2;
 
-$unit-15:     $unit * 1.5;
+// $unit-15:     $unit * 1.5;
 $unit-2:      $unit * 2;
-$unit-25:     $unit * 2.5;
+// $unit-25:     $unit * 2.5;
 $unit-3:      $unit * 3;
-$unit-35:     $unit * 3.5;
+// $unit-35:     $unit * 3.5;
 $unit-4:      $unit * 4;
-$unit-45:     $unit * 4.5;
+// $unit-45:     $unit * 4.5;
 $unit-5:      $unit * 5;
 $unit-6:      $unit * 6;
 $unit-7:      $unit * 7;
@@ -52,10 +52,13 @@ $unit-9:      $unit * 9;
 $unit-10:     $unit * 10;
 $unit-11:     $unit * 11;
 $unit-12:     $unit * 12;
+$unit-13:     $unit * 13;
 
 $half-spacing-unit: $base-spacing-unit / 2;
 $qtr-spacing-unit:  $base-spacing-unit / 4;
 
+
+$max-text-width: 760px;
 
 // Colors
 
@@ -69,6 +72,9 @@ $grey_dark:         #666666;
 $grey_medium:       #999999;
 $grey_light:        #cccccc;
 
+// Borders
+
+$body-top-border-height: 17px;
 
 // Font
 

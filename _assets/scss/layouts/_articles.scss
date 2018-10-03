@@ -18,7 +18,7 @@
 }
 
 .feed-year-title {
-  margin-bottom: $unit-2 !important;
+  margin-bottom: $unit-3 !important;
 }
 
 .feed-posts {}
@@ -39,7 +39,7 @@
 
   date {
     display: block;
-    margin-bottom: $unit-15;
+    // margin-bottom: $unit-15;
     color: $grey-dark;
   }
 
@@ -95,6 +95,8 @@
 }
 
 .article-title {
+  margin-bottom: 14px;
+
   @include breakpoint($med) {
     padding-right: $unit-2;
   }

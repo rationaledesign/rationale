@@ -1,5 +1,5 @@
 .primary-header {
-  margin-top: $unit-half;
+  margin-top: $unit-2 - $body-top-border-height - 1; //$unit-half;
 }
 
 .logo {
