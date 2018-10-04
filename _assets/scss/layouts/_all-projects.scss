@@ -7,9 +7,8 @@
 }
 
 .projects-list {
-    margin-top: 5px;
-	font-size: 17px;
-	line-height: 24px;
+	font-size: $h4;
+	line-height: $h4-lh;
 	padding-bottom: $unit-4;
 	column-gap: 0;
 
@@ -24,7 +23,18 @@
 
 .projects-list__year {
 	break-inside: avoid;
-	padding-bottom: $unit-3 - 1;
+	padding-top: 4px;
+	padding-bottom: $unit-4 - $unit-half - 1px;
+	position: relative;
+
+	&:before {
+		content: "";
+		position: absolute;
+		top: 4px;
+		left: 0;
+		width: 100%;
+		border-top: 1px solid $grey_medium;
+	}
 
 	@include breakpoint($small) {
 		margin-right: $unit-2;
@@ -32,14 +42,12 @@
 }
 
 .projects-list__year-heading {
-	border-top: 1px solid $grey_medium;
-	padding-top: 1px;
-	position: static;
-	font-size: 32px;
-	line-height: 1;
+	margin-top: -2px;
+	font-size: $h2;
+	line-height: $h2-lh; //1;
 	font-family: $font-NHG--med;
 	letter-spacing: -(2em/32); // 1px, scalable with font size
-	margin-bottom: 3px;
+	margin-bottom: 5px;
 }
 
 .projects-list__projects {
