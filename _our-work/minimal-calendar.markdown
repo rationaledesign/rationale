@@ -6,22 +6,28 @@ categories:
 position: 8
 year: 2018
 images:
-- image: "/uploads/rationale-mincalendar-1.jpg"
+- image: "/uploads/rationale_2018_mincal_1a.jpg"
+  alt: rationale design minimal calendar application icon
+  image_ratio: 16-9
+  color: "#FF3C00"
+- image: "/uploads/rationale_2018_mincal_2a.jpg"
+  alt: rationale design minimal calendar application fre
+  color: "#FF3C00"
+  image_ratio: 16-9
+- image: "/uploads/rationale_2018_mincal_3a.jpg"
   alt: rationale design minimal calendar application
-  image_ratio: 
-  color: "#fd2f00"
-- image: "/uploads/rationale-mincalendar-2.jpg"
+  color: "#FF3C00"
+  image_ratio: 3-2
+- image: "/uploads/rationale_2018_mincal_4a.jpg"
   alt: rationale design minimal calendar application
-  color: "#fd2f00"
-- image: "/uploads/rationale-mincalendar-3.jpg"
-  alt: rationale design minimal calendar application
-  color: "#fd2f00"
+  color: "#FF3C00"
+  image_ratio: 3-2
 thumb_image:
-  image: "/uploads/rationale_mincalendar_0b.jpg"
+  image: "/uploads/rationale_2018_mincal_0a.jpg"
   alt: rationale design minimal calendar application
-  color: "#fd2f00"
+  color: "#FF3C00"
 is_featured: true
-og_image: "/uploads/rationale-mincalendar-og.jpg"
+og_image: "/uploads/rationale_2018_mincal_og1a.jpg"
 layout: project
 ---
 
