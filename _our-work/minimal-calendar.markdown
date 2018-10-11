@@ -9,10 +9,10 @@ images:
 - image: "/uploads/rationale_2018_mincal_1a.jpg"
   alt: rationale design minimal calendar application icon
   image_ratio: 16-9
-  color: "#FF3C00"
+  color: "#090909"
 - image: "/uploads/rationale_2018_mincal_2a.jpg"
   alt: rationale design minimal calendar application fre
-  color: "#FF3C00"
+  color: "#090909"
   image_ratio: 16-9
 - image: "/uploads/rationale_2018_mincal_3a.jpg"
   alt: rationale design minimal calendar application
