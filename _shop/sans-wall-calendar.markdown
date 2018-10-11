@@ -28,7 +28,7 @@ This simple typographic wall calendar provides a beautiful and functional way fo
 
 Available for purchase online via the Rationale shop or at select local design-minded retailers.
 
-Starts shipping October 1st.
+2019 calendars are shipping now! 
 Shipping rates: US–9 / CA–12 / INT–16
 
 Year – 2019 <br>
