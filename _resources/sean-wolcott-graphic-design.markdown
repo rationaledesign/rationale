@@ -1,6 +1,7 @@
 ---
 title: 'Sean Wolcott: Graphic Design'
 date: 2015-04-06 18:17:00 Z
+published: false
 position: 0
 author: Sean Wolcott
 imgcount: 8
