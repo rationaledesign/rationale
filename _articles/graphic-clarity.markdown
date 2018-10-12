@@ -35,7 +35,7 @@ Presented by Rationale, [Graphic Clarity ](https://www.everettcc.edu/gallery)is 
 
 The exhibition will take place at the Russell Day Gallery at Everett Community College at 2000 Tower St, Everett, WA 98201.
 
-The show will be up from September 24 to October 26, 2018, with an opening party on September 27 from 12:30– 2:00 pm.
+The show will be up from September 24 to October 26, 2018, with an opening party on September 27 from 12:30–2:00 pm.
 
 The exhibition is open to the public and is free. 
-Gallery hours are Monday–Thursday 10am 4pm, Friday 10am-2pm.
+Gallery hours are Monday–Thursday 10am–4pm, Friday 10am–2pm.
