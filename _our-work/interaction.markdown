@@ -20,7 +20,6 @@ thumb_image:
   image: "/uploads/rationale_2012_interaction1_0a.jpg"
   alt: rationale design interaction album cover
   color: "#1a1a1a"
-is_featured: true
 og_image: "/uploads/rationale_2012_interaction1_og1a.jpg"
 layout: project
 ---
