@@ -21,7 +21,6 @@ thumb_image:
   image: "/uploads/rationale_2011_intent1_0a.jpg"
   alt: rationale design intent album cover
   color: "#f4f5e5"
-is_featured: true
 og_image: "/uploads/rationale_2011_intent1_og1a.jpg"
 layout: project
 ---
