@@ -17,8 +17,8 @@ bottom_body: |+
 
   * [hello@rationale-design.com](mailto:hello@rationale-design.com)
   * [+1 415/742 9116](tel:+1415749116)
-  * 1721 Hewitt Ave, Unit 415
-  * Everett, WA 98201
+  * 217 1st Ave S #4324
+  * Seattle, WA 98194
 
 layout: our-approach
 ---
