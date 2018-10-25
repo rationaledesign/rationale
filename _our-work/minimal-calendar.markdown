@@ -23,7 +23,7 @@ images:
   color: "#FF3C00"
   image_ratio: 3-2
 thumb_image:
-  image: "/uploads/rationale_2018_mincal_0c.jpg"
+  image: "/uploads/rationale_2018_mincal_0d.jpg"
   alt: rationale design minimal calendar application
   color: "#FF3C00"
 is_featured: true
