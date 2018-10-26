@@ -8,14 +8,14 @@ tags:
 position: 1
 year: 2019
 images:
-- image: "/uploads/rationale_2019_sanscalendar1_1a.jpg"
+- image: "/uploads/rationale_2019_sanscalendar1_1b.jpg"
   alt: rationale design wall sans calendar
+  image_ratio: 7-5
   color: "#424242"
-  image_ratio: 5-4
-- image: "/uploads/rationale_2019_sanscalendar1_2a.jpg"
+- image: "/uploads/rationale_2019_sanscalendar1_2b.jpg"
   alt: rationale design wall sans calendar
+  image_ratio: 7-5
   color: "#424242"
-  image_ratio: 5-4
 thumb_image:
   image: "/uploads/rationale_2019_sanscalendar1_0a.jpg"
   alt: rationale design wall sans calendar
