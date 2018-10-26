@@ -10,11 +10,12 @@ year: 2013
 images:
 - image: "/uploads/rationale_2019_sanscalendar1_1a.jpg"
   alt: rationale design wall sans calendar
-  image_ratio: 
-  color: "#444444"
+  image_ratio: 7-5
+  color: "#424242"
 - image: "/uploads/rationale_2019_sanscalendar1_2a.jpg"
   alt: rationale design wall sans calendar
-  color: "#444444"
+  image_ratio: 7-5
+  color: "#424242"
 thumb_image:
   image: "/uploads/rationale_2019_sanscalendar1_0a.jpg"
   alt: rationale design wall sans calendar
