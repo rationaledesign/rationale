@@ -1,7 +1,7 @@
 ---
 title: Timeless design for temporary screens
 date: 2018-11-02 16:27:00 Z
-featured_text: Good design is timeless.
+featured_text: Minimal Calendar arrives Monday.
 excerpt_text: Five years ago when I designed the basics of the Minimal Calendar app
   experience, your average digital calendar looked like this on the right. Meanwhile,
   after a long road to get to Monday’s release (pre-order now at minimalcalendar.com!),
