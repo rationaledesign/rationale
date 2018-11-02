@@ -15,7 +15,7 @@ featured_image:
   image_ratio: 1-1
   color: "#ffffff"
 detail_images:
-- image: "/uploads/rationale_2018-11-02_2b.jpg"
+- image: "/uploads/rationale_2018-11-02_2d.jpg"
   alt: rationale design minimal calendar app iphone ios application app less but better
     timeless design
   image_ratio: 1-1
