@@ -30,3 +30,5 @@ Its a microcosm showing that good design is something that can be timeless, no m
 Five years from now, this will still look good. Five years after that also. There's no need to change it. Using the visual foundation, the experience can adapt to be the best simple experience, keeping its design language intact.
 
 I hope you enjoy using Minimal Calendar when it arrives on Monday. With the addictive and intrusive way so many digital experiences have headed, I think there is more and more a need for products like this.
+
+See more [here](https://rationale-design.com/our-work/minimal-calendar/).
