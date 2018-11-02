@@ -1,13 +1,13 @@
 ---
 title: Timeless design for temporary screens
 date: 2018-11-02 16:27:00 Z
-featured_text: Five years ago when I designed the basics of the Minimal Calendar app
+featured_text: Good design is timeless.
+excerpt_text: Five years ago when I designed the basics of the Minimal Calendar app
   experience, your average digital calendar looked like this on the right. Meanwhile,
   after a long road to get to Monday’s release (pre-order now at minimalcalendar.com!),
   its great to report back that the Minimal Calendar design has not changed at all.
   Meanwhile, things on the right have come from what can look like the dark ages to
   our eyes now.
-excerpt_text: Good design is timeless.
 featured_image:
   image: "/uploads/rationale_2018-11-02_1a.jpg"
   alt: rationale design minimal calendar app iphone ios application app less but better
