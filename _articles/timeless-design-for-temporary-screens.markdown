@@ -23,7 +23,7 @@ detail_images:
 og_image: "/uploads/rationale_2018-11-02_og1a.jpg"
 ---
 
-Five years ago when I designed the basics of the Minimal Calendar app experience, your average digital calendar looked like this on the right. Meanwhile, after a long road to get to Monday’s release (pre-order now at minimalcalendar.com!), its great to report back that the Minimal Calendar design has not changed at all. Meanwhile, things on the right have come from what can look like the dark ages to our eyes now.
+Five years ago when I designed the basics of the [Minimal Calendar](http://minimalcalendar.com) app experience, your average digital calendar looked like this on the right. Meanwhile, after a long road to get to Monday’s release (pre-order now at minimalcalendar.com!), its great to report back that the Minimal Calendar design has not changed at all. Meanwhile, things on the right have come from what can look like the dark ages to our eyes now.
 
 Its a microcosm showing that good design is something that can be timeless, no matter the medium. By focusing on time-tested principles of typography, color, form, and a push for thoughtful simplicity, things can last in the ever-changing digital space too.
 
