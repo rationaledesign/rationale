@@ -1,5 +1,5 @@
 ---
-title: Timeless design for temporary screens
+title: Timeless design + temporary screens
 date: 2018-11-02 16:27:00 Z
 featured_text: Five years ago when I designed the basics of the Minimal Calendar app
   experience, your average digital calendar looked like this on the right. Meanwhile,
