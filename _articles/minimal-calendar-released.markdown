@@ -10,10 +10,12 @@ excerpt_text: Minimal Calendar is out now for iPhone! After years in the making,
 featured_image:
   image: "/uploads/rationale_2018-11-05_1a.jpg"
   alt: minimal calendar iphone ios app calendar app design typography app icon
+  image_ratio: 1-1
   color: "#fe3c00"
 detail_images:
 - image: "/uploads/rationale_2018-11-05_2a.jpg"
   alt: 'minimal calendar iphone ios app calendar app design typography '
+  image_ratio: 1-1
   color: "#fe3c00"
 og_image: "/uploads/rationale_2018-11-05_og1a.jpg"
 ---
