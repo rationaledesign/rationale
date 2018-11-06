@@ -4,6 +4,10 @@ date: 2018-01-01 00:00:00 Z
 categories:
 - User Interface
 position: 0
+excerpt_text: "[Minimal Calendar](http://minimalcalendar.com) is an iPhone app which
+  provides bold and simple design, straightforward features, gestural interactions,
+  and a typographic elegance not commonly found on the screen. Less, but better. [Out
+  now for iPhone](https://itunes.apple.com/us/app/minimal-calendar-minimal-cal/id1437198666)."
 year: 2018
 images:
 - image: "/uploads/rationale_2018_mincal_1a.jpg"
