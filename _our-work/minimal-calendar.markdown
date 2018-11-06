@@ -37,11 +37,7 @@ Get it now on the [app store](https://itunes.apple.com/us/app/minimal-calendar-m
 
 
 ★★★★★ Best looking calendar app I've ever seen
-
 ★★★★★ Easily the best – aesthetically, functionally calendar I've ever used
-
 ★★★★★ The cleanest, easiest to parse calendar out there
-
 ★★★★★ It’s only what you need
-
 ★★★★★ Something frustrating becomes something beautiful, useful, fun
