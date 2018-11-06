@@ -36,12 +36,8 @@ layout: project
 Less, but better. Get it now on the [app store](https://itunes.apple.com/us/app/minimal-calendar-minimal-cal/id1437198666).
 
 <br>
-★★★★★ Best looking calendar app I've ever seen
-
-★★★★★ Easily the best – aesthetically, functionally calendar I've ever used
-
-★★★★★ The cleanest, easiest to parse calendar out there
-
-★★★★★ It’s only what you need
-
-★★★★★ Something frustrating becomes something beautiful, useful, fun
+★★★★★ Best looking calendar app I've ever seen<br>
+★★★★★ Easily the best – aesthetically, functionally calendar I've ever used<br>
+★★★★★ The cleanest, easiest to parse calendar out there<br>
+★★★★★ It’s only what you need<br>
+★★★★★ Something frustrating becomes something beautiful, useful, fun<br>
