@@ -31,4 +31,12 @@ og_image: "/uploads/rationale_2018_mincal_og1a.jpg"
 layout: project
 ---
 
-[Minimal Calendar](http://minimalcalendar.com) is an iOS application which provides bold and simple design, straightforward features, gestural interactions, and a typographic elegance not commonly found on the screen. Less, but better. Out now for iPhone.
+[Minimal Calendar](http://minimalcalendar.com) is an iPhone app which provides bold and simple design, straightforward features, gestural interactions, and a typographic elegance not commonly found on the screen. Less, but better. [Out now for iPhone](https://itunes.apple.com/us/app/minimal-calendar-minimal-cal/id1437198666).
+
+Review us on the [app store](https://itunes.apple.com/us/app/minimal-calendar-minimal-cal/id1437198666).
+
+★★★★★ Best looking calendar app I've ever seen
+★★★★★ Easily the best – aesthetically, functionally calendar I've ever used
+★★★★★ The cleanest, easiest to parse calendar out there
+★★★★★ It’s only what you need
+★★★★★ Something frustrating becomes something beautiful, useful, fun
