@@ -22,7 +22,7 @@ images:
   alt: rationale design minimal calendar application fre
   color: "#090909"
   image_ratio: 16-9
-- image: "/uploads/rationale_2018_mincal_5a.jpg"
+- image: "/uploads/rationale_2018_mincal_5b.jpg"
   alt: rationale design minimal calendar application website
   color: "#090909"
   image_ratio: 3-2
