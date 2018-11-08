@@ -4,23 +4,23 @@ date: 2018-11-08 00:15:00 Z
 position: 4
 year: 2016
 images:
-- image: "/uploads/rationale_2016_justid_1a.jpg"
-  alt: rationale design just identity design food logo color cooking
-  image_ratio: 3-2
-  color: "#000000"
 - image: "/uploads/rationale_2016_justid_2c.jpg"
   alt: rationale design just identity design food logo color cooking stationery business
     cards rainbow
   image_ratio: 16-9
   color: "#e44037"
+- image: "/uploads/rationale_2016_justid_1a.jpg"
+  alt: rationale design just identity design food logo color cooking
+  image_ratio: 3-2
+  color: "#000000"
+- image: "/uploads/rationale_2016_justid_4b.jpg"
+  alt: rationale design just identity design food logo color cooking poster
+  image_ratio: 7-5
+  color: "#000000"
 - image: "/uploads/rationale_2016_justid_3a.jpg"
   alt: rationale design just identity design food logo color cooking
   image_ratio: 3-2
   color: "#fbf4ea"
-- image: "/uploads/rationale_2016_justid_4a.jpg"
-  alt: rationale design just identity design food logo color cooking poster
-  image_ratio: 7-5
-  color: "#eb0029"
 - image: "/uploads/rationale_2016_justid_5a.jpg"
   alt: rationale design just identity design food logo color cooking brand guidelines
     identity design manual
