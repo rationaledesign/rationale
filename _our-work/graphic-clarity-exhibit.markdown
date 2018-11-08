@@ -1,5 +1,5 @@
 ---
-title: Graphic Clarity Exhibition
+title: Graphic Clarity
 date: 2018-11-08 09:39:00 Z
 year: 2018
 images:
@@ -21,7 +21,7 @@ thumb_image:
   image: "/uploads/rationale_2018_graphicclarity_0a.jpg"
   alt: rationale modern graphic design 1950 1980 clarity exhibition
   color: "#ff4713"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2018-08-30_og1a.jpg"
 ---
 
