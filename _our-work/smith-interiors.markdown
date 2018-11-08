@@ -6,7 +6,7 @@ categories:
 position: 38
 year: 2014
 images:
-- image: "/uploads/rationale_2014_smithinteriors1_5h.jpg"
+- image: "/uploads/rationale_2014_smithinteriors1_5i.jpg"
   alt: rationale design smith interiors identity logotype
   image_ratio: 
   color: "#ebebeb"
