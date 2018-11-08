@@ -1,5 +1,5 @@
 ---
-title: Graphic Clarity Exhibition
+title: Graphic Clarity
 date: 2018-11-08 09:39:00 Z
 year: 2018
 images:
