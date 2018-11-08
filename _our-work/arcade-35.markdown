@@ -8,7 +8,7 @@ images:
   image_ratio: 7-5
   color: "#000000"
 thumb_image:
-  image: "/uploads/rationale_2018_arcarde35_0a.jpg"
+  image: "/uploads/rationale_2018_arcarde35_0b.jpg"
   alt: rationale design arcade architecture design magazine 35 years publication
   color: "#f5333f"
 is_featured: false
