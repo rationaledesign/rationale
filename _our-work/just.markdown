@@ -2,6 +2,10 @@
 title: Just
 date: 2018-11-08 01:01:00 Z
 position: 5
+excerpt_text: For food company Just, a visual identity was created to address a wide
+  array of products and communications for years to come. A foundation of bold colors
+  and the consideration of food and the craftsmanship that goes into it inspires a
+  diverse and consistent execution.
 year: 2016
 images:
 - image: "/uploads/rationale_2016_justid_2e.jpg"
@@ -38,7 +42,4 @@ is_featured: true
 og_image: "/uploads/rationale_2016_justid_og1a.jpg"
 ---
 
-For food company Just, a visual identity was created to address a wide array of
-products and communications for years to come. A foundation of bold colors
-and the consideration of food and the craftsmanship that goes into it inspires
-a diverse and consistent execution. This is articulated through flavors, products, websites, and more in a way that stands out with its straightforwardness and unique photo-graphical combination, providing an approach that stands unique next to the typical over-stylized or pseudo-natural appearance of other food brands.
+For food company Just, a visual identity was created to address a wide array of products and communications for years to come. A foundation of bold colors and the consideration of food and the craftsmanship that goes into it inspires a diverse and consistent execution. This is articulated through flavors, products, websites, and more in a way that stands out with its straightforwardness and unique photo-graphical combination, providing an approach that stands unique next to the typical over-stylized or pseudo-natural appearance of other food brands.
