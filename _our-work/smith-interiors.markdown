@@ -4,9 +4,6 @@ date: 2014-01-01 00:00:00 Z
 categories:
 - Identity
 position: 38
-excerpt_text: Smith Interiors is a floor covering business specializing in both residential
-  and commercial sales and installation of hardwoods, carpet, tile, and more. The
-  company, in business since 1975, has strong and well-developed small-town roots.
 year: 2014
 images:
 - image: "/uploads/rationale_2014_smithinteriors1_5h.jpg"
@@ -17,7 +14,7 @@ images:
   alt: rationale design smith interiors identity logomark
   color: "#4f4f4f"
   image_ratio: 16-9
-- image: "/uploads/rationale_2014_smithinteriors1_2b.jpg"
+- image: "/uploads/rationale_2014_smithinteriors1_2c.jpg"
   alt: rationale design smith interiors identity poster
   color: "#4f4f4f"
   image_ratio: 3-2
