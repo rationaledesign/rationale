@@ -19,8 +19,8 @@ images:
   color: "#000000"
 - image: "/uploads/rationale_2016_justid_3a.jpg"
   alt: rationale design just identity design food product cooking
-  image_ratio: 
-  color: 
+  image_ratio: 3-2
+  color: "#fefdf9"
 - image: "/uploads/rationale_2016_justid_5a.jpg"
   alt: rationale design just identity design food product cooking design manual guidelines
   image_ratio: 16-9
