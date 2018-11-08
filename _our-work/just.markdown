@@ -32,7 +32,7 @@ images:
   image_ratio: 16-9
   color: "#000000"
 thumb_image:
-  image: "/uploads/rationale_2016_justid_0a.jpg"
+  image: "/uploads/rationale_2016_justid_0b.jpg"
   alt: rationale design just identity design food logo color cooking
   image_ratio: 3-2
   color: "#131313"
