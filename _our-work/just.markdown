@@ -3,10 +3,38 @@ title: Just
 date: 2018-11-08 00:15:00 Z
 year: 2016
 images:
-- alt: rationale design just identity design food logo color cooking
+- image: "/uploads/rationale_2016_justid_1a.jpg"
+  alt: rationale design just identity design food logo color cooking
+  image_ratio: 3-2
+  color: "#a463bf"
+- image: "/uploads/rationale_2016_justid_2c.jpg"
+  alt: rationale design just identity design food logo color cooking stationery business
+    cards rainbow
+  image_ratio: 16-9
+  color: "#e44037"
+- image: "/uploads/rationale_2016_justid_3a.jpg"
+  alt: rationale design just identity design food logo color cooking
+  image_ratio: 3-2
+  color: "#fbf4ea"
+- image: "/uploads/rationale_2016_justid_4a.jpg"
+  alt: rationale design just identity design food logo color cooking poster
+  image_ratio: 7-5
+  color: "#eb0029"
+- image: "/uploads/rationale_2016_justid_5a.jpg"
+  alt: rationale design just identity design food logo color cooking brand guidelines
+    identity design manual
+  image_ratio: 16-9
+  color: "#000000"
+- image: "/uploads/rationale_2016_justid_6a.jpg"
+  alt: rationale design just identity design food logo color cooking brand guidelines
+    identity design manual
+  image_ratio: 16-9
+  color: "#000000"
 thumb_image:
   image: "/uploads/rationale_2016_justid_0a.jpg"
   alt: rationale design just identity design food logo color cooking
+  image_ratio: 3-2
+  color: "#131313"
 is_featured: true
 og_image: "/uploads/rationale_2016_justid_og1a.jpg"
 ---
