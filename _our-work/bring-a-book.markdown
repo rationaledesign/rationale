@@ -11,7 +11,7 @@ thumb_image:
   image: "/uploads/rationale_2018_bringabook_0a.jpg"
   alt: rationale design bring book poster shop
   color: "#e70095"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2018_bringabook_og1a.jpg"
 ---
 

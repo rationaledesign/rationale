@@ -11,7 +11,7 @@ thumb_image:
   image: "/uploads/rationale_2018_ubuntu_0a.jpg"
   alt: rationale design ubuntu exhibition poster
   color: "#222222"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2018_ubuntu_og1a.jpg"
 ---
 
