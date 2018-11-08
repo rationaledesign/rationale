@@ -1,7 +1,7 @@
 ---
 title: Just
 date: 2018-11-08 00:15:00 Z
-position: 3
+position: 5
 year: 2016
 images:
 - image: "/uploads/rationale_2016_justid_1a.jpg"
