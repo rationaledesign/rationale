@@ -1,5 +1,5 @@
 ---
-title: Arcade Magazine
+title: Arcade 35
 date: 2018-11-08 09:48:00 Z
 year: 2018
 images:
