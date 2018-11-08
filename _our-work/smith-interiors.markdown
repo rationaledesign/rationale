@@ -6,25 +6,25 @@ categories:
 position: 38
 year: 2014
 images:
-- image: "/uploads/rationale_2014_smithinteriors1_5i.jpg"
+- image: "/uploads/rationale_2014_smithinteriors1_5i-616744.jpg"
   alt: rationale design smith interiors identity logotype
   image_ratio: 16-9
-  color: "#ebebeb"
-- image: "/uploads/rationale_2014_smithinteriors1_6d.jpg"
-  alt: rationale design smith interiors identity logomark
-  color: "#4f4f4f"
-  image_ratio: 16-9
-- image: "/uploads/rationale_2014_smithinteriors1_2c.jpg"
+  color: "#6e6e66"
+- image: "/uploads/rationale_2014_smithinteriors1_2d.jpg"
   alt: rationale design smith interiors identity poster
-  color: "#4f4f4f"
+  color: "#6e6e66"
   image_ratio: 3-2
+- image: "/uploads/rationale_2014_smithinteriors1_3d-0fb2f9.jpg"
+  alt: rationale design smith interiors identity logomark
+  color: "#6e6e66"
+  image_ratio: 16-9
 thumb_image:
-  image: "/uploads/smithinteriors-0.jpg"
+  image: "/uploads/rationale_2014_smithinteriors1_0b.jpg"
   alt: rationale design smith interiors identity
   image_ratio: 3-2
-  color: "#6e6f6a"
+  color: "#6e6e66"
 is_featured: true
-og_image: "/uploads/rationale_2014_smithinteriors1_og1b.jpg"
+og_image: "/uploads/rationale_2014_smithinteriors1_og1c.jpg"
 layout: project
 ---
 
