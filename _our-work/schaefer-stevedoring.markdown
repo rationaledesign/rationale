@@ -10,15 +10,15 @@ images:
   alt: rationale design schaefer stevedoring identity logo
   image_ratio: 16-9
   color: "#011f5b"
-- image: "/uploads/rationale_2016_schaeferid1_2a.jpg"
+- image: "/uploads/rationale_2016_schaeferid1_2b.jpg"
   alt: rationale design schaefer stevedoring identity design
   image_ratio: 16-9
   color: "#fefdf9"
-- image: "/uploads/rationale_2016_schaeferid1_3a.jpg"
+- image: "/uploads/rationale_2016_schaeferid1_3b.jpg"
   alt: rationale design schaefer stevedoring identity design
   image_ratio: 3-2
   color: "#000000"
-- image: "/uploads/rationale_2016_schaeferid1_4a.jpg"
+- image: "/uploads/rationale_2016_schaeferid1_4b.jpg"
   alt: rationale design schaefer stevedoring identity design
   image_ratio: 3-2
   color: "#cccccc"
