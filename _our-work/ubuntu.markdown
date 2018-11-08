@@ -4,7 +4,7 @@ date: 2018-11-08 09:58:00 Z
 year: 2018
 images:
 - image: "/uploads/rationale_2018_ubuntu_1a.jpg"
-  alt: rationale design ubuntu exhibition poster
+  alt: rationale design ubuntu exhibition poster humanity
   image_ratio: 7-5
   color: "#000000"
 thumb_image:
