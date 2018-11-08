@@ -6,7 +6,7 @@ excerpt_text: For food company Just, a visual identity was created to address a 
   array of products and communications for years to come. A foundation of bold colors
   and the consideration of food and the craftsmanship that goes into it inspires a
   diverse and consistent execution.
-year: 2016
+year: 2017
 images:
 - image: "/uploads/rationale_2016_justid_2e.jpg"
   alt: rationale design just identity design food product cooking stationery business
