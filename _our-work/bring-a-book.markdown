@@ -6,11 +6,11 @@ images:
 - image: "/uploads/rationale_2018_bringabook_1a.jpg"
   alt: rationale design bring book poster shop
   image_ratio: 3-2
-  color: "#111111"
+  color: "#000000"
 thumb_image:
   image: "/uploads/rationale_2018_bringabook_0a.jpg"
   alt: rationale design bring book poster shop
-  color: "#ebebeb"
+  color: "#e70095"
 is_featured: true
 og_image: "/uploads/rationale_2018_bringabook_og1a.jpg"
 ---
