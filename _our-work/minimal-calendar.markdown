@@ -10,25 +10,30 @@ images:
   alt: rationale design minimal calendar application icon
   image_ratio: 16-9
   color: "#090909"
+- image: "/uploads/DSCF9908%20v2.jpg"
+  alt: rationale design minimal calendar app iphone application minimal cal minimalism
+  color: "#FF3C00"
+  image_ratio: 16-9
 - image: "/uploads/rationale_2018_mincal_3a.jpg"
-  alt: rationale design minimal calendar application
+  alt: rationale design minimal calendar app iphone application minimal cal minimalism
   color: "#FF3C00"
   image_ratio: 3-2
 - image: "/uploads/rationale_2018_mincal_4a.jpg"
-  alt: rationale design minimal calendar application
+  alt: rationale design minimal calendar app iphone application minimal cal minimalism
   color: "#FF3C00"
   image_ratio: 3-2
 - image: "/uploads/rationale_2018_mincal_2a.jpg"
-  alt: rationale design minimal calendar application fre
+  alt: rationale design minimal calendar app iphone application minimal cal minimalism
   color: "#090909"
   image_ratio: 16-9
 - image: "/uploads/rationale_2018_mincal_5b.jpg"
-  alt: rationale design minimal calendar application website
+  alt: rationale design minimal calendar app iphone application minimal cal minimalism
+    website
   color: "#090909"
   image_ratio: 3-2
 thumb_image:
   image: "/uploads/rationale_2018_mincal_0d.jpg"
-  alt: rationale design minimal calendar application
+  alt: rationale design minimal calendar app iphone application minimal cal minimalism
   color: "#FF3C00"
 is_featured: true
 og_image: "/uploads/rationale_2018_mincal_og1a.jpg"
