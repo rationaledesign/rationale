@@ -15,4 +15,4 @@ thumb_image:
 og_image: "/uploads/rationale_2018_wcf_og1a-69fa2f.jpg"
 ---
 
-Simple, powerful, and to the point typographical cover reflecting the music of Seattle-based soul rock group The West Coast Feed's debut album.
+This simple, powerful, and to the point typographical cover represents the music of Seattle-based soul rock group The West Coast Feed for their debut album.
