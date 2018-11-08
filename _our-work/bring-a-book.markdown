@@ -15,4 +15,4 @@ is_featured: false
 og_image: "/uploads/rationale_2018_bringabook_og1a.jpg"
 ---
 
-Text goes here
+Poster print exclusive for [Book/Shop](https://www.shopbookshop.com/). This large, vividly printed poster with a gentle reminder that books always make good company is 24" x 36" wax print on heavy matte paper. Order [here](https://www.shopbookshop.com/collections/prints-and-art-editions/products/bring-a-book-print-by-sean-wolcott-for-book-shop).
