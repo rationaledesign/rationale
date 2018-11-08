@@ -1,7 +1,7 @@
 ---
 title: Territory
 date: 2017-08-23 19:28:00 Z
-position: 13
+position: 14
 excerpt_text: 'Cover and singles for the Territory EP, designed for music group The
   Fascination Movement. The imagery brings a strong design of sequential elements
   converging and diverging. '
