@@ -9,25 +9,16 @@ excerpt_text: Smith Interiors is a floor covering business specializing in both 
   company, in business since 1975, has strong and well-developed small-town roots.
 year: 2014
 images:
-- image: "/uploads/rationale_2014_smithinteriors1_5g.jpg"
+- image: "/uploads/rationale_2014_smithinteriors1_5h.jpg"
   alt: rationale design smith interiors identity logotype
   image_ratio: 
   color: "#ebebeb"
 - image: "/uploads/rationale_2014_smithinteriors1_6c.jpg"
   alt: rationale design smith interiors identity logomark
   color: "#6e6f6a"
-- image: "/uploads/rationale_2014_smithinteriors1_1a.jpg"
+- image: "/uploads/rationale_2014_smithinteriors1_2b.jpg"
   alt: rationale design smith interiors identity poster
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2014_smithinteriors1_2a.jpg"
-  alt: rationale design smith interiors identity posters
-  color: "#ebebeb"
-- image: "/uploads/rationale_2014_smithinteriors1_4f.jpg"
-  alt: rationale design smith interiors identity vehicle graphics
-  color: "#ebebeb"
-- image: "/uploads/rationale_2014_smithinteriors1_3a.jpg"
-  alt: rationale design smith interiors identity stationary
-  color: "#ebebeb"
+  color: "#4f4f4f"
 thumb_image:
   image: "/uploads/smithinteriors-0.jpg"
   alt: rationale design smith interiors identity
