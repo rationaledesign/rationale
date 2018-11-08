@@ -15,4 +15,4 @@ is_featured: true
 og_image: "/uploads/rationale_2018_arcarde35_og1a.jpg"
 ---
 
-Text goes here
+For the 35th year of Seattle-based design and architecture magazine [Arcade](http://arcadenw.org), Rationale sought to display the hundred plus covers and show their evolution at a glance in this commemorative poster. Items are presented chronologically in rows against a bright red background, contrasting with clear space at the top which gives thanks to the design community for their years of readership and support. 
