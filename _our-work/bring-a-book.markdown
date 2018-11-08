@@ -3,7 +3,7 @@ title: Bring a Book
 date: 2018-11-08 09:25:00 Z
 year: 2018
 images:
-- image: "/uploads/rationale_2018_bringabook_1a.jpg"
+- image: "/uploads/rationale_2018_bringabook_1b.jpg"
   alt: rationale design bring book poster shop
   image_ratio: 3-2
   color: "#000000"
