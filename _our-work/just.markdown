@@ -8,7 +8,7 @@ images:
   alt: rationale design just identity design food logo color cooking stationery business
     cards rainbow
   image_ratio: 16-9
-  color: "#e44037"
+  color: "#fefdf9"
 - image: "/uploads/rationale_2016_justid_1a.jpg"
   alt: rationale design just identity design food logo color cooking
   image_ratio: 3-2
