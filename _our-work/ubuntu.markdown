@@ -15,4 +15,4 @@ is_featured: false
 og_image: "/uploads/rationale_2018_ubuntu_og1a.jpg"
 ---
 
-Text goes here.
+Commissioned by Armando Milani, the "Ubuntu – I am because we are" exhibit was created as a statement of solidarity in human kindness. Taking place at the Rotonda della Besana in Milan in October 2018, the show featured 150 poster design submitted by designers, design students, and children from around the world. The Rationale poster for the exhibit represents the concept of humanity as a flower that blossoms, but it can only grow if nurtured. It becomes a colorful light in the darkness.
