@@ -1,5 +1,17 @@
 ---
 title: Just
 date: 2018-11-08 00:15:00 Z
+year: 2016
+images:
+- alt: rationale design just identity design food logo color cooking
+thumb_image:
+  image: "/uploads/rationale_2016_justid_0a.jpg"
+  alt: rationale design just identity design food logo color cooking
+is_featured: true
+og_image: "/uploads/rationale_2016_justid_og1a.jpg"
 ---
 
+For food company Just, a visual identity was created to address a wide array of
+products and communications for years to come. A foundation of bold colors
+and the consideration of food and the craftsmanship that goes into it inspires
+a diverse and consistent execution. This is articulated through flavors, products, websites, and more in a way that stands out with its straightforwardness and unique photo-graphical combination, providing an approach that stands unique next to the typical over-stylized or pseudo-natural appearance of other food brands.
