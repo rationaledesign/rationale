@@ -22,7 +22,7 @@ images:
   alt: rationale design schaefer stevedoring identity design
   image_ratio: 3-2
   color: "#cccccc"
-- image: "/uploads/rationale_2016_schaeferid1_5a.jpg"
+- image: "/uploads/rationale_2016_schaeferid1_5b.jpg"
   alt: rationale design schaefer stevedoring identity design
   image_ratio: 3-2
   color: "#fefdf9"
