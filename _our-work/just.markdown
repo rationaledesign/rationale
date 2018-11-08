@@ -4,7 +4,7 @@ date: 2018-11-08 00:15:00 Z
 position: 4
 year: 2016
 images:
-- image: "/uploads/rationale_2016_justid_2c.jpg"
+- image: "/uploads/rationale_2016_justid_2d.jpg"
   alt: rationale design just identity design food logo color cooking stationery business
     cards rainbow
   image_ratio: 16-9
