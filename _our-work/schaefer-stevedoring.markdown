@@ -3,7 +3,7 @@ title: Schaefer Stevedoring
 date: 2016-01-01 00:00:00 Z
 categories:
 - Identity
-position: 20
+position: 19
 excerpt_text: In the space of transport, particularly for the maritime industry, there
   is an overwhelming richness of history and metaphors to embrace. As such, a maritime
   company’s visual identity has great opportunity to distinguish itself from competitors

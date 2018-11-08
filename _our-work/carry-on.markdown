@@ -3,7 +3,7 @@ title: Carry On
 date: 2013-01-01 00:00:00 Z
 categories:
 - Publication
-position: 25
+position: 23
 excerpt_text: Book cover designed for the novel “Carry On”. Color bands reflect this
   fictional book’s narrative of DNA and genome mapping in the race to find serial
   killers. Typography runs vertically to complement the sense of vertical motion.

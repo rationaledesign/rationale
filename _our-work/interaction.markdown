@@ -3,7 +3,7 @@ title: Interaction
 date: 2012-01-01 00:00:00 Z
 categories:
 - Packaging
-position: 30
+position: 28
 excerpt_text: Cover design for the single “Interaction” by music group The Fascination
   Movement. The swirling movement of the ambiguous forms on the cover reflect the
   motion and mixtures of the sound of the music itself.

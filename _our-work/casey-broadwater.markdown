@@ -3,7 +3,7 @@ title: Casey Broadwater Photography
 date: 2014-01-01 00:00:00 Z
 categories:
 - Identity
-position: 39
+position: 36
 excerpt_text: The Casey Broadwater Photography identity system gives a simple and
   bold typographic treatment that allows the featured photography itself to shine.
   The end result is an efficient design language that creates maximum impact through
