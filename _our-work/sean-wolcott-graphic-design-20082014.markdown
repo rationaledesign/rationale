@@ -5,7 +5,7 @@ categories:
 - Publication
 tags:
 - featured
-position: 26
+position: 27
 excerpt_text: 'The 172 page book “Sean Wolcott: Graphic Design 2008–2014” chronicles
   the ongoing design work of Rationale’s founder & creative director. Includes projects
   ranging from identity, promotion, publication, user interface, packaging design,

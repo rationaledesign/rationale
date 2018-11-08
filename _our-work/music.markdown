@@ -3,7 +3,7 @@ title: Concert Series
 date: 2010-01-01 00:00:00 Z
 categories:
 - Promotion
-position: 34
+position: 35
 excerpt_text: 'Series of posters for music concerts using a variety of focused, clear,
   and calm visual devices: strong, simple typography; geometric shapes; primary colors.
   The result is a poster that, in its simplicity, calls attention to itself in the
