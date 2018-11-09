@@ -23,7 +23,7 @@ images:
   alt: proprio visual identity medical imaging technology
   image_ratio: 3-2
   color: "#fefdf9"
-- image: "/uploads/rationale_2018_proprioid_6a.jpg"
+- image: "/uploads/rationale_2018_proprioid_6b.jpg"
   alt: proprio visual identity medical imaging technology
   image_ratio: 16-9
   color: "#fefdf9"
