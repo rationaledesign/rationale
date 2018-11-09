@@ -1,7 +1,7 @@
 ---
 title: West Coast Feed
 date: 2018-11-08 23:03:00 Z
-position: 0
+position: 42
 year: 2018
 images:
 - image: "/uploads/rationale_2018_wcf_1c.jpg"
