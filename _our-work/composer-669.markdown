@@ -11,7 +11,6 @@ images:
 thumb_image:
   image: "/uploads/rationale_2018_669creeper_0a.jpg"
   alt: composer 669 music album cover monastery electronic
-  image_ratio: 3-2
   color: "#f5333f"
 og_image: "/uploads/rationale_2018_669creeper_og1a.jpg"
 ---
