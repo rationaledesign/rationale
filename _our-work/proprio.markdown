@@ -10,4 +10,4 @@ thumb_image:
 og_image: "/uploads/rationale_2018_proprioid_1og.jpg"
 ---
 
-For medical imaging and technology company Proprio, we created a bold and nuanced visual identity system that reflects the spirit and process of what they do. 
+For medical imaging and technology company [Proprio](http://propriovision.com), we created a bold and nuanced visual identity system that reflects the spirit and process of what they do. A design language of bold and geometric forms, technical imagery, and kinetic, transforming hexagons merges with overlaying colors that reflect a sight into the unseen.
