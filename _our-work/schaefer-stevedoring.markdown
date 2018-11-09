@@ -3,7 +3,7 @@ title: Schaefer Stevedoring
 date: 2016-01-01 00:00:00 Z
 categories:
 - Identity
-position: 20
+position: 19
 year: 2016
 images:
 - image: "/uploads/rationale-schaeferid-1a.jpg"
