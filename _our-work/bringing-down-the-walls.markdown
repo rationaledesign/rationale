@@ -3,7 +3,7 @@ title: Bringing Down The Walls
 date: 2009-01-01 00:00:00 Z
 categories:
 - Promotion
-position: 36
+position: 34
 excerpt_text: Promotional poster design for release of music group The Fascination
   Movement’s  single, “Bringing Down The Walls”. Color bands form the abstract image
   of a wall, real or imagined, which are utilized as core design elements across the
