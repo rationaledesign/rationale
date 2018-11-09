@@ -2,6 +2,31 @@
 title: Proprio
 date: 2018-11-09 00:12:00 Z
 year: 2018
+images:
+- image: "/uploads/rationale_2018_proprioid_1a.jpg"
+  alt: proprio visual identity medical imaging technology
+  image_ratio: 16-9
+  color: "#8e3dbd"
+- image: "/uploads/rationale_2018_proprioid_2a.jpg"
+  alt: proprio visual identity medical imaging technology
+  image_ratio: 16-9
+  color: "#fefdf9"
+- image: "/uploads/rationale_2018_proprioid_3a.jpg"
+  alt: proprio visual identity medical imaging technology
+  image_ratio: 3-2
+  color: "#111111"
+- image: "/uploads/rationale_2018_proprioid_4a.jpg"
+  alt: proprio visual identity medical imaging technology
+  image_ratio: 3-2
+  color: "#111111"
+- image: "/uploads/rationale_2018_proprioid_5a.jpg"
+  alt: proprio visual identity medical imaging technology
+  image_ratio: 3-2
+  color: "#fefdf9"
+- image: "/uploads/rationale_2018_proprioid_6a.jpg"
+  alt: proprio visual identity medical imaging technology
+  image_ratio: 16-9
+  color: "#fefdf9"
 thumb_image:
   image: "/uploads/rationale_2018_proprioid_0a.jpg"
   alt: proprio visual identity medical imaging technology
