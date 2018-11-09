@@ -23,8 +23,8 @@ og_image: "/uploads/rationale_2018-11-09_og1a.jpg"
 
 In 1983 acclaimed and influential industrial designer Deiter Rams coined ten principles for good design. Seeing a shift towards a consumeristic mindset and a flood of products with built-in obsolescence reaching a dangerous level, this stood at odds with what each of us intuitively expects in a product we purchase with our hard-earned finances – things that are intelligently designed to last. 
 
-Ram’s ethos points to a better way, as summarized in these ten principles:
-
+**Ram’s ethos points to a better way, as summarized in these ten principles:
+**
 1 – Good design is innovative <br>
 2 – Good design makes a product useful <br>
 3 – Good design is aesthetic <br>
