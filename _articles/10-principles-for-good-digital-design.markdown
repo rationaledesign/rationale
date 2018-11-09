@@ -13,12 +13,16 @@ detail_images:
   alt: minimal calendar 10 ten principles dieter rams digital design
   image_ratio: 1-1
   color: "#ffffff"
+- image: "/uploads/square.jpg"
+  alt: 
+  image_ratio: 
+  color: 
 og_image: "/uploads/rationale_2018-11-09_og1a.jpg"
 ---
 
-In 1983 acclaimed and influential industrial designer Deiter Rams coined ten principles for good design. Seeing a shift towards a consumeristic mindset and a flood of products with built in obsolescence reaching a dangerous level that stood at odds what what intuitively one should expect and design in a product. The opposite, would be something conceived intelligently and made to last, and was in tune with Ram’s own ethos. 
+In 1983 acclaimed and influential industrial designer Deiter Rams coined ten principles for good design. Seeing a shift towards a consumeristic mindset and a flood of products with built-in obsolescence reaching a dangerous level, this stood at odds with what each of us intuitively expects in a product we purchase with our hard-earned finances – things that are intelligently designed to last. 
 
-These principles are as follows:
+Ram’s ethos points to a better way, as summarized in these ten principles:
 
 1 – Good design is innovative
 2 – Good design makes a product useful
@@ -31,41 +35,40 @@ These principles are as follows:
 9 – Good design is environmentally friendly
 10 – Good design is as little design as possible
 
-For us at Rationale, we find these as relevant and resonant today as ever. 
-While these principles were conceived for physical industrial design, we find them as equality relevant and needed for landscape of digital products, where the intent behind them often is as mal-intended in purpose as that of the physical products aforementioned that spawned these principles.
+For us at Rationale, we find these as resonant today as ever. While these principles were conceived for the tactile nature of industrial design, we see them as equally relevant in the landscape of endless disposable digital products, both literally and figuratively. Increasingly product intent is solely financially motivated, as digital products become intrusive, deceptive, addictive, overwhelming, and made for obsolescence.
 
-With our new iPhone app Minimal Calendar, these principles were taken to heart. The design that started in 2013 is the same design we shipped in 2018. Good design is design built to last. 
+With our new iPhone app Minimal Calendar, Ram's ten principles have been applied to provide something more lasting and meaningful:
 
-Here are ways we looked at these principles as it related to our app:
-1 – Good design is innovative
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+**1 – Good design is innovative**
+Paul Rand paraphrased Meis Van Der Rohe when he said "Don't try to be original. Just try to be good.” This has long been the way we operate. Innovation should not be the goal but a byproduct of solving a problem thoughtfully. The entire purpose of the app is to make something "less but better" as Ram's said, something that we couldn't find in a calendar app. 
 
-2 – Good design makes a product useful
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
 
-3 – Good design is aesthetic
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+**2 – Good design makes a product useful**
+Every design choice, every feature, every position of every element has been thought through with great detail to be as helpful as possible to you the user, and we seek to refine this continually. 
 
-4 – Good design makes a product understandable
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+**3 – Good design is aesthetic**
+The aesthetic choices we made are to increase the usefulness of the product. In a busy world and lives, a beautiful typographic view exists to give you only what you need and none of what you don't.
 
-5 – Good design is unobtrusive
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+**4 – Good design makes a product understandable**
+As another byproduct of our design approach, we are happy to see our users easily grasping the intuitive layout of the application. Fewer possibilities mean its becomes possible to keep a focus on what you do and do it clear, and understandable. 
 
-6 – Good design is honest
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+**5 – Good design is unobtrusive**
+The point of the app is not to create an absence of clutter in itself, but to make what is meaningful to a digital calendar experience as unhindered and unobstructed as possible. Fewer distractions mean less time to get what you need to be done, and back to life.
 
-7 – Good design is long-lasting
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+**6 – Good design is honest**
+There is no design pretense with Minimal Calendar. We only sought to highlight the core elements of the experience, which elemental is numbers and letterforms. Nothing overdone or for deceptive appearances, just what you need to make help in a way as honest as possible. 
 
-8 – Good design is thorough down to the last detail
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+**7 – Good design is long-lasting**
+The core experience of the app was created in 2013. In those five years, its shocking how much digital experiences have come, and we are pleased to report that the design devices five years ago are the same one we shipped in 2018. 
 
-9 – Good design is environmentally friendly
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+**8 – Good design is thorough down to the last detail**
+We left nothing to chance and agonized every aspect of the application. From the specific color tints to each size, placement, interaction, screen and flow we wanted to build a product worthy of our respect and yours alike. 
 
-10 – Good design is as little design as possible
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+**9 – Good design is environmentally friendly**
+In the digital space, you don't have the same waste of physical resources, but still, a waste of time is a waste of energy which ultimately takes its toll on nature. 
+
+**10 – Good design is as little design as possible**
+Nothing more than what's needed, nothing less. By avoiding the pitfalls of making an app for the needs of "everyone," and by instead embracing the core elements found ourselves intuitively that defined an excellent calendar experience for ourselves, this as lead to a more sharp and precise experience. We are happy to hear how much you all feel the same and love it!
 
 We hope that using Minimal Calendar you can see how they were taken to hear, and through that can experience an unparalleled level of clarity and beauty as a result of the attention, care, and ethos that made it possible. 
 
