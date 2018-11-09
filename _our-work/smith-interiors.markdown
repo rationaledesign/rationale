@@ -3,7 +3,7 @@ title: Smith Interiors
 date: 2014-01-01 00:00:00 Z
 categories:
 - Identity
-position: 38
+position: 43
 year: 2014
 images:
 - image: "/uploads/rationale_2014_smithinteriors1_5i-616744.jpg"
