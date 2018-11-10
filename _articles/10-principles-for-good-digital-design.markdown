@@ -69,8 +69,8 @@ We left nothing to chance and agonized over every aspect of the applications des
 In the digital space, you don't have the same waste of physical resources, but despite that a waste of time is a waste of energy which ultimately takes its toll on nature. We strived to build the foundation of the experience to last, something that is not disposable and always changing to fit a needless fashion of the moment. 
 
 10 – Good design is as little design as possible** <br>
-Nothing more than what's needed, nothing less. By avoiding the pitfalls of making an app for the needs of "everyone," and by instead embracing the core elements found ourselves intuitively that defined an excellent calendar experience for ourselves, this as lead to a more sharp and precise experience. We are happy to hear how much you all feel the same and love it!
+Nothing more than what's needed, nothing less.
 
-We hope that using Minimal Calendar you can see how they were taken to hear, and through that can experience an unparalleled level of clarity and beauty as a result of the attention, care, and ethos that made it possible. 
+We hope that using Minimal Calendar you can see how this has been taken this to heart, and with it find an unparalleled level of clarity and beauty. 
 
-Minimal Calendar is available for iPhone now. 
+[Minimal Calendar](http://minimalcalendar.com) is available for iPhone now! 
