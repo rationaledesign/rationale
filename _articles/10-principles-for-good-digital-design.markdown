@@ -23,7 +23,7 @@ For us at Rationale, we find these ten principles that follow as resonant today 
 With our new iPhone app [Minimal Calendar](http://minimalcalendar.com), Ram's ten principles have been applied to create something lasting and meaningful:
 
 1 – Good design is innovative<br>
-Paul Rand paraphrased Mies van der Rohe when he said "Don't try to be original. Just try to be good.” This has long been the way we operate. Innovation should not be the goal but a byproduct of solving a problem thoughtfully, with some luck. The entire purpose of our Minimal Calendar app is to make something "Less, but better". 
+Mies van der Rohe said "Don't try to be original, just try to be good.” This has long been the way we operate. Innovation should not be the goal but a byproduct of solving a problem thoughtfully, with some luck. The entire purpose of our Minimal Calendar app is to make something "Less, but better". 
 
 
 2 – Good design makes a product useful<br>
