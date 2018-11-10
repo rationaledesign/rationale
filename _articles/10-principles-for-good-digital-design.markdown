@@ -21,10 +21,6 @@ detail_images:
 og_image: "/uploads/rationale_2018-11-09_og1a.jpg"
 ---
 
-In 1983 acclaimed and influential industrial designer [Deiter Rams](https://en.wikipedia.org/wiki/Dieter_Rams) coined ten principles for good design. Seeing a shift towards a consumeristic mindset and a flood of products with built-in obsolescence reaching a dangerous level, this stood at odds with what each of us intuitively expects in a product we purchase with our hard-earned finances – something that is designed to last. 
-
-Ram’s ethos points to a better way, as summarized in these ten principles:<br>
-<br>
 1 – Good design is innovative <br>
 2 – Good design makes a product useful <br>
 3 – Good design is aesthetic <br>
@@ -35,7 +31,9 @@ Ram’s ethos points to a better way, as summarized in these ten principles:<br>
 8 – Good design is thorough down to the last detail <br>
 9 – Good design is environmentally friendly <br>
 10 – Good design is as little design as possible <br>
-<br>
+
+In 1983 acclaimed and influential industrial designer [Deiter Rams](https://en.wikipedia.org/wiki/Dieter_Rams) coined ten principles for good design. Seeing a shift towards a consumeristic mindset and a flood of products with built-in obsolescence reaching a dangerous level, this stood at odds with what each of us intuitively expects in a product we purchase with our hard-earned finances – something that is designed to last. 
+
 For us at Rationale, we find these as resonant today as ever. While these principles were conceived for the tactile nature of industrial design, we see them as equally relevant in the landscape of endless disposable digital products, both literally and figuratively. Increasingly product intent is solely financially motivated and digital products become intrusive, deceptive, addictive, overwhelming, and quickly obsolete.
 
 With our new iPhone app [Minimal Calendar](http://minimalcalendar.com), Ram's ten principles have been applied to create something more lasting and meaningful:
