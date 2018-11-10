@@ -60,7 +60,7 @@ The point of the app is not to create an absence of clutter in itself, but to ma
 We only sought to highlight the core elements of the experience through a pure presentation of numbers and letterforms. Nothing overdone, just what you need and balanced in its execution for making what we believe is an honest design. 
 
 7 – Good design is long-lasting<br>
-The core experience of the app was created in 2013. In those five years, it's shocking to see [how much digital experiences have changed](https://rationale-design.com/articles/timeless-design-for-temporary-screens/). We are pleased to report that the design done for Minimal Calendar five years ago remains the same one we shipped in 2018. 
+The core experience of the app was created in 2013. In those five years, it's shocking to see how much digital experiences have [changed](https://rationale-design.com/articles/timeless-design-for-temporary-screens/). We are pleased to report that the design done for Minimal Calendar five years ago remains the same one we shipped in 2018. 
 
 8 – Good design is thorough down to the last detail<br>
 We left nothing to chance and agonized over every aspect of the applications design. From the specific colors, tints, sizes, placements, interactions, screens, and movement of the user within this system, we wanted to build a product worthy of your respect. 
