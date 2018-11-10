@@ -20,7 +20,7 @@ In 1983 acclaimed and influential industrial designer [Deiter Rams](https://en.w
 
 For us at Rationale, we find these ten principles that follow as resonant today as ever. While these principles were conceived for the tactile nature of industrial design, we see them as equally relevant in the landscape of endless disposable digital products, both literally and figuratively. Increasingly product intent is solely financially motivated and digital products become intrusive, deceptive, addictive, overwhelming, and quickly obsolete.
 
-With our new iPhone app [Minimal Calendar](http://minimalcalendar.com), Ram's ten principles have been applied to create something more lasting and meaningful:
+With our new iPhone app [Minimal Calendar](http://minimalcalendar.com), Ram's ten principles have been applied to create something lasting and meaningful:
 
 1 – Good design is innovative<br>
 [Paul Rand](https://en.wikipedia.org/wiki/Paul_Rand) paraphrased [Mies van der Rohe](https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe) when he said "Don't try to be original. Just try to be good.” This has long been the way we operate. Innovation should not be the goal but a byproduct of solving a problem thoughtfully, with some luck. The entire purpose of our Minimal Calendar app is to make something "Less, but better". 
