@@ -56,10 +56,10 @@ As another byproduct of our design approach, we are happy to see our users easil
 5 – Good design is unobtrusive<br>
 The point of the app is not to create an absence of clutter in itself, but to make what is meaningful to a digital calendar experience as unhindered and unobstructed as possible. Fewer distractions mean less time to get what you need, and back to life.
 
-6 – Good design is honest** <br>
+6 – Good design is honest<br>
 We only sought to highlight the core elements of the experience through a pure presentation of numbers and letterforms. Nothing overdone, just what you need and balanced in its execution for making what we believe is an honest design. 
 
-7 – Good design is long-lasting** <br>
+7 – Good design is long-lasting<br>
 The core experience of the app was created in 2013. In those five years, it's shocking to see [how much digital experiences have changed](https://rationale-design.com/articles/timeless-design-for-temporary-screens/). We are pleased to report that the design done for Minimal Calendar five years ago remains the same one we shipped in 2018. 
 
 8 – Good design is thorough down to the last detail<br>
@@ -68,7 +68,7 @@ We left nothing to chance and agonized over every aspect of the applications des
 9 – Good design is environmentally friendly<br>
 In the digital space, you don't have the same waste of physical resources, but despite that a waste of time is a waste of energy which ultimately takes its toll on nature. We strived to build the foundation of the experience to last, something that is not disposable and always changing to fit a needless fashion of the moment. 
 
-10 – Good design is as little design as possible** <br>
+10 – Good design is as little design as possible<br>
 Nothing more than what's needed, nothing less.
 
 We hope that using Minimal Calendar you can see how this has been taken this to heart, and with it find an unparalleled level of clarity and beauty. 
