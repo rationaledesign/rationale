@@ -8,7 +8,7 @@ featured_image:
   image_ratio: 1-1
   color: "#ffffff"
 detail_images:
-- image: "/uploads/MinCal_Promo_5.jpg"
+- image: "/uploads/square.jpg"
   alt: minimal calendar 10 ten principles dieter rams digital design iphone calendar
     app typography
   image_ratio: 1-1
