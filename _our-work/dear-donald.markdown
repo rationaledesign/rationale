@@ -2,6 +2,7 @@
 title: Dear Donald
 date: 2018-11-14 23:23:00 Z
 published: false
+position: 0
 year: 2016
 images:
 - image: "/uploads/rationale_2016-07-17_1b.jpg"

@@ -3,7 +3,7 @@ title: Intent
 date: 2011-01-01 00:00:00 Z
 categories:
 - Packaging
-position: 27
+position: 30
 excerpt_text: Album cover “Intent” designed for music group The Fascination Movement.
   The imagery serves as the basis for a design language that is applied to related
   singles, posters, and other promotional materials.

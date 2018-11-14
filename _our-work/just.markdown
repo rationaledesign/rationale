@@ -1,7 +1,7 @@
 ---
 title: Just
 date: 2018-11-08 01:01:00 Z
-position: 4
+position: 7
 excerpt_text: For food company Just, a visual identity was created to address a wide
   array of products and communications for years to come. A foundation of bold colors
   and the consideration of food and the craftsmanship that goes into it inspires a

@@ -3,7 +3,7 @@ title: Foothills California Mural
 date: 2014-01-01 00:00:00 Z
 categories:
 - Installation
-position: 15
+position: 18
 year: 2014
 images:
 - image: "/uploads/rationale_2014_foothillsmural1_1a.jpg"
