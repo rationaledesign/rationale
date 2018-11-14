@@ -19,7 +19,7 @@ images:
   alt: rationale design territory singles front cover
   image_ratio: 
   color: "#aaaaaa"
-- image: "/uploads/rationale_2016_territorysingles1_3b.jpg"
+- image: "/uploads/rationale_2016_territorysingles1_3c.jpg"
   alt: rationale design territory singles front cover
   image_ratio: 
   color: "#ebebeb"
