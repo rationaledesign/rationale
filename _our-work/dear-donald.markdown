@@ -2,6 +2,7 @@
 title: Dear Donald
 date: 2018-11-14 23:23:00 Z
 published: false
+year: 2016
 images:
 - image: "/uploads/rationale_2016-07-17_1b.jpg"
   alt: rationale our work dear donald newspaper advertisement
