@@ -10,7 +10,7 @@ excerpt_text: Book cover designed for novel “If Not For The Dawn”. Cover ima
   that run through the novel.
 year: 2012
 images:
-- image: "/uploads/rationale_2012_ifnotfordawn1_1b.jpg"
+- image: "/uploads/rationale_2012_ifnotfordawn1_1b-fee8fc.jpg"
   alt: rationale design if not for the dawn book cover
   color: "#ebebeb"
 thumb_image:
