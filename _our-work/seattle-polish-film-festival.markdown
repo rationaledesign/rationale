@@ -9,11 +9,11 @@ excerpt_text: Polish cinema has a historic vibrancy and relevancy—not to menti
   seen some of its best and most iconic works in Polish cinema.
 year: 2014
 images:
-- image: "/uploads/rationale_2014_spff1_1b.jpg"
+- image: "/uploads/rationale_2014_spff1_1b-ed718d.jpg"
   alt: rationale design seattle polish film festival poster
   image_ratio: 
   color: "#222222"
-- image: "/uploads/rationale_2014_spff1_2b.jpg"
+- image: "/uploads/rationale_2014_spff1_2b-4a3f57.jpg"
   alt: rationale design seattle polish film festival poster
   color: "#ebebeb"
 thumb_image:
