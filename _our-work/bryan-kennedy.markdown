@@ -10,7 +10,7 @@ excerpt_text: How does one convey the nuance, history, and diversity of wine cul
   liaison Bryan Kennedy.
 year: 2016
 images:
-- image: "/uploads/rationale-bkennedy-1a.jpg"
+- image: "/uploads/rationale_2016_bryankennedy1_1c.jpg"
   alt: rationale design bryan kennedy identity logo
   image_ratio: 
   color: "#e5002b"
