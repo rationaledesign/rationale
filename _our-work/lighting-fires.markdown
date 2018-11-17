@@ -9,23 +9,23 @@ excerpt_text: Lighting Fires is a book concept about digital and social media st
   promotional materials, and website visuals.
 year: 2012
 images:
-- image: "/uploads/rationale_2012_lightingfires1_1b.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_1c.jpg"
   alt: rationale design lighting fires book cover
   image_ratio: 5-4
   color: "#fa3700"
-- image: "/uploads/rationale_2012_lightingfires1_2c.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_2c-cc0133.jpg"
   alt: rationale design lighting fires book cover
   color: "#fa3700"
   image_ratio: 16-9
-- image: "/uploads/rationale_2012_lightingfires1_3c.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_3d.jpg"
   alt: rationale design lighting fires promo
   color: "#ebebeb"
   image_ratio: 3-2
-- image: "/uploads/rationale_2012_lightingfires1_5b.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_5c.jpg"
   alt: rationale design lighting fires website
   color: "#fa3700"
   image_ratio: 3-2
-- image: "/uploads/rationale_2012_lightingfires1_4h.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_4i.jpg"
   alt: rationale design lighting fires grid
   color: "#ebebeb"
   image_ratio: 16-9
