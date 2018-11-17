@@ -6,7 +6,7 @@ categories:
 position: 10
 year: 2014
 images:
-- image: "/uploads/rationale_2014_aiga1_1a.jpg"
+- image: "/uploads/rationale_2014_aiga1_1b.jpg"
   alt: rationale design aiga 100 poster
   image_ratio: 3-2
   color: "#aaaaaa"
