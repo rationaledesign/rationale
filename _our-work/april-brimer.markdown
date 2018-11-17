@@ -33,7 +33,7 @@ images:
   alt: rationale design april brimer photography promo
   color: "#ebebeb"
   image_ratio: 3-2
-- image: "/uploads/rationale_2014_aprilbrimer1_7e.jpg"
+- image: "/uploads/rationale_2014_aprilbrimer1_7f.jpg"
   alt: rationale design april brimer photography promo
   Key: "#ebebeb"
   image_ratio: 3-2
