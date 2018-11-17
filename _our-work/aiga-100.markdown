@@ -8,10 +8,12 @@ year: 2014
 images:
 - image: "/uploads/rationale_2014_aiga1_1a.jpg"
   alt: rationale design aiga 100 poster
+  image_ratio: 3-2
   color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2014_aiga1_0b-227617.jpg"
   alt: rationale design aiga 100
+  image_ratio: 3-2
   color: "#fa0098"
 is_featured: true
 og_image: "/uploads/rationale_2014_aiga1_og1a.jpg"
