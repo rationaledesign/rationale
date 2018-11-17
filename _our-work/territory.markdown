@@ -11,17 +11,17 @@ images:
   alt: rationale design territory album cover
   image_ratio: 16-9
   color: "#aaaaaa"
-- image: "/uploads/rationale_2016_territorysingles1_1a.jpg"
+- image: "/uploads/rationale_2016_territorysingles1_1c.jpg"
   alt: rationale design territory singles front cover
-  image_ratio: 
+  image_ratio: 3-2
   color: "#aaaaaa"
-- image: "/uploads/rationale_2016_territorysingles1_2a.jpg"
+- image: "/uploads/rationale_2016_territorysingles1_2b.jpg"
   alt: rationale design territory singles front cover
-  image_ratio: 
+  image_ratio: 3-2
   color: "#aaaaaa"
 - image: "/uploads/rationale_2016_territorysingles1_3c.jpg"
   alt: rationale design territory singles front cover
-  image_ratio: 
+  image_ratio: 5-4
   color: "#ebebeb"
 thumb_image:
   image: "/uploads/rationale-territory-0.jpg"
