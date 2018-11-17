@@ -21,14 +21,14 @@ images:
   alt: rationale design lighting fires promo
   color: "#ebebeb"
   image_ratio: 3-2
-- image: "/uploads/rationale_2012_lightingfires1_4h.jpg"
-  alt: rationale design lighting fires grid
-  color: "#ebebeb"
-  image_ratio: 16-9
 - image: "/uploads/rationale_2012_lightingfires1_5b.jpg"
   alt: rationale design lighting fires website
   color: "#fa3700"
   image_ratio: 3-2
+- image: "/uploads/rationale_2012_lightingfires1_4h.jpg"
+  alt: rationale design lighting fires grid
+  color: "#ebebeb"
+  image_ratio: 16-9
 thumb_image:
   image: "/uploads/rationale_2012_lightingfires1_0a.jpg"
   alt: rationale design lighting fires identity
