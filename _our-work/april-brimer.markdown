@@ -17,23 +17,23 @@ images:
   alt: rationale design april brimer photography book inside pages
   color: "#ebebeb"
   image_ratio: 16-9
-- image: "/uploads/rationale_2014_aprilbrimer1_3b.jpg"
+- image: "/uploads/rationale_2014_aprilbrimer1_3c.jpg"
   alt: rationale design april brimer photography website
   color: "#666666"
-  image_ratio: 3-2
+  image_ratio: 5-4
 - image: "/uploads/rationale_2014_aprilbrimer1_4b.jpg"
   alt: rationale design april brimer photography promo
   color: "#222222"
-  image_ratio: 3-2
+  image_ratio: 5-4
 - image: "/uploads/rationale_2014_aprilbrimer1_5d.jpg"
   alt: rationale design april brimer photography stationary
   color: "#ebebeb"
-  image_ratio: 3-2
-- image: "/uploads/rationale_2014_aprilbrimer1_6d.jpg"
+  image_ratio: 16-9
+- image: "/uploads/rationale_2014_aprilbrimer1_6e.jpg"
   alt: rationale design april brimer photography promo
   color: "#ebebeb"
   image_ratio: 3-2
-- image: "/uploads/rationale_2014_aprilbrimer1_7d.jpg"
+- image: "/uploads/rationale_2014_aprilbrimer1_7e.jpg"
   alt: rationale design april brimer photography promo
   Key: "#ebebeb"
   image_ratio: 3-2
