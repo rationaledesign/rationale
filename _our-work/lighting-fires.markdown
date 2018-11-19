@@ -25,7 +25,7 @@ images:
   alt: rationale design lighting fires website
   color: "#fa3700"
   image_ratio: 16-9
-- image: "/uploads/rationale_2012_lightingfires1_4j.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_4k.jpg"
   alt: rationale design lighting fires grid
   color: "#ebebeb"
   image_ratio: 16-9
