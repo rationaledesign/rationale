@@ -8,22 +8,22 @@ excerpt_text: For food company Just, a visual identity was created to address a 
   diverse and consistent execution.
 year: 2017
 images:
-- image: "/uploads/rationale_2016_justid_2e.jpg"
+- image: "/uploads/rationale_2016_justid_1f.jpg"
   alt: rationale design just identity design food product cooking stationery business
     card
   image_ratio: 16-9
   color: "#fefdf9"
-- image: "/uploads/rationale_2016_justid_1a.jpg"
+- image: "/uploads/rationale_2016_justid_2b-edfe50.jpg"
   alt: rationale design just identity design food product cooking
-  image_ratio: 3-2
+  image_ratio: 16-9
   color: "#000000"
-- image: "/uploads/rationale_2016_justid_4c.jpg"
+- image: "/uploads/rationale_2016_justid_3d.jpg"
   alt: rationale design just identity design food product cooking
-  image_ratio: 3-2
+  image_ratio: 16-9
   color: "#000000"
-- image: "/uploads/rationale_2016_justid_3a.jpg"
+- image: "/uploads/rationale_2016_justid_4b-bf16c6.jpg"
   alt: rationale design just identity design food product cooking
-  image_ratio: 3-2
+  image_ratio: 16-9
   color: "#fefdf9"
 - image: "/uploads/rationale_2016_justid_5a.jpg"
   alt: rationale design just identity design food product cooking design manual guidelines
@@ -34,7 +34,7 @@ images:
   image_ratio: 16-9
   color: "#000000"
 thumb_image:
-  image: "/uploads/rationale_2016_justid_0b.jpg"
+  image: "/uploads/rationale_2016_justid_0c.jpg"
   alt: rationale design just identity design food product
   image_ratio: 3-2
   color: "#101010"
