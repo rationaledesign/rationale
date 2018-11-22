@@ -15,25 +15,25 @@ images:
   alt: rationale design synth patch application iphone ios app synthpatch
   image_ratio: 16-9
   color: "#1a1a1a"
-- image: "/uploads/rationale_2014_synthpatch2_2b.jpg"
+- image: "/uploads/rationale_2014_synthpatch2_2c.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
-  image_ratio: 3-2
+  image_ratio: 16-9
   color: "#1a1a1a"
-- image: "/uploads/rationale_2014_synthpatch2_3b.jpg"
+- image: "/uploads/rationale_2014_synthpatch2_3c.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
-  image_ratio: 3-2
+  image_ratio: 16-9
   color: "#1a1a1a"
 - image: "/uploads/rationale_2014_synthpatch2_4c.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
   image_ratio: 16-9
   color: "#1a1a1a"
-- image: "/uploads/rationale_2014_synthpatch2_5b.jpg"
+- image: "/uploads/rationale_2014_synthpatch2_5c.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
-  image_ratio: 3-2
+  image_ratio: 16-9
   color: "#1a1a1a"
-- image: "/uploads/rationale_2014_synthpatch2_6e.jpg"
+- image: "/uploads/rationale_2014_synthpatch2_6f.jpg"
   alt: rationale design synth patch application iphone ios app synthpatch
-  image_ratio: 5-4
+  image_ratio: 16-9
   color: "#1a1a1a"
 thumb_image:
   image: "/uploads/rationale_2014_synthpatch2_0b.jpg"
