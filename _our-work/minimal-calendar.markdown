@@ -32,7 +32,7 @@ images:
   color: "#090909"
   image_ratio: 16-9
 thumb_image:
-  image: "/uploads/rationale_2018_mincal_0d.jpg"
+  image: "/uploads/rationale_2018_mincal_0e.jpg"
   alt: rationale design minimal calendar app iphone application minimal cal minimalism
   image_ratio: 16-9
   color: "#FF3C00"
