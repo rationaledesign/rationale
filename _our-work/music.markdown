@@ -10,26 +10,26 @@ excerpt_text: 'Series of posters for music concerts using a variety of focused, 
   visually cluttered landscape of music posters.'
 year: 2010
 images:
-- image: "/uploads/rationale_2010_concertseries1_1a.jpg"
+- image: "/uploads/rationale_2010_concertseries1_1d.jpg"
   alt: rationale design music concert series poster
-  image_ratio: 
+  image_ratio: 7-5
   color: "#aaaaaa"
-- image: "/uploads/rationale_2010_concertseries1_2a.jpg"
-  alt: rationale design music concert series poster
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2010_concertseries1_3a.jpg"
+- image: "/uploads/rationale_2010_concertseries1_2d.jpg"
   alt: rationale design music concert series poster
   color: "#aaaaaa"
-- image: "/uploads/rationale_2010_concertseries1_4a.jpg"
+- image: "/uploads/rationale_2010_concertseries1_3d.jpg"
   alt: rationale design music concert series poster
   color: "#aaaaaa"
-- image: "/uploads/rationale_2010_concertseries1_5a.jpg"
+- image: "/uploads/rationale_2010_concertseries1_4d.jpg"
   alt: rationale design music concert series poster
   color: "#aaaaaa"
-- image: "/uploads/rationale_2010_concertseries1_6a.jpg"
+- image: "/uploads/rationale_2010_concertseries1_5d.jpg"
   alt: rationale design music concert series poster
   color: "#aaaaaa"
-- image: "/uploads/rationale_2010_concertseries1_7a.jpg"
+- image: "/uploads/rationale_2010_concertseries1_6d.jpg"
+  alt: rationale design music concert series poster
+  color: "#aaaaaa"
+- image: "/uploads/rationale_2010_concertseries1_7d.jpg"
   alt: rationale design music concert series poster
   color: "#aaaaaa"
 - image: "/uploads/rationale_2010_concertseries1_8a.jpg"
@@ -40,7 +40,7 @@ thumb_image:
   alt: rationale design music concert series poster
   color: "#2b2e8d"
 is_featured: true
-og_image: "/uploads/rationale_2010_concertseries1_og1a.jpg"
+og_image: "/uploads/rationale_2010_concertseries1_og1d.jpg"
 layout: project
 ---
 
