@@ -9,9 +9,9 @@ excerpt_text: Book cover designed for the novel “Carry On”. Color bands refl
   killers. Typography runs vertically to complement the sense of vertical motion.
 year: 2013
 images:
-- image: "/uploads/rationale_2013_carryon1_1a.jpg"
+- image: "/uploads/rationale_2013_carryon1_1d.jpg"
   alt: rationale design carry on book front cover
-  image_ratio: 
+  image_ratio: 16-9
   color: "#666666"
 - image: "/uploads/rationale_2013_carryon1_2b.jpg"
   alt: rationale design carry on book back cover
@@ -19,9 +19,10 @@ images:
 thumb_image:
   image: "/uploads/rationale_2013_carryon1_0a.jpg"
   alt: rationale design carry on book cover
+  image_ratio: 16-9
   color: "#000000"
 is_featured: true
-og_image: "/uploads/rationale_2013_carryon1_og1a.jpg"
+og_image: "/uploads/rationale_2013_carryon1_og1d.jpg"
 layout: project
 ---
 
