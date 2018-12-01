@@ -6,15 +6,16 @@ categories:
 position: 13
 year: 2011
 images:
-- image: "/uploads/rationale_2011_allinlove1_1a.jpg"
+- image: "/uploads/rationale_2011_allinlove1_1d.jpg"
   alt: rationale design all in love poster
+  image_ratio: 7-5
   color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2011_allinlove1_0a.jpg"
   alt: rationale design all in love
   color: "#000000"
 is_featured: true
-og_image: "/uploads/rationale_2011_allinlove1_og1a.jpg"
+og_image: "/uploads/rationale_2011_allinlove1_og1d.jpg"
 layout: project
 ---
 
