@@ -9,25 +9,26 @@ excerpt_text: Instead of the usual graphics, we reenvisioned the Hot Rod & Class
   cars’ details themselves.
 year: 2012
 images:
-- image: "/uploads/rationale_2012_classiccar1_1b.jpg"
+- image: "/uploads/rationale_2012_classiccar1_1d.jpg"
   alt: rationale design classic car show poster
-  image_ratio: 
+  image_ratio: 7-5
   color: "#aaaaaa"
-- image: "/uploads/rationale_2012_classiccar1_2a.jpg"
-  alt: rationale design classic car show poster
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2012_classiccar1_3a.jpg"
+- image: "/uploads/rationale_2012_classiccar1_2d.jpg"
   alt: rationale design classic car show poster
   color: "#aaaaaa"
-- image: "/uploads/rationale_2012_classiccar1_4a.jpg"
+- image: "/uploads/rationale_2012_classiccar1_3d.jpg"
+  alt: rationale design classic car show poster
+  color: "#aaaaaa"
+- image: "/uploads/rationale_2012_classiccar1_4d.jpg"
   alt: rationale design classic car show poster
   color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2012_classiccar1_0a.jpg"
   alt: rationale design classic car show poster
+  image_ratio: 16-9
   color: "#b0160e"
 is_featured: true
-og_image: "/uploads/rationale_2012_classiccar1_og1a.jpg"
+og_image: "/uploads/rationale_2012_classiccar1_og1d.jpg"
 layout: project
 ---
 
