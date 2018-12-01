@@ -12,23 +12,24 @@ year: 2014
 images:
 - image: "/uploads/rationale_2014_caseybroadwater1_1a.jpg"
   alt: rationale design casey broadwater photography identity
-  image_ratio: 
+  image_ratio: 16-9
   color: "#1a1a1a"
-- image: "/uploads/rationale_2014_caseybroadwater1_2a.jpg"
+- image: "/uploads/rationale_2014_caseybroadwater1_2d.jpg"
   alt: rationale design casey broadwater photography stationary
   color: "#aaaaaa"
-- image: "/uploads/rationale_2014_caseybroadwater1_3a.jpg"
+- image: "/uploads/rationale_2014_caseybroadwater1_3d.jpg"
   alt: rationale design casey broadwater photography identity website
   color: "#444444"
-- image: "/uploads/rationale_2014_caseybroadwater1_4a.jpg"
+- image: "/uploads/rationale_2014_caseybroadwater1_4d.jpg"
   alt: rationale design casey broadwater photography identity poster
   color: "#aaaaaa"
-- image: "/uploads/rationale_2014_caseybroadwater1_5a.jpg"
+- image: "/uploads/rationale_2014_caseybroadwater1_5d.jpg"
   alt: rationale design casey broadwater photography identity stationary
   color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2014_caseybroadwater1_0a.jpg"
   alt: rationale design casey broadwater photography identity
+  image_ratio: 16-9
   color: "#c8cdd3"
 is_featured: true
 og_image: "/uploads/rationale_2014_caseybroadwater1_og1a.jpg"
