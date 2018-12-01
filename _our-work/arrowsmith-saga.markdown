@@ -9,18 +9,19 @@ excerpt_text: Book cover design for novels “The Arrowsmith Saga”, parts 1 an
   aspects of each novel in the series.
 year: 2012
 images:
-- image: "/uploads/rationale_2012_arrowsmith1_1a.jpg"
+- image: "/uploads/rationale_2012_arrowsmith1_1d.jpg"
   alt: rationale design arrowsmith saga book cover
-  image_ratio: 
+  image_ratio: 16-9
   color: "#fd2f00"
 - image: "/uploads/rationale_2012_arrowsmith1_2a.jpg"
   alt: rationale design arrowsmith saga book cover
   color: "#ebebeb"
 thumb_image:
-  image: "/uploads/rationale_2012_arrowsmith1_0a.jpg"
+  image: "/uploads/rationale_2012_arrowsmith1_0b.jpg"
   alt: rationale design arrowsmith saga book cover
+  image_ratio: 16-9
   color: "#fd2f00"
-og_image: "/uploads/rationale_2012_arrowsmith1_og1a.jpg"
+og_image: "/uploads/rationale_2012_arrowsmith1_og1d.jpg"
 layout: project
 ---
 
