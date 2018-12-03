@@ -7,15 +7,15 @@ excerpt_text: 'Cover and singles for the Territory EP, designed for music group 
   converging and diverging. '
 year: 2017
 images:
-- image: "/uploads/rationale_2016_territorysingles1_4d.jpg"
+- image: "/uploads/rationale_2016_territorysingles1_4f.jpg"
   alt: rationale design territory album cover
   image_ratio: 16-9
   color: "#8e8e8e"
-- image: "/uploads/rationale_2016_territorysingles1_1d.jpg"
+- image: "/uploads/rationale_2016_territorysingles1_1f.jpg"
   alt: rationale design territory singles front cover
   image_ratio: 3-2
   color: "#8e8e8e"
-- image: "/uploads/rationale_2016_territorysingles1_2d.jpg"
+- image: "/uploads/rationale_2016_territorysingles1_2f.jpg"
   alt: rationale design territory singles front cover
   image_ratio: 3-2
   color: "#8e8e8e"
