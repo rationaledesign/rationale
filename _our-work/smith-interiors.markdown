@@ -12,10 +12,6 @@ images:
   alt: rationale design smith interiors identity logotype
   image_ratio: 
   color: "#6e6f6a"
-- image: "/uploads/rationale_2014_smithinteriors1_4d.jpg"
-  alt: rationale design smith interiors identity pattern shape
-  color: "#6e6f6a"
-  image_ratio: 16-9
 - image: "/uploads/rationale_2014_smithinteriors1_2e.jpg"
   alt: rationale design smith interiors identity poster
   color: "#6e6f6a"
@@ -23,6 +19,10 @@ images:
 - image: "/uploads/rationale_2014_smithinteriors1_3d-e6f87e.jpg"
   alt: rationale design smith interiors stationary
   color: "#ebebeb"
+  image_ratio: 16-9
+- image: "/uploads/rationale_2014_smithinteriors1_4d.jpg"
+  alt: rationale design smith interiors identity pattern shape
+  color: "#6e6f6a"
   image_ratio: 16-9
 thumb_image:
   image: "/uploads/rationale_2014_smithinteriors1_0b.jpg"
