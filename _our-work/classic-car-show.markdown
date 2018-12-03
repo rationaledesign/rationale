@@ -25,22 +25,6 @@ images:
   alt: rationale design classic car show poster
   color: "#8e8e8e"
   image_ratio: 7-5
-- image: "/uploads/rationale_2012_classiccar1_5d.jpg"
-  alt: rationale design classic car show poster
-  color: "#8e8e8e"
-  image_ratio: 7-5
-- image: "/uploads/rationale_2012_classiccar1_6d.jpg"
-  alt: rationale design classic car show poster
-  color: "#8e8e8e"
-  image_ratio: 7-5
-- image: "/uploads/rationale_2012_classiccar1_7d.jpg"
-  alt: rationale design classic car show poster
-  color: "#8e8e8e"
-  image_ratio: 7-5
-- image: "/uploads/rationale_2012_classiccar1_8d.jpg"
-  alt: rationale design classic car show poster
-  color: "#8e8e8e"
-  image_ratio: 7-5
 thumb_image:
   image: "/uploads/rationale_2012_classiccar1_0a.jpg"
   alt: rationale design classic car show poster
