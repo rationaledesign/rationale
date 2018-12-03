@@ -6,19 +6,19 @@ categories:
 position: 12
 year: 2013
 images:
-- image: "/uploads/rationale_2013_latitudex1_1d.jpg"
+- image: "/uploads/rationale_2013_latitudex1_1e.jpg"
   alt: rationale design latitudex identity poster
   image_ratio: 7-5
   color: "#aaaaaa"
-- image: "/uploads/rationale_2013_latitudex1_2e.jpg"
+- image: "/uploads/rationale_2013_latitudex1_2f.jpg"
   alt: rationale design latitudex identity promo
   color: "#feb81a"
   image_ratio: 16-9
-- image: "/uploads/rationale_2013_latitudex1_3d.jpg"
+- image: "/uploads/rationale_2013_latitudex1_3e.jpg"
   alt: rationale design latitudex identity poster
   color: "#aaaaaa"
   image_ratio: 7-5
-- image: "/uploads/rationale_2013_latitudex1_4e.jpg"
+- image: "/uploads/rationale_2013_latitudex1_4f.jpg"
   alt: rationale design latitudex identity stationary
   color: "#feb81a"
   image_ratio: 
