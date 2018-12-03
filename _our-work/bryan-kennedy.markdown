@@ -14,7 +14,7 @@ images:
   alt: rationale design bryan kennedy identity logo
   image_ratio: 16-9
   color: "#e5002b"
-- image: "/uploads/rationale_2016_bryankennedy1_2d.jpg"
+- image: "/uploads/rationale_2016_bryankennedy1_2e.jpg"
   alt: rationale design bryan kennedy identity logo
   image_ratio: 16-9
   color: "#ebebeb"
