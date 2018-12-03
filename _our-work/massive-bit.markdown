@@ -15,7 +15,7 @@ images:
   alt: rationale design massive bits identity logo
   image_ratio: 
   color: "#ff4e24"
-- image: "/uploads/rationale_2013_massivebit1_2d.jpg"
+- image: "/uploads/rationale_2013_massivebit1_2f.jpg"
   alt: rationale design massive bits identity poster
   color: "#8e8e8e"
   image_ratio: 7-5
@@ -23,7 +23,7 @@ images:
   alt: rationale design massive bits identity logo
   color: "#ebebeb"
   image_ratio: 
-- image: "/uploads/rationale_2013_massivebit1_4d.jpg"
+- image: "/uploads/rationale_2013_massivebit1_4f.jpg"
   alt: rationale design massive bits identity app
   color: "#8e8e8e"
   image_ratio: 16-9
