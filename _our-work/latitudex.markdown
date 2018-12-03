@@ -6,31 +6,28 @@ categories:
 position: 12
 year: 2013
 images:
-- image: "/uploads/rationale_2013_latitudex1_1a.jpg"
-  alt: rationale design latitudex identity grid
-  image_ratio: 
-  color: "#feb81a"
-- image: "/uploads/rationale_2013_latitudex1_7b.jpg"
+- image: "/uploads/rationale_2013_latitudex1_1d.jpg"
+  alt: rationale design latitudex identity poster
+  color: "#aaaaaa"
+  image_ratio: 7-5
+- image: "/uploads/rationale_2013_latitudex1_2d.jpg"
   alt: rationale design latitudex identity promo
   color: "#feb81a"
-- image: "/uploads/rationale_2013_latitudex1_3c.jpg"
+  image_ratio: 3-2
+- image: "/uploads/rationale_2013_latitudex1_3d.jpg"
   alt: rationale design latitudex identity poster
   color: "#aaaaaa"
-- image: "/uploads/rationale_2013_latitudex1_5d.jpg"
-  alt: rationale design latitudex identity website
-  color: "#feb81a"
-- image: "/uploads/rationale_2013_latitudex1_2c.jpg"
-  alt: rationale design latitudex identity poster
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2013_latitudex1_6c.jpg"
+  image_ratio: 7-5
+- image: "/uploads/rationale_2013_latitudex1_4e.jpg"
   alt: rationale design latitudex identity stationary
   color: "#feb81a"
+  image_ratio: 
 thumb_image:
   image: "/uploads/rationale-latitudex-0.jpg"
   alt: rationale design latitudex identity
   color: "#feb81a"
 is_featured: true
-og_image: "/uploads/rationale-latitudex-og.jpg"
+og_image: "/uploads/rationale_2013_latitudex1_og1d.jpg"
 layout: project
 ---
 
