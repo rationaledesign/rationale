@@ -20,10 +20,6 @@ images:
   alt: rationale design smith interiors stationary
   color: "#ebebeb"
   image_ratio: 16-9
-- image: "/uploads/rationale_2014_smithinteriors1_4d.jpg"
-  alt: rationale design smith interiors identity pattern shape
-  color: "#6e6f6a"
-  image_ratio: 16-9
 thumb_image:
   image: "/uploads/rationale_2014_smithinteriors1_0b.jpg"
   alt: rationale design smith interiors identity
