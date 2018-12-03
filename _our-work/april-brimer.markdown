@@ -19,11 +19,11 @@ images:
   image_ratio: 16-9
 - image: "/uploads/rationale_2014_aprilbrimer1_3e.jpg"
   alt: rationale design april brimer photography website
-  color: "#666666"
+  color: "#4f4f4f"
   image_ratio: 16-9
 - image: "/uploads/rationale_2014_aprilbrimer1_4c.jpg"
   alt: rationale design april brimer photography promo
-  color: "#222222"
+  color: "#111111"
   image_ratio: 7-5
 - image: "/uploads/rationale_2014_aprilbrimer1_5e.jpg"
   alt: rationale design april brimer photography stationary
