@@ -1,5 +1,5 @@
 ---
-title: Foothills California Identity
+title: Foothills California
 date: 2013-01-01 00:00:00 Z
 categories:
 - Identity
