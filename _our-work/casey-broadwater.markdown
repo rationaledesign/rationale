@@ -4,10 +4,6 @@ date: 2014-01-01 00:00:00 Z
 categories:
 - Identity
 position: 39
-excerpt_text: The Casey Broadwater Photography identity system gives a simple and
-  bold typographic treatment that allows the featured photography itself to shine.
-  The end result is an efficient design language that creates maximum impact through
-  minimal means.
 year: 2014
 images:
 - image: "/uploads/rationale_2014_caseybroadwater1_1a.jpg"
@@ -16,16 +12,20 @@ images:
   color: "#1a1a1a"
 - image: "/uploads/rationale_2014_caseybroadwater1_2d.jpg"
   alt: rationale design casey broadwater photography stationary
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2014_caseybroadwater1_3d.jpg"
+  color: "#4f4f4f"
+  image_ratio: 16-9
+- image: "/uploads/rationale_2014_caseybroadwater1_3e.jpg"
   alt: rationale design casey broadwater photography identity website
-  color: "#444444"
+  color: "#4f4f4f"
+  image_ratio: 16-9
 - image: "/uploads/rationale_2014_caseybroadwater1_4d.jpg"
   alt: rationale design casey broadwater photography identity poster
-  color: "#aaaaaa"
+  color: "#4f4f4f"
+  image_ratio: 7-5
 - image: "/uploads/rationale_2014_caseybroadwater1_5d.jpg"
   alt: rationale design casey broadwater photography identity stationary
-  color: "#aaaaaa"
+  color: "#4f4f4f"
+  image_ratio: 16-9
 thumb_image:
   image: "/uploads/rationale_2014_caseybroadwater1_0a.jpg"
   alt: rationale design casey broadwater photography identity
