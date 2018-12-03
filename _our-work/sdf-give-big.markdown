@@ -10,15 +10,16 @@ excerpt_text: 'The poster for the 2016 GiveBig campaign for the Seattle Design F
   project-focused grants matched with mentorship.'
 year: 2016
 images:
-- image: "/uploads/rationale_2016_sdfbig1_1a.jpg"
+- image: "/uploads/rationale_2016_sdfbig1_1d.jpg"
   alt: rationale design seattle design foundation givebig poster
-  color: "#aaaaaa"
+  image_ratio: 7-5
+  color: "#8e8e8e"
 thumb_image:
   image: "/uploads/rationale-sdfgivebig-0.jpg"
   alt: rationale design seattle design foundation givebig
   color: "#1a1a1a"
 is_featured: true
-og_image: "/uploads/rationale_2016_sdfbig1_og1a.jpg"
+og_image: "/uploads/rationale_2016_sdfbig1_og1d.jpg"
 ---
 
 The poster for the 2016 GiveBig campaign for the Seattle Design Foundation was created to promote philanthropic donations in support of the SDF and its mission: to foster innovation in emerging talent by selecting individuals to receive small, project-focused grants matched with mentorship.
