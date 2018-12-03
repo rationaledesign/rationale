@@ -6,11 +6,11 @@ categories:
 position: 29
 year: 2013
 images:
-- image: "/uploads/rationale_2013_zaire1_1d.jpg"
+- image: "/uploads/rationale_2013_zaire1_1f.jpg"
   alt: rationale design zaire album cover
   image_ratio: 3-2
   color: "#222222"
-- image: "/uploads/rationale_2013_zaire1_2d.jpg"
+- image: "/uploads/rationale_2013_zaire1_2f.jpg"
   alt: rationale design zaire album poster
   image_ratio: 7-5
   color: "#222222"
