@@ -10,9 +10,11 @@ images:
 - image: "/uploads/rationale_2008_0dot51_2d.jpg"
   alt: rationale design 0.5 album back cover
   color: "#8e8e8e"
+  image_ratio: 3-2
 - image: "/uploads/rationale_2008_0dot51_3d.jpg"
   alt: rationale design 0.5 album poster
   color: "#8e8e8e"
+  image_ratio: 7-5
 thumb_image:
   image: "/uploads/rationale_2008_0dot51_0a.jpg"
   alt: rationale design 0.5 album cover
