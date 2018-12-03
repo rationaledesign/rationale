@@ -28,7 +28,7 @@ images:
 - image: "/uploads/rationale_2013_foothills1_6d.jpg"
   alt: rationale design foothills california identity stationary
   color: "#cccccc"
-  image_ratio: 16-9
+  image_ratio: 3-2
 thumb_image:
   image: "/uploads/rationale-foothillsid-0.jpg"
   alt: rationale design foothills california identity
