@@ -15,4 +15,4 @@ thumb_image:
 og_image: "/uploads/rationale_2018_669creeper_og1a.jpg"
 ---
 
-Single for Monastery electronic artist [Composer 669](http://monastery-records.com). Dominant and dramatic colors and typography reflect the spirit of the music.
+Single for Monastery electronic artist Composer 669. Dominant and dramatic colors and typography reflect the spirit of the music.
