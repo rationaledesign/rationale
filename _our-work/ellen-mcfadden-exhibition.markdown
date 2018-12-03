@@ -8,6 +8,7 @@ year: 2015
 images:
 - image: "/uploads/rationale_2015_ellenmcfadden1_1a.jpg"
   alt: rationale design ellen mcfadden exhibition poster
+  image_ratio: 7-5
   color: "#aaaaaa"
 thumb_image:
   image: "/uploads/rationale_2015_ellenmcfadden1_0b.jpg"
