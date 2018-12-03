@@ -15,24 +15,26 @@ images:
   alt: rationale design massive bits identity logo
   image_ratio: 
   color: "#ff4e24"
-- image: "/uploads/rationale_2013_massivebit1_2c.jpg"
+- image: "/uploads/rationale_2013_massivebit1_2d.jpg"
   alt: rationale design massive bits identity poster
-  color: "#aaaaaa"
+  color: "#8e8e8e"
+  image_ratio: 7-5
 - image: "/uploads/rationale_2013_massivebit1_3c.jpg"
   alt: rationale design massive bits identity logo
-  color: "#cccccc"
-- image: "/uploads/rationale_2013_massivebit1_4c.jpg"
+  color: "#ebebeb"
+  image_ratio: 
+- image: "/uploads/rationale_2013_massivebit1_4d.jpg"
   alt: rationale design massive bits identity app
-  color: "#aaaaaa"
+  color: "#8e8e8e"
+  image_ratio: 16-9
 - image: "/uploads/rationale_2013_massivebit1_5c.jpg"
   alt: rationale design massive bits identity graphics
-  color: "#cccccc"
-- image: "/uploads/rationale_2013_massivebit1_6c.jpg"
+  color: "#ebebeb"
+  image_ratio: 
+- image: "/uploads/rationale_2013_massivebit1_6d.jpg"
   alt: rationale design massive bits identity stationary
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2013_massivebit1_7c.jpg"
-  alt: rationale design massive bits identity stationary
-  color: "#aaaaaa"
+  color: "#8e8e8e"
+  image_ratio: 16-9
 thumb_image:
   image: "/uploads/rationale-massivebit-0b.jpg"
   alt: rationale design massive bits identity
