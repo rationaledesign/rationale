@@ -10,15 +10,16 @@ excerpt_text: For the second annual The Book Was Better Film Festival, in which 
   a clear image.
 year: 2016
 images:
-- image: "/uploads/rationale_2016_tbwb1_1a.jpg"
+- image: "/uploads/rationale_2016_tbwb1_1d.jpg"
   alt: rationale design the book was better film festival poster
-  color: "#aaaaaa"
+  image_ratio: 7-5
+  color: "#8e8e8e"
 thumb_image:
   image: "/uploads/rationale-tbwb-0.jpg"
   alt: rationale design the book was better film festival
   color: "#000000"
 is_featured: true
-og_image: "/uploads/rationale_2015_tbwb1_og1a.jpg"
+og_image: "/uploads/rationale_2016_tbwb1_og1d.jpg"
 ---
 
 For the second annual The Book Was Better Film Festival, in which people submit a short film based on one chapter from a book, Rationale created an identity program that can be taken in new directions for years to come while maintaining a clear image.
