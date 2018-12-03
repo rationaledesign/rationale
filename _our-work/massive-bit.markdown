@@ -31,10 +31,6 @@ images:
   alt: rationale design massive bits identity graphics
   color: "#ebebeb"
   image_ratio: 
-- image: "/uploads/rationale_2013_massivebit1_6d.jpg"
-  alt: rationale design massive bits identity stationary
-  color: "#8e8e8e"
-  image_ratio: 16-9
 thumb_image:
   image: "/uploads/rationale-massivebit-0b.jpg"
   alt: rationale design massive bits identity
