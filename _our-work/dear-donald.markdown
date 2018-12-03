@@ -4,7 +4,7 @@ date: 2018-11-14 23:23:00 Z
 position: 0
 year: 2016
 images:
-- image: "/uploads/rationale_2016_donald1_1a.jpg"
+- image: "/uploads/rationale_2016_donald1_1d.jpg"
   alt: rationale our work dear donald newspaper advertisement new york times
   image_ratio: 7-5
   color: "#111111"
