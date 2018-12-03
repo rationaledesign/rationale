@@ -8,12 +8,12 @@ year: 2013
 images:
 - image: "/uploads/rationale_2013_latitudex1_1d.jpg"
   alt: rationale design latitudex identity poster
-  color: "#aaaaaa"
   image_ratio: 7-5
-- image: "/uploads/rationale_2013_latitudex1_2d.jpg"
+  color: "#aaaaaa"
+- image: "/uploads/rationale_2013_latitudex1_2e.jpg"
   alt: rationale design latitudex identity promo
   color: "#feb81a"
-  image_ratio: 3-2
+  image_ratio: 16-9
 - image: "/uploads/rationale_2013_latitudex1_3d.jpg"
   alt: rationale design latitudex identity poster
   color: "#aaaaaa"
