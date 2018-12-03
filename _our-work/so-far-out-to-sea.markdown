@@ -13,11 +13,11 @@ images:
   alt: rationale design so far out to sea book cover front
   image_ratio: 16-9
   color: "#8e8e8e"
-- image: "/uploads/rationale_2015_sofarsea1_2d.jpg"
+- image: "/uploads/rationale_2015_sofarsea1_2e.jpg"
   alt: rationale design so far out to sea book interior
   color: "#ebebeb"
   image_ratio: 16-9
-- image: "/uploads/rationale_2015_sofarsea1_3d.jpg"
+- image: "/uploads/rationale_2015_sofarsea1_3e.jpg"
   alt: rationale design so far out to sea book cover back
   color: "#ebebeb"
   image_ratio: 16-9
