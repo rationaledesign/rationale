@@ -13,10 +13,11 @@ images:
 - image: "/uploads/rationale_2009_bringdownthewalls1_1e.jpg"
   alt: rationale design bringing down the walls album cover
   image_ratio: 16-9
-  color: "#ebebeb"
+  color: "#4f4f4f"
 - image: "/uploads/rationale_2009_bringdownthewalls1_2d.jpg"
   alt: rationale design bringing down the walls poster
-  color: "#aaaaaa"
+  image_ratio: 7-5
+  color: "#4f4f4f"
 thumb_image:
   image: "/uploads/rationale_2009_bringdownthewalls1_0a.jpg"
   alt: rationale design bringing down the walls
