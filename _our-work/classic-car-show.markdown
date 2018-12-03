@@ -12,16 +12,35 @@ images:
 - image: "/uploads/rationale_2012_classiccar1_1d.jpg"
   alt: rationale design classic car show poster
   image_ratio: 7-5
-  color: "#aaaaaa"
+  color: "#8e8e8e"
 - image: "/uploads/rationale_2012_classiccar1_2d.jpg"
   alt: rationale design classic car show poster
-  color: "#aaaaaa"
+  color: "#8e8e8e"
+  image_ratio: 7-5
 - image: "/uploads/rationale_2012_classiccar1_3d.jpg"
   alt: rationale design classic car show poster
-  color: "#aaaaaa"
+  color: "#8e8e8e"
+  image_ratio: 7-5
 - image: "/uploads/rationale_2012_classiccar1_4d.jpg"
   alt: rationale design classic car show poster
-  color: "#aaaaaa"
+  color: "#8e8e8e"
+  image_ratio: 7-5
+- image: "/uploads/rationale_2012_classiccar1_5d.jpg"
+  alt: rationale design classic car show poster
+  color: "#8e8e8e"
+  image_ratio: 7-5
+- image: "/uploads/rationale_2012_classiccar1_6d.jpg"
+  alt: rationale design classic car show poster
+  color: "#8e8e8e"
+  image_ratio: 7-5
+- image: 
+  alt: rationale design classic car show poster
+  color: "#8e8e8e"
+  image_ratio: 7-5
+- image: 
+  alt: rationale design classic car show poster
+  color: "#8e8e8e"
+  image_ratio: 7-5
 thumb_image:
   image: "/uploads/rationale_2012_classiccar1_0a.jpg"
   alt: rationale design classic car show poster
@@ -35,5 +54,3 @@ layout: project
 Instead of the usual graphics, we reenvisioned the Hot Rod & Classic Car Show in historic Snohomish, Washington, USA to direct focus to the beauty of cars’ details themselves.
 
 The close-up photography is paired with a bold typographic treatment that entices one to come and “See More” at the annual event.
-
-Available for purchase from the Rationale [Shop](https://rationale-design.com/shop/classic-car-show-poster/).
