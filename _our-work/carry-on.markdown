@@ -6,7 +6,7 @@ categories:
 position: 26
 year: 2013
 images:
-- image: "/uploads/rationale_2013_carryon1_1f.jpg"
+- image: "/uploads/rationale_2013_carryon1_1g.jpg"
   alt: rationale design carry on book front cover
   image_ratio: 16-9
   color: "#4f4f4f"
