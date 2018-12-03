@@ -6,11 +6,11 @@ categories:
 position: 31
 year: 2012
 images:
-- image: "/uploads/rationale_2012_interaction1_1d.jpg"
+- image: "/uploads/rationale_2012_interaction1_1f.jpg"
   alt: rationale design interaction album front cover
   image_ratio: 3-2
   color: "#4f4f4f"
-- image: "/uploads/rationale_2012_interaction1_1d2.jpg"
+- image: "/uploads/rationale_2012_interaction1_2f.jpg"
   alt: rationale design interaction album back cover
   color: "#4f4f4f"
   image_ratio: 3-2
