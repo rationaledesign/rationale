@@ -22,7 +22,7 @@ images:
   alt: rationale design foothills california identity poster
   color: "#cccccc"
   image_ratio: 7-5
-- image: "/uploads/rationale-foothillsid-5b.jpg"
+- image: "/uploads/rationale_2013_foothills1_5c.jpg"
   alt: rationale design foothills california identity graphics
   color: "#ebebeb"
 - image: "/uploads/rationale_2014_foothillsmural1_1a.jpg"
