@@ -30,12 +30,12 @@ images:
   color: "#ebebeb"
   image_ratio: 16-9
 thumb_image:
-  image: "/uploads/rationale_2012_lightingfires1_0a.jpg"
+  image: "/uploads/rationale_2012_lightingfires1_0d.jpg"
   alt: rationale design lighting fires identity
   image_ratio: 16-9
   color: "#fa3700"
 is_featured: true
-og_image: "/uploads/rationale_2012_lightingfires1_og1a.jpg"
+og_image: "/uploads/rationale_2012_lightingfires1_og1d.jpg"
 layout: project
 ---
 
