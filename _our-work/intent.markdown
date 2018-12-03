@@ -6,7 +6,7 @@ categories:
 position: 30
 year: 2011
 images:
-- image: "/uploads/rationale_2011_intent1_1d.jpg"
+- image: "/uploads/rationale_2011_intent1_1f.jpg"
   alt: rationale design intent album cover
   image_ratio: 3-2
   color: "#8e8e8e"
