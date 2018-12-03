@@ -6,7 +6,7 @@ categories:
 position: 19
 year: 2015
 images:
-- image: "/uploads/rationale_2015_ellenmcfadden1_1d.jpg"
+- image: "/uploads/rationale_2015_ellenmcfadden1_1f.jpg"
   alt: rationale design ellen mcfadden exhibition poster
   image_ratio: 7-5
   color: "#4f4f4f"
