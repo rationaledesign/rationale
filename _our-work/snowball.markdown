@@ -6,7 +6,7 @@ categories:
 position: 32
 year: 2015
 images:
-- image: "/uploads/rationale_2015_snowball1_1d.jpg"
+- image: "/uploads/rationale_2015_snowball1_1f.jpg"
   alt: rationale design snowball album cover
   image_ratio: 3-2
   color: "#cccccc"
