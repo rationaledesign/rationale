@@ -8,9 +8,10 @@ tags:
 position: 34
 year: 2013
 images:
-- image: "/uploads/rationale_2013_woodenboatshow1_1a.jpg"
+- image: "/uploads/rationale_2013_woodenboatshow1_1d.jpg"
   alt: rationale design wooden boat show poster
-  color: "#aaaaaa"
+  image_ratio: 3-2
+  color: "#4f4f4f"
 thumb_image:
   image: "/uploads/rationale_2013_woodenboatshow1_0a.jpg"
   alt: rationale design wooden boat show poster
