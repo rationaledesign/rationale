@@ -10,7 +10,7 @@ excerpt_text: 'The poster for the 2016 GiveBig campaign for the Seattle Design F
   project-focused grants matched with mentorship.'
 year: 2016
 images:
-- image: "/uploads/rationale_2016_sdfbig1_1d.jpg"
+- image: "/uploads/rationale_2016_sdfbig1_1e.jpg"
   alt: rationale design seattle design foundation givebig poster
   image_ratio: 7-5
   color: "#8e8e8e"
