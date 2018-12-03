@@ -7,18 +7,18 @@ excerpt_text: 'Cover and singles for the Territory EP, designed for music group 
   converging and diverging. '
 year: 2017
 images:
-- image: "/uploads/rationale_2017_territory_1c.jpg"
+- image: "/uploads/rationale_2016_territorysingles1_4d.jpg"
   alt: rationale design territory album cover
   image_ratio: 16-9
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2016_territorysingles1_1c.jpg"
+  color: "#8e8e8e"
+- image: "/uploads/rationale_2016_territorysingles1_1d.jpg"
   alt: rationale design territory singles front cover
   image_ratio: 3-2
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2016_territorysingles1_2b.jpg"
+  color: "#8e8e8e"
+- image: "/uploads/rationale_2016_territorysingles1_2d.jpg"
   alt: rationale design territory singles front cover
   image_ratio: 3-2
-  color: "#aaaaaa"
+  color: "#8e8e8e"
 - image: "/uploads/rationale_2016_territorysingles1_3c.jpg"
   alt: rationale design territory singles front cover
   image_ratio: 5-4
@@ -28,7 +28,7 @@ thumb_image:
   alt: rationale design territory album
   color: "#fe2a40"
 is_featured: true
-og_image: "/uploads/rationale_2017_territory_og1b.jpg"
+og_image: "/uploads/rationale_2017_territory_og1d.jpg"
 ---
 
 Cover and singles for the Territory EP, designed for music group The Fascination Movement. The imagery brings a strong design of sequential elements converging and diverging. 
