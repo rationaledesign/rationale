@@ -3,15 +3,15 @@ title: '0.5'
 position: 17
 year: 2008
 images:
-- image: "/uploads/rationale_2008_0dot51_1d.jpg"
+- image: "/uploads/rationale_2008_0dot51_1f.jpg"
   alt: rationale design 0.5 album front cover
   image_ratio: 3-2
   color: "#8e8e8e"
-- image: "/uploads/rationale_2008_0dot51_2d.jpg"
+- image: "/uploads/rationale_2008_0dot51_2f.jpg"
   alt: rationale design 0.5 album back cover
   color: "#8e8e8e"
   image_ratio: 3-2
-- image: "/uploads/rationale_2008_0dot51_3d.jpg"
+- image: "/uploads/rationale_2008_0dot51_3f.jpg"
   alt: rationale design 0.5 album poster
   color: "#8e8e8e"
   image_ratio: 7-5
