@@ -9,7 +9,7 @@ images:
 - image: "/uploads/rationale_2011_allinlove1_1d.jpg"
   alt: rationale design all in love poster
   image_ratio: 7-5
-  color: "#aaaaaa"
+  color: "#8e8e8e"
 thumb_image:
   image: "/uploads/rationale_2011_allinlove1_0a.jpg"
   alt: rationale design all in love
