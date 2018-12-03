@@ -6,19 +6,20 @@ categories:
 position: 15
 year: 2009
 images:
-- image: "/uploads/rationale_2009_remixvol11_1a.jpg"
+- image: "/uploads/rationale_2009_remixvol11_1d.jpg"
   alt: rationale design remix vol 1 album front cover
-  image_ratio: 
-  color: "#aaaaaa"
-- image: "/uploads/rationale_2009_remixvol11_2a.jpg"
+  image_ratio: 3-2
+  color: "#cccccc"
+- image: "/uploads/rationale_2009_remixvol11_2d.jpg"
   alt: rationale design remix vol 1 album back cover
-  color: "#aaaaaa"
+  color: "#cccccc"
+  image_ratio: 3-2
 thumb_image:
   image: "/uploads/rationale_2009_remixvol11_0a.jpg"
   alt: rationale design remix vol 1 album cover
   color: "#0073da"
 is_featured: true
-og_image: "/uploads/rationale_2009_remixvol11_og1a.jpg"
+og_image: "/uploads/rationale_2009_remixvol11_og1d.jpg"
 layout: project
 ---
 
