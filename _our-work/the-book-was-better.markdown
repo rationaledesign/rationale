@@ -10,7 +10,7 @@ excerpt_text: For the second annual The Book Was Better Film Festival, in which 
   a clear image.
 year: 2016
 images:
-- image: "/uploads/rationale_2016_tbwb1_1d.jpg"
+- image: "/uploads/rationale_2016_tbwb1_1f.jpg"
   alt: rationale design the book was better film festival poster
   image_ratio: 7-5
   color: "#8e8e8e"
