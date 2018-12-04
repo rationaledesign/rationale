@@ -19,6 +19,7 @@ thumb_image:
   alt: rationale design if not for the dawn book cover
   image_ratio: 3-2
   color: "#202c42"
+is_featured: false
 og_image: "/uploads/rationale_2012_ifnotfordawn1_og1a.jpg"
 layout: project
 ---
