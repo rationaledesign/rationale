@@ -19,7 +19,7 @@ thumb_image:
   alt: rationale design bringing down the walls
   image_ratio: 16-9
   color: "#a6a5a3"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2009_bringdownthewalls1_og1b.jpg"
 layout: project
 ---
