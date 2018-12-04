@@ -4,15 +4,15 @@ date: 2018-11-14 23:23:00 Z
 position: 0
 year: 2016
 images:
-- image: "/uploads/rationale_2016_donald1_1d.jpg"
+- image: "/uploads/rationale_2016_donald1_1e.jpg"
   alt: rationale our work dear donald newspaper advertisement new york times
   image_ratio: 7-5
   color: "#111111"
 thumb_image:
-  image: "/uploads/rationale_2016_donald1_0d.jpg"
+  image: "/uploads/rationale_2016_donald1_0e.jpg"
   alt: rationale our work dear donald newspaper advertisement new york times
   color: "#cccccc"
-og_image: "/uploads/rationale_2016-07-17_og1a-a5df3c.jpg"
+og_image: "/uploads/rationale_2016-07-17_og1b.jpg"
 ---
 
 Full-page ad in the New York Times and Cleveland Plain Dealer.
