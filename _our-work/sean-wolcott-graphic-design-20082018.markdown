@@ -13,6 +13,7 @@ thumb_image:
   alt: sean wolcott graphic design rationale design book cover geometric diamond stripe
   image_ratio: 3-2
   color: "#fe3c00"
+is_featured: true
 og_image: "/uploads/rationale_2018_swbook0818_og1a.jpg"
 ---
 
