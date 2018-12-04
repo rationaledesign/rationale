@@ -5,7 +5,7 @@ categories:
 - Promotion
 tags:
 - featured
-position: 34
+position: 33
 year: 2013
 images:
 - image: "/uploads/rationale_2013_woodenboatshow1_1g.jpg"

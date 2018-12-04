@@ -1,7 +1,7 @@
 ---
 title: 'Sean Wolcott: Graphic Design 2008–2018'
 date: 2018-11-09 00:53:00 Z
-position: 2
+position: 4
 year: 2018
 images:
 - image: "/uploads/rationale_2018_swbook0818_1a.jpg"
