@@ -1,7 +1,7 @@
 ---
 title: Proprio
 date: 2018-11-09 00:12:00 Z
-position: 3
+position: 2
 year: 2018
 images:
 - image: "/uploads/rationale_2018_proprioid_1a.jpg"
