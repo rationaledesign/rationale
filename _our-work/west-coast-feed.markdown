@@ -13,6 +13,7 @@ thumb_image:
   alt: west coast feed album cover vinyl record music
   image_ratio: 3-2
   color: "#111111"
+is_featured: true
 og_image: "/uploads/rationale_2018_wcf_og1a-69fa2f.jpg"
 ---
 

@@ -22,7 +22,7 @@ thumb_image:
   image: "/uploads/rationale_2018_graphicclarity_0a.jpg"
   alt: rationale modern graphic design 1950 1980 clarity exhibition
   color: "#ff4713"
-is_featured: false
+is_featured: true
 og_image: "/uploads/rationale_2018-08-30_og1a.jpg"
 ---
 
