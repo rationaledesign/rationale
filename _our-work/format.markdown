@@ -1,7 +1,7 @@
 ---
 title: Format
 date: 2018-03-21 21:03:00 Z
-position: 18
+position: 19
 year: 2017
 images:
 - image: "/uploads/rationale_2017_format_1c.jpg"
