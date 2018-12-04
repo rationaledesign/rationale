@@ -3,7 +3,7 @@ title: If Not For The Dawn
 date: 2012-01-01 00:00:00 Z
 categories:
 - Publication
-position: 28
+position: 29
 excerpt_text: Book cover designed for novel “If Not For The Dawn”. Cover imagery alludes
   to a future Los Angeles with geometric typography and an artificially-lit night
   sky. The choice of photography evokes the undertones of hard-boiled detective noir
