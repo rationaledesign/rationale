@@ -5,7 +5,7 @@ categories:
 - User Interface
 tags:
 - featured
-position: 18
+position: 19
 excerpt_text: "[SynthPatch](https://synthpatchapp.com/) is an iOS application that
   allows owners of analog synthesizers to quickly notate and share their settings
   in an elegant, intuitive, and efficiently abstracted manner. Out now for iPhone."
