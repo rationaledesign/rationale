@@ -12,8 +12,9 @@ excerpt_text: Design system, book cover, and interior design for the book series
   environments, and the viewer.
 year: 2012
 images:
-- image: "/uploads/rationale_2012_stevenbrooks1_1a.jpg"
+- image: "/uploads/rationale_2012_stevenbrooks1_1b.jpg"
   alt: rationale design steven brooks photographs book
+  image_ratio: 5-4
   color: "#ebebeb"
 thumb_image:
   image: "/uploads/rationale_2012_stevenbrooks1_0a.jpg"
