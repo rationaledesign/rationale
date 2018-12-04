@@ -27,7 +27,7 @@ thumb_image:
   alt: rationale design casey broadwater photography identity
   image_ratio: 16-9
   color: "#c8cdd3"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2014_caseybroadwater1_og1a.jpg"
 layout: project
 ---
