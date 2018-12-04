@@ -5,7 +5,7 @@ categories:
 - Publication
 tags:
 - featured
-position: 29
+position: 30
 excerpt_text: Design system, book cover, and interior design for the book series “Steven
   Brooks Photographs”. The series presents the photographs in a stark and refined
   manner with imagery that explores the relationships between light, built and natural
