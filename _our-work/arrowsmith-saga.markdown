@@ -21,6 +21,7 @@ thumb_image:
   alt: rationale design arrowsmith saga book cover
   image_ratio: 16-9
   color: "#fd2f00"
+is_featured: false
 og_image: "/uploads/rationale_2012_arrowsmith1_og1d.jpg"
 layout: project
 ---
