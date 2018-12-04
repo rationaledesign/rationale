@@ -21,7 +21,7 @@ images:
 - image: "/uploads/rationale_2014_caseybroadwater1_5e.jpg"
   alt: rationale design casey broadwater photography identity poster
   color: "#4f4f4f"
-  image_ratio: 7-5
+  image_ratio: 3-2
 thumb_image:
   image: "/uploads/rationale_2014_caseybroadwater1_0a.jpg"
   alt: rationale design casey broadwater photography identity
