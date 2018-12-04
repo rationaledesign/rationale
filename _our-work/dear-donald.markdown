@@ -12,6 +12,7 @@ thumb_image:
   image: "/uploads/rationale_2016_donald1_0e.jpg"
   alt: rationale our work dear donald newspaper advertisement new york times
   color: "#cccccc"
+is_featured: false
 og_image: "/uploads/rationale_2016-07-17_og1b.jpg"
 ---
 
