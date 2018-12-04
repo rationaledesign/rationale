@@ -15,6 +15,7 @@ thumb_image:
     locke
   image_ratio: 3-2
   color: "#4f7e9a"
+is_featured: true
 og_image: "/uploads/rationale_2017_ropeadope_og1a.jpg"
 ---
 
