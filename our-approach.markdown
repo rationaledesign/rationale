@@ -11,9 +11,9 @@ images:
   color: "#cccccc"
 og_image: "/uploads/rationale_ourapproach_og1a.jpg"
 bottom_body: |+
-  Sean Wolcott, the acclaimed designer and founder of Rationale, has previously designed for some of the biggest companies and products in the world, and his team of top international talent brings a broad level of insight to each project.
+  Sean Wolcott, the acclaimed designer and founder of Rationale, has previously designed for some of the biggest companies and products in the world, and his team of top talent brings a broad level of insight to each project.
 
-  We would be happy to discuss how we might help with your next project.
+  How can we help with your next project?
 
   * [hello@rationale-design.com](mailto:hello@rationale-design.com)
   * [+1 415/742 9116](tel:+1415749116)
