@@ -1,7 +1,7 @@
 ---
 title: Dear Donald
 date: 2018-11-14 23:23:00 Z
-position: 25
+position: 27
 year: 2016
 images:
 - image: "/uploads/rationale_2016_donald1_1e.jpg"
