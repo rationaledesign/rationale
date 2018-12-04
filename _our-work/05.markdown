@@ -19,7 +19,7 @@ thumb_image:
   image: "/uploads/rationale_2008_0dot51_0a.jpg"
   alt: rationale design 0.5 album cover
   color: "#2d4642"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2008_0dot51_og1d.jpg"
 ---
 
