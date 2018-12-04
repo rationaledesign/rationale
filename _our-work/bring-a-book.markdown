@@ -1,7 +1,7 @@
 ---
 title: Bring a Book
 date: 2018-11-08 09:25:00 Z
-position: 44
+position: 45
 year: 2018
 images:
 - image: "/uploads/rationale_2018_bringabook_1b.jpg"
