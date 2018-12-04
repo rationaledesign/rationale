@@ -13,7 +13,7 @@ images:
   alt: rationale design seattle polish film festival poster
   image_ratio: 7-5
   color: "#222222"
-- image: "/uploads/rationale_2014_spff1_2b-4a3f57.jpg"
+- image: "/uploads/rationale_2014_spff1_2c.jpg"
   alt: rationale design seattle polish film festival poster
   color: "#ebebeb"
   image_ratio: 3-2
