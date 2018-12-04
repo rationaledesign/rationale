@@ -18,7 +18,7 @@ thumb_image:
   image: "/uploads/rationale-sdfgivebig-0.jpg"
   alt: rationale design seattle design foundation givebig
   color: "#1a1a1a"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2016_sdfbig1_og1d.jpg"
 ---
 
