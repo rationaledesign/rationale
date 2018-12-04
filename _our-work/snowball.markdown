@@ -14,6 +14,7 @@ thumb_image:
   image: "/uploads/rationale_2015_snowball1_0a.jpg"
   alt: rationale design snowball album cover
   color: "#0077c9"
+is_featured: false
 og_image: "/uploads/rationale_2015_snowball1_og1d.jpg"
 layout: project
 ---
