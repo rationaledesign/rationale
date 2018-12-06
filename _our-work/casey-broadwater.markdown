@@ -14,11 +14,11 @@ images:
   alt: rationale design casey broadwater photography stationary
   color: "#4f4f4f"
   image_ratio: 16-9
-- image: "/uploads/rationale_2014_caseybroadwater1_5f.jpg"
+- image: "/uploads/rationale_2014_caseybroadwater1_3e.jpg"
   alt: rationale design casey broadwater photography identity website
   color: "#4f4f4f"
-  image_ratio: 16-9
-- image: "/uploads/rationale_2014_caseybroadwater1_5e.jpg"
+  image_ratio: 3-2
+- image: "/uploads/rationale_2014_caseybroadwater1_5f.jpg"
   alt: rationale design casey broadwater photography identity poster
   color: "#4f4f4f"
   image_ratio: 3-2
