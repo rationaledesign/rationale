@@ -11,7 +11,7 @@ year: 2015
 images:
 - image: "/uploads/rationale_2015_sofarsea1_1f.jpg"
   alt: rationale design so far out to sea book cover front
-  image_ratio: 16-9
+  image_ratio: 
   color: "#8e8e8e"
 - image: "/uploads/rationale_2015_sofarsea1_2e.jpg"
   alt: rationale design so far out to sea book interior
