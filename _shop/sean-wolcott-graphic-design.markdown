@@ -10,29 +10,52 @@ is_buyactive: true
 images:
 - image: "/uploads/rationale_sw0818_1a.jpg"
   alt: rationale shop sean wolcott graphic design book cover
-  image_ratio: 
+  image_ratio: 3-2
   color: "#4f4f4f"
 - image: "/uploads/rationale_sw0818_2a.jpg"
   alt: rationale shop sean wolcott graphic design book
   color: "#4f4f4f"
+  image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_3a.jpg"
   alt: rationale shop sean wolcott graphic design book
   color: "#4f4f4f"
+  image_ratio: 
 - image: "/uploads/rationale_sw0818_4a.jpg"
   alt: rationale shop sean wolcott graphic design book latitudex it identity
   color: "#4f4f4f"
+  image_ratio: 
 - image: "/uploads/rationale_sw0818_5a.jpg"
   alt: 'rationale shop sean wolcott graphic design book foothills california mural '
   color: "#4f4f4f"
+  image_ratio: 
 - image: "/uploads/rationale_sw0818_6a.jpg"
-  alt: rationale shop sean wolcott graphic design book just hampton creek
+  alt: rationale shop sean wolcott graphic design book just
   color: "#4f4f4f"
+  image_ratio: 
 - image: "/uploads/rationale_sw0818_7a.jpg"
   alt: rationale shop sean wolcott graphic design book schaefer stevedoring identity
   color: "#4f4f4f"
+  image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_8a.jpg"
   alt: rationale shop sean wolcott graphic design book synthpatch app design manual
   color: "#4f4f4f"
+  image_ratio: 3-2
+- image: "/uploads/rationale_sw0818_9a.jpg"
+  alt: 
+  color: 
+  image_ratio: 
+- image: "/uploads/rationale_sw0818_10a.jpg"
+  alt: 
+  color: 
+  image_ratio: 
+- image: "/uploads/rationale_sw0818_11a.jpg"
+  alt: 
+  color: 
+  image_ratio: 
+- image: "/uploads/rationale_sw0818_12a.jpg"
+  alt: 
+  color: 
+  image_ratio: 
 thumb_image:
   image: "/uploads/rationale_sw2008-18_0a.jpg"
   alt: rationale shop sean wolcott graphic design book
