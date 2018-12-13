@@ -40,7 +40,7 @@ og_image: "/uploads/rationale_sw2008-18_og1a.jpg"
 layout: product-detail
 ---
 
-The new 122 page book “Sean Wolcott: Graphic Design 2008–2018” chronicles the ongoing design work of Rationale’s founder & creative director. Includes projects ranging from identities, promotions, publications, user interfaces, previously unpublished works, and more.
+The new 122-page book “Sean Wolcott: Graphic Design 2008–2018” chronicles the ongoing design work of Rationale’s founder & creative director. Includes projects ranging from identities, promotions, publications, user interfaces, previously unpublished works, and more.
 
 Designed by Rationale.
 
