@@ -16,46 +16,22 @@ images:
   alt: rationale shop sean wolcott graphic design book
   color: "#4f4f4f"
   image_ratio: 3-2
-- image: "/uploads/rationale_sw0818_3a.jpg"
+- image: "/uploads/rationale_sw0818_4a.jpg"
   alt: rationale shop sean wolcott graphic design book
   color: "#4f4f4f"
   image_ratio: 
-- image: "/uploads/rationale_sw0818_4a.jpg"
+- image: "/uploads/rationale_sw0818_6a.jpg"
   alt: rationale shop sean wolcott graphic design book latitudex it identity
   color: "#4f4f4f"
   image_ratio: 
-- image: "/uploads/rationale_sw0818_5a.jpg"
+- image: "/uploads/rationale_sw0818_8a.jpg"
   alt: 'rationale shop sean wolcott graphic design book foothills california mural '
   color: "#4f4f4f"
   image_ratio: 
-- image: "/uploads/rationale_sw0818_6a.jpg"
+- image: "/uploads/rationale_sw0818_9a.jpg"
   alt: rationale shop sean wolcott graphic design book just
   color: "#4f4f4f"
   image_ratio: 
-- image: "/uploads/rationale_sw0818_7a.jpg"
-  alt: rationale shop sean wolcott graphic design book schaefer stevedoring identity
-  color: "#4f4f4f"
-  image_ratio: 3-2
-- image: "/uploads/rationale_sw0818_8a.jpg"
-  alt: rationale shop sean wolcott graphic design book synthpatch app design manual
-  color: "#4f4f4f"
-  image_ratio: 3-2
-- image: "/uploads/rationale_sw0818_9a.jpg"
-  alt: rationale shop sean wolcott graphic design book posters poster seattle
-  color: "#4f4f4f"
-  image_ratio: 3-2
-- image: "/uploads/rationale_sw0818_10a.jpg"
-  alt: rationale shop sean wolcott graphic design book posters poster dear donald
-  color: "#4f4f4f"
-  image_ratio: 3-2
-- image: "/uploads/rationale_sw0818_11a.jpg"
-  alt: rationale shop sean wolcott graphic design book posters poster
-  color: "#4f4f4f"
-  image_ratio: 3-2
-- image: "/uploads/rationale_sw0818_12a.jpg"
-  alt: rationale shop sean wolcott graphic design book cover books
-  color: "#4f4f4f"
-  image_ratio: 3-2
 thumb_image:
   image: "/uploads/rationale_sw2008-18_0a.jpg"
   alt: rationale shop sean wolcott graphic design book
@@ -64,7 +40,7 @@ og_image: "/uploads/rationale_sw2008-18_og1a.jpg"
 layout: product-detail
 ---
 
-The 122-page book Sean Wolcott: Graphic Design 2008–2018 chronicles 10 years of design work with Rationale’s founder. Includes projects ranging from identities, publications, user interfaces, previously unpublished works, and more.
+The new 122 page book “Sean Wolcott: Graphic Design 2008–2018” chronicles the ongoing design work of Rationale’s founder & creative director. Includes projects ranging from identities, promotions, publications, user interfaces, previously unpublished works, and more.
 
 Designed by Rationale.
 
