@@ -7,6 +7,7 @@ price: 40
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GY3GDR56FWNKW
 buytag: Buy now
 is_buyactive: true
+imgcount: 12
 images:
 - image: "/uploads/rationale_sw0818_1a.jpg"
   alt: rationale shop sean wolcott graphic design book cover
@@ -41,21 +42,21 @@ images:
   color: "#4f4f4f"
   image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_9a.jpg"
-  alt: 
-  color: 
-  image_ratio: 
+  alt: rationale shop sean wolcott graphic design book posters poster seattle
+  color: "#4f4f4f"
+  image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_10a.jpg"
-  alt: 
-  color: 
-  image_ratio: 
+  alt: rationale shop sean wolcott graphic design book posters poster dear donald
+  color: "#4f4f4f"
+  image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_11a.jpg"
-  alt: 
-  color: 
-  image_ratio: 
+  alt: rationale shop sean wolcott graphic design book posters poster
+  color: "#4f4f4f"
+  image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_12a.jpg"
-  alt: 
-  color: 
-  image_ratio: 
+  alt: rationale shop sean wolcott graphic design book cover books
+  color: "#4f4f4f"
+  image_ratio: 3-2
 thumb_image:
   image: "/uploads/rationale_sw2008-18_0a.jpg"
   alt: rationale shop sean wolcott graphic design book
