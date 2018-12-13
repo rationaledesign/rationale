@@ -1,5 +1,5 @@
 ---
-title: 'Sean Wolcott: Graphic Design'
+title: 'Sean Wolcott: Graphic Design 2008–2018'
 date: 2015-04-06 18:00:00 Z
 position: 0
 price: 40
