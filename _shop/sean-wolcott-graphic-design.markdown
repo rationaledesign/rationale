@@ -64,7 +64,7 @@ og_image: "/uploads/rationale_sw2008-18_og1a.jpg"
 layout: product-detail
 ---
 
-The 172-page book Sean Wolcott: Graphic Design chronicles 10 years of design work with Rationale’s founder. Includes projects ranging from identity, publication, user interface, previously unpublished works, and more.
+The 122-page book Sean Wolcott: Graphic Design 2008–2018 chronicles 10 years of design work with Rationale’s founder. Includes projects ranging from identities, publications, user interfaces, previously unpublished works, and more.
 
 Designed by Rationale.
 
@@ -72,7 +72,7 @@ Shipping rates: US–9 / CA–12 / INT–16
 
 Year – 2018 <br>
 Edition – 300 <br>
-Pages – 172 <br>
+Pages – 122 <br>
 Size – 20x20 cm / 8x8 in <br>
 Paper – High-quality coated 80# stock with 100# cover wrap <br>
 Printing – Indigo offset, perfect bound 
