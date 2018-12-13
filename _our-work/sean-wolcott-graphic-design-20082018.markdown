@@ -4,9 +4,49 @@ date: 2018-11-09 00:53:00 Z
 position: 1
 year: 2018
 images:
-- image: "/uploads/rationale_2018_swbook0818_1a.jpg"
+- image: "/uploads/rationale_sw0818_12a.jpg"
   alt: sean wolcott graphic design rationale design book cover geometric diamond stripe
-  image_ratio: 16-9
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_2a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_3a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_4a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_5a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_6a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_7a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_8a.jpg"
+  alt: rationale sean wolcott graphic design book design manual identity guidelines
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_9a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_10a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_11a.jpg"
+  alt: rationale sean wolcott graphic design book poster publication graphic design
+  image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
   image: "/uploads/rationale_2018_swbook0818_0a.jpg"
