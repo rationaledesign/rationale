@@ -66,15 +66,15 @@ layout: product-detail
 
 The 172-page book Sean Wolcott: Graphic Design chronicles 10 years of design work with Rationale’s founder. Includes projects ranging from identity, publication, user interface, previously unpublished works, and more.
 
-Designed by Sean Wolcott of Rationale.
+Designed by Rationale.
 
 Shipping rates: US–9 / CA–12 / INT–16
 
-Year – 2015 <br>
+Year – 2018 <br>
 Edition – 300 <br>
 Pages – 172 <br>
 Size – 20x20 cm / 8x8 in <br>
-Paper – High-quality coated 80# stock <br>
+Paper – High-quality coated 80# stock with 100# cover wrap <br>
 Printing – Indigo offset, perfect bound 
 
 The book is also available as a free PDF in our [Resources](https://rationale-design.com/resources/sean-wolcott-graphic-design/).
