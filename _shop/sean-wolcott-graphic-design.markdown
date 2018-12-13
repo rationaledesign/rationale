@@ -19,19 +19,19 @@ images:
 - image: "/uploads/rationale_sw0818_4a.jpg"
   alt: rationale shop sean wolcott graphic design book
   color: "#4f4f4f"
-  image_ratio: 
+  image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_6a.jpg"
   alt: rationale shop sean wolcott graphic design book latitudex it identity
   color: "#4f4f4f"
-  image_ratio: 
+  image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_8a.jpg"
   alt: 'rationale shop sean wolcott graphic design book foothills california mural '
   color: "#4f4f4f"
-  image_ratio: 
+  image_ratio: 3-2
 - image: "/uploads/rationale_sw0818_9a.jpg"
   alt: rationale shop sean wolcott graphic design book just
   color: "#4f4f4f"
-  image_ratio: 
+  image_ratio: 3-2
 thumb_image:
   image: "/uploads/rationale_sw2008-18_0a.jpg"
   alt: rationale shop sean wolcott graphic design book
