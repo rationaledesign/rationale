@@ -74,5 +74,5 @@ Year – 2018 <br>
 Edition – 300 <br>
 Pages – 122 <br>
 Size – 20x20 cm / 8x8 in <br>
-Paper – High-quality coated 80# stock with 100# cover wrap <br>
+Paper – High-quality coated 80# stock & cover wrap <br>
 Printing – Indigo & offset, perfect bound 
