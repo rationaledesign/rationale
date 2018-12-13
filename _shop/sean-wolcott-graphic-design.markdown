@@ -8,36 +8,36 @@ buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GY
 buytag: Buy now
 is_buyactive: true
 images:
-- image: "/uploads/rationale_sw08141_1a.jpg"
+- image: "/uploads/rationale_sw0818_1a.jpg"
   alt: rationale shop sean wolcott graphic design book cover
   image_ratio: 
-  color: "#cccccc"
-- image: "/uploads/rationale_sw08141_2a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_2a.jpg"
   alt: rationale shop sean wolcott graphic design book
-  color: "#cccccc"
-- image: "/uploads/rationale_sw08141_3a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_3a.jpg"
   alt: rationale shop sean wolcott graphic design book
-  color: "#cccccc"
-- image: "/uploads/rationale_sw08141_4a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_4a.jpg"
   alt: rationale shop sean wolcott graphic design book
-  color: "#cccccc"
-- image: "/uploads/rationale_sw08141_5a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_5a.jpg"
   alt: rationale shop sean wolcott graphic design book
-  color: "#cccccc"
-- image: "/uploads/rationale_sw08141_6a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_6a.jpg"
   alt: rationale shop sean wolcott graphic design book
-  color: "#cccccc"
-- image: "/uploads/rationale_sw08141_7a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_7a.jpg"
   alt: rationale shop sean wolcott graphic design book
-  color: "#cccccc"
-- image: "/uploads/rationale_sw08141_8a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_sw0818_8a.jpg"
   alt: rationale shop sean wolcott graphic design book
-  color: "#cccccc"
+  color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_sw08141_0b.jpg"
+  image: "/uploads/rationale_sw2008-18_0a.jpg"
   alt: rationale shop sean wolcott graphic design book
   color: "#fffdfa"
-og_image: "/uploads/rationale_sw08141_og1a.jpg"
+og_image: "/uploads/rationale_sw2008-18_og1a.jpg"
 layout: product-detail
 ---
 
