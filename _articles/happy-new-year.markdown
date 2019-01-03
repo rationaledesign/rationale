@@ -1,6 +1,6 @@
 ---
 title: Happy new year
-date: 2019-01-03 10:01:00 Z
+date: 2019-01-01 10:01:00 Z
 featured_text: 2018 was a landmark.
 featured_image:
   image: "/uploads/rationale_2019-01-01_1a.jpg"
@@ -15,4 +15,4 @@ detail_images:
 og_image: "/uploads/rationale_2019-01-01_og1a.jpg"
 ---
 
-2018 was a landmark. We would like to thank our clients for their ambition, our partners for their dedication, and our friends for their support. Best wishes to all for 2019.
+Welcome 2019! We would like to thank our clients, our partners and our friends for an amazing last year. Let's make 2019 even better. Best wishes to all.
