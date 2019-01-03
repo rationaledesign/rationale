@@ -1,7 +1,6 @@
 ---
 title: Happy new year
 date: 2019-01-01 10:01:00 Z
-featured_text: 2018 was a landmark.
 featured_image:
   image: "/uploads/rationale_2019-01-01_1a.jpg"
   alt: rationale happy new year 2019
