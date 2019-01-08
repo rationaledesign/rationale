@@ -1,5 +1,5 @@
 ---
-title: Rationale
+title: Rationale – brand & visual identity design in Seattle
 timezone: UTC
 collections:
   articles:
@@ -116,6 +116,6 @@ exclude:
 gems:
 - jekyll-sitemap
 - jekyll-feed
-description: Rationale provides world-class expertise in design, identity systems,
-  and more across multiple mediums.
+description: Rationale is a brand design firm in Seattle, providing world-class expertise
+  in design, visual identity systems, digital, and more across multiple mediums.
 og_image: "/uploads/rationale_og.jpg"
