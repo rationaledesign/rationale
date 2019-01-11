@@ -15,6 +15,6 @@ detail_images:
 og_image: "/uploads/rationale_2019-01-01_og1a.jpg"
 ---
 
-We want to thank everyone for their part in contributing to a great year of learning, creating, and discussing so that we may be better versions of ourselves in 2019. 
+Thank you to everyone for contributing to a great year of learning, creating, and collaborating so that we may be better versions of ourselves in 2019. 
 
-Best wishes to you for this year – we look forward to connecting again soon!
+Best wishes for this year – we look forward to connecting soon!
