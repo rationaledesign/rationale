@@ -1,7 +1,7 @@
 ---
 title: Happy new year
 date: 2019-01-01 10:01:00 Z
-featured_text: Welcome 2019!
+featured_text: Welcome, 2019
 featured_image:
   image: "/uploads/rationale_2019-01-01_1a.jpg"
   alt: rationale happy new year 2019
@@ -15,4 +15,6 @@ detail_images:
 og_image: "/uploads/rationale_2019-01-01_og1a.jpg"
 ---
 
-Welcome 2019! We would like to thank our clients, our partners and our friends for an amazing last year. Let's make 2019 even better. Best wishes to all.
+We want to thank everyone for their part in contributing to a great year of learning, creating, and discussing so that we may be better versions of ourselves in 2019. 
+
+Best wishes to you for this year – we look forward to connecting again soon!
