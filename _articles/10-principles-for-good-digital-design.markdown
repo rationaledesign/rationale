@@ -17,7 +17,7 @@ detail_images:
 og_image: "/uploads/rationale_2018-11-09_og1a.jpg"
 ---
 
-In 1983 acclaimed and influential industrial designer [Deiter Rams](https://en.wikipedia.org/wiki/Dieter_Rams) coined ten principles for good design. Seeing a shift towards a consumeristic mindset and a flood of products with built-in obsolescence reaching a dangerous level, what each of us intuitively expects in a product began to be swayed, standing at odds with something that is designed to last. 
+In 1983 acclaimed and influential industrial designer [Dieter Rams](https://en.wikipedia.org/wiki/Dieter_Rams) coined ten principles for good design. Seeing a shift towards a consumeristic mindset and a flood of products with built-in obsolescence reaching a dangerous level, what each of us intuitively expects in a product began to be swayed, standing at odds with something that is designed to last. 
 
 For us at Rationale, we find these ten principles that follow as resonant today as ever. While these principles were conceived for the tactile nature of industrial design, we see them as equally relevant in the landscape of endless disposable digital products, both literally and figuratively. Increasingly product intent is solely financially motivated and digital products become intrusive, deceptive, addictive, overwhelming, and quickly obsolete.
 
