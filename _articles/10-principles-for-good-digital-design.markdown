@@ -1,6 +1,6 @@
 ---
 title: 10 principles for good digital design
-date: 2018-11-09 01:26:00 Z
+date: 2019-01-26 01:26:00 Z
 featured_text: As little design as possible.
 featured_image:
   image: "/uploads/MinCal%2010b.jpg"
