@@ -1,6 +1,7 @@
 ---
 title: Happy new year
 date: 2019-01-01 10:01:00 Z
+position: 1
 featured_text: Welcome, 2019
 featured_image:
   image: "/uploads/rationale_2019-01-01_1a.jpg"

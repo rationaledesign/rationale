@@ -1,7 +1,7 @@
 ---
 title: Graphic Clarity
 date: 2018-09-06 18:02:00 Z
-position: 0
+position: 4
 featured_text: Russell Day Gallery 9/24–10/26.
 excerpt_text: Presented by Rationale, Graphic Clarity is an exhibit that will showcase
   a wide range of artifacts ranging from posters, books, and other printed objects

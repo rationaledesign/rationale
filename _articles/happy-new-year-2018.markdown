@@ -1,7 +1,7 @@
 ---
 title: Happy new year
 date: 2018-01-01 21:30:00 Z
-position: 4
+position: 8
 featured_text: 2017 was a landmark.
 featured_image:
   image: "/uploads/rationale_2018-01-01_1a.jpg"

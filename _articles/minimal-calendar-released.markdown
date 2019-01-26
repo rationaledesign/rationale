@@ -1,6 +1,7 @@
 ---
 title: Minimal Calendar released
 date: 2018-11-05 20:12:00 Z
+position: 2
 featured_text: Out now for iPhone.
 excerpt_text: Minimal Calendar is out now for iPhone! After years in the making, we
   are excited to get it into your hands. Buy it now from the [App Store](https://itunes.apple.com/app/minimal-calendar-minimal-cal/id1437198666)

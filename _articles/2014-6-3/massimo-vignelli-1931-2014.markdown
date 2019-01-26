@@ -1,7 +1,7 @@
 ---
 title: Remembering
 date: 2014-06-03 23:26:00 Z
-position: 21
+position: 25
 featured_text: Farewell to an all-time great.
 featured_image:
   image: "/uploads/rationale_2014-06-03_1a.jpg"

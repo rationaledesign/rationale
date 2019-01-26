@@ -1,7 +1,7 @@
 ---
 title: AIGA 100 exhibition
 date: 2014-10-30 23:22:00 Z
-position: 16
+position: 20
 featured_text: AIGA 100 exhibition.
 featured_image:
   image: "/uploads/rationale_2014-10-30_1b.jpg"

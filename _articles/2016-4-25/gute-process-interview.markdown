@@ -1,7 +1,7 @@
 ---
 title: New interview
 date: 2016-04-25 22:48:00 Z
-position: 10
+position: 14
 featured_text: '"Communicate with an element of universal clarity"'
 featured_image:
   image: "/uploads/rationale_2016-04-25_1b.jpg"
