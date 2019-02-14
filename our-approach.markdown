@@ -20,7 +20,6 @@ bottom_body: |
   * 217 1st Ave S #4324
   * Seattle, WA 98194
   <br>
-
   * 1721 Hewitt Ave
   * Everett, WA 98201
 layout: our-approach
