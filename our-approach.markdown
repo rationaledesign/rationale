@@ -22,7 +22,7 @@ bottom_body: |
   * Seattle, WA 98194
 
 
-  * 1721 Hewitt Ave
+  * 1721 Hewitt Ave #415
   * Everett, WA 98201
 layout: our-approach
 ---
