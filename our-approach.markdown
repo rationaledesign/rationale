@@ -4,10 +4,10 @@ date: 2017-06-28 20:37:00 Z
 position: 1
 images:
 - image: "/uploads/rationale_ourapproach_1a.jpg"
-  alt: rationale design
+  alt: rationale seattle design agency
   color: "#000000"
 - image: "/uploads/rationale_ourapproach_2b.jpg"
-  alt: sean wolcott rationale design
+  alt: sean wolcott rationale design studio seattle
   color: "#cccccc"
 og_image: "/uploads/rationale_ourapproach_og1a.jpg"
 bottom_body: |
@@ -29,5 +29,5 @@ layout: our-approach
 
 Design is not a job, it is a mission.
 
-Rationale was founded on this conviction. Our work is our passion and we bring over 20 years of expertise across all aspects of design, be it a visual identity, website, application, publication, or otherwise.
+Rationale is a Seattle design studio that was founded on this conviction. Our work is our passion and we bring over 25 years of expertise across all aspects of design, be it a visual identity, website, application, publication, or otherwise.
 
