@@ -6,35 +6,36 @@ imgcount: 7
 images:
 - image: "/uploads/rationale_vignellicanon_1a.jpg"
   alt: massimo vignelli canon free pdf graphic design
-  image_ratio: 
+  image_ratio: 3-2
   color: "#cccccc"
 - image: "/uploads/rationale_vignellicanon_2a.jpg"
   alt: massimo vignelli canon free pdf graphic design
-  image_ratio: 
+  image_ratio: 3-2
   color: "#cccccc"
 - image: "/uploads/rationale_vignellicanon_3a.jpg"
   alt: massimo vignelli canon free pdf graphic design
-  image_ratio: 
+  image_ratio: 3-2
   color: "#cccccc"
 - image: "/uploads/rationale_vignellicanon_4a.jpg"
   alt: massimo vignelli canon free pdf graphic design
-  image_ratio: 
+  image_ratio: 3-2
   color: "#cccccc"
 - image: "/uploads/rationale_vignellicanon_5a.jpg"
   alt: massimo vignelli canon free pdf graphic design
-  image_ratio: 
+  image_ratio: 3-2
   color: "#cccccc"
 - image: "/uploads/rationale_vignellicanon_6a.jpg"
   alt: massimo vignelli canon free pdf graphic design
-  image_ratio: 
+  image_ratio: 3-2
   color: "#cccccc"
 - image: "/uploads/rationale_vignellicanon_7a.jpg"
   alt: massimo vignelli canon free pdf graphic design
-  image_ratio: 
+  image_ratio: 3-2
   color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_vignellicanon_0a.jpg"
   alt: massimo vignelli canon free pdf graphic design
+  image_ratio: 3-2
   color: "#fffdfa"
 download_file: https://s3-us-west-2.amazonaws.com/rationale-design.com/resources/vignelli-canon/Vignelli+-+Canon.pdf
 og_image: "/uploads/rationale_vignellicanon_og1a.jpg"
