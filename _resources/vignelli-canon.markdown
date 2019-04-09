@@ -1,5 +1,5 @@
 ---
-title: Canon
+title: Vignelli Canon
 date: 2019-04-09 16:46:00 Z
 author: Massimo Vignelli
 ---
