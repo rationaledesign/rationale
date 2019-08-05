@@ -15,7 +15,7 @@ images:
   color: "#222222"
   image_ratio: 3-2
 thumb_image:
-  image: "/uploads/rationale_2009_remixvol11_0a.jpg"
+  image: "/uploads/rationale_2009_remixvol11_0c.jpg"
   alt: rationale design remix vol 1 album cover
   color: "#222222"
 is_featured: true
