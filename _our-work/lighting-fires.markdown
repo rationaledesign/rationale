@@ -30,7 +30,7 @@ images:
   color: "#ebebeb"
   image_ratio: 16-9
 thumb_image:
-  image: "/uploads/rationale_2012_lightingfires1_0d.jpg"
+  image: "/uploads/rationale_2012_lightingfires1_0e.jpg"
   alt: rationale design lighting fires identity
   image_ratio: 16-9
   color: "#fa3700"
