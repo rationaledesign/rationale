@@ -11,7 +11,7 @@ images:
   image_ratio: 7-5
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2015_ellenmcfadden1_0b.jpg"
+  image: "/uploads/rationale_2015_ellenmcfadden1_0d.jpg"
   alt: 'rationale design ellen mcfadden exhibition '
   color: "#1a1a1a"
 is_featured: true
