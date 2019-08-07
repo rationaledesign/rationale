@@ -10,7 +10,7 @@ images:
   image_ratio: 16-9
   color: "#111111"
 thumb_image:
-  image: "/uploads/rationale_2017_ropeadope_0a.jpg"
+  image: "/uploads/rationale_2017_ropeadope_0b.jpg"
   alt: rope-a-dope photography book photo book design publication rope a dope bryan
     locke
   image_ratio: 3-2
