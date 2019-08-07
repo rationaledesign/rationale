@@ -17,7 +17,7 @@ images:
   image_ratio: 16-9
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2019_sanscalendar1_0d-37528d.jpg"
+  image: "/uploads/rationale_2019_sanscalendar1_0f.jpg"
   alt: rationale design wall sans calendar
   color: "#ebebeb"
 is_featured: true
