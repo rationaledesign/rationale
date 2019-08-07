@@ -23,7 +23,7 @@ images:
   color: "#feb81a"
   image_ratio: 16-9
 thumb_image:
-  image: "/uploads/rationale-latitudex-0.jpg"
+  image: "/uploads/rationale_2013_latitudex1_0c.jpg"
   alt: rationale design latitudex identity
   color: "#feb81a"
 is_featured: true
