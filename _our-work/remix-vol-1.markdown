@@ -17,7 +17,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2009_remixvol11_0c.jpg"
   alt: rationale design remix vol 1 album cover
-  color: "#222222"
+  color: "#0079c1\n"
 is_featured: true
 og_image: "/uploads/rationale_2009_remixvol11_og1e.jpg"
 layout: project
