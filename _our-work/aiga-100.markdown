@@ -11,7 +11,7 @@ images:
   image_ratio: 7-5
   color: "#aaaaaa"
 thumb_image:
-  image: "/uploads/rationale_2014_aiga1_0c.jpg"
+  image: "/uploads/rationale_2014_aiga1_0d.jpg"
   alt: rationale design aiga 100
   image_ratio: 3-2
   color: "#fa0098"
