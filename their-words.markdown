@@ -24,6 +24,9 @@ We are happy to have received the following praise:
 - > You have produced an impressive body of work, and your approach to design is very consistent, though done with considerable imagination.
 <cite>Tom Geismar</cite>
 
+- > Rational creates the very best of design that goes to the root of the subject and achieves a formal clarity with color and form. 
+<cite>Ellen McFadden</cite>
+
 - > Wonderful work that is a breath of fresh air. In this messy world good design will prevail.
 <cite>Fritz Gottschalk</cite>
 
