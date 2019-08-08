@@ -6,7 +6,7 @@ og_image: "/uploads/rationale_og.jpg"
 layout: their-words
 ---
 
-According to the experts, we are the experts:
+According to the experts, we are the experts.
 
 
 - > More than proud, I am honored to know such a talent.
