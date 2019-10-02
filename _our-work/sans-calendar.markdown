@@ -27,4 +27,4 @@ layout: project
 
 This simple typographic wall calendar provides a beautiful and functional way to keep track of events. Dates are listed as two vertical columns with ample room for notes in a minimal black, white, and red design.
 
-The 2020 calendar is available for purchase from the Rationale [Shop] (https://rationale-design.com/shop/sans-wall-calendar/)for a limited time now.
+The 2020 calendar is available for purchase from the Rationale [shop](https://rationale-design.com/shop/sans-wall-calendar/) for a limited time now.
