@@ -27,7 +27,7 @@ bottom_body: |
 layout: our-approach
 ---
 
-Design is not a job, it is a mission.
+For those who care about having the best design, there is Rationale. For those who don't, there is everyone else. 
 
-Rationale is a Seattle design studio that was founded on this conviction. Our work is our passion and we bring over 25 years of expertise across all aspects of design, be it a visual identity, website, application, publication, or otherwise.
+Rationale is a Seattle design studio that was founded on this conviction – creating nothing short of world-class design solutions for our clients. Our work is our passion and we bring over 25 years of expertise across all aspects of design, be it a visual identity, website, application, publication, or otherwise.
 
