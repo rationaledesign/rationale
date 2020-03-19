@@ -27,7 +27,7 @@ bottom_body: |
 layout: our-approach
 ---
 
-For those who care about the best design, there is Rationale. For those who don't, there is everyone else. 
+For those who care about the best design, there is Rationale — for those who don't, there is everyone else. 
 
 Our work is our passion, and we bring over 25 years of expertise across all aspects of design, be it a visual identity, website, application, publication, or otherwise.
 
