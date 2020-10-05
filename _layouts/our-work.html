@@ -4,17 +4,16 @@ layout: default
 
 <div class="content">
   <div class="container">
-    {% comment %}
     <div class="row">
-      <div class="h2 mb-2 med-col-half med-offset-half">
-        {{content}}
+      <div class="med-col-half med-offset-half">
+        <div class="h2-wrap">{{content}}</div>
       </div>
     </div>
-    {% endcomment %}
     <div class="row">
       <div class="sm-below-mb">
-        {% assign featured_projects = site.our-work | where:"is_featured",true | sort:"position" %}
-        {% include thumbnails.html collection=featured_projects %}
+        {% assign featured_projects = site.our-work | where:"is_featured",true |
+        sort:"position" %} {% include thumbnails.html
+        collection=featured_projects %}
       </div>
     </div>
   </div>
