@@ -1,7 +1,7 @@
 ---
 title: 2016 calendar
 date: 2015-11-13 23:00:00 Z
-position: 15
+position: 19
 featured_text: Available now.
 featured_image:
   image: "/uploads/rationale_2015-11-13_1b.jpg"

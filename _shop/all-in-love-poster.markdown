@@ -8,7 +8,7 @@ buytag: Buy now
 is_buyactive: true
 imgcount: 1
 images:
-- image: "/uploads/rationale_allinloveposter1_1d.jpg"
+- image: "/uploads/rationale_2011_allinlove1_1d.jpg"
   alt: rationale shop all in love poster
   color: "#cccccc"
 thumb_image:

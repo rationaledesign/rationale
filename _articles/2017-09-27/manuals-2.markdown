@@ -1,7 +1,7 @@
 ---
 title: Manuals 2
 date: 2014-09-27 23:23:00 Z
-position: 22
+position: 26
 featured_text: Available for pre-order.
 featured_image:
   image: "/uploads/rationale_2014-09-27_1b.jpg"

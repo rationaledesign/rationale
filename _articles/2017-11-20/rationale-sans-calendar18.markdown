@@ -1,7 +1,7 @@
 ---
 title: 2018 calendar
 date: 2017-11-20 17:42:00 Z
-position: 9
+position: 13
 featured_text: Available now.
 featured_image:
   image: "/uploads/rationale_2017-11-20_1a.jpg"

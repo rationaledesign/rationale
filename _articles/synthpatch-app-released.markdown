@@ -1,7 +1,7 @@
 ---
 title: SynthPatch released
 date: 2018-03-19 23:27:00 Z
-position: 5
+position: 9
 featured_text: Out now for iOS.
 excerpt_text: "We are pleased to announce that SythPatch – created, designed, and
   developed by Rationale is out now for iOS. \n\nFind out more [here](https://rationale-design.com/our-work/synthpatch/)."

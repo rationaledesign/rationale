@@ -1,7 +1,7 @@
 ---
 title: Pacific NW modern
 date: 2015-05-03 23:12:00 Z
-position: 17
+position: 21
 featured_text: From advertising to New Graphic Design.
 featured_image:
   image: "/uploads/rationale_2015-05-03_1a.jpg"

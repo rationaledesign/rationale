@@ -1,7 +1,7 @@
 ---
 title: Typho interview
 date: 2014-06-27 23:25:00 Z
-position: 24
+position: 28
 featured_text: Sequence and geometry.
 excerpt_text: "The following transcript is from a June 2014 interview between Rationale
   founder Sean Wolcott and design publication Typho.\n<br>\n<br> \n<br> \n<br> \nINTRODUCTION<br>
@@ -16,10 +16,10 @@ featured_image:
   alt: rationale articles typho interview
   color: "#ebebeb"
 detail_images:
-- image: "/uploads/rationale_2012_lightingfires1_4g.jpg"
+- image: "/uploads/rationale_2012_lightingfires1_4k.jpg"
   alt: rationale articles typho interview grid
-  image_ratio: 
-  color: "#ebebeb"
+  image_ratio: 3-2
+  color: "#fefdf9"
 - image: "/uploads/rationale_2014-06-27_2a.jpg"
   alt: rationale articles typho interview book
   color: "#fa3700"

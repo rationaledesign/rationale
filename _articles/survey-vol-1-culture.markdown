@@ -1,7 +1,7 @@
 ---
 title: Survey Vol.1 Culture
 date: 2018-02-19 20:14:00 Z
-position: 7
+position: 11
 featured_text: Rationale curated exhibition.
 excerpt_text: We are proud to present a design exhibition curated from original artifacts
   from our archives featuring cultural works of Modernist design. Includes designs

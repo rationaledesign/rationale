@@ -1,7 +1,7 @@
 ---
 title: Manuals 2 out
 date: 2014-12-08 23:21:00 Z
-position: 19
+position: 23
 featured_text: Passionately crafted books.
 featured_image:
   image: "/uploads/rationale_2014-12-08_1b.jpg"

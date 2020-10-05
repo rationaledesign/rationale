@@ -1,16 +1,17 @@
 ---
 title: Sean Wolcott 08–14
 date: 2015-04-06 23:20:00 Z
-position: 18
+position: 22
 featured_text: Design work of Rationale’s founder.
 featured_image:
   image: "/uploads/rationale_2015-04-06_1b.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
+  image_ratio: 1-1
   color: "#ebebeb"
 detail_images:
 - image: "/uploads/rationale_sw08141_1a.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
-  image_ratio: 
+  image_ratio: 3-2
   color: "#ebebeb"
 - image: "/uploads/rationale_sw08141_5a.jpg"
   alt: rationale articles sean wolcott graphic design 2008 2014
