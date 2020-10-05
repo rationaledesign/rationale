@@ -6,4 +6,4 @@ og_image: "/uploads/rationale_og.jpg"
 layout: our-work
 ---
 
-This is the description
+Your design experts for visual identities, digital, and publications.
