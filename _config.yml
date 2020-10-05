@@ -8,7 +8,6 @@ collections:
   our-work:
     title: Our work
     output: true
-    description: Your design experts for visual identities, digital, and publications.
   posts:
     title: Posts
     output: true
