@@ -2,9 +2,10 @@
 title: Sans wall calendar
 date: 2014-09-28 14:36:00 Z
 position: 1
-price: 25
+price: 28
+buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GPZPA7346QEZA
 buytag: Sold Out
-is_buyactive: false
+is_buyactive: true
 imgcount: 2
 images:
 - image: "/uploads/rationale_sanscalendar20_1a.jpg"
@@ -23,14 +24,17 @@ og_image: "/uploads/rationale_sanscalendar191_og1a.jpg"
 layout: product-detail
 ---
 
+PRE-ORDER:
 This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as a two vertical columns with ample room for notes in a minimal black, white, and red design.
 
 Available for purchase online via the Rationale shop or at select local design-minded retailers.
 
-2020 calendars are shipping now! 
+2021 calendars are available for pre-order now.
+All orders expected to ship week of Nov. 16
+
 Shipping rates: US–9 / CA–12 / INT–16
 
-Year – 2020 <br>
+Year – 2021 <br>
 Edition – 600 annually <br>
 Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
