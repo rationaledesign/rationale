@@ -24,14 +24,11 @@ og_image: "/uploads/rationale_sanscalendar21_og1a.jpg"
 layout: product-detail
 ---
 
-**PRE-ORDER:**
+**NOW SHIPPING**
 
 This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as a two vertical columns with ample room for notes in a minimal black, white, and red design.
 
 Available for purchase online via the Rationale shop or at select local design-minded retailers.
-
-2021 calendars are available for pre-order now.
-All orders expected to ship week of Nov. 16
 
 Shipping rates: US–9 / CA–12 / INT–16
 
