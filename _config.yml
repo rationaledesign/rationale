@@ -116,7 +116,6 @@ exclude:
 plugins:
 - jekyll-sitemap
 - jekyll-feed
-description: Rationale is a graphic design studio north of Seattle in Everett, Washington,
-  providing world-class expertise in visual identity design, websites, applications,
-  publications and more.
+description: Rationale is a graphic design studio providing world-class expertise
+  in visual identity design, websites, applications, publications, and more.
 og_image: "/uploads/rationale_og.jpg"
