@@ -24,7 +24,7 @@ og_image: "/uploads/rationale_sanscalendar22_og1a.jpg"
 layout: product-detail
 ---
 
-**2022 CALENDARS EXPECT TO SHIP BY NOV.10**
+**2022 CALENDARS EXPECT TO SHIP BY NOVEMBER 10**
 
 This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as two vertical columns with ample room for notes in a minimal black, white, and red design.
 
