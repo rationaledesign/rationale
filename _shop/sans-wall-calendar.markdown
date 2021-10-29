@@ -8,31 +8,31 @@ buytag: Buy now
 is_buyactive: true
 imgcount: 2
 images:
-- image: "/uploads/rationale_sanscalendar21_1a.jpg"
+- image: "/uploads/rationale_sanscalendar22_1a%202.jpeg"
   alt: rationale shop sans calendar 2019
   image_ratio: 1-1
   color: "#cccccc"
-- image: "/uploads/rationale_sanscalendar21_2a.jpg"
+- image: "/uploads/rationale_sanscalendar22_2a.jpeg"
   alt: rationale shop sans calendar 2019
   color: "#cccccc"
   image_ratio: 1-1
 thumb_image:
-  image: "/uploads/rationale_sanscalendar21_0a.jpg"
+  image: "/uploads/rationale_sanscalendar22_0a%202.jpeg"
   alt: rationale shop sans calendar 2019
   color: "#fffdfa"
-og_image: "/uploads/rationale_sanscalendar21_og1a.jpg"
+og_image: "/uploads/rationale_sanscalendar22_og1a.jpg"
 layout: product-detail
 ---
 
-**NOW SHIPPING**
+**2022 CALENDARS EXPECT TO SHIP BY NOV.10**
 
-This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as a two vertical columns with ample room for notes in a minimal black, white, and red design.
+This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as two vertical columns with ample room for notes in a minimal black, white, and red design.
 
 Available for purchase online via the Rationale shop or at select local design-minded retailers.
 
 Shipping rates: US–9 / CA–12 / INT–16
 
-Year – 2021 <br>
+Year – 2022 <br>
 Edition – 600 annually <br>
 Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
