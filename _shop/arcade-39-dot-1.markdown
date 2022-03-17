@@ -32,7 +32,7 @@ images:
   image_ratio: 3-2
   color: 8e8e8e
 thumb_image:
-  image: "/uploads/rationale_shop_arcade39-1_0a.jpg"
+  image: "/uploads/rationale_shop_arcade39-1_0a-f90797.jpg"
   alt: arcade magazine rationale design
   image_ratio: 3-2
   color: f087c9
