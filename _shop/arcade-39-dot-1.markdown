@@ -13,23 +13,23 @@ images:
   color: 8e8e8e
 - image: "/uploads/rationale_shop_arcade39-1_1source2.jpg"
   alt: arcade magazine rationale design
-  image_ratio: 3-2
+  image_ratio: 7-5
   color: 8e8e8e
 - image: "/uploads/rationale_shop_arcade39-1_1source9.jpg"
   alt: arcade magazine rationale design
-  image_ratio: 3-2
+  image_ratio: 7-5
   color: 8e8e8e
 - image: "/uploads/rationale_shop_arcade39-1_1source8.jpg"
   alt: arcade magazine rationale design
-  image_ratio: 3-2
+  image_ratio: 7-5
   color: 8e8e8e
 - image: "/uploads/rationale_shop_arcade39-1_1source6.jpg"
   alt: arcade magazine rationale design
-  image_ratio: 3-2
+  image_ratio: 7-5
   color: 8e8e8e
 - image: "/uploads/rationale_shop_arcade39-1_1source12.jpg"
   alt: arcade magazine rationale design
-  image_ratio: 3-2
+  image_ratio: 7-5
   color: 8e8e8e
 thumb_image:
   image: "/uploads/rationale_shop_arcade39-1_0a.jpg"
