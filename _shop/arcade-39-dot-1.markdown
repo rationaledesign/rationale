@@ -46,5 +46,5 @@ Please limit 1 per order. Domestic USA only + plus shipping ($12).
 
 About ARCADE:
 
-ARCADE has been in publication for 40 years bringing together voices from multiple design disciplines. Consider supporting ARCADE’s mission to reinforce the principle that thoughtful design at every scale of human endeavor improves our quality of life. We could not do it without you. [Donte to ARCADE today](https://arcadenw.org/donate).		 		 	 	  	 
+ARCADE has been in publication for 40 years bringing together voices from multiple design disciplines. Consider supporting ARCADE’s mission to reinforce the principle that thoughtful design at every scale of human endeavor improves our quality of life. We could not do it without you. [Donate to ARCADE today](https://arcadenw.org/donate).		 		 	 	  	 
 
