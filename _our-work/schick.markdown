@@ -34,7 +34,7 @@ images:
   color: "#222222"
 - image: "/uploads/rationale_2022_schick_1source_v8a.jpg"
   alt: 
-  image_ratio: 
+  image_ratio: 3-2
   color: "#fffdfa"
 thumb_image:
   image: "/uploads/rationale_2022_schick_0a.jpg"
