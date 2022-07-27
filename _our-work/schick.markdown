@@ -40,7 +40,7 @@ thumb_image:
   image: "/uploads/rationale_2022_schick_0a.jpg"
   image_ratio: 3-2
   color: "#212121"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2022_schick_0ogsource.jpg"
 ---
 
