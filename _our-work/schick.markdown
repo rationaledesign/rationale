@@ -42,6 +42,7 @@ thumb_image:
   color: "#212121"
 is_featured: false
 og_image: "/uploads/rationale_2022_schick_0ogsource.jpg"
+layout: project
 ---
 
 For Schick, Rationale created a flexible high-level system to create a master-brand platform for all current and future products, including extension products. 
