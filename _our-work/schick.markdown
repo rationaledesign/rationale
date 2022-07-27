@@ -7,7 +7,7 @@ images:
 - image: "/uploads/rationale_2022_schick_1source_v1a.jpg"
   alt: 
   image_ratio: 7-5
-  color: 
+  color: "#212121"
 - image: "/uploads/rationale_2022_schick_1source_v2a.jpg"
   alt: 
   image_ratio: 3-2
