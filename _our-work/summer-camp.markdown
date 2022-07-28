@@ -42,5 +42,5 @@ layout: project
 ---
 
 For new global suncare brand [Summer Camp](https://summercamplife.com/), Rationale designed a holistic visual identity system, including logo, typography, colors, packaging design, and more.
-
-The playful rainbow graphic shows radiance, confidence, and growth, while the inner tent implies warmth, protection, and confidence. Continuing this tonality, “Summer Camp” is spelled out in a fun and playful way that implies the shapes of nature and humanity. When applied to packaging, the elements combine to be equally strong and nostalgic, yet modern, leaving many possibilities open for the future.
+The work is evocative of the playful escape of summer – part nostalgic while leaning forward with a clear modern system that can break through with its clarity and distinctiveness in the marketplace. 
+For the logomark design, the playful rainbow graphic shows radiance and growth, while the inner tent implies protection and confidence. Continuing this tonality, the “Summer Camp” logotype is spelled out in a fun and playful way that implies the shapes of nature and humanity.
