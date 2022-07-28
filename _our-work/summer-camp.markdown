@@ -10,31 +10,31 @@ images:
   color: "#f9f6f0"
 - image: "/uploads/rationale_2022_summercamp_1source_2a.jpg"
   alt: 
-  image_ratio: 7-5
+  image_ratio: 16-9
   color: "#f9f6f0"
 - image: "/uploads/rationale_2022_summercamp_1source_3a.jpg"
   alt: 
-  image_ratio: 7-5
+  image_ratio: 16-9
   color: "#316442"
 - image: "/uploads/rationale_2022_summercamp_1source_4a.jpg"
   alt: 
-  image_ratio: 7-5
+  image_ratio: 16-9
   color: "#f9f6f0"
 - image: "/uploads/rationale_2022_summercamp_1source_5a.jpg"
   alt: 
-  image_ratio: 7-5
+  image_ratio: 16-9
   color: "#316442"
 - image: "/uploads/rationale_2022_summercamp_1source_6a.jpg"
   alt: 
-  image_ratio: 7-5
+  image_ratio: 16-9
   color: "#316442"
 - image: "/uploads/rationale_2022_summercamp_1source_7a.jpg"
   alt: 
-  image_ratio: 7-5
+  image_ratio: 16-9
   color: "#316442"
 thumb_image:
   image: "/uploads/rationale_2022_summercamp_0a.jpg"
-  image_ratio: 3-2
+  image_ratio: 16-9
   color: "#f9f6f0"
 is_featured: true
 og_image: "/uploads/rationale_2022_summercamp_0ogsource.jpg"
