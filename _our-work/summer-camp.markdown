@@ -38,6 +38,7 @@ thumb_image:
   color: "#f9f6f0"
 is_featured: true
 og_image: "/uploads/rationale_2022_summercamp_0ogsource.jpg"
+layout: project
 ---
 
 For new global suncare brand [Summer Camp](https://summercamplife.com/), Rationale designed a holistic visual identity system, including logo, typography, colors, packaging design, and more.
