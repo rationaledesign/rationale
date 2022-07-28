@@ -45,5 +45,6 @@ og_image: "/uploads/rationale_2022_schick_0ogsource.jpg"
 layout: project
 ---
 
-For Schick, Rationale created a flexible high-level system to create a master-brand platform for all current and future products, including extension products. 
-The system provides category-beating visibility of the Schick name, rational and clear product information hierarchy, and a fresh, white space to immediately create a break in the shaving aisle & demand attention. The system also announces new type and graphic standards to be repeated in all Schick communications, creating an instantly recognizable look & feel to the brand.
+For global shaving brand [Schick](https://www.schick.com/), Rationale designed a new logomark, visual identity, packaging, and advertising typography in collaboration with [Partners & Spade](https://partnersandspade.com/) who lead strategy, messaging and advertising efforts (with campaign commercials directed by film director [Mike Mills](https://mikemillsmikemills.com/)).
+
+Where disconnectedness and random imagery once dominated, the new identity system provides a clean and distinct look that creates a break in the shaving aisle and other touchpoints & demands attention while simultaneously conveying an authentic brand voice for all current and future products. 
