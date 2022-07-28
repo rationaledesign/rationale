@@ -39,6 +39,6 @@ thumb_image:
 og_image: "/uploads/rationale_2022_summercamp_0ogsource.jpg"
 ---
 
-For new suncare challenger brand Summer Camp, Rationale has created a holistic design system to set a platform for many new product lines to come.
+For the new suncare challenger brand [Summer Camp](https://summercamplife.com/), Rationale has created a holistic design system to set a platform for many new product lines to come.
 
-The playful rainbow graphic shows radiance, confidence, and growth, while the inner tent implies warmth, protection, and confidence. The end result is both nostalgic and modern at the same time. This visual approach continues through a playful, simple, and nostalgic product line graphic approach.
+The playful rainbow graphic shows radiance, confidence, and growth, while the inner tent implies warmth, protection, and confidence. Continuing this tonality, “Summer Camp” is spelled out in a fun and playful way that implies the shapes of nature and humanity. When applied to packaging, the elements combine to be equally strong and nostalgic, yet modern, leaving many possibilities open for the future.
