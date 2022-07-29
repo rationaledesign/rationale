@@ -2,17 +2,17 @@
 title: Summer Camp
 date: 2022-07-28 19:20:00 Z
 published: false
-year: 2022
+year: 2021
 images:
 - image: "/uploads/rationale_2022_summercamp_1source_1a.jpg"
   alt: 
   image_ratio: 16-9
   color: "#f9f6f0"
-- image: "/uploads/rationale_2022_summercamp_1source_2a.jpg"
+- image: "/uploads/rationale_2022_summercamp_1source_2b.jpg"
   alt: 
   image_ratio: 16-9
   color: "#f9f6f0"
-- image: "/uploads/rationale_2022_summercamp_1source_3a.jpg"
+- image: "/uploads/rationale_2022_summercamp_1source_3b.jpg"
   alt: 
   image_ratio: 16-9
   color: "#316442"
@@ -20,15 +20,15 @@ images:
   alt: 
   image_ratio: 16-9
   color: "#f9f6f0"
-- image: "/uploads/rationale_2022_summercamp_1source_5a.jpg"
+- image: "/uploads/rationale_2022_summercamp_1source_5b.jpg"
   alt: 
   image_ratio: 16-9
   color: "#316442"
-- image: "/uploads/rationale_2022_summercamp_1source_6a.jpg"
+- image: "/uploads/rationale_2022_summercamp_1source_6b.jpg"
   alt: 
   image_ratio: 16-9
   color: "#316442"
-- image: "/uploads/rationale_2022_summercamp_1source_7a.jpg"
+- image: "/uploads/rationale_2022_summercamp_1source_7b.jpg"
   alt: 
   image_ratio: 16-9
   color: "#316442"
