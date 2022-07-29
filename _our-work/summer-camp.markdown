@@ -19,11 +19,11 @@ images:
   alt: 
   image_ratio: 16-9
   color: "#f9f6f0"
-- image: "/uploads/rationale_2022_summercamp_1source_5b.jpg"
+- image: "/uploads/rationale_2022_summercamp_1source_5c.jpg"
   alt: 
   image_ratio: 16-9
   color: "#316442"
-- image: "/uploads/rationale_2022_summercamp_1source_6b.jpg"
+- image: "/uploads/rationale_2022_summercamp_1source_6c.jpg"
   alt: 
   image_ratio: 16-9
   color: "#316442"
