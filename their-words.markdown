@@ -15,7 +15,7 @@ According to the experts, we are the experts.
 - > I am impressed by such vital and strong work.
 <cite>Rolf Müller</cite>
 
-- > Rational creates the very best of design that goes to the root of the subject and achieves a formal clarity with color and form. 
+- > Rationale creates the very best of design that goes to the root of the subject and achieves a formal clarity with color and form. 
 <cite>Ellen McFadden</cite>
 
 - > Congratulations on your work and clear direction. I will applaud and urge you to keep at it.
