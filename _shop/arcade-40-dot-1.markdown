@@ -2,7 +2,7 @@
 title: ARCADE 40.1
 date: 2022-10-10 19:12:00 Z
 price: 0
-buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6WHFC9A7Z8LA
+buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RDRM7GD55BDYG
 buytag: Free + Shipping
 is_buyactive: true
 imgcount: 6
