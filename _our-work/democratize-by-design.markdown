@@ -2,7 +2,7 @@
 title: Democratize By Design
 date: 2019-11-21 09:00:00 Z
 published: false
-position: 5
+position: 4
 year: 2019
 images:
 - image: "/uploads/rationale_2019_democratizebydesign_1a.jpg"

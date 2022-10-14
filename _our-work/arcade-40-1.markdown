@@ -2,7 +2,7 @@
 title: ARCADE Issue 40.1
 date: 2022-10-14 18:58:00 Z
 published: false
-position: 13
+position: 12
 excerpt_text: 'Designed, edited, and art directed by Rationale with feature insert
   editors Seattle Design Nerds, ARCADE is back with the second issue of 2022, EXCEPTION
   / 40.1. In Print. Free. '
