@@ -6,6 +6,7 @@ year: 2020
 thumb_image:
   image: "/uploads/rationale_2020_soleiltoujours_0source.jpg"
   color: "#101e39"
+is_featured: true
 og_image: "/uploads/rationale_2020_soleiltoujours_0ogsource.jpg"
 ---
 
