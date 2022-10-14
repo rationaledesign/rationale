@@ -1,5 +1,5 @@
 ---
-title: ARCADE 40.1
+title: ARCADE Issue 40.1
 date: 2022-10-14 18:58:00 Z
 published: false
 excerpt_text: 'Designed, edited, and art directed by Rationale with feature insert
