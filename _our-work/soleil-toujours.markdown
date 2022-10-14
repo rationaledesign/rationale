@@ -4,7 +4,7 @@ date: 2020-10-14 16:30:00 Z
 published: false
 excerpt_text: For high-end suncare brand Soleil Toujours, Rationale created a new
   visual identity system that builds out from a key logo and color system that can
-  adapt to endless new products and variations
+  adapt to endless new products and variations.
 year: 2020
 images:
 - image: "/uploads/rationale_2020_soleiltoujours_1a.jpg"
@@ -43,4 +43,4 @@ is_featured: true
 og_image: "/uploads/rationale_2020_soleiltoujours_0ogsource.jpg"
 ---
 
-For high-end suncare brand [Soleil Toujours](https://www.soleiltoujours.com/), Rationale created a new visual identity system that builds out from a key logo and color system that can adapt to endless new products and variations
+For high-end suncare brand [Soleil Toujours](https://www.soleiltoujours.com/), Rationale created a new visual identity system that builds out from a key logo and color system that can adapt to endless new products and variations.
