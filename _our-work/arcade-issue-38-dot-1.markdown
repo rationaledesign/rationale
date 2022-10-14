@@ -2,6 +2,8 @@
 title: ARCADE Issue 38.1
 date: 2020-06-24 09:00:00 Z
 published: false
+excerpt_text: ARCADE 38.1, PHASE SHIFT, explores the concept of death in the built
+  and designed environments as more than an endpoint.
 year: 2020
 images:
 - image: "/uploads/rationale_2020_arcade38-1_1b.jpg"
@@ -27,3 +29,8 @@ thumb_image:
 og_image: "/uploads/rationale_2020_arcade38-1_0ogsource.jpg"
 ---
 
+ARCADE 38.1, PHASE SHIFT, explores the concept of death in the built and designed environments as more than an endpoint. PHASE SHIFT includes varied perspectives on death’s creative potential, on subjects ranging from alternative options for after-death care in Katrina Spade’s Recompose, to the near-death experience of Taliesin West, to architectural responses to natural disaster in Japan. With this being a particularly urgent and transformational moment in our region, these articles investigate death as a threshold or catalyst for change – producing meaning, inspiration, and life.
+
+About ARCADE:
+
+ARCADE has been in publication for 40 years, bringing together voices from multiple design disciplines. Consider supporting ARCADE’s mission to reinforce the principle that thoughtful design at every scale of human endeavor improves our quality of life. We could not do it without you. [Donate to ARCADE today](https://arcadenw.org/donate).'
