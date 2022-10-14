@@ -28,6 +28,7 @@ thumb_image:
   image: "/uploads/rationale_2022_freshtracks_0source.jpg"
   image_ratio: 3-2
   color: "#f01927"
+is_featured: true
 og_image: "/uploads/rationale_2022_freshtracks_0ogsource.jpg"
 ---
 
