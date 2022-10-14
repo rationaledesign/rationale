@@ -2,6 +2,32 @@
 title: ARCADE 40.1
 date: 2022-10-14 18:58:00 Z
 published: false
+excerpt_text: 'Designed, edited, and art directed by Rationale with feature insert
+  editors Seattle Design Nerds, ARCADE is back with the second issue of 2022, EXCEPTION
+  / 40.1. In Print. Free. '
+year: 2022
+images:
+- image: "/uploads/rationale_2022_arcade40-1_1a.jpg"
+  alt: 
+  image_ratio: 3-2
+  color: "#8e8e8e"
+- image: "/uploads/rationale_2022_arcade40-1_2a.jpg"
+  alt: 
+  image_ratio: 3-2
+  color: "#8e8e8e"
+- image: "/uploads/rationale_2022_arcade40-1_3a.jpg"
+  alt: 
+  image_ratio: 3-2
+  color: "#8e8e8e"
+- image: "/uploads/rationale_2022_arcade40-1_4a.jpg"
+  alt: 
+  image_ratio: 3-2
+  color: "#8e8e8e"
+thumb_image:
+  image: "/uploads/rationale_2022_arcade40-1_0source.jpg"
+  image_ratio: 3-2
+  color: "#00c081"
+og_image: "/uploads/rationale_2022_arcade40-1_0ogsource.jpg"
 ---
 
 Designed, edited, and art directed by Rationale with feature insert editors Seattle Design Nerds, [ARCADE](https://arcadenw.org/) is back with the second issue of 2022, EXCEPTION / 40.1. In Print. Free. 
