@@ -2,7 +2,7 @@
 title: ARCADE Issue 38.1
 date: 2020-06-24 09:00:00 Z
 published: false
-position: 0
+position: 1
 excerpt_text: ARCADE 38.1, PHASE SHIFT, explores the concept of death in the built
   and designed environments as more than an endpoint.
 year: 2020

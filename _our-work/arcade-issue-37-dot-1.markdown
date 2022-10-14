@@ -2,7 +2,7 @@
 title: ARCADE Issue 37.1
 date: 2019-02-04 09:00:00 Z
 published: false
-position: 7
+position: 8
 year: 2019
 images:
 - image: "/uploads/rationale_2019_arcade37-1_1b.jpg"
