@@ -1,6 +1,7 @@
 ---
 title: Summer Camp
 date: 2022-07-28 19:20:00 Z
+position: 15
 year: 2021
 images:
 - image: "/uploads/rationale_2022_summercamp_1source_1a.jpg"

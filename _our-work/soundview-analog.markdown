@@ -2,6 +2,7 @@
 title: Soundview Analog
 date: 2020-03-18 09:00:00 Z
 published: false
+position: 1
 year: 2020
 images:
 - image: "/uploads/rationale_2020_sva_1a.jpg"

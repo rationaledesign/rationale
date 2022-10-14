@@ -5,7 +5,7 @@ categories:
 - Publication
 tags:
 - featured
-position: 35
+position: 52
 year: 2015
 images:
 - image: "/uploads/rationale_2015_swbook0714_1a.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Graphic Clarity
 date: 2018-11-08 09:39:00 Z
-position: 23
+position: 40
 year: 2018
 images:
 - image: "/uploads/rationale_2018_graphicclarity_1a.jpg"

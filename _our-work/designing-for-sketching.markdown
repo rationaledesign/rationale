@@ -2,6 +2,7 @@
 title: Designing for Sketching
 date: 2019-11-05 21:00:00 Z
 published: false
+position: 10
 year: 2019
 images:
 - image: "/uploads/rationale_2019_designingforsketching_1source.jpg"

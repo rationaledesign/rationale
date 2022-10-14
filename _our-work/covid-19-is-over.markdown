@@ -2,6 +2,7 @@
 title: Covid-19 Is Over
 date: 2020-03-24 09:00:00 Z
 published: false
+position: 2
 year: 2020
 images:
 - image: "/uploads/rationale_2020_covid19_1b.jpg"

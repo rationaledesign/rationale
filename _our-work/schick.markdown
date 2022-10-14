@@ -1,6 +1,7 @@
 ---
 title: Schick
 date: 2022-07-27 16:24:00 Z
+position: 14
 year: 2021
 images:
 - image: "/uploads/rationale_2022_schick_1source_v1a.jpg"

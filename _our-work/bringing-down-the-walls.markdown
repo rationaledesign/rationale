@@ -3,7 +3,7 @@ title: Bringing Down The Walls
 date: 2009-01-01 00:00:00 Z
 categories:
 - Promotion
-position: 42
+position: 59
 year: 2009
 images:
 - image: "/uploads/rationale_2009_bringdownthewalls1_1e.jpg"

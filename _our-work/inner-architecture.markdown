@@ -2,6 +2,7 @@
 title: Inner Architecture
 date: 2019-05-19 09:00:00 Z
 published: false
+position: 3
 excerpt_text: 'EP for Monastery ambient electronic artist, Inner Architecture. '
 year: 2019
 images:
