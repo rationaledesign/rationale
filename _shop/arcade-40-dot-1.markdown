@@ -1,6 +1,7 @@
 ---
 title: ARCADE 40.1
 date: 2022-10-10 19:12:00 Z
+published: false
 price: 0
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RDRM7GD55BDYG
 buytag: Free + Shipping
@@ -39,7 +40,8 @@ thumb_image:
 og_image: "/uploads/rationale_shop_arcade40-1_og1a.jpeg"
 ---
 
-Designed, edited, and art directed by Rationale with feature insert editors Seattle Design Nerds, [ARCADE](https://arcadenw.org/) is back with the second issue of 2022, EXCEPTION / 40.1. In Print. Free. 
+Designed, edited, and art directed by Rationale with feature insert editors Seattle Design Nerds, [ARCADE](https://arcadenw.org/) is back with the second issue of 2022, EXCEPTION / 40.1. In Print. Free. Order your copy [here](https://rationale-design.com/shop/arcade-40-dot-1/).
+
 
 ARCADE 40.1 highlights the intersection and connections of the unexpected. Exceptions to the rule; exceptional things off the beaten path; things left to the side – or looking sideways to find something new. As ARCADE moves through its 40th year, we want to highlight gaps in the design establishment by bending, breaking, and challenging rules and narratives about who and what design is and can be. “Exception” brings forward excerpts from the unseen and amplifies intuitive solutions outside of the accepted norms of what design accomplishes. What exceptions can you find?
 
