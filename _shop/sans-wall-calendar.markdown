@@ -1,6 +1,7 @@
 ---
 title: Sans wall calendar
 date: 2014-09-28 14:36:00 Z
+published: false
 position: 1
 price: 28
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GPZPA7346QEZA
@@ -8,23 +9,21 @@ buytag: Buy now
 is_buyactive: true
 imgcount: 2
 images:
-- image: "/uploads/rationale_sanscalendar22_1a%202.jpeg"
+- image: "/uploads/rationale_sanscalendar23_1a.jpg"
   alt: rationale shop sans calendar 2019
   image_ratio: 1-1
   color: "#cccccc"
-- image: "/uploads/rationale_sanscalendar22_2a.jpeg"
+- image: "/uploads/rationale_sanscalendar181_2a.jpg"
   alt: rationale shop sans calendar 2019
   color: "#cccccc"
   image_ratio: 1-1
 thumb_image:
-  image: "/uploads/rationale_sanscalendar22_0a%202.jpeg"
+  image: "/uploads/rationale_sanscalendar181_0a.jpg"
   alt: rationale shop sans calendar 2019
   color: "#fffdfa"
-og_image: "/uploads/rationale_sanscalendar22_og1a.jpg"
+og_image: "/uploads/rationale_sanscalendar181_og1a-ec4df5.jpg"
 layout: product-detail
 ---
-
-**2022 CALENDARS EXPECT TO SHIP BY NOVEMBER 10**
 
 This simple typographic wall calendar provides a beautiful and functional way for keeping track of the year’s events. Dates are listed as two vertical columns with ample room for notes in a minimal black, white, and red design.
 
@@ -32,7 +31,7 @@ Available for purchase online via the Rationale shop or at select local design-m
 
 Shipping rates: US–9 / CA–12 / INT–16
 
-Year – 2022 <br>
+Year – 2023 <br>
 Edition – 600 annually <br>
 Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
