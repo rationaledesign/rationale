@@ -9,16 +9,16 @@ is_buyactive: true
 imgcount: 2
 images:
 - image: "/uploads/rationale_sanscalendar23_1a.jpg"
-  alt: rationale shop sans calendar 2019
+  alt: rationale shop sans calendar 2023
   image_ratio: 1-1
   color: "#cccccc"
 - image: "/uploads/rationale_sanscalendar181_2a.jpg"
-  alt: rationale shop sans calendar 2019
+  alt: rationale shop sans calendar 2023
   color: "#cccccc"
   image_ratio: 1-1
 thumb_image:
   image: "/uploads/rationale_sanscalendar181_0a.jpg"
-  alt: rationale shop sans calendar 2019
+  alt: rationale shop sans calendar 2023
   color: "#fffdfa"
 og_image: "/uploads/rationale_sanscalendar181_og1a-ec4df5.jpg"
 layout: product-detail
