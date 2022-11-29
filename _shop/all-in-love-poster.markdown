@@ -10,6 +10,7 @@ imgcount: 1
 images:
 - image: "/uploads/rationale_2011_allinlove1_1d.jpg"
   alt: rationale shop all in love poster
+  image_ratio: 1-1
   color: "#cccccc"
 thumb_image:
   image: "/uploads/rationale_allinloveposter1_0g.jpg"
