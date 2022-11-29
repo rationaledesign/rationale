@@ -10,11 +10,11 @@ imgcount: 6
 images:
 - image: "/uploads/rationale_shop_arcade40-1_1source.jpg"
   alt: arcade magazine rationale design
-  image_ratio: 3-2
+  image_ratio: 7-5
   color: 8e8e8e
 - image: "/uploads/rationale_shop_arcade40-1_1source2.jpg"
   alt: arcade magazine rationale design
-  image_ratio: 3-2
+  image_ratio: 7-5
   color: 8e8e8e
 - image: "/uploads/rationale_shop_arcade40-1_1source3.jpg"
   alt: arcade magazine rationale design
