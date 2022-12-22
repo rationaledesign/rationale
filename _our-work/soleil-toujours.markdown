@@ -31,7 +31,7 @@ images:
   alt: 
   image_ratio: 16-9
   color: "#101e39"
-- image: "/uploads/rationale_2020_soleiltoujours_7a.jpg"
+- image: "/uploads/rationale_2020_soleiltoujours_7b.jpg"
   alt: 
   image_ratio: 16-9
   color: "#101e39"
