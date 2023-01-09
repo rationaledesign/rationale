@@ -5,7 +5,7 @@ position: 3
 price: 28
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GPZPA7346QEZA
 buytag: Buy now
-is_buyactive: true
+is_buyactive: false
 imgcount: 2
 images:
 - image: "/uploads/rationale_sanscalendar23_1a.jpg"
