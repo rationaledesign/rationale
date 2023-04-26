@@ -11,7 +11,7 @@ year: 2023
 images:
 - image: "/uploads/rationale_2023_gryphonagency_1b.jpg"
   alt: 
-  image_ratio: 7-5
+  image_ratio: 16-9
   color: "#000"
 - image: "/uploads/rationale_2023_gryphonagency_2a.jpg"
   alt: 
