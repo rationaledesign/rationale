@@ -6,7 +6,7 @@ year: 2021
 images:
 - image: "/uploads/rationale_2022_schick_1source_v1a.jpg"
   alt: 
-  image_ratio: 7-5
+  image_ratio: 16-9
   color: "#212121"
 - image: "/uploads/rationale_2022_schick_1source_v2b.jpg"
   alt: 
