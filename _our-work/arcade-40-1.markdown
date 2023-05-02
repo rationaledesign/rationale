@@ -6,6 +6,7 @@ categories:
 - print design
 - magazine
 - Publication
+- ARCADE Magazine
 tags:
 - ARCADE Magazine
 - ARCADE NW
