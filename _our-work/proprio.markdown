@@ -1,6 +1,15 @@
 ---
 title: Proprio
 date: 2018-11-09 00:12:00 Z
+categories:
+- brand identity
+- logo design
+- website design
+tags:
+- Proprio
+- Proprio Vision
+- healthcare design
+- website design
 position: 17
 year: 2018
 images:
