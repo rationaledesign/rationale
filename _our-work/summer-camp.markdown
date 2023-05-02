@@ -1,6 +1,21 @@
 ---
 title: Summer Camp
 date: 2022-07-28 19:20:00 Z
+categories:
+- brand identity
+- logo
+- Packaging
+- skincare
+- beauty industry
+tags:
+- Summer Camp skincare
+- Skincare products
+- Beauty products
+- Product design for personal care
+- Beauty branding
+- Package design
+- brand identity
+- logo design
 position: 14
 year: 2021
 images:
