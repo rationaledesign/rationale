@@ -15,7 +15,7 @@ tags:
 - magazine layout design
 - design for print publication
 - seattle
-position: 19
+position: 20
 excerpt_text: ARCADE 38.1, PHASE SHIFT, explores the concept of death in the built
   and designed environments as more than an endpoint.
 year: 2020
