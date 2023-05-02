@@ -3,7 +3,7 @@ title: Classic Car Show
 date: 2017-07-20 00:00:00 Z
 categories:
 - Promotion
-position: 57
+position: 59
 excerpt_text: Instead of the usual graphics, we re-envisioned the Hot Rod & Classic
   Car Show in historic Snohomish, Washington, USA to direct focus to the beauty of
   cars’ details themselves.

@@ -16,7 +16,7 @@ tags:
 - Package design
 - brand identity
 - logo design
-position: 14
+position: 15
 year: 2021
 images:
 - image: "/uploads/rationale_2022_summercamp_1source_1a.jpg"
