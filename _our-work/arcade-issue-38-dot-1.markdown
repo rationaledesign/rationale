@@ -1,7 +1,20 @@
 ---
 title: ARCADE Issue 38.1
 date: 2020-06-24 09:00:00 Z
-published: false
+categories:
+- ARCADE Magazine
+- magazine
+- print design
+- Publication
+tags:
+- ARCADE Magazine
+- ARCADE NW
+- architecture
+- editorial design
+- magazine
+- magazine layout design
+- design for print publication
+- seattle
 position: 0
 excerpt_text: ARCADE 38.1, PHASE SHIFT, explores the concept of death in the built
   and designed environments as more than an endpoint.
