@@ -1,6 +1,27 @@
 ---
 title: Schick
 date: 2022-07-27 16:24:00 Z
+categories:
+- brand identity
+- rebrand
+- Packaging
+tags:
+- schick
+- razors
+- Razors for men
+- Razors for women
+- Shaving
+- Schick razors rebranding
+- Schick razors design
+- Personal grooming design
+- Razor branding
+- Razor packaging design
+- Brand identity design
+- Graphic design for personal care
+- Product design for personal care
+- Consumer product design
+- Product branding
+- Package design
 position: 13
 year: 2021
 images:
