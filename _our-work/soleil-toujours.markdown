@@ -1,6 +1,19 @@
 ---
 title: Soleil Toujours
 date: 2020-10-14 16:30:00 Z
+categories:
+- brand identity
+- rebrand
+- Packaging
+- logo design
+tags:
+- Skincare brand identity
+- Soleil Toujours redesign
+- Luxury skincare
+- Beauty packaging design
+- Beauty branding
+- Brand identity design
+- Beauty brand redesign
 position: 16
 excerpt_text: For high-end suncare brand Soleil Toujours, Rationale created a new
   visual identity system that builds out from a key logo and color system that can
