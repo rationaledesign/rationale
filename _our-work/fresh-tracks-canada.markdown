@@ -2,7 +2,7 @@
 title: Fresh Tracks Canada
 date: 2022-10-14 19:19:00 Z
 published: false
-position: 15
+position: 14
 year: 2022
 images:
 - image: "/uploads/rationale_2022_freshtracks_1b.jpg"
