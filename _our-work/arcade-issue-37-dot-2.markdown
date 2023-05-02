@@ -1,7 +1,21 @@
 ---
 title: ARCADE Issue 37.2
 date: 2020-07-03 09:00:00 Z
-published: false
+categories:
+- ARCADE Magazine
+- print design
+- magazine
+- Publication
+tags:
+- ARCADE Magazine
+- ARCADE NW
+- editorial design
+- magazine
+- magazine layout design
+- design for print publication
+- seattle
+- northwest
+- architecture
 position: 10
 year: 2019
 images:
@@ -24,3 +38,9 @@ thumb_image:
 og_image: "/uploads/rationale_2019_arcade37-2_1ogsource.jpg"
 ---
 
+Designed, edited, and art directed by Rationale for [ARCADE](https://arcadenw.org/)
+
+We’ve embraced the changing of the guard, developed new outreach and engagement opportunities and increased the diversity of our dialogues. While retaining the thoughtful discussion that has been the hallmark of our organization for nearly forty years, we are looking forward to finding more ways to enrich the Dialogue on Design through digital, print and in-person connections. 37.2 was created in the spirit of experiencing between here and there.
+
+About ARCADE:
+ARCADE has been in publication for 40 years, bringing together voices from multiple design disciplines. Consider supporting ARCADE’s mission to reinforce the principle that thoughtful design at every scale of human endeavor improves our quality of life. We could not do it without you. [Donate to ARCADE today](https://arcadenw.org/donate).'
