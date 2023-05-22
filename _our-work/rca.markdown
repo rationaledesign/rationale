@@ -17,7 +17,7 @@ tags:
 - RCA visual identity
 - Branding for RCA
 - Graphic design for RCA
-position: 0
+position: 1
 year: 2023
 is_featured: true
 ---
