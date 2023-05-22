@@ -3,7 +3,7 @@ title: Minimal Calendar
 date: 2018-01-01 00:00:00 Z
 categories:
 - User Interface
-position: 23
+position: 24
 year: 2018
 images:
 - image: "/uploads/rationale_2018_mincal_1a.jpg"

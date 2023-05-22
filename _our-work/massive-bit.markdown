@@ -5,7 +5,7 @@ categories:
 - Identity
 tags:
 - featured
-position: 31
+position: 32
 excerpt_text: Massive Bit offers a unique service to technology companies by distilling
   big data down to the most relevant information, with the aim of helping their clients
   make more informed multimillion dollar decisions.
