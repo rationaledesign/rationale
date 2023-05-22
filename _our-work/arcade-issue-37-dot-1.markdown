@@ -16,7 +16,7 @@ tags:
 - seattle
 - northwest
 - architecture
-position: 21
+position: 22
 year: 2019
 images:
 - image: "/uploads/rationale_2019_arcade37-1_1b.jpg"
