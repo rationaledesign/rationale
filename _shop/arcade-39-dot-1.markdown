@@ -5,7 +5,7 @@ position: 1
 price: 0
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6WHFC9A7Z8LA
 buytag: Free + Shipping
-is_buyactive: true
+is_buyactive: false
 imgcount: 6
 images:
 - image: "/uploads/rationale_shop_arcade39-1_1source.jpg"
