@@ -37,7 +37,7 @@ images:
   color: "#4f4f4f"
 - image: "/uploads/rationale_2022_modulous_5a.jpg"
   alt: rationale modulous logo brand identity posters brand extension
-  image_ratio: 
+  image_ratio: 3-2
   color: "#4f4f4f"
 - image: "/uploads/rationale_2022_modulous_6a.jpg"
   alt: rationale modulous logo brand identity stationary business cards letterhead
