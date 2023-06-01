@@ -19,6 +19,6 @@ tags:
 - Graphic design for RCA
 position: 3
 year: 2023
-is_featured: true
+is_featured: false
 ---
 
