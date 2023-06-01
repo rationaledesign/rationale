@@ -18,6 +18,7 @@ tags:
 - monastery
 - record label
 - website design
+position: 0
 year: 2018
 images:
 - image: "/uploads/rationale_2018_monastery_1a.jpg"

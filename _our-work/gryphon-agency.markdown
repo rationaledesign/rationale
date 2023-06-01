@@ -7,7 +7,7 @@ tags:
 - brand identity
 - gryphon agency
 - rationale design
-position: 1
+position: 4
 year: 2023
 images:
 - image: "/uploads/rationale_2023_gryphonagency_1b.jpg"

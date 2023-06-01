@@ -1,7 +1,7 @@
 ---
 title: Composer 669
 date: 2018-11-09 00:07:00 Z
-position: 67
+position: 8
 year: 2018
 images:
 - image: "/uploads/rationale_2018_669creeper_1b.jpg"
