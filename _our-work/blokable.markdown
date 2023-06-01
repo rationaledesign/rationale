@@ -1,0 +1,29 @@
+---
+title: Blokable
+date: 2023-06-01 22:37:00 Z
+published: false
+categories:
+- website design
+tags:
+- website
+- website design
+- blokable
+year: 2021
+images:
+- image: "/uploads/rationale_2021_blokable_web_1a.jpg"
+  alt: rationale design blokable website design homepage
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_2021_blokable_web_2a.jpg"
+  alt: rationale design blokable website vertically integrated modular development
+    blokable building system
+  image_ratio: 3-2
+  color: "#4f4f4f"
+thumb_image:
+  image: "/uploads/rationale_2021_blokable_web_0source.jpg"
+  alt: rationale design blokable website design
+  image_ratio: 16-9
+  color: "#FFD850"
+og_image: "/uploads/rationale_2021_blokable_web_0ogsource.jpg"
+---
+
