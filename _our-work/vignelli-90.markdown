@@ -2,6 +2,8 @@
 title: Vignelli 90
 date: 2023-03-08 20:39:00 Z
 published: false
+categories:
+- poster
 tags:
 - massimo vignelli
 - vignelli 90
