@@ -1,7 +1,19 @@
 ---
 title: Composer 669
 date: 2018-11-09 00:07:00 Z
+categories:
+- music
+- album art
+tags:
+- rationale design
+- sean wolcott
+- composer 669
+- electronic music
+- monastery
+- monastery records
 position: 8
+excerpt_text: Single for Monastery electronic artist Composer 669. Dominant and dramatic
+  colors and typography reflect the spirit of the music.
 year: 2018
 images:
 - image: "/uploads/rationale_2018_669creeper_1b.jpg"
