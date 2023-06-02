@@ -4,6 +4,7 @@ date: 2019-01-07 17:56:00 Z
 published: false
 categories:
 - album art
+- music
 tags:
 - album art
 - wolcott curran collective
