@@ -5,6 +5,9 @@ categories:
 - brand identity
 - rebrand
 - Packaging
+- logo
+- website design
+- logotype
 tags:
 - schick
 - razors
