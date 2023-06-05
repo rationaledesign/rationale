@@ -12,7 +12,7 @@ tags:
 - album
 - album art
 - vinyl
-year: 2022
+year: 2023
 images:
 - image: "/uploads/rationale_2023_sw_liafg_1a.jpg"
   alt: sean wolcott love is a funny game album art vinyl
