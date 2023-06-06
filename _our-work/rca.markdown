@@ -37,13 +37,14 @@ images:
   image_ratio: 3-2
   color: "#111111"
 - image: "/uploads/rationale_2023_rca_3a.jpg"
-  alt: 
+  alt: rationale design partners & spade rca 1968 logo update secondary logos stroke
+    logo guidelines logo structure grid
   image_ratio: 3-2
   color: "#ece8df"
-- image: 
-  alt: 
-  image_ratio: 
-  color: 
+- image: "/uploads/rationale_2023_rca_4a.jpg"
+  alt: rationale design partners & spade rca 1920s logo update
+  image_ratio: 16-9
+  color: "#ece8df"
 thumb_image:
   image: "/uploads/rationale_2023_rca_0source.jpg"
   alt: rationale design partners & spade rca 1968 logo brand identity logotype
