@@ -2,6 +2,10 @@
 title: Gryphon Agency
 date: 2023-04-25 22:40:00 Z
 published: false
+categories:
+- website design
+- logo
+- logo design
 tags:
 - visual identity
 - brand identity
