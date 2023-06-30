@@ -31,8 +31,8 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2023_gryphonagency_0source.jpg"
-  color: "#fff"
-og_image: "/uploads/rationale_2023_gryphonagency_0ogsource.jpg"
+  image: "/uploads/rationale_2023_gryphonagency_0source-3930e6.jpg"
+  color: "#000"
+og_image: "/uploads/rationale_2023_gryphonagency_0ogsource-aa08e6.jpg"
 ---
 
