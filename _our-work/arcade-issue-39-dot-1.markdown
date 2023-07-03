@@ -15,7 +15,7 @@ tags:
 - magazine layout design
 - design for print publication
 - seattle
-position: 22
+position: 27
 excerpt_text: "Designed and art directed by Rationale, ARCADE is back with the first
   issue of 2022, REFRACTION / 39.1. In Print. Free. REFRACTION is a collaboration
   with student-led @craeft.archzine and examines how the events of 2020 and 2021 have
