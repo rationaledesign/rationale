@@ -16,6 +16,7 @@ tags:
 - soundtrack
 - spaghetti western
 - il Mietitore cavalca verso ovest
+position: 0
 year: 2022
 images:
 - image: "/uploads/rationale_2022_sw_trrw_1a.jpg"

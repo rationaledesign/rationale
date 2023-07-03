@@ -18,7 +18,7 @@ tags:
 - design for print publication
 - print
 - print publication
-position: 11
+position: 26
 year: 2019
 images:
 - image: "/uploads/rationale_2019_designingforsketching_1source.jpg"

@@ -10,7 +10,7 @@ tags:
 - poster design
 - massimo
 - vignelli
-position: 5
+position: 19
 year: 2022
 images:
 - image: "/uploads/rationale_2022_vignelli90_1a.jpg"

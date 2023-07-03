@@ -3,7 +3,7 @@ title: Foothills California
 date: 2013-01-01 00:00:00 Z
 categories:
 - Identity
-position: 23
+position: 37
 year: 2013
 images:
 - image: "/uploads/rationale-foothillsid-1.jpg"

@@ -12,6 +12,7 @@ tags:
 - album
 - album art
 - vinyl
+position: 9
 year: 2023
 images:
 - image: "/uploads/rationale_2023_sw_liafg_1a.jpg"

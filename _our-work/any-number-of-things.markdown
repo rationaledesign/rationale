@@ -12,6 +12,7 @@ tags:
 - craig curran
 - any number of things
 - single
+position: 10
 excerpt_text: Single for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2022
 images:

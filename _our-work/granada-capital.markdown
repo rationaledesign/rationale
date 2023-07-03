@@ -16,7 +16,7 @@ tags:
 - logotype
 - website
 - website design
-position: 9
+position: 24
 excerpt_text: Website for Capital Investment company Granada Capital. Through Rationale’s
   visual identity and website work, the company is positioned in a way that fits in
   the market, while at the same time differentiating and advancing the company's communications

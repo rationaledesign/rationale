@@ -17,7 +17,7 @@ tags:
 - seattle
 - northwest
 - architecture
-position: 12
+position: 27
 excerpt_text: 'Designed, edited, and art directed by Rationale with feature insert
   editors Seattle Design Nerds, ARCADE is back with the second issue of 2022, EXCEPTION
   / 40.1. In Print. Free. '

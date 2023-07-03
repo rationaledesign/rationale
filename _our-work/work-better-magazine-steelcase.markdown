@@ -30,6 +30,7 @@ tags:
 - print
 - print publication
 - editorial design
+position: 13
 excerpt_text: 'Taking inspiration from newspapers and publications of the past, Rationale
   designed both the new logo and design system for [Steelcase''s Work Better Magazine.](https://www.steelcase.com/work-better-magazine/) '
 year: 2022

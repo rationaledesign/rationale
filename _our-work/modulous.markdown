@@ -16,7 +16,7 @@ tags:
 - Branding for Modulous
 - Modulous design
 - Design for modular construction
-position: 1
+position: 15
 excerpt_text: For the construction, technology, and manufacturing company [Modulous](https://www.modulous.com/),
   Rationale took its existing mark and gave it further balance and strength via a
   well-constructed and geometric composition that lends to its timelessness.

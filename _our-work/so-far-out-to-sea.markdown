@@ -3,7 +3,7 @@ title: So Far Out To Sea
 date: 2015-01-01 00:00:00 Z
 categories:
 - Publication
-position: 51
+position: 65
 excerpt_text: 'The cover imagery for the novel “So Far Out to Sea” takes a geometric,
   abstract representation of the book, creating intrigue in its relation to specific
   aspects of the story: The blue of the ocean and black of space.'

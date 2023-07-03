@@ -14,7 +14,7 @@ tags:
 - inner architecture
 - monastery
 - monastery records
-position: 6
+position: 20
 excerpt_text: 'EP for Monastery ambient electronic artist, Inner Architecture. '
 year: 2019
 images:

@@ -16,6 +16,7 @@ tags:
 - website design
 - freya kennedy
 - rationale design
+position: 7
 year: 2020
 images:
 - image: "/uploads/rationale_2020_freyakennedy_1a.jpg"

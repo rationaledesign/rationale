@@ -23,7 +23,7 @@ tags:
 - brand guidelines
 - stationary
 - redesign
-position: 14
+position: 28
 excerpt_text: 'For Canadian travel agency [Fresh Tracks Canada](https://freshtrackscanada.com/)
   and its sub-brands, Rationale refined the company''s logo and identity system to
   reflect three primary elements: the Canadian maple leaf in its distinctive red,

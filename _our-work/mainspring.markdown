@@ -16,6 +16,7 @@ tags:
 - green energy
 - design for green energy
 - linear generator
+position: 2
 year: 2020
 images:
 - image: "/uploads/rationale_2020_mainspringweb_1a.jpg"

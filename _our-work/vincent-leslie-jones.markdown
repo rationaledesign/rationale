@@ -22,6 +22,7 @@ tags:
 - logotype
 - design for muisc industry
 - visual identity
+position: 12
 year: 2021
 images:
 - image: "/uploads/rationale_2021_vlj_web_1a.jpg"

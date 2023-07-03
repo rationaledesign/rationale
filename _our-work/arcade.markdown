@@ -18,7 +18,7 @@ tags:
 - ARCADE magazine design
 - ARCADE publication design
 - publication design
-position: 2
+position: 16
 year: 2020
 images:
 - image: "/uploads/rationale_2020_arcade_id_1a.jpg"

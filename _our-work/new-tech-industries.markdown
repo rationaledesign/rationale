@@ -27,6 +27,7 @@ tags:
 - mechanics
 - Short Run Production
 - New Product Development
+position: 11
 year: 2021
 images:
 - image: "/uploads/rationale_2021_newtechind_1a.jpg"

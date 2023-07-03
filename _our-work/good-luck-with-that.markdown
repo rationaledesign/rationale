@@ -12,7 +12,7 @@ tags:
 - wolcott curran collective
 - sean wolcott
 - craig curran
-position: 10
+position: 25
 excerpt_text: Single for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2020
 images:

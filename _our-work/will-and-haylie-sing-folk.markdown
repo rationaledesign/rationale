@@ -13,6 +13,7 @@ tags:
 - haylie hostetter
 - lady apple tree
 - sing folk
+position: 3
 year: 2022
 images:
 - image: "/uploads/rationale_2022_willhayliefolk_1a.jpg"
