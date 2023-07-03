@@ -38,3 +38,6 @@ thumb_image:
 og_image: "/uploads/rationale_2020_mainspringweb_0ogsource.jpg"
 ---
 
+For the identity and website for [Mainspring Energy](https://www.mainspringenergy.com/), Rationale’s design and presentation has helped the company to gain exponential growth, opening up new opportunities for both customers and investors alike.
+
+We continue to partner with Mainspring on helping to evolve their voice as the company expands with exciting new partners and business spaces.
