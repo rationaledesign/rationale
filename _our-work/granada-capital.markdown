@@ -9,7 +9,18 @@ categories:
 - website design
 tags:
 - granada capital
+- rationale design
+- logo
+- logo design
+- graphics
+- logotype
+- website
+- website design
 position: 9
+excerpt_text: Website for Capital Investment company Granada Capital. Through Rationale’s
+  visual identity and website work, the company is positioned in a way that fits in
+  the market, while at the same time differentiating and advancing the company's communications
+  through design.
 year: 2019
 images:
 - image: "/uploads/rationale_2019_granada_1a.jpg"
@@ -35,3 +46,4 @@ thumb_image:
 og_image: "/uploads/rationale_2019_granada_0ogsource.jpg"
 ---
 
+Website for Capital Investment company Granada Capital. Through Rationale’s visual identity and website work, the company is positioned in a way that fits in the market, while at the same time differentiating and advancing the company's communications through design.
