@@ -11,6 +11,7 @@ tags:
 - massimo
 - vignelli
 position: 19
+excerpt_text: Poster design to celebrate Massimo Vignelli's 90th birthday.
 year: 2022
 images:
 - image: "/uploads/rationale_2022_vignelli90_1a.jpg"
@@ -21,3 +22,4 @@ thumb_image:
 og_image: "/uploads/rationale_2022_vignelli90_0ogsource.jpg"
 ---
 
+Poster design to celebrate Massimo Vignelli's 90th birthday.
