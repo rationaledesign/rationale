@@ -12,6 +12,7 @@ tags:
 - craig curran
 - blue will do
 - single
+excerpt_text: Single for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_wcc_bwd_1a.jpg"
@@ -26,3 +27,4 @@ thumb_image:
 og_image: "/uploads/rationale_2023_wcc_bwd_0ogsource.jpg"
 ---
 
+Single for Clockwork soul/funk duo, Wolcott Curran Collective.
