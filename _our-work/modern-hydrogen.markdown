@@ -53,6 +53,7 @@ thumb_image:
   alt: rationale design modern hydrogen logo 2023
   image_ratio: 16-9
   color: "#0c5c49"
+is_featured: true
 og_image: "/uploads/rationale_2023_modernhydrogen_0ogsource.jpg"
 ---
 
