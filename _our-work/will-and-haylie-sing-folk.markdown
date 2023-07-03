@@ -14,6 +14,7 @@ tags:
 - lady apple tree
 - sing folk
 position: 3
+excerpt_text: Album cover for folk duo, Will & Haylie.
 year: 2022
 images:
 - image: "/uploads/rationale_2022_willhayliefolk_1a.jpg"
@@ -28,3 +29,4 @@ thumb_image:
 og_image: "/uploads/rationale_2022_willhayliefolk_0ogsource.jpg"
 ---
 
+Album cover for folk duo, Will & Haylie.
