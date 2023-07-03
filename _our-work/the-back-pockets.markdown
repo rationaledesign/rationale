@@ -13,6 +13,7 @@ tags:
 - craig curran
 - album
 - album art
+excerpt_text: Album cover for blues/funk band, The Back Pockets.
 year: 2022
 images:
 - image: "/uploads/rationale_2022_thebackpockets_1a.jpg"
@@ -27,3 +28,4 @@ thumb_image:
 og_image: "/uploads/rationale_2022_thebackpockets_0ogsource.jpg"
 ---
 
+Album cover for blues/funk band, The Back Pockets.
