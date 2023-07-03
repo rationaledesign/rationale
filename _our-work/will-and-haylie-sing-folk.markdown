@@ -4,6 +4,7 @@ date: 2023-06-01 23:36:00 Z
 published: false
 categories:
 - album art
+- music
 tags:
 - album
 - album art
