@@ -21,10 +21,6 @@ images:
   alt: rationale design damien jurado maraqopa records bumper
   image_ratio: 16-9
   color: "#000"
-- image: 
-  alt: 
-  image_ratio: 
-  color: 
 thumb_image:
   image: "/uploads/rationale_2023_maraqopa-records_0source.jpg"
   alt: rationale design damien jurado maraqopa logo
