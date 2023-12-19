@@ -34,3 +34,4 @@ is_featured: true
 og_image: "/uploads/rationale_2023_maraqopa-records_0ogsource.jpg"
 ---
 
+For friend of the studio, Damien Jurado, we designed a new logomark based on the typeface "Brandywine Bold". 
