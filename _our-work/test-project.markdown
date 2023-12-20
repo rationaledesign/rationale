@@ -9,6 +9,10 @@ images:
   alt: washington-landscape
   image_ratio: 16-9
   color: "#0ba141"
+thumb_image:
+  image: "/uploads/washington-landscape-2.jpeg"
+  alt: thumbnail
+  image_ratio: 16-9
 ---
 
 Test body text
