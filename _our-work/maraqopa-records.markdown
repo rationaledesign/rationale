@@ -18,10 +18,11 @@ tags:
 - maraqopa records
 year: 2023
 images:
-- image: "/uploads/MQ_Bumber_v01.m4v"
+- image: https://www.youtube.com/watch?v=qm7EF-u0ufc
   alt: rationale design damien jurado maraqopa records bumper
   image_ratio: 16-9
   color: "#000"
+  Key: 
 - image: "/uploads/rationale_2023_maraqopa-records_1a.jpg"
   alt: rationale design damien jurado maraqopa records logo
   image_ratio: 16-9
