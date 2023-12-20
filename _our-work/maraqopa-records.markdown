@@ -17,9 +17,17 @@ tags:
 - visual identity
 year: 2023
 images:
-- image: "/uploads/MQ_Bumber_v01.m4v"
+- image: "/uploads/MQ_Bumber_v01.gif"
   alt: rationale design damien jurado maraqopa records bumper
   image_ratio: 16-9
+  color: "#000"
+- image: "/uploads/rationale_2023_maraqopa-records_1a.jpg"
+  alt: rationale design damien jurado maraqopa records logo
+  image_ratio: 16-9
+  color: "#ffd817"
+- image: "/uploads/rationale_2023_maraqopa-records_2a.jpg"
+  alt: rationale design damien jurado maraqopa records storefront
+  image_ratio: 3-2
   color: "#000"
 thumb_image:
   image: "/uploads/rationale_2023_maraqopa-records_0source.jpg"
