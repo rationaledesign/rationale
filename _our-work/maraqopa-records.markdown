@@ -15,6 +15,7 @@ tags:
 - logo design
 - logomark
 - visual identity
+- maraqopa records
 year: 2023
 images:
 - image: "/uploads/MQ_Bumber_v01.gif"
