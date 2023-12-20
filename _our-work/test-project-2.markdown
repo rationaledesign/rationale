@@ -6,12 +6,12 @@ year: 2023
 images:
 - image: "/uploads/washington-landscape-2.jpeg"
   alt: alt text
-  image_ratio: 16-9
+  image_ratio: 3-2
   color: "#63c775"
 thumb_image:
   image: "/uploads/washington-landscape-2.jpeg"
   alt: alt
-  image_ratio: 16-9
+  image_ratio: 3-2
   color: "#297746"
 is_featured: false
 og_image: "/uploads/washington-landscape-2.jpeg"
