@@ -21,10 +21,10 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2020_wcc_glwt_0a.jpg"
+  image: "/uploads/rationale_2020_wcc_glwt_0source.jpg"
   alt: rationale clockwork wolcott curran collective good luck with that
   color: "#8bc7bd"
-og_image: "/uploads/rationale_2020_wcc_glwt_1ogsource.jpg"
+og_image: "/uploads/rationale_2020_wcc_glwt_0ogsource.jpg"
 ---
 
 Single for Clockwork soul/funk duo, Wolcott Curran Collective.
