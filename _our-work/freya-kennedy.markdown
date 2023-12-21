@@ -44,10 +44,10 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2020_freyakenedy_0source.jpg"
+  image: "/uploads/rationale_2020_freyakenedy_0source-0937bc.jpg"
   alt: rationale design logo brand identity freya kennedy  enneagram
   image_ratio: 16-9
   color: "#fefbf0"
-og_image: "/uploads/rationale_2020_freyakennedy_0ogsource.jpg"
+og_image: "/uploads/rationale_2020_freyakennedy_0ogsource-74bb41.jpg"
 ---
 
