@@ -21,11 +21,11 @@ images:
   image_ratio: 3-2
   color: "#8e8e8e"
 thumb_image:
-  image: "/uploads/rationale_2023_wcc_bwd_0source.jpg"
+  image: "/uploads/rationale_2023_wcc_bwd_0source-895d32.jpg"
   alt: rationale design wolcott curran collective blue will do single art
   image_ratio: 3-2
   color: "#f1c6d0"
-og_image: "/uploads/rationale_2023_wcc_bwd_0ogsource.jpg"
+og_image: "/uploads/rationale_2023_wcc_bwd_0ogsource-b64245.jpg"
 ---
 
 Single for Clockwork soul/funk duo, Wolcott Curran Collective.
