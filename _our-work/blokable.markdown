@@ -21,10 +21,10 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2021_blokable_web_0source.jpg"
+  image: "/uploads/rationale_2021_blokable_web_0source-011ae6.jpg"
   alt: rationale design blokable website design
   image_ratio: 16-9
   color: "#FFD850"
-og_image: "/uploads/rationale_2021_blokable_web_0ogsource.jpg"
+og_image: "/uploads/rationale_2021_blokable_web_0ogsource-2f00f7.jpg"
 ---
 
