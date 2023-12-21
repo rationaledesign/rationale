@@ -23,11 +23,11 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2022_willhayliefolk_0source.jpg"
+  image: "/uploads/rationale_2022_willhayliefolk_0source-2f98f3.jpg"
   alt: rationale design will & haylie sing folk album
   image_ratio: 16-9
   color: "#e7dda2"
-og_image: "/uploads/rationale_2022_willhayliefolk_0ogsource.jpg"
+og_image: "/uploads/rationale_2022_willhayliefolk_0ogsource-1edae8.jpg"
 ---
 
 Album cover for folk duo, Will & Haylie.
