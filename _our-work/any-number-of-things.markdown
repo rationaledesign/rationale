@@ -22,10 +22,10 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2022_wcc_anot_0source.jpg"
+  image: "/uploads/rationale_2022_wcc_anot_0ogsource-c81344.jpg"
   image_ratio: 16-9
   color: "#ee5334"
-og_image: "/uploads/rationale_2022_wcc_anot_0ogsource.jpg"
+og_image: "/uploads/rationale_2022_wcc_anot_0source-c320cd.jpg"
 ---
 
 Single for Clockwork soul/funk duo, Wolcott Curran Collective.
