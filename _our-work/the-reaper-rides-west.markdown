@@ -27,15 +27,15 @@ images:
   alt: sean wolcott the reaper rides west il Mietitore cavalca verso ovest album vinyl
   image_ratio: 3-2
   color: "#fffdfa"
-- image: 
-  alt: 
-  image_ratio: 
-  color: 
+- image: "/uploads/rationale_2022_sw_trrw_3a.jpg"
+  alt: sean wolcott the reaper rides west single
+  image_ratio: 3-2
+  color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2022_sw_trrw_0source.jpg"
+  image: "/uploads/rationale_2022_sw_trrw_0source-3444a1.jpg"
   alt: sean wolcott the reaper rides west il Mietitore cavalca verso ovest
   image_ratio: 16-9
   color: "#d74527"
-og_image: "/uploads/rationale_2022_sw_trrw_0ogsource.jpg"
+og_image: "/uploads/rationale_2022_sw_trrw_0ogsource-385eb2.jpg"
 ---
 
