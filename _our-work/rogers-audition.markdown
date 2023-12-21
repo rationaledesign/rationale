@@ -17,15 +17,15 @@ year: 2023
 images:
 - image: "/uploads/rationale_2023_dj_rogers-audition_1a.jpg"
   alt: rationale design damien jurado reggae film star demos rogers audition cd front
-  image_ratio: 16-9
+  image_ratio: 3-2
   color: "#fffdfa"
 - image: "/uploads/rationale_2023_dj_rogers-audition_2a.jpg"
   alt: rationale design damien jurado reggae film star demos rogers audition cd back
-  image_ratio: 16-9
+  image_ratio: 3-2
   color: "#fffdfa"
 - image: "/uploads/rationale_2023_dj_rogers-audition_3a.jpg"
   alt: rationale design damien jurado reggae film star demos rogers audition cd booklet
-  image_ratio: 16-9
+  image_ratio: 3-2
   color: "#fffdfa"
 thumb_image:
   image: "/uploads/rationale_2023_dj_rogers-audition_0source.jpg"
