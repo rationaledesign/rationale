@@ -43,10 +43,10 @@ images:
   image_ratio: 3-2
   color: "#fffdfa"
 thumb_image:
-  image: "/uploads/rationale_2021_newtechind_0a.jpg"
+  image: "/uploads/rationale_2021_newtechind_0source.jpg"
   alt: rationale design new tech industries logo logomark 2021
   image_ratio: 3-2
   color: "#3944a4"
-og_image: "/uploads/rationale_2021_newtechind_0ogsource.jpg"
+og_image: "/uploads/rationale_2021_newtechind_0ogsource-5cc989.jpg"
 ---
 
