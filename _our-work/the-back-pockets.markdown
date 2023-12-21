@@ -22,11 +22,11 @@ images:
   image_ratio: 3-2
   color: "#fffdfa"
 thumb_image:
-  image: "/uploads/rationale_2022_thebackpockets_0source.jpg"
+  image: "/uploads/rationale_2022_thebackpockets_0source-2a93cf.jpg"
   alt: rationale design the back pockets precision music
   image_ratio: 16-9
   color: "#fff1d6"
-og_image: "/uploads/rationale_2022_thebackpockets_0ogsource.jpg"
+og_image: "/uploads/rationale_2022_thebackpockets_0ogsource-625723.jpg"
 ---
 
 Album cover for blues/funk band, The Back Pockets.
