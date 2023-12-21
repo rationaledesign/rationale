@@ -32,11 +32,11 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2020_mainspringweb_0source.jpg"
+  image: "/uploads/rationale_2020_mainspringweb_0source-a2eb84.jpg"
   alt: rationale design mainspring energy website design 2020
   image_ratio: 3-2
-  color: "#1d203f"
-og_image: "/uploads/rationale_2020_mainspringweb_0ogsource.jpg"
+  color: "#f6f4ee"
+og_image: "/uploads/rationale_2020_mainspringweb_0ogsource-37a93d.jpg"
 ---
 
 For the identity and website for [Mainspring Energy](https://www.mainspringenergy.com/), Rationale’s design and presentation has helped the company to gain exponential growth, opening up new opportunities for both customers and investors alike.
