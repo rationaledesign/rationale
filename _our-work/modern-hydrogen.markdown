@@ -37,11 +37,11 @@ images:
   alt: rationale design modern hydrogen logomark 2023
   image_ratio: 16-9
   color: "#0c5c49"
-- image: "/uploads/rationale_2023_modernhydrogen_2a.jpg"
+- image: "/uploads/rationale_2023_modernhydrogen_2b.jpg"
   alt: rationale design modern hydrogen logotype brand guidelines 2023
   image_ratio: 3-2
   color: "#8e8e8e"
-- image: "/uploads/rationale_2023_modernhydrogen_3a.jpg"
+- image: "/uploads/rationale_2023_modernhydrogen_3b.jpg"
   alt: rationale design modern hydrogen logotype brand truck 2023
   image_ratio: 3-2
   color: "#8e8e8e"
