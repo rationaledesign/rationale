@@ -2,6 +2,7 @@
 title: Redwood (incomplete)
 date: 2023-12-21 20:32:00 Z
 published: false
+year: 2020
 thumb_image:
   image: "/uploads/rationale_2020_redwood_0source.jpg"
   image_ratio: 16-9
