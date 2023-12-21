@@ -31,7 +31,7 @@ images:
   alt: rationale design gryphon agency brand guidelines 2023
   image_ratio: 3-2
   color: "#8e8e8e"
-- image: "/uploads/rationale_2023_gryphonagency_3a.jpg"
+- image: "/uploads/rationale_2023_gryphonagency_3b.jpg"
   alt: rationale design gryphon agency website 2023
   image_ratio: 3-2
   color: "#4f4f4f"
