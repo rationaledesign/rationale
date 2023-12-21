@@ -46,11 +46,11 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2021_vlj_web_0a.jpg"
+  image: "/uploads/rationale_2021_vlj_web_0source.jpg"
   alt: rationale design vincent leslie jones logo design logotype 2021
   image_ratio: 16-9
-  color: "#e83537"
-og_image: "/uploads/rationale_2021_vlj_web_0ogsource.jpg"
+  color: "#f08963"
+og_image: "/uploads/rationale_2021_vlj_web_0ogsource-0abde0.jpg"
 ---
 
 For composer, producer, and multi-instrumentalist [Vincent Leslie Jones](https://www.vincentlesliejones.com/), Rationale designed a simple and elegant website along with graphical imagery and a new logotype. 
