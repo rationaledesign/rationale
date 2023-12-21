@@ -40,10 +40,11 @@ images:
   image_ratio: 7-5
   color: "#111111"
 thumb_image:
-  image: "/uploads/rationale_2019_granada_0b.jpg"
+  image: "/uploads/rationale_2020_granadaweb_0source.jpg"
   alt: rationale granada capital
-  color: "#fffdfa"
-og_image: "/uploads/rationale_2019_granada_0ogsource.jpg"
+  image_ratio: 16-9
+  color: "#f6f4ee"
+og_image: "/uploads/rationale_2020_granadaweb_0ogsource.jpg"
 ---
 
 Website for Capital Investment company Granada Capital. Through Rationale’s visual identity and website work, the company is positioned in a way that fits in the market, while at the same time differentiating and advancing the company's communications through design.
