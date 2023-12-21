@@ -18,8 +18,10 @@ images:
   image_ratio: 3-2
   color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2022_vignelli90_0source.jpg"
-og_image: "/uploads/rationale_2022_vignelli90_0ogsource.jpg"
+  image: "/uploads/rationale_2022_vignelli90_0source-42e590.jpg"
+  image_ratio: 16-9
+  color: "#fffdfa"
+og_image: "/uploads/rationale_2022_vignelli90_0ogsource-cd94de.jpg"
 ---
 
 Poster design to celebrate Massimo Vignelli's 90th birthday.
