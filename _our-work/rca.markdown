@@ -35,6 +35,10 @@ images:
   alt: rationale design partners & spade rca 1968 logo update
   image_ratio: 16-9
   color: "#ece8df"
+- image: "/uploads/rationale_2023_rca_5a.jpg"
+  alt: rationale design partners & spade rca 1968 logo update
+  image_ratio: 16-9
+  color: "#111111"
 - image: "/uploads/rationale_2023_rca_2a.jpg"
   alt: rationale design partners & spade rca 1968 logo update secondary logos stroke
     logo striped logo
