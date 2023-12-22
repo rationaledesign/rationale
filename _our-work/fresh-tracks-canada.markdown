@@ -36,22 +36,22 @@ images:
   alt: rationale design fresh tracks canada logomark 2022
   image_ratio: 16-9
   color: "#f01927"
-- image: "/uploads/rationale_2022_freshtracks_2a.jpg"
+- image: "/uploads/rationale_2022_freshtracks_2b.jpg"
   alt: rationale design fresh tracks canada brand guidelines 2022
   image_ratio: 3-2
   color: "#4f4f4f"
-- image: "/uploads/rationale_2022_freshtracks_3a.jpg"
-  alt: rationale design fresh tracks canada website 2022
+- image: "/uploads/rationale_2022_freshtracks_3b.jpg"
+  alt: rationale design fresh tracks canada brand guidelines 2022
   image_ratio: 3-2
-  color: "#8e8e8e"
-- image: "/uploads/rationale_2022_freshtracks_4a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_2022_freshtracks_4b.jpg"
   alt: rationale design fresh tracks canada posters 2022
   image_ratio: 3-2
-  color: "#8e8e8e"
-- image: "/uploads/rationale_2022_freshtracks_5a.jpg"
+  color: "#4f4f4f"
+- image: "/uploads/rationale_2022_freshtracks_5b.jpg"
   alt: rationale design fresh tracks canada brochure 2022
   image_ratio: 3-2
-  color: "#8e8e8e"
+  color: "#4f4f4f"
 thumb_image:
   image: "/uploads/rationale_2022_freshtracks_0source.jpg"
   alt: rationale design fresh tracks canada logomark 2022
