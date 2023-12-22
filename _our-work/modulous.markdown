@@ -26,34 +26,35 @@ images:
   alt: rationale modulous logo brand identity logotype
   image_ratio: 16-9
   color: "#ee2e2d"
-- image: "/uploads/rationale_2022_modulous_2a.jpg"
+- image: "/uploads/rationale_2022_modulous_2b.jpg"
   alt: rationale modulous logo brand identity logotype brand book graphic standards
     manual details
   image_ratio: 3-2
   color: "#4f4f4f"
-- image: "/uploads/rationale_2022_modulous_3a.jpg"
+- image: "/uploads/rationale_2022_modulous_3b.jpg"
+  alt: rationale modulous logo brand identity logotype brand book graphic standards
+    manual details
+  image_ratio: 3-2
+  color: "#4f4f4f"
+- image: "/uploads/rationale_2022_modulous_4b.jpg"
   alt: rationale modulous logo brand identity logotype details
   image_ratio: 3-2
   color: "#fffdfa"
-- image: "/uploads/rationale_2022_modulous_4a.jpg"
-  alt: rationale modulous logo brand identity website homepage design
-  image_ratio: 3-2
-  color: "#4f4f4f"
-- image: "/uploads/rationale_2022_modulous_5a.jpg"
+- image: "/uploads/rationale_2022_modulous_5b.jpg"
   alt: rationale modulous logo brand identity posters brand extension
   image_ratio: 3-2
   color: "#4f4f4f"
-- image: "/uploads/rationale_2022_modulous_6a.jpg"
+- image: "/uploads/rationale_2022_modulous_6b.jpg"
   alt: rationale modulous logo brand identity stationary business cards letterhead
     template
   image_ratio: 3-2
-  color: "#8e8e8e"
+  color: "#4f4f4f"
 thumb_image:
-  image: "/uploads/rationale_2022_modulous_0source.jpg"
+  image: "/uploads/rationale_2022_modulous_0source-74346d.jpg"
   alt: rationale modulous logo
   image_ratio: 16-9
-  color: "#222222"
-og_image: "/uploads/rationale_2022_modulous_0ogsource.jpg"
+  color: "#ee2e2d"
+og_image: "/uploads/rationale_2022_modulous_0ogsource-e16c73.jpg"
 ---
 
 For the construction, technology, and manufacturing company [Modulous](https://www.modulous.com/), Rationale took its existing mark and gave it further balance and strength via a well-constructed and geometric composition that lends to its timelessness.
