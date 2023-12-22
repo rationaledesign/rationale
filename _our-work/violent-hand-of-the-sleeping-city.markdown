@@ -18,7 +18,7 @@ images:
   alt: sean wolcott violent hand of the sleeping city album vinyl front
   image_ratio: 3-2
   color: "#4f4f4f"
-- image: "/uploads/rationale_2023_sw_vhotsc_2a.jpg"
+- image: "/uploads/rationale_2023_sw_vhotsc_2a-2c7a79.jpg"
   alt: sean wolcott violent hand of the sleeping city album vinyl back
   image_ratio: 3-2
   color: "#4f4f4f"
