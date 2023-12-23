@@ -26,7 +26,7 @@ images:
   alt: rationale design damien jurado maraqopa records logo
   image_ratio: 16-9
   color: "#ffd817"
-- image: "/uploads/rationale_2023_maraqopa-records_2a.jpg"
+- image: "/uploads/rationale_2023_maraqopa-records_2b.jpg"
   alt: rationale design damien jurado maraqopa records storefront
   image_ratio: 3-2
   color: "#000"
