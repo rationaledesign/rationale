@@ -23,6 +23,8 @@ images:
   color: "#4f4f4f"
 thumb_image:
   image: "/uploads/rationale_2022_wcc_anot_0ogsource-c81344.jpg"
+  alt: rationale design wolcott curran collective any number of things 2022 single
+    cover art
   image_ratio: 16-9
   color: "#ee5334"
 og_image: "/uploads/rationale_2022_wcc_anot_0source-c320cd.jpg"
