@@ -4,8 +4,8 @@ date: 2014-09-28 14:36:00 Z
 position: 3
 price: 28
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GPZPA7346QEZA
-buytag: Sold out
-is_buyactive: false
+buytag: Buy now
+is_buyactive: true
 imgcount: 2
 images:
 - image: "/uploads/rationale_sanscalendar24_1a.jpg"
