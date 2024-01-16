@@ -29,6 +29,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2019_iawave_0a.jpg"
   alt: 'rationale monastery inner architecture wave '
+  image_ratio: 16-9
   color: "#fefff8"
 og_image: "/uploads/rationale_2019_iawave_1ogsource.jpg"
 layout: project
