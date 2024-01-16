@@ -13,6 +13,8 @@ tags:
 - musician
 - album
 - album art
+excerpt_text: For Damien Jurado, Rationale designed the cover and booklet for the
+  release of the Reggae Film Star demos.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_dj_rogers-audition_1a.jpg"
@@ -35,3 +37,4 @@ thumb_image:
 og_image: "/uploads/rationale_2023_dj_rogers-audition_0ogsource.jpg"
 ---
 
+For [Damien Jurado](https://damienjuradomusic.com), Rationale designed the cover and booklet for the release of the Reggae Film Star demos.
