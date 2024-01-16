@@ -11,6 +11,10 @@ tags:
 - poster design
 - music
 - soundtrack
+excerpt_text: 2023 marked the 10-year anniversary of Sonor Music Editions, a record
+  label and music publisher specializing in the golden age of Italian soundtracks
+  and library music. To celebrate the anniversary, Rationale designed a two posters
+  for their weekend long pop-up record shop at Rappcats.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_sme-at-rappcats_1a.jpg"
