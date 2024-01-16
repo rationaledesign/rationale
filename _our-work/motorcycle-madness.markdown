@@ -13,6 +13,8 @@ tags:
 - musician
 - album
 - album art
+excerpt_text: For musician, Damien Jurado, Rationale designed the album art for Motorcycle
+  Madness, utilizing scanned polaroids provided by Jurado.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_dj_motorcycle-madness_1a.jpg"
@@ -43,3 +45,4 @@ thumb_image:
 og_image: "/uploads/rationale_2023_dj_motorcycle-madness_0ogsource.jpg"
 ---
 
+For musician, [Damien Jurado](https://damienjuradomusic.com), Rationale designed the album art for Motorcycle Madness, utilizing scanned polaroids provided by Jurado.
