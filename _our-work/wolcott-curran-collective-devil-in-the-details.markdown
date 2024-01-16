@@ -21,7 +21,7 @@ images:
 thumb_image:
   image: "/uploads/rationale_2019_wcc_ditd_0a.jpg"
   alt: rationale clockwork wolcott curran collective devil in the details album cover
-  image_ratio: 3-2
+  image_ratio: 16-9
   color: "#ff4040"
 og_image: "/uploads/rationale_2019_wcc_ditd_2ogsource.jpg"
 ---
