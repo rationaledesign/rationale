@@ -12,6 +12,8 @@ tags:
 - clockwork
 - clockwork records
 position: 1
+excerpt_text: Album and single art for Sean Wolcott's crime score, "Violent Hand of
+  the Sleeping City".
 year: 2023
 images:
 - image: "/uploads/rationale_2023_sw_vhotsc_1a.jpg"
@@ -34,4 +36,4 @@ thumb_image:
 og_image: "/uploads/rationale_2023_sw_vhotsc_0ogsource.jpg"
 ---
 
-Album and single art for Sean Wolcott's "Violent Hand of the Sleeping City"
+Album and single art for Sean Wolcott's crime score, "Violent Hand of the Sleeping City".
