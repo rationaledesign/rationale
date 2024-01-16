@@ -24,12 +24,12 @@ tags:
 - stationary
 - redesign
 position: 28
-excerpt_text: 'For Canadian travel agency [Fresh Tracks Canada](https://freshtrackscanada.com/)
-  and its sub-brands, Rationale refined the company''s logo and identity system to
-  reflect three primary elements: the Canadian maple leaf in its distinctive red,
-  the motion of travel, and the “fresh track” of nature’s bounty via the hollowed-out
-  shape of the interior. Slightly rounded corners give a friendly appearance and are
-  a nod to the soft edges of nature.'
+excerpt_text: 'For Canadian travel agency Fresh Tracks Canada and its sub-brands,
+  Rationale refined the company''s logo and identity system to reflect three primary
+  elements: the Canadian maple leaf in its distinctive red, the motion of travel,
+  and the “fresh track” of nature’s bounty via the hollowed-out shape of the interior.
+  Slightly rounded corners give a friendly appearance and are a nod to the soft edges
+  of nature.'
 year: 2022
 images:
 - image: "/uploads/rationale_2022_freshtracks_1c.jpg"
