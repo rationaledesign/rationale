@@ -12,6 +12,8 @@ tags:
 - web design
 - website
 - website design
+excerpt_text: For musician Damien Jurado, Rationale designed a brand new website inspired
+  by the timeless designs of old postcards.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_dj_website_1a.jpg"
@@ -34,3 +36,4 @@ thumb_image:
 og_image: "/uploads/rationale_2023_dj_website_0ogsource.jpg"
 ---
 
+For musician [Damien Jurado](https://damienjuradomusic.com), Rationale designed a brand new website inspired by the timeless designs of old postcards.
