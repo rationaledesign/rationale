@@ -28,6 +28,9 @@ tags:
 - Short Run Production
 - New Product Development
 position: 11
+excerpt_text: For machine shop New Tech Industries, Rationale designed a new logomark
+  and a series of posters for the company. Based on the original logo's mountain-peak
+  approach, the new logomark expands on the idea while adding a sense of forward progression.
 year: 2021
 images:
 - image: "/uploads/rationale_2021_newtechind_1a.jpg"
@@ -50,3 +53,4 @@ thumb_image:
 og_image: "/uploads/rationale_2021_newtechind_0ogsource-5cc989.jpg"
 ---
 
+For machine shop [New Tech Industries](https://www.newtechind.com), Rationale designed a new logomark and a series of posters for the company. Based on the original logo's mountain-peak approach, the new logomark expands on the idea while adding a sense of forward progression.
