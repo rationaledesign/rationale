@@ -9,6 +9,9 @@ tags:
 - website design
 - blokable
 position: 5
+excerpt_text: 'For module developer, Blokable, Rationale designed a brand new website
+  and expanded upon the original design system to further enhance the company''s growing
+  presence within the development space. '
 year: 2021
 images:
 - image: "/uploads/rationale_2021_blokable_web_1a.jpg"
@@ -28,3 +31,4 @@ thumb_image:
 og_image: "/uploads/rationale_2021_blokable_web_0ogsource-2f00f7.jpg"
 ---
 
+For module developer, Blokable, Rationale designed a brand new website and expanded upon the original design system to further enhance the company's growing presence within the development space. 
