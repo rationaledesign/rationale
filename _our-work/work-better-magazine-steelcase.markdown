@@ -31,8 +31,8 @@ tags:
 - print publication
 - editorial design
 position: 13
-excerpt_text: 'Taking inspiration from newspapers and publications of the past, Rationale
-  designed both the new logo and design system for [Steelcase''s Work Better Magazine.](https://www.steelcase.com/work-better-magazine/) '
+excerpt_text: Taking inspiration from newspapers and publications of the past, Rationale
+  designed both the new logo and design system for Steelcase's Work Better Magazine.
 year: 2022
 images:
 - image: "/uploads/rationale_2022_steelcase_workbetter_1b.jpg"
