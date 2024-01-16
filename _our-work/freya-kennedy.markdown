@@ -17,6 +17,9 @@ tags:
 - freya kennedy
 - rationale design
 position: 7
+excerpt_text: For transformationalist and Enneagram executive coach, Freya Kennedy,
+  Rationale designed a new website, graphics, and visual identity inspired by the
+  nine enneagram types.
 year: 2020
 images:
 - image: "/uploads/rationale_2020_freyakennedy_1a.jpg"
@@ -51,3 +54,4 @@ thumb_image:
 og_image: "/uploads/rationale_2020_freyakennedy_0ogsource-74bb41.jpg"
 ---
 
+For transformationalist and Enneagram executive coach, Freya Kennedy, Rationale designed a new website, graphics, and visual identity inspired by the nine enneagram types.
