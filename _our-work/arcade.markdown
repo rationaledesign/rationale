@@ -19,6 +19,10 @@ tags:
 - ARCADE publication design
 - publication design
 position: 16
+excerpt_text: For the architectural and design focused magazine, [ARCADE](https://arcadenw.org),
+  Rationale expanded and solidified the publication's visual identity with a strong
+  and simplified logotype along with editorial/layout standards and a complete overhall
+  of their visual identity system.
 year: 2020
 images:
 - image: "/uploads/rationale_2020_arcade_id_1a.jpg"
@@ -62,3 +66,6 @@ thumb_image:
 og_image: "/uploads/rationale_2020_arcade_id_0ogsource.jpg"
 ---
 
+For the architectural and design focused magazine, [ARCADE](https://arcadenw.org), Rationale expanded and solidified the publication's visual identity with a strong and simplified logotype along with editorial/layout standards and a complete overhall of their visual identity system.
+
+We continue to partner with ARCADE as time goes on, assisting with digital needs and designing the physical publication as the magazine expands.
