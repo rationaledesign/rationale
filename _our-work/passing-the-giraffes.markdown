@@ -14,6 +14,8 @@ tags:
 - music
 - album
 - album art
+excerpt_text: For musician Damien Jurado, Rationale designed the vinyl & CD packaging
+  utilizing old scanned Polaroids brought in by Jurado.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_dj_ptg_1a.jpg"
@@ -40,3 +42,4 @@ thumb_image:
 og_image: "/uploads/rationale_2023_dj_ptg_0ogsource.jpg"
 ---
 
+For musician [Damien Jurado](https://damienjuradomusic.com), Rationale designed the vinyl & CD packaging utilizing old scanned Polaroids brought in by Jurado.
