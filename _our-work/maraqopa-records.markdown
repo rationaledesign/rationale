@@ -16,6 +16,9 @@ tags:
 - logomark
 - visual identity
 - maraqopa records
+excerpt_text: For musician Damien Jurado and his record label Maraqopa Records, Rationale
+  designed a bold monogram with an iconic yellow to be used across many touch points
+  for the artists communications.
 year: 2023
 images:
 - image: 
@@ -39,4 +42,4 @@ is_featured: true
 og_image: "/uploads/rationale_2023_maraqopa-records_0ogsource-3fbdc9.jpg"
 ---
 
-For friend of the studio, Damien Jurado, we designed a new logomark based on the typeface "Brandywine Bold". 
+For musician [Damien Jurado](https://damienjuradomusic.com) and his record label Maraqopa Records, Rationale designed a bold monogram with an iconic yellow to be used across many touch points for the artists communications.
