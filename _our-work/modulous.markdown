@@ -17,9 +17,9 @@ tags:
 - Modulous design
 - Design for modular construction
 position: 15
-excerpt_text: For the construction, technology, and manufacturing company [Modulous](https://www.modulous.com/),
+excerpt_text: For the construction, technology, and manufacturing company Modulous,
   Rationale took its existing mark and gave it further balance and strength via a
-  well-constructed and geometric composition that lends to its timelessness.
+  well-constructed and geometric composition lending to its timelessness.
 year: 2022
 images:
 - image: "/uploads/rationale_2022_modulous_1a.jpg"
@@ -57,4 +57,4 @@ thumb_image:
 og_image: "/uploads/rationale_2022_modulous_0ogsource-e16c73.jpg"
 ---
 
-For the construction, technology, and manufacturing company [Modulous](https://www.modulous.com/), Rationale took its existing mark and gave it further balance and strength via a well-constructed and geometric composition that lends to its timelessness.
+For the construction, technology, and manufacturing company [Modulous](https://www.modulous.com/), Rationale took its existing mark and gave it further balance and strength via a well-constructed and geometric composition lending to its timelessness.
