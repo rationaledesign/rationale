@@ -16,11 +16,11 @@ tags:
 - web design
 - san francisco
 position: 18
-excerpt_text: "For our long-time friends and partners at [Gryphon Agency](https://www.gryphon-agency.com/),
-  Rationale designed a brand new identity system and website from the ground up for
-  the San Francisco-based marketing firm. \n\nBalancing a playful and inviting feel,
-  yet extremely confident and professional, the new website perfectly reflects the
-  goals of the company and the people behind it."
+excerpt_text: "For our long-time friends and partners at Gryphon Agency, Rationale
+  designed a brand new identity system and website from the ground up for the San
+  Francisco-based marketing firm. \n\nBalancing a playful and inviting feel, yet extremely
+  confident and professional, the new website perfectly reflects the goals of the
+  company and the people behind it."
 year: 2023
 images:
 - image: "/uploads/rationale_2023_gryphonagency_1b.jpg"
@@ -47,6 +47,6 @@ thumb_image:
 og_image: "/uploads/rationale_2023_gryphonagency_0ogsource-aa08e6.jpg"
 ---
 
-For our long-time friends and partners at [Gryphon Agency](https://www.gryphon-agency.com/), Rationale designed a brand new identity system and website from the ground up for the San Francisco-based marketing firm. 
+For our long-time partners at [Gryphon Agency](https://www.gryphon-agency.com/), Rationale designed a brand new identity system and website from the ground up for the San Francisco-based marketing firm. 
 
 Balancing a playful and inviting feel, yet extremely confident and professional, the new website perfectly reflects the goals of the company and the people behind it.
