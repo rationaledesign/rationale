@@ -17,6 +17,9 @@ tags:
 - web design
 - website
 - website design
+excerpt_text: For artist, photographer, designer, and teacher, Annie Wolcott Rationale
+  designed a colorful logotype, along with a new website and event posters to promote
+  the artist's work.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_anniewolcott_1a.jpg"
@@ -43,3 +46,4 @@ thumb_image:
 og_image: "/uploads/rationale_2023_anniewolcott_0ogsource.jpg"
 ---
 
+For artist, photographer, designer, and teacher, [Annie Wolcott](https://www.anniewolcottphotography.com) Rationale designed a colorful logotype, along with a new website and event posters to promote the artist's work.
