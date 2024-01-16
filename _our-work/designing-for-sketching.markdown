@@ -19,6 +19,8 @@ tags:
 - print
 - print publication
 position: 26
+excerpt_text: Cover design for Danwei Tran Luciani's book on designing for sketching
+  to support concept exploration.
 year: 2019
 images:
 - image: "/uploads/rationale_2019_designingforsketching_1source.jpg"
@@ -32,3 +34,4 @@ thumb_image:
 og_image: "/uploads/rationale_2019_designingforsketching_1ogsource2.jpg"
 ---
 
+Cover design for Danwei Tran Luciani's book on designing for sketching to support concept exploration.
