@@ -12,8 +12,19 @@ tags:
 - clockwork
 - clockwork records
 year: 2023
+images:
+- image: "/uploads/rationale_2023_sw_liquid-landscapes_1a.jpg"
+  alt: rationale design sean wolcott liquid landscapes vinyl front
+  image_ratio: 3-2
+  color: "##fffdfa"
+- image: "/uploads/rationale_2023_sw_liquid-landscapes_2a.jpg"
+  alt: rationale design sean wolcott liquid landscapes vinyl back
+  image_ratio: 3-2
+  color: "##fffdfa"
 thumb_image:
   image: "/uploads/rationale_2023_sw_liquid-landscapes_0source.jpg"
+  alt: rationale design sean wolcott liquid landscapes
+  image_ratio: 16-9
   color: "#3987ad"
 og_image: "/uploads/rationale_2023_sw_liquid-landscapes_0ogsource.jpg"
 ---
