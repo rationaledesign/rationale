@@ -23,7 +23,7 @@ tags:
 - design for muisc industry
 - visual identity
 position: 12
-excerpt_text: 'For composer, producer, and multi-instrumentalist [Vincent Leslie Jones](https://www.vincentlesliejones.com/),
+excerpt_text: 'For composer, producer, and multi-instrumentalist Vincent Leslie Jones,
   Rationale designed a simple and elegant website along with graphical imagery and
   a new logotype. '
 year: 2021
