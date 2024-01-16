@@ -13,7 +13,7 @@ tags:
 - blue will do
 - single
 position: 8
-excerpt_text: Single for Clockwork soul/funk duo, Wolcott Curran Collective.
+excerpt_text: Single artwork for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_wcc_bwd_1a.jpg"
@@ -28,4 +28,4 @@ thumb_image:
 og_image: "/uploads/rationale_2023_wcc_bwd_0ogsource-b64245.jpg"
 ---
 
-Single for Clockwork soul/funk duo, Wolcott Curran Collective.
+Single artwork for Clockwork soul/funk duo, Wolcott Curran Collective.
