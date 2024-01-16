@@ -27,10 +27,10 @@ tags:
 - visual identity
 - rebrand
 position: 4
-excerpt_text: Rationale lead design efforts for [Modern Hydrogen](https://modernhydrogen.com/)
-  in crafting a compelling and comprehensive visual identity system. Our team designed
-  a logo that captures their unique essence, carefully selected typography that aligns
-  with their brand personality, and curated a vibrant color palette to grab attention.
+excerpt_text: Rationale lead design efforts for Modern Hydrogen in crafting a compelling
+  and comprehensive visual identity system. Our team designed a logo that captures
+  their unique essence, carefully selected typography that aligns with their brand
+  personality, and curated a vibrant color palette to grab attention.
 year: 2023
 images:
 - image: "/uploads/rationale_2023_modernhydrogen_1a.jpg"
