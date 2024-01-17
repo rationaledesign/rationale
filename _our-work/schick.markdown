@@ -73,7 +73,4 @@ For global shaving brand [Schick](https://www.schick.com/), Rationale designed a
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0JCUH5daCCE?si=kzI_3SaSMk55WqQz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/436904896?h=163138eb69" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/436904896">RATIONAL AG | Busse Design - iCombi Pro</a> from <a href="https://vimeo.com/uxdawards">UX Design Awards</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 Where disconnectedness and random imagery once dominated, the new identity system provides a clean and distinct look that creates a break in the shaving aisle and other touchpoints & demands attention while simultaneously conveying an authentic brand voice for all current and future products. 
