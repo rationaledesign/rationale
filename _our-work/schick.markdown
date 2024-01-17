@@ -71,4 +71,6 @@ layout: project
 
 For global shaving brand [Schick](https://www.schick.com/), Rationale designed a new logomark, visual identity, packaging, and advertising typography in collaboration with [Partners & Spade](https://partnersandspade.com/) who led strategy, messaging, and advertising efforts, with campaign commercials directed by film director [Mike Mills](https://mikemillsmikemills.com/).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0JCUH5daCCE?si=kzI_3SaSMk55WqQz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Where disconnectedness and random imagery once dominated, the new identity system provides a clean and distinct look that creates a break in the shaving aisle and other touchpoints & demands attention while simultaneously conveying an authentic brand voice for all current and future products. 
