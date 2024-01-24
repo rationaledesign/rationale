@@ -10,9 +10,9 @@ videos:
     encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   color: "#ff953a"
 images:
-- image: "/uploads/rationale_2020_wcc_towtdi_0ogsource.jpg"
+- image: "/uploads/rationale_2022_schick_1source_v1a.jpg"
   alt: test
-  image_ratio: 1-1
+  image_ratio: 16-9
   color: "#15a252"
 thumb_image:
   image: "/uploads/rationale_sanscalendar24_ogsource.jpg"
