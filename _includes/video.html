@@ -1,0 +1,8 @@
+<div class="video" style="background-color: {% if include.video.color %}{{include.video.color}}{% else %}#000{% endif %};"
+>
+    {% if include.video.embed_code %}
+      <div class="video-responsive-container">
+      {{ include.video.embed_code }}
+      </div>
+    {% endif %}
+</div>
