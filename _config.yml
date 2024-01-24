@@ -36,6 +36,9 @@ defaults:
     layout: project
     excerpt_text: 
     year: 
+    videos:
+    - embed_code: 
+      color: 
     images:
     - image: 
       alt: 
