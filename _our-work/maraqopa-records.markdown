@@ -20,11 +20,10 @@ excerpt_text: For musician Damien Jurado and his record label Maraqopa Records, 
   designed a bold monogram with an iconic yellow to be used across many touch points
   for the artists communications.
 year: 2023
-images:
-- image: 
-  alt: rationale design damien jurado maraqopa records bumper
-  image_ratio: 16-9
+videos:
+- embed_code: https://www.youtube.com/watch?v=IH5f3sD8pmc
   color: "#000"
+images:
 - image: "/uploads/rationale_2023_maraqopa-records_1a.jpg"
   alt: rationale design damien jurado maraqopa records logo
   image_ratio: 16-9
