@@ -21,7 +21,7 @@ excerpt_text: For musician Damien Jurado and his record label Maraqopa Records, 
   for the artists communications.
 year: 2023
 videos:
-- embed_code: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IH5f3sD8pmc?si=Zk_em22d8Nkx6zSG&amp;controls=0"
+- embed_code: <iframe width="fill" height="fill" src="https://www.youtube-nocookie.com/embed/IH5f3sD8pmc?si=Zk_em22d8Nkx6zSG&amp;controls=0"
     title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
     encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   color: "#000"
