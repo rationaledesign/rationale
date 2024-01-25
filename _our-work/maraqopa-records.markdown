@@ -21,7 +21,10 @@ excerpt_text: For musician Damien Jurado and his record label Maraqopa Records, 
   for the artists communications.
 year: 2023
 videos:
-- color: "#000"
+- embed_code: <iframe width="1280" height="1090" src="https://www.youtube.com/embed/IH5f3sD8pmc"
+    title="Night of the Leopard Man" frameborder="0" allow="accelerometer; autoplay;
+    clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  color: "#000"
 images:
 - image: "/uploads/rationale_2023_maraqopa-records_1a.jpg"
   alt: rationale design damien jurado maraqopa records logo
