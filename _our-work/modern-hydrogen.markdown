@@ -1,7 +1,6 @@
 ---
 title: Modern Hydrogen
 date: 2023-06-30 23:19:00 Z
-published: false
 categories:
 - Green Energy
 - Clean Energy
