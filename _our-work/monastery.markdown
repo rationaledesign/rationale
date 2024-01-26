@@ -1,7 +1,6 @@
 ---
 title: Monastery
 date: 2023-06-01 18:27:00 Z
-published: false
 categories:
 - logo design
 - logotype
