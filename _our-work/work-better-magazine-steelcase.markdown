@@ -1,7 +1,6 @@
 ---
 title: Work Better Magazine (Steelcase)
 date: 2023-06-30 22:47:00 Z
-published: false
 categories:
 - magazine
 - print
