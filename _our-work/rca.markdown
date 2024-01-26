@@ -24,10 +24,9 @@ tags:
 - RCA Victor
 - RCA 1920s logo
 position: 35
-excerpt_text: For RCA, we updated and restored the company’s original 1968 logotype
-  and its variations with the blessing of Gene Grossman, the logo’s original designer.
-  Alongside that we also refined and balanced the original circular RCA logo from
-  the 1920s.
+excerpt_text: 'For RCA, their legacy logo graphics had been digitally rendered for
+  too long in a way that did not hold up to their classic legacies, often inconstant
+  and falling short of their pre-digital analog-perfected designs. '
 year: 2023
 images:
 - image: "/uploads/rationale_2023_rca_1a.jpg"
