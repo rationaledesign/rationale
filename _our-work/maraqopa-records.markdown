@@ -22,7 +22,7 @@ excerpt_text: For musician Damien Jurado and his record label Maraqopa Records, 
   for the artists communications.
 year: 2023
 videos:
-- embed_code: <iframe width="2067" height="869" src="https://www.youtube.com/embed/cSBu-Pvr-jU?rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=1&mute=1"
+- embed_code: <iframe width="2067" height="869" src="https://www.youtube.com/embed/cSBu-Pvr-jU?version=3&autoplay=1&controls=0&showinfo=0&loop=1&mute=1&playlist=cSBu-Pvr-jU"
     title="Maraqopa Records Bumper 2023" frameborder="0" allow="accelerometer; autoplay;
     clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   color: "#000"
