@@ -1,7 +1,6 @@
 ---
 title: Liquid Landscapes
 date: 2023-12-20 00:10:00 Z
-published: false
 categories:
 - album art
 - music
