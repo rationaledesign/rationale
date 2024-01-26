@@ -1,7 +1,6 @@
 ---
 title: Motorcycle Madness
 date: 2023-12-20 00:51:00 Z
-published: false
 categories:
 - album art
 - damien jurado
