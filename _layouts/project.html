@@ -29,11 +29,13 @@ layout: default
       </div>
     </div>
   </div>
-  <div class="project-images row">
-    {% for video in page.videos %}
+  {% if page.videos.size > 0 %}
+    <div class="project-images row">
+      {% for video in page.videos %}
         {% include video.html video=video %}
-    {% endfor %}
-  </div>
+      {% endfor %}
+    </div>
+  {% endif %}
   <div class="project-images row">
     {% for image in page.images %}
         {% include img.html image=image type="detail" %}
