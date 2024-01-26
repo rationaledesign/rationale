@@ -1,7 +1,6 @@
 ---
 title: New Tech Industries
 date: 2023-06-30 21:37:00 Z
-published: false
 categories:
 - Heavy Industry
 - logo
