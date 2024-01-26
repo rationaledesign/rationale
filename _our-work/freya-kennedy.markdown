@@ -1,7 +1,6 @@
 ---
 title: Freya Kennedy
 date: 2023-06-01 20:57:00 Z
-published: false
 categories:
 - logo
 - logotype
