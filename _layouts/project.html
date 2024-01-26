@@ -29,6 +29,11 @@ layout: default
       </div>
     </div>
   </div>
+  <div class="project-images row">
+    {% for image in page.images %}
+        {% include img.html image=image type="detail" %}
+    {% endfor %}
+  </div>
   {% if page.videos.size > 0 %}
     <div class="project-images row">
       {% for video in page.videos %}
@@ -36,11 +41,6 @@ layout: default
       {% endfor %}
     </div>
   {% endif %}
-  <div class="project-images row">
-    {% for image in page.images %}
-        {% include img.html image=image type="detail" %}
-    {% endfor %}
-  </div>
 </article>
 <div class="container">
   {% assign projects = site.our-work | sort:"position" %}

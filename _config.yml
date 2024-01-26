@@ -36,13 +36,13 @@ defaults:
     layout: project
     excerpt_text: 
     year: 
-    videos:
-    - embed_code: 
-      color: 
     images:
     - image: 
       alt: 
       image_ratio: 
+      color: 
+    videos:
+    - embed_code: 
       color: 
     thumb_image:
       image: 
