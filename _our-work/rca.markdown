@@ -1,7 +1,6 @@
 ---
 title: RCA
 date: 2023-05-22 20:27:00 Z
-published: false
 categories:
 - brand identity
 - logo
