@@ -1,7 +1,6 @@
 ---
 title: That's One Way to Do It
 date: 2023-12-21 20:24:00 Z
-published: false
 categories:
 - music
 - album art
