@@ -1,7 +1,6 @@
 ---
 title: Cyrus Kanga
 date: 2024-01-16 22:53:00 Z
-published: false
 categories:
 - logo
 - logo design
