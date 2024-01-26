@@ -1,7 +1,6 @@
 ---
 title: ARCADE
 date: 2023-05-23 18:38:00 Z
-published: false
 categories:
 - brand identity
 - logo
