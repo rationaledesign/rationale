@@ -1,7 +1,6 @@
 ---
 title: Vincent Leslie Jones
 date: 2023-06-30 21:52:00 Z
-published: false
 categories:
 - website design
 - logo
