@@ -1,7 +1,6 @@
 ---
 title: Passing The Giraffes
 date: 2023-12-20 18:31:00 Z
-published: false
 categories:
 - album art
 - damien jurado
