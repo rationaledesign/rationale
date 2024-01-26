@@ -1,7 +1,6 @@
 ---
 title: Designing for Sketching
 date: 2019-11-05 21:00:00 Z
-published: false
 categories:
 - book
 - book cover
