@@ -1,7 +1,6 @@
 ---
 title: Inner Architecture
 date: 2019-05-19 09:00:00 Z
-published: false
 categories:
 - music
 - album art
