@@ -1,7 +1,6 @@
 ---
 title: Mainspring
 date: 2023-07-03 16:59:00 Z
-published: false
 categories:
 - website design
 - Green Energy
