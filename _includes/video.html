@@ -1,11 +1,11 @@
-<div class="video" style="background-color: {% if include.video.color %}{{include.video.color}}{% else %}#000{% endif %};"
->
-    {% if include.video.embed_code %}
-      <div class="video-responsive-container">
-      {{ include.video.embed_code }}
-      </div>
-    {% endif %}
-</div>
+{% if include.video and include.video.embed_code %}
+  <div class="video" style="background-color: {% if include.video.color %}{{include.video.color}}{% else %}#000{% endif %};"
+  >
+        <div class="video-responsive-container">
+        {{ include.video.embed_code }}
+        </div>
+  </div>
+{% endif %}
 
 <!-- SCSS not compiling. Likely missing build step on Siteleaf publish. Placing local styles in _includes template file for now.  -->
 <style>
