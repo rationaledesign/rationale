@@ -1,7 +1,6 @@
 ---
 title: Maraqopa Records
 date: 2023-12-19 23:09:00 Z
-published: false
 categories:
 - music
 - damien jurado
