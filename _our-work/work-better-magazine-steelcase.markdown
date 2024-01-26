@@ -60,7 +60,7 @@ thumb_image:
   alt: rationale design steelcase work better magazine logo logotype 2022
   image_ratio: 16-9
   color: "#434343"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2022_steelcase_workbetter_0ogsource-24b008.jpg"
 ---
 
