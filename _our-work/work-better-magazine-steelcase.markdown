@@ -1,7 +1,6 @@
 ---
-title: Work Better Magazine (Steelcase)
+title: Steelcase Work Better Magazine
 date: 2023-06-30 22:47:00 Z
-published: false
 categories:
 - magazine
 - print
@@ -30,7 +29,7 @@ tags:
 - print
 - print publication
 - editorial design
-position: 13
+position: 23
 excerpt_text: Taking inspiration from newspapers and publications of the past, Rationale
   designed both the new logo and design system for Steelcase's Work Better Magazine.
 year: 2022
@@ -60,8 +59,8 @@ thumb_image:
   alt: rationale design steelcase work better magazine logo logotype 2022
   image_ratio: 16-9
   color: "#434343"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2022_steelcase_workbetter_0ogsource-24b008.jpg"
 ---
 
-Taking inspiration from newspapers and publications of the past, Rationale designed both the new logo and design system for [Steelcase's Work Better Magazine.](https://www.steelcase.com/work-better-magazine/) 
+Taking inspiration from the best of world-class newspapers and publications of the past, Rationale designed both the new logo and design system for [Steelcase's Work Better Magazine.](https://www.steelcase.com/work-better-magazine/) 

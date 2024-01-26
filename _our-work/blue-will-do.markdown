@@ -1,7 +1,6 @@
 ---
 title: Blue Will Do
 date: 2023-06-05 20:58:00 Z
-published: false
 categories:
 - music
 - album art
@@ -12,7 +11,7 @@ tags:
 - craig curran
 - blue will do
 - single
-position: 8
+position: 18
 excerpt_text: Single artwork for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2023
 images:

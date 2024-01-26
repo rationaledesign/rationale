@@ -1,7 +1,6 @@
 ---
-title: 'Sonor Music Editions: Pop-Up at Rappcats'
+title: Sonor Music Editions at Rappcats
 date: 2023-12-21 22:48:00 Z
-published: false
 categories:
 - poster
 - music
@@ -11,6 +10,7 @@ tags:
 - poster design
 - music
 - soundtrack
+position: 6
 excerpt_text: 2023 marked the 10-year anniversary of Sonor Music Editions, a record
   label and music publisher specializing in the golden age of Italian soundtracks
   and library music. To celebrate the anniversary, Rationale designed a two posters

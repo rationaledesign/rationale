@@ -1,7 +1,6 @@
 ---
 title: Violent Hand of the Sleeping City
 date: 2023-07-03 19:44:00 Z
-published: false
 categories:
 - album art
 - music
@@ -11,7 +10,7 @@ tags:
 - violent hand of the sleeping city
 - clockwork
 - clockwork records
-position: 1
+position: 12
 excerpt_text: Album and single art for Sean Wolcott's 70s inspired crime score, "Violent
   Hand of the Sleeping City".
 year: 2023

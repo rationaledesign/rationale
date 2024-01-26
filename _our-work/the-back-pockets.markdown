@@ -1,7 +1,6 @@
 ---
 title: The Back Pockets
 date: 2023-06-02 19:44:00 Z
-published: false
 categories:
 - music
 - album art
@@ -13,7 +12,7 @@ tags:
 - craig curran
 - album
 - album art
-position: 6
+position: 16
 excerpt_text: Album cover for blues/funk band, The Back Pockets.
 year: 2022
 images:

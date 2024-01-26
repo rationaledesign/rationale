@@ -1,7 +1,6 @@
 ---
 title: Damien Jurado
 date: 2023-12-20 21:15:00 Z
-published: false
 categories:
 - music
 - website design
@@ -12,6 +11,7 @@ tags:
 - web design
 - website
 - website design
+position: 5
 excerpt_text: For musician Damien Jurado, Rationale designed a brand new website inspired
   by the timeless designs of old postcards.
 year: 2023

@@ -10,7 +10,7 @@ tags:
 - Proprio Vision
 - healthcare design
 - website design
-position: 33
+position: 44
 year: 2018
 images:
 - image: "/uploads/rationale_2018_proprioid_1a.jpg"

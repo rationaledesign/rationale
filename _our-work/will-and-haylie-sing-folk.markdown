@@ -1,7 +1,6 @@
 ---
 title: Will & Haylie – Sing Folk
 date: 2023-06-01 23:36:00 Z
-published: false
 categories:
 - album art
 - music
@@ -14,7 +13,7 @@ tags:
 - haylie hostetter
 - lady apple tree
 - sing folk
-position: 3
+position: 14
 excerpt_text: Album cover for folk duo, Will & Haylie.
 year: 2022
 images:

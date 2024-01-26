@@ -1,7 +1,6 @@
 ---
 title: Gryphon Agency
 date: 2023-04-25 22:40:00 Z
-published: false
 categories:
 - website design
 - logo
@@ -15,7 +14,7 @@ tags:
 - website design
 - web design
 - san francisco
-position: 18
+position: 27
 excerpt_text: "For our long-time friends and partners at Gryphon Agency, Rationale
   designed a brand new identity system and website from the ground up for the San
   Francisco-based marketing firm. \n\nBalancing a playful and inviting feel, yet extremely

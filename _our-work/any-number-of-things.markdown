@@ -1,7 +1,6 @@
 ---
 title: Any Number of Things
 date: 2023-06-05 18:56:00 Z
-published: false
 categories:
 - music
 - album art
@@ -12,7 +11,7 @@ tags:
 - craig curran
 - any number of things
 - single
-position: 10
+position: 20
 excerpt_text: Single for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2022
 images:

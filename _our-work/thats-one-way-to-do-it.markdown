@@ -1,7 +1,6 @@
 ---
 title: That's One Way to Do It
 date: 2023-12-21 20:24:00 Z
-published: false
 categories:
 - music
 - album art
@@ -16,6 +15,7 @@ tags:
 - design for muisc industry
 - musician
 - craig curran
+position: 7
 excerpt_text: Cover design for Wolcott Curran Collective's single, "That's One Way
   to Do It".
 year: 2020

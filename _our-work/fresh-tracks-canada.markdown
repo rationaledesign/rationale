@@ -1,7 +1,6 @@
 ---
 title: Fresh Tracks Canada
 date: 2022-10-14 19:19:00 Z
-published: false
 categories:
 - logo
 - logo design
@@ -23,7 +22,7 @@ tags:
 - brand guidelines
 - stationary
 - redesign
-position: 28
+position: 41
 excerpt_text: 'For Canadian travel agency Fresh Tracks Canada and its sub-brands,
   Rationale refined the company''s logo and identity system to reflect three primary
   elements: the Canadian maple leaf in its distinctive red, the motion of travel,
@@ -57,7 +56,7 @@ thumb_image:
   alt: rationale design fresh tracks canada logomark 2022
   image_ratio: 3-2
   color: "#f01927"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2022_freshtracks_0ogsource.jpg"
 ---
 

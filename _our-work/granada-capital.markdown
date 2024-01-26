@@ -1,7 +1,6 @@
 ---
 title: Granada Capital
 date: 2020-05-16 09:00:00 Z
-published: false
 categories:
 - logo
 - logotype
@@ -16,7 +15,7 @@ tags:
 - logotype
 - website
 - website design
-position: 24
+position: 37
 excerpt_text: Website and visual identity for capital investment company, Granada
   Capital. Through Rationale’s work, the company is positioned in a way that fits
   in the market, while at the same time differentiating and advancing the company's

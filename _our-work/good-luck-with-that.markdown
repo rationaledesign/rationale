@@ -1,7 +1,6 @@
 ---
 title: Good Luck With That
 date: 2020-01-29 09:00:00 Z
-published: false
 categories:
 - music
 - wcc
@@ -12,7 +11,7 @@ tags:
 - wolcott curran collective
 - sean wolcott
 - craig curran
-position: 25
+position: 38
 excerpt_text: Single for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2020
 images:

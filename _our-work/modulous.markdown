@@ -1,7 +1,6 @@
 ---
 title: Modulous
 date: 2023-05-23 17:19:00 Z
-published: false
 categories:
 - brand identity
 - logo
@@ -16,7 +15,7 @@ tags:
 - Branding for Modulous
 - Modulous design
 - Design for modular construction
-position: 15
+position: 25
 excerpt_text: For the construction, technology, and manufacturing company Modulous,
   Rationale took its existing mark and gave it further balance and strength via a
   well-constructed and geometric composition lending to its timelessness.

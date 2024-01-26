@@ -1,7 +1,6 @@
 ---
 title: Passing The Giraffes
 date: 2023-12-20 18:31:00 Z
-published: false
 categories:
 - album art
 - damien jurado
@@ -14,6 +13,7 @@ tags:
 - music
 - album
 - album art
+position: 0
 excerpt_text: For musician Damien Jurado, Rationale designed the vinyl & CD packaging
   utilizing old scanned Polaroids brought in by Jurado.
 year: 2023

@@ -1,7 +1,6 @@
 ---
 title: Annie Wolcott
 date: 2023-12-21 17:58:00 Z
-published: false
 categories:
 - photography
 - logotype
@@ -17,6 +16,7 @@ tags:
 - web design
 - website
 - website design
+position: 8
 excerpt_text: For artist, photographer, designer, and teacher, Annie Wolcott Rationale
   designed a colorful logotype, along with a new website and event posters to promote
   the artist's work.
@@ -34,10 +34,6 @@ images:
   alt: rationale design annie wolcott website about page
   image_ratio: 3-2
   color: "#4f4f4f"
-- image: "/uploads/rationale_2023_anniewolcott_4a.jpg"
-  alt: rationale design annie wolcott who is my neighbor posters
-  image_ratio: 3-2
-  color: "#222222"
 thumb_image:
   image: "/uploads/rationale_2023_anniewolcott_0source.jpg"
   alt: rationale design annie wolcott logotype

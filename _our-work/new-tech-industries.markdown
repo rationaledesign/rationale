@@ -1,7 +1,6 @@
 ---
 title: New Tech Industries
 date: 2023-06-30 21:37:00 Z
-published: false
 categories:
 - Heavy Industry
 - logo
@@ -27,7 +26,7 @@ tags:
 - mechanics
 - Short Run Production
 - New Product Development
-position: 11
+position: 21
 excerpt_text: For machine shop New Tech Industries, Rationale designed a new logomark
   and a series of posters for the company. Based on the original logo's mountain-peak
   approach, the new logomark expands on the idea while adding a sense of forward progression.

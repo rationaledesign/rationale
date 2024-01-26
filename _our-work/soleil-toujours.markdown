@@ -15,7 +15,7 @@ tags:
 - Brand identity design
 - Beauty brand redesign
 - Soleil Toujours
-position: 32
+position: 43
 excerpt_text: For high-end suncare brand Soleil Toujours, Rationale created a new
   visual identity system that builds out from a key logo and color system that can
   adapt to endless new products and variations.

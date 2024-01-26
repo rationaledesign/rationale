@@ -1,7 +1,6 @@
 ---
 title: Cyrus Kanga
 date: 2024-01-16 22:53:00 Z
-published: false
 categories:
 - logo
 - logo design
@@ -16,6 +15,7 @@ tags:
 - logomark
 - logotype
 - visual identity
+position: 2
 excerpt_text: For photographer Cyrus Kanga, Rationale designed a typographic logomark
   connecting the first two letters of the photographer's name.
 year: 2023

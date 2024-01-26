@@ -1,7 +1,6 @@
 ---
 title: Modern Hydrogen
 date: 2023-06-30 23:19:00 Z
-published: false
 categories:
 - Green Energy
 - Clean Energy
@@ -26,7 +25,7 @@ tags:
 - seattle
 - visual identity
 - rebrand
-position: 4
+position: 34
 excerpt_text: Rationale lead design efforts for Modern Hydrogen in crafting a compelling
   and comprehensive visual identity system. Our team designed a logo that captures
   their unique essence, carefully selected typography that aligns with their brand

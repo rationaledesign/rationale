@@ -1,7 +1,6 @@
 ---
 title: Love is a Funny Game
 date: 2023-06-05 20:45:00 Z
-published: false
 categories:
 - music
 - album art
@@ -12,7 +11,7 @@ tags:
 - album
 - album art
 - vinyl
-position: 9
+position: 19
 excerpt_text: Album and single art for Sean Wolcott's romantic library record, Love
   is a Funny game.
 year: 2023

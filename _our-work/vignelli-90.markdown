@@ -1,7 +1,6 @@
 ---
 title: Vignelli 90
 date: 2023-03-08 20:39:00 Z
-published: false
 categories:
 - poster
 tags:
@@ -10,7 +9,7 @@ tags:
 - poster design
 - massimo
 - vignelli
-position: 19
+position: 28
 excerpt_text: Poster design to celebrate Massimo Vignelli's 90th birthday.
 year: 2022
 images:

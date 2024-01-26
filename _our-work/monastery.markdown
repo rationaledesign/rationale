@@ -1,7 +1,6 @@
 ---
 title: Monastery
 date: 2023-06-01 18:27:00 Z
-published: false
 categories:
 - logo design
 - logotype
@@ -18,7 +17,7 @@ tags:
 - monastery
 - record label
 - website design
-position: 14
+position: 24
 excerpt_text: For record label Monastery, Rationale designed a logomark inspired by
   old Japanese emblems, or "mon", as well as a website where users can listen to the
   label's artists.

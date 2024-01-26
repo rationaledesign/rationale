@@ -1,7 +1,6 @@
 ---
 title: Inner Architecture
 date: 2019-05-19 09:00:00 Z
-published: false
 categories:
 - music
 - album art
@@ -14,7 +13,7 @@ tags:
 - inner architecture
 - monastery
 - monastery records
-position: 20
+position: 29
 excerpt_text: 'EP for Monastery ambient electronic artist, Inner Architecture. '
 year: 2019
 images:

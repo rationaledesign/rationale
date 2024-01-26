@@ -1,7 +1,6 @@
 ---
 title: Mainspring
 date: 2023-07-03 16:59:00 Z
-published: false
 categories:
 - website design
 - Green Energy
@@ -16,7 +15,7 @@ tags:
 - green energy
 - design for green energy
 - linear generator
-position: 2
+position: 13
 excerpt_text: For the identity and website for Mainspring Energy, Rationale’s design
   and presentation has helped the company to gain exponential growth, opening up new
   opportunities for both customers and investors alike.

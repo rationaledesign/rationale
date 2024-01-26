@@ -1,7 +1,6 @@
 ---
 title: ARCADE
 date: 2023-05-23 18:38:00 Z
-published: false
 categories:
 - brand identity
 - logo
@@ -18,7 +17,7 @@ tags:
 - ARCADE magazine design
 - ARCADE publication design
 - publication design
-position: 16
+position: 26
 excerpt_text: For the architectural and design focused magazine, [ARCADE](https://arcadenw.org),
   Rationale expanded and solidified the publication's visual identity with a strong
   and simplified logotype along with editorial/layout standards and a complete overhall

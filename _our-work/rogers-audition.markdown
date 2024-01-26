@@ -1,7 +1,6 @@
 ---
 title: Roger's Audition
 date: 2023-12-20 21:04:00 Z
-published: false
 categories:
 - music
 - album art
@@ -13,6 +12,7 @@ tags:
 - musician
 - album
 - album art
+position: 4
 excerpt_text: For Damien Jurado, Rationale designed the cover and booklet for the
   release of the Reggae Film Star demos.
 year: 2023

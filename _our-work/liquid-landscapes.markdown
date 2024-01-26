@@ -1,7 +1,6 @@
 ---
 title: Liquid Landscapes
 date: 2023-12-20 00:10:00 Z
-published: false
 categories:
 - album art
 - music
@@ -11,6 +10,7 @@ tags:
 - liquid landscapes
 - clockwork
 - clockwork records
+position: 1
 excerpt_text: Album cover design and visual direction for Sean Wolcott's underwater-themed
   library album, Liquid Landscapes.
 year: 2023
