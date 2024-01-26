@@ -1,5 +1,5 @@
 ---
-title: Work Better Magazine (Steelcase)
+title: Steelcase Work Better Magazine
 date: 2023-06-30 22:47:00 Z
 categories:
 - magazine
