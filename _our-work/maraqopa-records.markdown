@@ -39,7 +39,7 @@ thumb_image:
   alt: rationale design damien jurado maraqopa logo
   image_ratio: 16-9
   color: "#ffd817"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2023_maraqopa-records_0ogsource-3fbdc9.jpg"
 ---
 
