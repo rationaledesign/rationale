@@ -1,7 +1,6 @@
 ---
 title: Roger's Audition
 date: 2023-12-20 21:04:00 Z
-published: false
 categories:
 - music
 - album art
