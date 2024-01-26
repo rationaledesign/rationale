@@ -26,7 +26,7 @@ tags:
 - seattle
 - visual identity
 - rebrand
-position: 4
+position: 16
 excerpt_text: Rationale lead design efforts for Modern Hydrogen in crafting a compelling
   and comprehensive visual identity system. Our team designed a logo that captures
   their unique essence, carefully selected typography that aligns with their brand

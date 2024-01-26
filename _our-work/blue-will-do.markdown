@@ -12,7 +12,7 @@ tags:
 - craig curran
 - blue will do
 - single
-position: 8
+position: 20
 excerpt_text: Single artwork for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2023
 images:

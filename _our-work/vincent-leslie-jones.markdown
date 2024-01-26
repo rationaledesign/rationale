@@ -22,7 +22,7 @@ tags:
 - logotype
 - design for muisc industry
 - visual identity
-position: 12
+position: 24
 excerpt_text: 'For composer, producer, and multi-instrumentalist Vincent Leslie Jones,
   Rationale designed a simple and elegant website along with graphical imagery and
   a new logotype. '

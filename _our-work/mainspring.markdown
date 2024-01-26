@@ -16,7 +16,7 @@ tags:
 - green energy
 - design for green energy
 - linear generator
-position: 2
+position: 14
 excerpt_text: For the identity and website for Mainspring Energy, Rationale’s design
   and presentation has helped the company to gain exponential growth, opening up new
   opportunities for both customers and investors alike.

@@ -1,7 +1,7 @@
 ---
 title: Ubuntu
 date: 2018-11-08 09:58:00 Z
-position: 38
+position: 49
 year: 2018
 images:
 - image: "/uploads/rationale_2018_ubuntu_1a.jpg"

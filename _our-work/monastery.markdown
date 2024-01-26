@@ -18,7 +18,7 @@ tags:
 - monastery
 - record label
 - website design
-position: 14
+position: 26
 excerpt_text: For record label Monastery, Rationale designed a logomark inspired by
   old Japanese emblems, or "mon", as well as a website where users can listen to the
   label's artists.

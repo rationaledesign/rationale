@@ -16,6 +16,7 @@ tags:
 - logomark
 - visual identity
 - maraqopa records
+position: 11
 excerpt_text: For musician Damien Jurado and his record label Maraqopa Records, Rationale
   designed a bold monogram with an iconic yellow to be used across many touch points
   for the artists communications.

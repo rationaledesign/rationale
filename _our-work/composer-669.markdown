@@ -11,7 +11,7 @@ tags:
 - electronic music
 - monastery
 - monastery records
-position: 23
+position: 35
 excerpt_text: Single for Monastery electronic artist Composer 669. Dominant and dramatic
   colors and typography reflect the spirit of the music.
 year: 2018

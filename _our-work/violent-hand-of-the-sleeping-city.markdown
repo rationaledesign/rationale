@@ -11,7 +11,7 @@ tags:
 - violent hand of the sleeping city
 - clockwork
 - clockwork records
-position: 1
+position: 13
 excerpt_text: Album and single art for Sean Wolcott's 70s inspired crime score, "Violent
   Hand of the Sleeping City".
 year: 2023

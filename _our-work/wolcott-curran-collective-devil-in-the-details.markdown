@@ -10,7 +10,7 @@ tags:
 - wolcott curran collective
 - clockwork
 - clockwork records
-position: 22
+position: 34
 excerpt_text: Single for Clockwork soul/funk duo, Wolcott Curran Collective.
 year: 2019
 images:

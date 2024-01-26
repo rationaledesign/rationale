@@ -15,7 +15,7 @@ tags:
 - website design
 - web design
 - san francisco
-position: 18
+position: 30
 excerpt_text: "For our long-time friends and partners at Gryphon Agency, Rationale
   designed a brand new identity system and website from the ground up for the San
   Francisco-based marketing firm. \n\nBalancing a playful and inviting feel, yet extremely

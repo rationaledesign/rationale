@@ -11,6 +11,7 @@ tags:
 - poster design
 - music
 - soundtrack
+position: 7
 excerpt_text: 2023 marked the 10-year anniversary of Sonor Music Editions, a record
   label and music publisher specializing in the golden age of Italian soundtracks
   and library music. To celebrate the anniversary, Rationale designed a two posters
