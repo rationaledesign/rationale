@@ -1,7 +1,6 @@
 ---
 title: Granada Capital
 date: 2020-05-16 09:00:00 Z
-published: false
 categories:
 - logo
 - logotype
