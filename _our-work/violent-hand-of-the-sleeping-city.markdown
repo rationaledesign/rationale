@@ -1,7 +1,6 @@
 ---
 title: Violent Hand of the Sleeping City
 date: 2023-07-03 19:44:00 Z
-published: false
 categories:
 - album art
 - music
