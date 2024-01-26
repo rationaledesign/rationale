@@ -63,4 +63,4 @@ is_featured: false
 og_image: "/uploads/rationale_2022_steelcase_workbetter_0ogsource-24b008.jpg"
 ---
 
-Taking inspiration from newspapers and publications of the past, Rationale designed both the new logo and design system for [Steelcase's Work Better Magazine.](https://www.steelcase.com/work-better-magazine/) 
+Taking inspiration from the best of world-class newspapers and publications of the past, Rationale designed both the new logo and design system for [Steelcase's Work Better Magazine.](https://www.steelcase.com/work-better-magazine/) 
