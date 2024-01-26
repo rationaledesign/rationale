@@ -57,7 +57,7 @@ thumb_image:
   alt: rationale design fresh tracks canada logomark 2022
   image_ratio: 3-2
   color: "#f01927"
-is_featured: true
+is_featured: false
 og_image: "/uploads/rationale_2022_freshtracks_0ogsource.jpg"
 ---
 
