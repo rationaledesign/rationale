@@ -1,7 +1,6 @@
 ---
 title: Blue Will Do
 date: 2023-06-05 20:58:00 Z
-published: false
 categories:
 - music
 - album art
