@@ -25,7 +25,7 @@ tags:
 - Consumer product design
 - Product branding
 - Package design
-position: 33
+position: 32
 year: 2021
 images:
 - image: "/uploads/rationale_2022_schick_1source_v1a.jpg"

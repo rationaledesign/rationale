@@ -10,7 +10,7 @@ tags:
 - poster design
 - massimo
 - vignelli
-position: 29
+position: 28
 excerpt_text: Poster design to celebrate Massimo Vignelli's 90th birthday.
 year: 2022
 images:
