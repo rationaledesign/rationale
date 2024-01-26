@@ -1,5 +1,5 @@
 ---
-title: 'Sonor Music Editions: Pop-Up at Rappcats'
+title: Sonor Music Editions at Rappcats
 date: 2023-12-21 22:48:00 Z
 categories:
 - poster
