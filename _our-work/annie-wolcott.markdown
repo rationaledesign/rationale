@@ -34,10 +34,6 @@ images:
   alt: rationale design annie wolcott website about page
   image_ratio: 3-2
   color: "#4f4f4f"
-- image: "/uploads/rationale_2023_anniewolcott_4a.jpg"
-  alt: rationale design annie wolcott who is my neighbor posters
-  image_ratio: 3-2
-  color: "#222222"
 thumb_image:
   image: "/uploads/rationale_2023_anniewolcott_0source.jpg"
   alt: rationale design annie wolcott logotype
