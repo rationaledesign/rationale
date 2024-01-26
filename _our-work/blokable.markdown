@@ -1,7 +1,6 @@
 ---
 title: Blokable
 date: 2023-06-01 22:37:00 Z
-published: false
 categories:
 - website design
 tags:
