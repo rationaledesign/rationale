@@ -16,7 +16,7 @@ tags:
 - design for muisc industry
 - musician
 - craig curran
-position: 8
+position: 7
 excerpt_text: Cover design for Wolcott Curran Collective's single, "That's One Way
   to Do It".
 year: 2020

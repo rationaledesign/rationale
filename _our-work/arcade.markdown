@@ -18,7 +18,7 @@ tags:
 - ARCADE magazine design
 - ARCADE publication design
 - publication design
-position: 28
+position: 26
 excerpt_text: For the architectural and design focused magazine, [ARCADE](https://arcadenw.org),
   Rationale expanded and solidified the publication's visual identity with a strong
   and simplified logotype along with editorial/layout standards and a complete overhall

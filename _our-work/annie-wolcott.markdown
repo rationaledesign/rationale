@@ -17,7 +17,7 @@ tags:
 - web design
 - website
 - website design
-position: 9
+position: 8
 excerpt_text: For artist, photographer, designer, and teacher, Annie Wolcott Rationale
   designed a colorful logotype, along with a new website and event posters to promote
   the artist's work.

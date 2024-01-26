@@ -14,7 +14,7 @@ tags:
 - haylie hostetter
 - lady apple tree
 - sing folk
-position: 15
+position: 14
 excerpt_text: Album cover for folk duo, Will & Haylie.
 year: 2022
 images:

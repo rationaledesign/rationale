@@ -16,7 +16,7 @@ tags:
 - logomark
 - logotype
 - visual identity
-position: 3
+position: 2
 excerpt_text: For photographer Cyrus Kanga, Rationale designed a typographic logomark
   connecting the first two letters of the photographer's name.
 year: 2023

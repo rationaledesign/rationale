@@ -16,7 +16,7 @@ tags:
 - soundtrack
 - spaghetti western
 - il Mietitore cavalca verso ovest
-position: 12
+position: 11
 excerpt_text: Cover design for Sean Wolcott and Craig Curran's spaghetti western inspired
   library album, The Reaper Rides West.
 year: 2022

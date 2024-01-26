@@ -18,7 +18,7 @@ tags:
 - design for print publication
 - print
 - print publication
-position: 38
+position: 39
 excerpt_text: Cover design for Danwei Tran Luciani's book on designing for sketching
   to support concept exploration.
 year: 2019

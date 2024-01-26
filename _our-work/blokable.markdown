@@ -8,7 +8,7 @@ tags:
 - website
 - website design
 - blokable
-position: 17
+position: 15
 excerpt_text: 'For module developer, Blokable, Rationale designed a brand new website
   and expanded upon the original design system to further enhance the company''s growing
   presence within the development space. '
