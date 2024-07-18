@@ -18,11 +18,11 @@ images:
 - image: "/uploads/rationale_2023_sw_liquid-landscapes_1a.jpg"
   alt: rationale design sean wolcott liquid landscapes vinyl front
   image_ratio: 3-2
-  color: "##fffdfa"
+  color: "#fffdfa"
 - image: "/uploads/rationale_2023_sw_liquid-landscapes_2a.jpg"
   alt: rationale design sean wolcott liquid landscapes vinyl back
   image_ratio: 3-2
-  color: "##fffdfa"
+  color: "#fffdfa"
 thumb_image:
   image: "/uploads/rationale_2023_sw_liquid-landscapes_0source.jpg"
   alt: rationale design sean wolcott liquid landscapes
