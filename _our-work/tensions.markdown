@@ -17,3 +17,4 @@ tags:
 - album art
 ---
 
+Cover designs and visual direction for Sean Wolcott/Clockwork's themed sample library pack, Tensions.
