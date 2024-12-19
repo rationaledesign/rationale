@@ -7,7 +7,7 @@ tags:
 - minimal calendar
 - sans calendar
 position: 3
-price: 28
+price: 32
 buylink: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GPZPA7346QEZA
 buytag: Buy now
 is_buyactive: true
