@@ -27,7 +27,7 @@
     "reset-css": "^2.2.0",
     "singularitygs": "^1.8.0",
     "imgix.js": "^3.3.0",
-    "lazysizes": "^3.0.0",
+    "lazysizes": "^5.2.1",
     "breakpoint-sass": "^2.7.1",
     "autoprefixer": "^6.7.7",
     "browser-sync": "^2.18.8",
