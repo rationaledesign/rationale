@@ -12,19 +12,19 @@ buytag: Buy now
 is_buyactive: true
 imgcount: 2
 images:
-- image: "/uploads/rationale_sanscalendar25_1a.jpg"
-  alt: rationale shop minimal sans calendar 2025
+- image: "/uploads/rationale_sanscalendar26_1a.jpg"
+  alt: rationale shop minimal sans calendar 2026
   image_ratio: 1-1
   color: "#cccccc"
-- image: "/uploads/rationale_sanscalendar25_2a.jpg"
-  alt: rationale shop minimal sans calendar 2025
+- image: "/uploads/rationale_sanscalendar26_2a.jpg"
+  alt: rationale shop minimal sans calendar 2026
   color: "#cccccc"
   image_ratio: 1-1
 thumb_image:
-  image: "/uploads/rationale_sanscalendar25_0source.jpg"
-  alt: rationale shop minimal sans calendar 2025
+  image: "/uploads/rationale_sanscalendar26_0source.jpg"
+  alt: rationale shop minimal sans calendar 2026
   color: "#fffdfa"
-og_image: "/uploads/rationale_sanscalendar25_ogsource.jpg"
+og_image: "/uploads/rationale_sanscalendar26_ogsource.jpg"
 layout: product-detail
 ---
 
@@ -34,7 +34,7 @@ Available for purchase online via the Rationale shop or at select local design-m
 
 Shipping rates: US–9 / CA–12 / INT–16
 
-Year – 2025 <br>
+Year – 2026 <br>
 Pages – 13 <br>
 Size – 28x43 cm / 11x17 in <br>
 Paper – High-quality coated 80# stock <br>
