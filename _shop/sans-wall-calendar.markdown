@@ -32,7 +32,7 @@ This simple typographic wall calendar provides a beautiful and functional way fo
 
 Available for purchase online via the Rationale shop or at select local design-minded retailers.
 
-Shipping rates: US–12 / CA–16 / INT–20
+Shipping rates: US–12 / CA–20 / INT–30
 
 Year – 2026 <br>
 Pages – 13 <br>
